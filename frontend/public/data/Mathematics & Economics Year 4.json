@@ -1,0 +1,904 @@
+[
+    {
+        "course_code": "HE3002",
+        "title": "MACROECONOMICS III~",
+        "academic_units": "3.0 AU",
+        "school_category": "Mathematics & Economics Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19551",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "TR+79",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19552",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "TR+79",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19553",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "TR+79",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19555",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LHS-TR+41",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19556",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "LHS-TR+41",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19557",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T7",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "LHS-TR+41",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19558",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T8",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR+41",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE3022",
+        "title": "PUBLIC ECONOMICS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Mathematics & Economics Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19564",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT12",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "0930-1020",
+                        "venue": "LHS-TR+34",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19565",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT12",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "TUE",
+                        "time": "1030-1120",
+                        "venue": "LHS-TR+34",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE3024",
+        "title": "ENVIRONMENTAL ECONOMICS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Mathematics & Economics Year 4",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "2.30 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19566",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1130-1420",
+                        "venue": "HSSSEMRM9",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE3027",
+        "title": "HOUSING ECONOMICS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Mathematics & Economics Year 4",
+        "exam": {
+            "date": "28 November 2026",
+            "day": "Saturday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19567",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "LHS-TR+28",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19568",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "WED",
+                        "time": "1030-1120",
+                        "venue": "LHS-TR+28",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE3031",
+        "title": "INDUSTRIAL ORGANIZATION & BUSINESS STRATEGIES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Mathematics & Economics Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19571",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "LHS-TR+45",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19572",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR+45",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19573",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "LHS-TR+45",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19574",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+45",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE3032",
+        "title": "GAME THEORY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Mathematics & Economics Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19576",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT12",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR+41",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19577",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT12",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "LHS-TR+41",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19578",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT12",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+41",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE3033",
+        "title": "THE CHINESE ECONOMY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Mathematics & Economics Year 4",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19580",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1530-1720",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1330-1420",
+                        "venue": "LHS-TR+51",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19581",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1530-1720",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+51",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19582",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1530-1720",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "FRI",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+51",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE3125",
+        "title": "ECONOMICS OF MENTAL HEALTH & WELL-BEING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Mathematics & Economics Year 4",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "5.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19589",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1530-1720",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LHS-TR+31",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19590",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1530-1720",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LHS-TR+31",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19591",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1530-1720",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "LHS-TR+31",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19592",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1530-1720",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+31",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE3602",
+        "title": "GAME THEORY*",
+        "academic_units": "3.0 AU",
+        "school_category": "Mathematics & Economics Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19608",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT12",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR+41",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE4040",
+        "title": "BEHAVIORAL ECONOMICS*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Mathematics & Economics Year 4",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19593",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+49",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE4044",
+        "title": "GROWTH THEORY & EMPIRICS*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Mathematics & Economics Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19594",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1130-1320",
+                        "venue": "HSS-TR+1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "HSS-TR+1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE4140",
+        "title": "EXPERIMENTAL ECONOMICS*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Mathematics & Economics Year 4",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19596",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1130-1320",
+                        "venue": "LT9",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+49",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19597",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1130-1320",
+                        "venue": "LT9",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "FRI",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+49",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MH3210",
+        "title": "NUMBER THEORY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Mathematics & Economics Year 4",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "2.30 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "70272",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "SPMS-TR+17",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "SPMS-TR+17",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "SPMS-TR+17",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MH3300",
+        "title": "GRAPH THEORY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Mathematics & Economics Year 4",
+        "exam": {
+            "date": "3 December 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "70275",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "SPMS-LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "SPMS-LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "FRI",
+                        "time": "1530-1620",
+                        "venue": "SPMS-LT4",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MH4930",
+        "title": "SPECIAL TOPICS IN MATHEMATICS*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Mathematics & Economics Year 4",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "70340",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1530-1720",
+                        "venue": "SPMS-TR+12",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "SPMS-TR+12",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "1630-1720",
+                        "venue": "SPMS-TR+12",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

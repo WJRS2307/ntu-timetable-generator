@@ -1,0 +1,1753 @@
+[
+    {
+        "course_code": "MH1802",
+        "title": "CALCULUS FOR THE SCIENCES",
+        "academic_units": "4.0 AU",
+        "school_category": "Physics and Applied Physics (PPHY) Year 1",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "70572",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "WED",
+                        "time": "1530-1620",
+                        "venue": "SPMS-TR+5",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70573",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "WED",
+                        "time": "1530-1620",
+                        "venue": "SPMS-TR+12",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70574",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "SPMS-TR+15",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70575",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "SPMS-TR+15",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70576",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "SPMS-TR+12",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70577",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T7",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "SPMS-TR+12",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70578",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T8",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "SPMS-TR+12",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70579",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T9",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "SPMS-TR+16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70580",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T10",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "SPMS-TR+7",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70581",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T11",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "SPMS-TR+6",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70582",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T12",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "SPMS-TR+7",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MH2802",
+        "title": "LINEAR ALGEBRA FOR SCIENTISTS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Physics and Applied Physics (PPHY) Year 1",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "70551",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FAIA",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "SPMS-TR+18",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70552",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SDAA",
+                        "day": "TUE",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+52",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70553",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SDAB",
+                        "day": "TUE",
+                        "time": "1430-1520",
+                        "venue": "SPMS-TR+5",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70554",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SDAC",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "SPMS-TR+8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70555",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SDAD",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "SPMS-TR+9",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70556",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SDAE",
+                        "day": "TUE",
+                        "time": "1430-1520",
+                        "venue": "SPMS-TR+7",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70557",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SDAF",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "SPMS-TR+5",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70558",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SDAG",
+                        "day": "TUE",
+                        "time": "1530-1620",
+                        "venue": "SPMS-TR+5",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70559",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SPMS1",
+                        "day": "TUE",
+                        "time": "1630-1720",
+                        "venue": "LHS-TR+52",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70560",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SPMS2",
+                        "day": "THU",
+                        "time": "1630-1720",
+                        "venue": "SPMS-TR+7",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70561",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "ECDS2",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "MAS EC RM2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70562",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "ECDS1",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "SPMS-TR+16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70563",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "BSDA",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "SPMS-TR+8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70564",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "ACDA",
+                        "day": "FRI",
+                        "time": "1330-1420",
+                        "venue": "MAS EC RM2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "NH0003",
+        "title": "ETHICS & SOCIETY IN A CHANGING WORLD",
+        "academic_units": "2.0 AU",
+        "school_category": "Physics and Applied Physics (PPHY) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "46031",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T001",
+                        "day": "TUE",
+                        "time": "1930-2120",
+                        "venue": "LHN-TR+10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "46032",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T002",
+                        "day": "TUE",
+                        "time": "1930-2120",
+                        "venue": "LHN-TR+11",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "46033",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T003",
+                        "day": "THU",
+                        "time": "1930-2120",
+                        "venue": "LHN-TR+10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "46034",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T004",
+                        "day": "THU",
+                        "time": "1930-2120",
+                        "venue": "LHN-TR+11",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "NH0007",
+        "title": "CRITICAL PERSPECTIVES ON TECHNOLOGY & SOCIETY",
+        "academic_units": "3.0 AU",
+        "school_category": "Physics and Applied Physics (PPHY) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "46071",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T001",
+                        "day": "TUE",
+                        "time": "1930-2120",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "46072",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T002",
+                        "day": "TUE",
+                        "time": "1930-2120",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "46073",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T003",
+                        "day": "TUE",
+                        "time": "1930-2120",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "46074",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T004",
+                        "day": "TUE",
+                        "time": "1930-2120",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "46075",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T005",
+                        "day": "THU",
+                        "time": "1930-2120",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "46076",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T006",
+                        "day": "THU",
+                        "time": "1930-2120",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "46077",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T007",
+                        "day": "THU",
+                        "time": "1930-2120",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "46078",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T008",
+                        "day": "THU",
+                        "time": "1930-2120",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PH1104",
+        "title": "MECHANICS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Physics and Applied Physics (PPHY) Year 1",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "70371",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "SPMS-LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1530-1820",
+                        "venue": "SPMS-LT1",
+                        "remark": "Teaching Wk5,7,9,12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "SPMS-TR+6",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70372",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "SPMS-LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1530-1820",
+                        "venue": "SPMS-LT1",
+                        "remark": "Teaching Wk5,7,9,12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "SPMS-TR+7",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70373",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "SPMS-LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1530-1820",
+                        "venue": "SPMS-LT1",
+                        "remark": "Teaching Wk5,7,9,12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "SPMS-TR+12",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PH1105",
+        "title": "OPTICS, VIBRATIONS & WAVES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Physics and Applied Physics (PPHY) Year 1",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "70381",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "SPMS-LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "SPMS-TR+7",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70382",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "SPMS-LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "SPMS-TR+7",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70383",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "SPMS-LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "SPMS-TR+12",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70384",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "SPMS-LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "SPMS-TR+13",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PH1198",
+        "title": "PHYSICS LABORATORY IA",
+        "academic_units": "2.0 AU",
+        "school_category": "Physics and Applied Physics (PPHY) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "70391",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "LA1",
+                        "day": "TUE",
+                        "time": "0830-1220",
+                        "venue": "PAP YR1 LA",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70392",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "LA2",
+                        "day": "WED",
+                        "time": "0830-1220",
+                        "venue": "PAP YR1 LA",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70393",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "LA3",
+                        "day": "THU",
+                        "time": "1330-1720",
+                        "venue": "PAP YR1 LA",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70394",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "LA4",
+                        "day": "FRI",
+                        "time": "0830-1220",
+                        "venue": "PAP YR1 LA",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PH2102",
+        "title": "ELECTROMAGNETISM*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Physics and Applied Physics (PPHY) Year 1",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "70411",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "0930-1050",
+                        "venue": "SPMS-TR+6",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70412",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "TUE",
+                        "time": "1630-1750",
+                        "venue": "SPMS-TR+6",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70413",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "WED",
+                        "time": "1430-1550",
+                        "venue": "SPMS-TR+16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PH2103",
+        "title": "THERMAL PHYSICS*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Physics and Applied Physics (PPHY) Year 1",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "70416",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "SPMS-TR+15",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70417",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "SPMS-TR+15",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70418",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "SPMS-TR+12",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70419",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "SPMS-TR+12",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PH2104",
+        "title": "ANALYTICAL MECHANICS*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Physics and Applied Physics (PPHY) Year 1",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "70421",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "SPMS-LT1",
+                        "remark": "Teaching Wk2"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "SPMS-LT2",
+                        "remark": "Teaching Wk1,3-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "SPMS-TR+7",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70422",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "SPMS-LT1",
+                        "remark": "Teaching Wk2"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "SPMS-LT2",
+                        "remark": "Teaching Wk1,3-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "SPMS-TR+7",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70423",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "SPMS-LT1",
+                        "remark": "Teaching Wk2"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "SPMS-LT2",
+                        "remark": "Teaching Wk1,3-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "SPMS-TR+13",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PH2198",
+        "title": "PHYSICS LABORATORY IIA*~",
+        "academic_units": "2.0 AU",
+        "school_category": "Physics and Applied Physics (PPHY) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "70431",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "LA1",
+                        "day": "WED",
+                        "time": "0830-1220",
+                        "venue": "PAP YR2 LA",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70432",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "LA2",
+                        "day": "WED",
+                        "time": "1330-1720",
+                        "venue": "PAP YR2 LA",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70433",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "LA3",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "PAP YR2 LA",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70434",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "LA4",
+                        "day": "THU",
+                        "time": "1330-1720",
+                        "venue": "PAP YR2 LA",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PS0001",
+        "title": "INTRODUCTION TO COMPUTATIONAL THINKING",
+        "academic_units": "3.0 AU",
+        "school_category": "Physics and Applied Physics (PPHY) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "70611",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "COMP LAB 2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA1",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "COMP LAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "70612",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "THU",
+                        "time": "0830-0920",
+                        "venue": "COMP LAB 1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA2",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "COMP LAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "70613",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "TUE",
+                        "time": "1530-1620",
+                        "venue": "COMP LAB 1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA3",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "COMP LAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "70614",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "TUE",
+                        "time": "0930-1020",
+                        "venue": "COMP LAB 1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA4",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "COMP LAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "70615",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "COMP LAB 3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA5",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "COMP LAB 3",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "70616",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "MON",
+                        "time": "1330-1420",
+                        "venue": "COMP LAB 1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA6",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "COMP LAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "70617",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T7",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "COMP LAB 3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA7",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "COMP LAB 3",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "70618",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T8",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "COMP LAB 1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA8",
+                        "day": "FRI",
+                        "time": "1530-1720",
+                        "venue": "COMP LAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "70619",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T9",
+                        "day": "WED",
+                        "time": "1530-1620",
+                        "venue": "COMP LAB 3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA9",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "COMP LAB 3",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SP0061",
+        "title": "SCIENCE & TECHNOLOGY FOR HUMANITY",
+        "academic_units": "3.0 AU",
+        "school_category": "Physics and Applied Physics (PPHY) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "22127",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+33",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "22128",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S2",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+33",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "22129",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S3",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "22133",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S4",
+                        "day": "TUE",
+                        "time": "1730-1920",
+                        "venue": "LHN-TR+50",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

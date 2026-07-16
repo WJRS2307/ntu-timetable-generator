@@ -1,0 +1,561 @@
+[
+    {
+        "course_code": "CS0209",
+        "title": "MEDIA LAW, ETHICS & POLICY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Global Asia",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06019",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1430-1550",
+                        "venue": "SCI-EXSR",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06020",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "MON",
+                        "time": "1630-1750",
+                        "venue": "SCI-EXSR",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06021",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "TUE",
+                        "time": "1430-1550",
+                        "venue": "SCI-EXSR",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06022",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "TUE",
+                        "time": "1630-1750",
+                        "venue": "SCI-EXSR",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2022",
+        "title": "MULTIMEDIA WRITING IN CHINESE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Global Asia",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06029",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "SCI-TTM",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "SCI-TTM",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HA3014",
+        "title": "SINGAPORE'S FOREIGN POLICY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Global Asia",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "20136",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+44",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE3033",
+        "title": "THE CHINESE ECONOMY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Global Asia",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19580",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1530-1720",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1330-1420",
+                        "venue": "LHS-TR+51",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19581",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1530-1720",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+51",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19582",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1530-1720",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "FRI",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+51",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH1002",
+        "title": "ASIA-PACIFIC IN GLOBAL HISTORY: PRE-1800*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Global Asia",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17605",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "TR+92",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17606",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "FRI",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+29",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17607",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "FRI",
+                        "time": "1630-1720",
+                        "venue": "LHS-TR+29",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17608",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "FRI",
+                        "time": "1730-1820",
+                        "venue": "LHS-TR+29",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH3005",
+        "title": "SEISMIC JAPAN: HISTORY, CULTURE & SOCIETY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Global Asia",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17625",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "HSSAUDIT",
+                        "remark": "Teaching Wk1-11,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LT24",
+                        "remark": "Teaching Wk12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17626",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "HSSAUDIT",
+                        "remark": "Teaching Wk1-11,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LT24",
+                        "remark": "Teaching Wk12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "FRI",
+                        "time": "1330-1420",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17627",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "HSSAUDIT",
+                        "remark": "Teaching Wk1-11,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LT24",
+                        "remark": "Teaching Wk12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17628",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "HSSAUDIT",
+                        "remark": "Teaching Wk1-11,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LT24",
+                        "remark": "Teaching Wk12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "FRI",
+                        "time": "1530-1620",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HS1002",
+        "title": "SINGAPORE SOCIETY IN TRANSITION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Global Asia",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19911",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "HSS-TR+2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19912",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "HSS-TR+2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19913",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "HSS-TR+2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19914",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "MON",
+                        "time": "1730-1820",
+                        "venue": "HSS-TR+2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19915",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "MON",
+                        "time": "1830-1920",
+                        "venue": "HSS-TR+2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

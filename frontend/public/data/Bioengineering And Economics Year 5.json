@@ -1,0 +1,653 @@
+[
+    {
+        "course_code": "BG2119",
+        "title": "ANATOMY & PHYSIOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Bioengineering And Economics Year 5",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "55012",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1720",
+                        "venue": "LT29",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BG2131",
+        "title": "BIOMATERIALS",
+        "academic_units": "3.0 AU",
+        "school_category": "Bioengineering And Economics Year 5",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "55013",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "CBE-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "B21",
+                        "day": "TUE",
+                        "time": "0930-1020",
+                        "venue": "CBE-LT",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BG2142",
+        "title": "BIOLOGICAL THERMODYNAMICS",
+        "academic_units": "3.0 AU",
+        "school_category": "Bioengineering And Economics Year 5",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "55014",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "TCT-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "B21",
+                        "day": "TUE",
+                        "time": "1530-1620",
+                        "venue": "CBE-SR2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BG2211",
+        "title": "INTRODUCTION TO COMPUTATIONAL THINKING",
+        "academic_units": "3.0 AU",
+        "school_category": "Bioengineering And Economics Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "55015",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "CBE-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "B21",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "CBE-SR2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "55016",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "CBE-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "B22",
+                        "day": "MON",
+                        "time": "1030-1120",
+                        "venue": "CBE-SR2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BG2801",
+        "title": "BIOENGINEERING LAB 2A",
+        "academic_units": "1.0 AU",
+        "school_category": "Bioengineering And Economics Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "55017",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "BIE21",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "BIE LAB",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "55018",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "BIE22",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "BIE LAB",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "55019",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "BIE23",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "BIE LAB",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "55020",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "BIE24",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "BIE LAB",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "55021",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "BIE25",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "BIE LAB",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "55022",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "BIE26",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "BIE LAB",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "55023",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "BIE27",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "BIE LAB",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "55024",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "BIE28",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "BIE LAB",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "55025",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "BIE29",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "BIE LAB",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BG3102",
+        "title": "CONTROL IN BIOSYSTEMS",
+        "academic_units": "3.0 AU",
+        "school_category": "Bioengineering And Economics Year 5",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "55026",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1530-1720",
+                        "venue": "CBE-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "B31",
+                        "day": "TUE",
+                        "time": "0930-1020",
+                        "venue": "LT3",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BG3104",
+        "title": "BIOMEDICAL IMAGING",
+        "academic_units": "3.0 AU",
+        "school_category": "Bioengineering And Economics Year 5",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "55027",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1530-1720",
+                        "venue": "CBE-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "B31",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "CBE-LT",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BG3105",
+        "title": "BIOMEDICAL INSTRUMENTATION~",
+        "academic_units": "3.0 AU",
+        "school_category": "Bioengineering And Economics Year 5",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "55028",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "CBE-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "B11",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "LT4",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BG3112",
+        "title": "CARDIOVASCULAR ENGINEERING",
+        "academic_units": "3.0 AU",
+        "school_category": "Bioengineering And Economics Year 5",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "55029",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "B31",
+                        "day": "TUE",
+                        "time": "1130-1220",
+                        "venue": "CBE-SR2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "55030",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "B32",
+                        "day": "TUE",
+                        "time": "1230-1320",
+                        "venue": "CBE-SR2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BG3801",
+        "title": "BIOENGINEERING LAB 3",
+        "academic_units": "1.0 AU",
+        "school_category": "Bioengineering And Economics Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "55031",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "BIE31",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "BIE LAB",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BG4104",
+        "title": "MACHINE LEARNING & OPTIMISATION FOR BIOENGINEERS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Bioengineering And Economics Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "55040",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1330-1520",
+                        "venue": "LT4",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BG4341",
+        "title": "FUNDAMENTALS OF INTELLECTUAL PROPERTY IN BIOMEDICAL ENGINEER*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Bioengineering And Economics Year 5",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "55047",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LNH-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "LNH-LT",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CB1102",
+        "title": "INTRO TO CHEMISTRY, CHEM ENG & BIOMED ENG",
+        "academic_units": "1.0 AU",
+        "school_category": "Bioengineering And Economics Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "55048",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CB4248",
+        "title": "ADVANCED SEMICONDUCTOR PROCESSES~",
+        "academic_units": "3.0 AU",
+        "school_category": "Bioengineering And Economics Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "55167",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "BIE-TR+1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CH4106",
+        "title": "FORMULATION OF ACTIVE PHARMACEUTICAL INGREDIENTS DOSAGE FORM*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Bioengineering And Economics Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "55110",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+52",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CH4244",
+        "title": "NUMERICAL METHODS & DATA ANALYTICS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Bioengineering And Economics Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "55113",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "CBE-SR2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CH4303",
+        "title": "BIOSEPARATIONS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Bioengineering And Economics Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "55115",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "CBE-SR2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CH4306",
+        "title": "BIOANALYTICAL TECHNIQUES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Bioengineering And Economics Year 5",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "55118",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "CBE-SR3",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

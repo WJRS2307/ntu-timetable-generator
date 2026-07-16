@@ -1,0 +1,131 @@
+[
+    {
+        "course_code": "EE5094",
+        "title": "IMPACT OF ELECTROMAGNETIC RADIATION ON HUMANS*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Environmental Sustainability",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32083",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LT22",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES5001",
+        "title": "NATURAL HAZARDS & SOCIETY*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Environmental Sustainability",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "79027",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "LT19",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "79502",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "LT19",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES5005",
+        "title": "ENVIRONMENTAL EARTH SYSTEMS SCIENCE*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Environmental Sustainability",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79029",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "LT19",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "79504",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "LT19",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE3024",
+        "title": "ENVIRONMENTAL ECONOMICS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Environmental Sustainability",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "2.30 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19566",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1130-1420",
+                        "venue": "HSSSEMRM9",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

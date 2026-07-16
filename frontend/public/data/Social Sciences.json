@@ -1,0 +1,276 @@
+[
+    {
+        "course_code": "HN5010",
+        "title": "SINGAPORE: IMAGINING THE NEXT 50 YEARS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Social Sciences",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "5.00 pm",
+            "duration": "1 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "20001",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+03",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20002",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM2",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LHN-TR+03",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20003",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM3",
+                        "day": "MON",
+                        "time": "1530-1720",
+                        "venue": "LHN-TR+03",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20004",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM4",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+03",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20005",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM5",
+                        "day": "WED",
+                        "time": "1330-1520",
+                        "venue": "LHN-TR+03",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20006",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM6",
+                        "day": "WED",
+                        "time": "1530-1720",
+                        "venue": "LHN-TR+03",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20007",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM7",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LHS-TR+32",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20008",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM8",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LHS-TR+32",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20009",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM9",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHS-TR+46",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20010",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM10",
+                        "day": "FRI",
+                        "time": "0830-1020",
+                        "venue": "LHS-TR+46",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20011",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM11",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "LHS-TR+31",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20012",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM12",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LHS-TR+31",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20013",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM13",
+                        "day": "WED",
+                        "time": "1330-1520",
+                        "venue": "LHS-TR+28",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20014",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM14",
+                        "day": "WED",
+                        "time": "1530-1720",
+                        "venue": "LHS-TR+28",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20015",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM15",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "LHN-TR+31",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20016",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM16",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+31",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20017",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM17",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+31",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20018",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM18",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+31",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20019",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM19",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+31",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20020",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM20",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "LHS-TR+41",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

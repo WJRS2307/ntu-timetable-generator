@@ -1,0 +1,852 @@
+[
+    {
+        "course_code": "BC2402",
+        "title": "DESIGNING & DEVELOPING DATABASES*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Accountancy And Business (BA) Year 2",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00520",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "//S3-SR2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00521",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "//S3-SR2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00522",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "//S4-SR21",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00523",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "4",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "//S3-SR7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00524",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "5",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "//ABS-SR7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00525",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "6",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "//CR2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00526",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "7",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "//S4-SR2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00527",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "8",
+                        "day": "FRI",
+                        "time": "1430-1720",
+                        "venue": "//S4-SR10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00528",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "9",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "//S3-SR7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00529",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "10",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "//S4-SR2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BC2406",
+        "title": "ANALYTICS I: VISUAL & PREDICTIVE TECHNIQUES*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Accountancy And Business (BA) Year 2",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00532",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "//ABS-SR11",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00533",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "//ABS-SR4",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00534",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "TUE",
+                        "time": "1830-2120",
+                        "venue": "//ABS-SR5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00535",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "4",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "//S3-SR3",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00536",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "5",
+                        "day": "WED",
+                        "time": "0830-1120",
+                        "venue": "//S4-SR17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00537",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "6",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "//ABS-SR11",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00538",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "7",
+                        "day": "THU",
+                        "time": "1830-2120",
+                        "venue": "//ABS-SR11",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00539",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "8",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "//ABS-SR11",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00540",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "9",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "//S3-SR5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00541",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "10",
+                        "day": "FRI",
+                        "time": "1430-1720",
+                        "venue": "//ABS-SR8",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BC2412",
+        "title": "DESIGNING & DEVELOPING DATABASES~",
+        "academic_units": "3.0 AU",
+        "school_category": "Accountancy And Business (BA) Year 2",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00903",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S3-SR2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00904",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "S3-SR2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00905",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S4-SR21",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00906",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "4",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "S3-SR7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00907",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "5",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "ABS-SR7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00908",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "6",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "CR2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00909",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "7",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "S4-SR2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00910",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "8",
+                        "day": "FRI",
+                        "time": "1430-1720",
+                        "venue": "S4-SR10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00911",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "9",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S3-SR7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00912",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "10",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "S4-SR2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BC2416",
+        "title": "ANALYTICS I: VISUAL & PREDICTIVE TECHNIQUES~",
+        "academic_units": "3.0 AU",
+        "school_category": "Accountancy And Business (BA) Year 2",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "01270",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "ABS-SR11",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "01271",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "ABS-SR4",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "01272",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "TUE",
+                        "time": "1830-2120",
+                        "venue": "ABS-SR5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "01273",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "4",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "S3-SR3",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "01274",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "5",
+                        "day": "WED",
+                        "time": "0830-1120",
+                        "venue": "S4-SR17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "01275",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "6",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "ABS-SR11",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "01276",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "7",
+                        "day": "THU",
+                        "time": "1830-2120",
+                        "venue": "ABS-SR11",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "01277",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "8",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "ABS-SR11",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "01278",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "9",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "S3-SR5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "01279",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "10",
+                        "day": "FRI",
+                        "time": "1430-1720",
+                        "venue": "ABS-SR8",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BC3405",
+        "title": "LEAN OPERATIONS & ANALYTICS*",
+        "academic_units": "4.0 AU",
+        "school_category": "Accountancy And Business (BA) Year 2",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00545",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "MON",
+                        "time": "0830-1120",
+                        "venue": "S4-SR8",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00546",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S4-SR9",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00547",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "WED",
+                        "time": "1030-1320",
+                        "venue": "S3-SR1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BC3409",
+        "title": "AI IN ACCOUNTING & FINANCE*",
+        "academic_units": "4.0 AU",
+        "school_category": "Accountancy And Business (BA) Year 2",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00557",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S4-SR5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00558",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "S4-SR4",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00559",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "S4-SR1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BC3411",
+        "title": "LEAN OPERATIONS & ANALYTICS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Accountancy And Business (BA) Year 2",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00551",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "MON",
+                        "time": "0830-1120",
+                        "venue": "S4-SR8",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00552",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S4-SR9",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00553",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "WED",
+                        "time": "1030-1320",
+                        "venue": "S3-SR1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BC3415",
+        "title": "AI IN ACCOUNTING & FINANCE~",
+        "academic_units": "3.0 AU",
+        "school_category": "Accountancy And Business (BA) Year 2",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00563",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S4-SR5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00564",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "S4-SR4",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00565",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "S4-SR1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BT2403",
+        "title": "SERVICES OPERATIONS MANAGEMENT*",
+        "academic_units": "4.0 AU",
+        "school_category": "Accountancy And Business (BA) Year 2",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00613",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "ITL-SA2",
+                        "remark": "Teaching Wk8,13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S4-SR7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00614",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "ITL-SA2",
+                        "remark": "Teaching Wk8,13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "S4-SR24",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BT2404",
+        "title": "SERVICES OPERATIONS MANAGEMENT~",
+        "academic_units": "3.0 AU",
+        "school_category": "Accountancy And Business (BA) Year 2",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00619",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "ITL-SA2",
+                        "remark": "Teaching Wk8,13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S4-SR7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00620",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "ITL-SA2",
+                        "remark": "Teaching Wk8,13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "S4-SR24",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

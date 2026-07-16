@@ -1,0 +1,1228 @@
+[
+    {
+        "course_code": "BS3003",
+        "title": "DEVELOPMENTAL BIOLOGY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "08663",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT20",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1330-1420",
+                        "venue": "LHN-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "SBS-02N-22",
+                        "remark": "Teaching Wk3,4"
+                    }
+                ]
+            },
+            {
+                "index_number": "08664",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT20",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "FRI",
+                        "time": "1330-1420",
+                        "venue": "LHN-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P2",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "SBS-02N-22",
+                        "remark": "Teaching Wk3,4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3004",
+        "title": "CANCER BIOLOGY & THERAPY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "08665",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-CR1",
+                        "remark": "Teaching Wk2-7,11"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1230-1520",
+                        "venue": "LT20",
+                        "remark": "Teaching Wk1,8,10,11"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-B1N-12",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-B1N-18",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            },
+            {
+                "index_number": "08666",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-CR1",
+                        "remark": "Teaching Wk2-7,11"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "WED",
+                        "time": "1230-1520",
+                        "venue": "LT20",
+                        "remark": "Teaching Wk1,8,10,11"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P2",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-B1N-12",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P2",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-B1N-18",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            },
+            {
+                "index_number": "08667",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-CR1",
+                        "remark": "Teaching Wk2-7,11"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "WED",
+                        "time": "1230-1520",
+                        "venue": "LT20",
+                        "remark": "Teaching Wk1,8,10,11"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P3",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-B1N-12",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P3",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-B1N-18",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            },
+            {
+                "index_number": "08668",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-CR1",
+                        "remark": "Teaching Wk2-7,11"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "WED",
+                        "time": "1230-1520",
+                        "venue": "LT20",
+                        "remark": "Teaching Wk1,8,10,11"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P4",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-B1N-12",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P4",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-B1N-18",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3018",
+        "title": "PLANT BIOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "2.30 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "08671",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "FRI",
+                        "time": "0830-1020",
+                        "venue": "SBS-CR1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "LHN-TR+01",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk8,10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "08672",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "FRI",
+                        "time": "0830-1020",
+                        "venue": "SBS-CR1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "LHN-TR+02",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P2",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk8,10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "08673",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "FRI",
+                        "time": "0830-1020",
+                        "venue": "SBS-CR1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "LHN-TR+01",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P3",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk8,10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "08675",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "FRI",
+                        "time": "0830-1020",
+                        "venue": "SBS-CR1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "LHN-TR+02",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P4",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk8,10,11"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3021",
+        "title": "BIOIMAGING TECHNIQUES IN EM*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "08681",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "SBS-TR+6",
+                        "remark": "Teaching Wk2-12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "SBS-TR+6",
+                        "remark": "Teaching Wk2-4,8-12"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "MON",
+                        "time": "1530-1720",
+                        "venue": "SBS-TR+6",
+                        "remark": "Teaching Wk5-7"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3338",
+        "title": "UAEB II - EFFECT OF ANTI-MITOTIC DRUGS ON CANCER CELLS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "08690",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "",
+                        "time": "",
+                        "venue": "",
+                        "remark": "Teaching Wk13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3342",
+        "title": "UAEB II -ROLE OF ACTIN CYTOSKELETON REGULATORS IN METASTASIS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "08691",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "",
+                        "time": "",
+                        "venue": "",
+                        "remark": "Teaching Wk13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3344",
+        "title": "UAEB II - MACROMOLECULAR CRYSTALLOGRAPHY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "08692",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "",
+                        "time": "",
+                        "venue": "",
+                        "remark": "Teaching Wk13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3351",
+        "title": "UAEB (SERIES I) - PLANT TAXONOMY & MOLECULAR PHYLOGENETICS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "08689",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "",
+                        "time": "",
+                        "venue": "",
+                        "remark": "Teaching Wk13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS4002",
+        "title": "CURRENT TOPICS IN CELL BIOLOGY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "08702",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0830-0920",
+                        "venue": "SBS-TR+6",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "SBS-TR+6",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES4301",
+        "title": "CONSERVATION BIOLOGY & BIODIVERSITY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79023",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "LT4",
+                        "remark": "Teaching Wk13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "LT16",
+                        "remark": "Teaching Wk1-12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP1100",
+        "title": "FUNDAMENTALS OF SOCIAL SCIENCE RESEARCH*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19709",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1230-1320",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19710",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "MON",
+                        "time": "1330-1420",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19711",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19712",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19713",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19714",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19715",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T7",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19716",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T8",
+                        "day": "THU",
+                        "time": "1630-1720",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP3005",
+        "title": "\"FUN WILL NOW COMMENCE\": THE PSYCHOLOGY OF LEISURE~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19738",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "LHS-TR+53",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP3204",
+        "title": "AN APE'S GUIDE TO HUMAN LANGUAGE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19731",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+56",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP3502",
+        "title": "PSYCHOLOGY OF EMOTION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19733",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1530-1820",
+                        "venue": "LHS-TR+49",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP3702",
+        "title": "CHILD PSYCHOPATHOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19734",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LT11",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "LT11",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19735",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LT11",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "LT11",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP3807",
+        "title": "OCCUPATIONAL HEALTH PSYCHOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "2.30 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19739",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "HSS-TR+2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP3901",
+        "title": "CULTURAL PSYCHOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": {
+            "date": "28 November 2026",
+            "day": "Saturday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19740",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "1530-1820",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP3902",
+        "title": "COMMUNITY PSYCHOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19736",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1230-1520",
+                        "venue": "LHS-TR+56",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4012",
+        "title": "APPLIED MULTIVARIATE METHODS FOR PSYCHOLOGICAL RESEARCH*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19732",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "HSSSEMRM8",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4063",
+        "title": "RESEARCH LAB IN LANGUAGE IN PERCEPTION & THOUGHT*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19743",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "1530-1820",
+                        "venue": "LHS-TR+47",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4101",
+        "title": "LEGAL & COURTROOM PSYCHOLOGY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19745",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1630-1920",
+                        "venue": "LHS-TR+53",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4104",
+        "title": "EVIDENCE-BASED PRACTICE IN CLINICAL PSYCHOLOGY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19747",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+47",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4107",
+        "title": "INDUSTRIAL-ORGANISATIONAL PSYCHOLOGY IN PRACTICE*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19749",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+42",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4108",
+        "title": "PSYCHOLOGICAL THERAPIES & COUNSELLING*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19750",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "1730-2020",
+                        "venue": "LHS-TR+49",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4232",
+        "title": "PSYCHOLOGY OF SELF-REGULATION*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19757",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+55",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4242",
+        "title": "ADVANCED TOPICS IN SOCIAL COGNITION*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19751",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+32",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4251",
+        "title": "HUMAN MOTIVATION*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19752",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+55",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4262",
+        "title": "MULTISENSORY INTEGRATION*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19753",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "LHS-TR+47",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4273",
+        "title": "INTRODUCTION TO FUNCTIONAL NEUROIMAGING*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19754",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+52",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4274",
+        "title": "THE LAST DANCE: PERSPECTIVES OF DEATH, DYING & BEREAVEMENT*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19755",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LT23",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4281",
+        "title": "SEMINAR IN SELECTED TOPICS: PSYCHOLOGY OF LEADERSHIP*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Biological Sciences And Psychology Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19756",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+43",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

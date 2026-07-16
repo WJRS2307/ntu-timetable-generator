@@ -1,0 +1,383 @@
+[
+    {
+        "course_code": "CC0002",
+        "title": "NAVIGATING THE DIGITAL WORLD",
+        "academic_units": "2.0 AU",
+        "school_category": "Electrical & Electronic Engineering(PartTime) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "26530",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "MAPT1",
+                        "day": "TUE",
+                        "time": "1900-2050",
+                        "venue": "LHN-TR+01",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4523",
+        "title": "POWER ENGINEERING DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering(PartTime) Year 4",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "37515",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EPLE",
+                        "day": "FRI",
+                        "time": "1900-2150",
+                        "venue": "S2-B5C-02",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4530",
+        "title": "POWER SYSTEM ANALYSIS & CONTROL*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering(PartTime) Year 4",
+        "exam": {
+            "date": "28 November 2026",
+            "day": "Saturday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "37516",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EPLE",
+                        "day": "MON",
+                        "time": "1900-2150",
+                        "venue": "TR+64",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4532",
+        "title": "POWER ELECTRONICS & DRIVES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering(PartTime) Year 4",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "37517",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EPLE",
+                        "day": "WED",
+                        "time": "1900-2150",
+                        "venue": "TR+65",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE6108",
+        "title": "COMPUTER NETWORKS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering(PartTime) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "37552",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "A",
+                        "day": "MON",
+                        "time": "1830-2120",
+                        "venue": "L K C-LT",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE6225",
+        "title": "MULTIVARIABLE CONTROL SYSTEMS ANALYSIS & DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering(PartTime) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "37550",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "A",
+                        "day": "THU",
+                        "time": "1830-2120",
+                        "venue": "\"LT29\"",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE6301",
+        "title": "SMART BIOSENSORS & SYSTEMS FOR HEALTHCARE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering(PartTime) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "37551",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "A",
+                        "day": "WED",
+                        "time": "1830-2120",
+                        "venue": "\"LT1A\"",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE6405",
+        "title": "NATURAL LANGUAGE PROCESSING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering(PartTime) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "37555",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "A",
+                        "day": "FRI",
+                        "time": "1900-2050",
+                        "venue": "\"EMB\"",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HW0001",
+        "title": "INTRODUCTION TO ACADEMIC COMMUNICATION",
+        "academic_units": ".0 AU",
+        "school_category": "Electrical & Electronic Engineering(PartTime) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14560",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1900-2050",
+                        "venue": "ONLINE",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4120",
+        "title": "OPTICAL COMMUNICATION SYSTEM DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering(PartTime) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "37534",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EPLE",
+                        "day": "THU",
+                        "time": "1900-2150",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9,10,12,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EPLE",
+                        "day": "THU",
+                        "time": "1900-2150",
+                        "venue": "LT15",
+                        "remark": "Teaching Wk1-8,11"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4476",
+        "title": "IMAGE PROCESSING & COMPUTER VISION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering(PartTime) Year 4",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "37537",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EPLE",
+                        "day": "TUE",
+                        "time": "1900-2150",
+                        "venue": "TR+64",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4483",
+        "title": "ARTIFICIAL INTELLIGENCE & DATA MINING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering(PartTime) Year 4",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "37538",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EPLE",
+                        "day": "THU",
+                        "time": "1900-2150",
+                        "venue": "\"LT2A\"",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4497",
+        "title": "PATTERN RECOGNITION & DEEP LEARNING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering(PartTime) Year 4",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "37540",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EPLE",
+                        "day": "MON",
+                        "time": "1900-2150",
+                        "venue": "\"LT1A\"",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4727",
+        "title": "WEB APPLICATION DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering(PartTime) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "37542",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EPLE",
+                        "day": "WED",
+                        "time": "1900-2150",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk12,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EPLE",
+                        "day": "WED",
+                        "time": "1900-2050",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk1-11"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4758",
+        "title": "INFORMATION SECURITY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering(PartTime) Year 4",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "37545",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EPLE",
+                        "day": "MON",
+                        "time": "1900-2150",
+                        "venue": "TR+62",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

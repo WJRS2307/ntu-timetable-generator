@@ -1,0 +1,166 @@
+[
+    {
+        "course_code": "BF2223",
+        "title": "FINTECH IN INVESTMENT MANAGEMENT~",
+        "academic_units": "3.0 AU",
+        "school_category": "Accountancy And Business (RA) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00220",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "ABS-SR6",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00221",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "S4-SR10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00222",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "S4-SR23",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00223",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "4",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S4-SR23",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BR2207",
+        "title": "QUANTITATIVE ANALYSIS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Accountancy And Business (RA) Year 4",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "1.00 pm",
+            "duration": "3 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "00314",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "1730-2020",
+                        "venue": "FTR3",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BR2208",
+        "title": "FOUNDATION OF RISK MANAGEMENT*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Accountancy And Business (RA) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00319",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "ABS-SR12",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BR3212",
+        "title": "COMPUTING SOLUTIONS FOR RISK MANAGEMENT & INSURANCE~",
+        "academic_units": "3.0 AU",
+        "school_category": "Accountancy And Business (RA) Year 4",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "00259",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "SAT",
+                        "time": "0930-1220",
+                        "venue": "ITL-SA1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BR3213",
+        "title": "VALUATION & RISK MODELS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Accountancy And Business (RA) Year 4",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "5.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "00334",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "ABS-SR6",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

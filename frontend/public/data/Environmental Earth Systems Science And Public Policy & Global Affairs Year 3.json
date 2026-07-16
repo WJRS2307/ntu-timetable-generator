@@ -1,0 +1,1535 @@
+[
+    {
+        "course_code": "BS1001",
+        "title": "INTRODUCTORY BIOLOGY*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "08504",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1230-1520",
+                        "venue": "LT19A",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "LT19A",
+                        "remark": "Teaching Wk1-7,9-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "08505",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1230-1520",
+                        "venue": "LT19A",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "LT19A",
+                        "remark": "Teaching Wk1-7,9-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES1001",
+        "title": "E2S2: ENVIRONMENT & SOCIETY*~#",
+        "academic_units": "4.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79013",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT16",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LT16",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES2001",
+        "title": "COMPUTATIONAL EARTH SYSTEMS SCIENCE*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79014",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LHN-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "LHN-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA1",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "N1.1-B2-1C",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES2802",
+        "title": "GIS & THE EARTH SYSTEM",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79015",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "LHN-LT",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES3003",
+        "title": "INTRODUCTION TO GEOCHEMISTRY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79016",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "N1.1-B2-1B",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "N1.1-B2-1B",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES3006",
+        "title": "SPACE GEODESY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79017",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "N1.1-B2-1C",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "TUE",
+                        "time": "1530-1620",
+                        "venue": "N1.1-B2-1C",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES3202",
+        "title": "NATURE-BASED SOLUTIONS FOR URBAN SYSTEM*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79018",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "N1.1-B2-1C",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "1530-1720",
+                        "venue": "N1.1-B2-1C",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES3203",
+        "title": "THE GENOME & SOCIETY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79032",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LHN-TR+37",
+                        "remark": "Teaching Wk13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LHN-TR+36",
+                        "remark": "Teaching Wk1-12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "LHN-TR+37",
+                        "remark": "Teaching Wk13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "LHN-TR+36",
+                        "remark": "Teaching Wk1-12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES3306",
+        "title": "GLOBAL CHANGE ECOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79019",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "N1.1-B2-1B",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "N1.1-B2-1B",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES3307",
+        "title": "EXPERIMENTAL DESIGN & ANALYSIS FOR ECOLOGY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79020",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+37",
+                        "remark": "Teaching Wk13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+36",
+                        "remark": "Teaching Wk1-12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "1130-1320",
+                        "venue": "LHN-TR+03",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES3801",
+        "title": "BIOGEOCHEMISTRY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79021",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+34",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "LHN-TR+34",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES4201",
+        "title": "ENVIRONMENTAL MANAGEMENT & VALUATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79022",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "0930-1020",
+                        "venue": "N1.1-B2-1C",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "N1.1-B2-1C",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES4301",
+        "title": "CONSERVATION BIOLOGY & BIODIVERSITY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79023",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "LT4",
+                        "remark": "Teaching Wk13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "LT16",
+                        "remark": "Teaching Wk1-12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES4303",
+        "title": "MARINE & AQUATIC ECOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79024",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "N1.1-B2-1C",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES4304",
+        "title": "EYES ON EARTH - SATELLITE REMOTE SENSING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79025",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1330-1520",
+                        "venue": "N1.1-B2-1B",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "N1.1-B2-1B",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES4906",
+        "title": "ENVIRONMENTAL HYDROLOGY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79026",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "N1.1-B2-1B",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "TUE",
+                        "time": "1130-1220",
+                        "venue": "N1.1-B2-1B",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES5001",
+        "title": "NATURAL HAZARDS & SOCIETY*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "79027",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "LT19",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HA1003",
+        "title": "INTRODUCTION TO PUBLIC ADMINISTRATION & POLICY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "20115",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1330-1420",
+                        "venue": "LHS-TR+48",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20116",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+48",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20117",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+48",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20118",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "LHS-TR+48",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HA2003",
+        "title": "POLITICS & GOVERNMENT IN SOUTHEAST ASIA*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "20130",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LHN-TR+40",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "LHN-TR+40",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HA2004",
+        "title": "THEORIES IN INTERNATIONAL RELATIONS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "2.30 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "20131",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LHS-TR+31",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+31",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HA2014",
+        "title": "PUBLIC ORGANIZATION THEORY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "20132",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "LHS-TR+28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1130-1220",
+                        "venue": "LHS-TR+28",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HA2023",
+        "title": "RESEARCH METHODOLOGY IN SOCIAL SCIENCES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "20133",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LHS-TR+56",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+56",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HA2028",
+        "title": "ETHICS IN PUBLIC POLICY MAKING & IMPLEMENTATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "20134",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LHS-TR+41",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "LHS-TR+41",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HA2029",
+        "title": "LEFT, RIGHT, & CENTER*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "20135",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+48",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HA3014",
+        "title": "SINGAPORE'S FOREIGN POLICY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "20136",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+44",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HA3022",
+        "title": "THE ORIGINS OF MODERN POLITICAL THOUGHT*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "20137",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+48",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HA3090",
+        "title": "SPECIAL TOPICS IN GLOBAL AFFAIRS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "20138",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+51",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HA3093",
+        "title": "NON-WESTERN & GLOBAL INTERNATIONAL RELATIONS THEORIES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "20139",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+48",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HA3094",
+        "title": "INTERNATIONAL RELATIONS OF NORTHEAST ASIA*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "20140",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1330-1520",
+                        "venue": "LHS-TR+48",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+48",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HA4001",
+        "title": "ASEAN IN THE 21ST CENTURY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "20141",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+48",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HA4019",
+        "title": "METHODS IN POLITICAL THEORY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "20142",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+41",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HA4021",
+        "title": "COMPARATIVE POLITICS IN ASIA*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "20143",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "TR+79",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HA4022",
+        "title": "INTERNATIONAL POLITICS OF THE ASIA-PACIFIC*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "20144",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+51",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HA4044",
+        "title": "POLICY VALUES & DEBATES*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "20145",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "LHN-TR+31",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HA4046",
+        "title": "CULTURE, ARTS & POLITICS*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "20146",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+43",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HA4067",
+        "title": "GEOPOLITICS & GEOECONOMICS OF THE MEKONG REGION*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "20147",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "FRI",
+                        "time": "1430-1720",
+                        "venue": "LHS-TR+44",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HA4068",
+        "title": "POLITICS IN THAILAND*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "20148",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "LHN-TR+31",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP1100",
+        "title": "FUNDAMENTALS OF SOCIAL SCIENCE RESEARCH*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19709",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1230-1320",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19710",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "MON",
+                        "time": "1330-1420",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19711",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19712",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19713",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19714",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19715",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T7",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19716",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T8",
+                        "day": "THU",
+                        "time": "1630-1720",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PH1104",
+        "title": "MECHANICS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "70371",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "SPMS-LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1530-1820",
+                        "venue": "SPMS-LT1",
+                        "remark": "Teaching Wk5,7,9,12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "SPMS-TR+6",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70372",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "SPMS-LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1530-1820",
+                        "venue": "SPMS-LT1",
+                        "remark": "Teaching Wk5,7,9,12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "SPMS-TR+7",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70373",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "SPMS-LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1530-1820",
+                        "venue": "SPMS-LT1",
+                        "remark": "Teaching Wk5,7,9,12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "SPMS-TR+12",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PH1105",
+        "title": "OPTICS, VIBRATIONS & WAVES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "70381",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "SPMS-LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "SPMS-TR+7",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70382",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "SPMS-LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "SPMS-TR+7",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70383",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "SPMS-LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "SPMS-TR+12",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70384",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "SPMS-LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "SPMS-TR+13",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    }
+]

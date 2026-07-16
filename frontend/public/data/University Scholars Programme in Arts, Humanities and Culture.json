@@ -1,0 +1,46 @@
+[
+    {
+        "course_code": "SP0041",
+        "title": "DEEP DRAMA",
+        "academic_units": "3.0 AU",
+        "school_category": "University Scholars Programme in Arts, Humanities and Culture",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "22233",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "RPR SR2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SP0047",
+        "title": "AESTHETICS & PHILOSOPHY OF ART",
+        "academic_units": "3.0 AU",
+        "school_category": "University Scholars Programme in Arts, Humanities and Culture",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "22211",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "LHN-TR+08",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

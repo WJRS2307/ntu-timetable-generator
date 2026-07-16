@@ -1,0 +1,548 @@
+[
+    {
+        "course_code": "CS2027",
+        "title": "GENRE & NARRATIVE STRATEGIES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Film",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06036",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1630-1920",
+                        "venue": "MEDIA CO-L",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2191",
+        "title": "SINGAPORE CINEMA*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Film",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06058",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "SCI-SR2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2300",
+        "title": "ACTING &  DIRECTING FOR TV &  FILM*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Film",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06102",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1320",
+                        "venue": "LRG TV STU",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4024",
+        "title": "WRITING FOR CINEMA & TV*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Film",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06103",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "CS-TR+8",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4026",
+        "title": "DOCUMENTARY PRODUCTION: CONCEPTS & APPLICATIONS*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Film",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06068",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "CS-TR+9",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "CS-TR+9",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4027",
+        "title": "NARRATIVE FILM & TV:CONCEPTS & APPLICATIONS*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Film",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06069",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "TUE",
+                        "time": "0930-1320",
+                        "venue": "LRG TV STU",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4053",
+        "title": "POPULAR CINEMA*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Film",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06077",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1030-1320",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4068",
+        "title": "ISSUES IN CINEMA STUDIES*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Film",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06081",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1320",
+                        "venue": "SCI-SR2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4197",
+        "title": "WAR & CINEMA*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Film",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06090",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1430-1550",
+                        "venue": "MEDIA C-L",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4260",
+        "title": "FILM FESTIVALS: HISTORY & THEORY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Film",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06091",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "CS-TR+9",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4272",
+        "title": "FILMMAKING FOR THE COMMERCIAL WORLD*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Film",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06100",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "LRG TV STU",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DF2000",
+        "title": "DIGITAL FILM PRODUCTION I*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Film",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64017",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "ART-01-19",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64018",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "ART-01-19",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DF2003",
+        "title": "CINEMATOGRAPHY  I*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Film",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64019",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "ART-01-19",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DF2005",
+        "title": "WRITING FOR FILM*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Film",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64020",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "ART-B1-14",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64021",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "ART-01-08",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DF3010",
+        "title": "EXPERIMENTAL FILM PRODUCTION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Film",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64023",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "ART-01-12",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DF3012",
+        "title": "FILM DIRECTING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Film",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64024",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "ART-01-19",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64025",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "ART-01-19",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DF3013",
+        "title": "SUSTAINABLE PRODUCING FOR FILM & MEDIA*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Film",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64026",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "ART-02-23A",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DF5001",
+        "title": "DOCUMENTARY FILMMAKING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Film",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64027",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "ART-B1-14",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DT2007",
+        "title": "HISTORY & CULTURE OF ANIMATION, VFX & GAME*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Film",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64051",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "ART-B1-03",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "FL5001",
+        "title": "INTRODUCTION TO FILM STUDIES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Film",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06098",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1130-1250",
+                        "venue": "MEDIA C-L",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06099",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "THU",
+                        "time": "1430-1550",
+                        "venue": "MEDIA C-L",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL3001",
+        "title": "FILM THEORY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Film",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17240",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "1030-1320",
+                        "venue": "HSSSEMRM4",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

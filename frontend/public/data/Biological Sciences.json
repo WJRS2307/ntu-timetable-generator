@@ -1,0 +1,1862 @@
+[
+    {
+        "course_code": "BS1001",
+        "title": "INTRODUCTORY BIOLOGY*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "08501",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1230-1520",
+                        "venue": "LT19A",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "LT19A",
+                        "remark": "Teaching Wk1-7,9-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "08502",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1230-1520",
+                        "venue": "LT19A",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "LT19A",
+                        "remark": "Teaching Wk1-7,9-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "08503",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1230-1520",
+                        "venue": "LT19A",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "LT19A",
+                        "remark": "Teaching Wk1-7,9-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "08504",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1230-1520",
+                        "venue": "LT19A",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "LT19A",
+                        "remark": "Teaching Wk1-7,9-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "08505",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1230-1520",
+                        "venue": "LT19A",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "LT19A",
+                        "remark": "Teaching Wk1-7,9-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS1008",
+        "title": "BIOSTATISTICS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "08530",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1830-2020",
+                        "venue": "LT20",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "MON",
+                        "time": "1730-2020",
+                        "venue": "SBS-B1N-18",
+                        "remark": "Teaching Wk2,4,8,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "08531",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1830-2020",
+                        "venue": "LT20",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "MON",
+                        "time": "1730-2020",
+                        "venue": "SBS-B1N-18",
+                        "remark": "Teaching Wk2,4,8,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "08532",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1830-2020",
+                        "venue": "LT20",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P2",
+                        "day": "FRI",
+                        "time": "1730-2020",
+                        "venue": "SBS-B1N-18",
+                        "remark": "Teaching Wk2,4,8,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "08533",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1830-2020",
+                        "venue": "LT20",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P2",
+                        "day": "FRI",
+                        "time": "1730-2020",
+                        "venue": "SBS-B1N-18",
+                        "remark": "Teaching Wk2,4,8,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "08534",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1830-2020",
+                        "venue": "LT20",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P3",
+                        "day": "MON",
+                        "time": "1730-2020",
+                        "venue": "SBS-B1N-18",
+                        "remark": "Teaching Wk3,7,9,11"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS1010",
+        "title": "ESSENTIAL LAB SKILLS, TECHNIQUES & SAFETY~",
+        "academic_units": "1.0 AU",
+        "school_category": "Biological Sciences",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "08506",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk1-3,5,6"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk2,3,5-7"
+                    }
+                ]
+            },
+            {
+                "index_number": "08507",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk1-3,5,6"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P2",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk2,3,5-7"
+                    }
+                ]
+            },
+            {
+                "index_number": "08508",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk1-3,5,6"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P3",
+                        "day": "FRI",
+                        "time": "1030-1320",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk2,3,5-7"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS1016",
+        "title": "PHYSIOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "08521",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "SBS-TR+5",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "08522",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+12",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "08523",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+37",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "08524",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "TUE",
+                        "time": "1130-1320",
+                        "venue": "SBS-TR+5",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "08525",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHS-TR+53",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "08526",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHS-TR+53",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "08527",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LHS-TR+53",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "08528",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LHS-TR+53",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS1022",
+        "title": "LABORATORY FOR FOUNDATIONS OF CHEMISTRY I*~",
+        "academic_units": "1.0 AU",
+        "school_category": "Biological Sciences",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "08509",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "CBC LAB",
+                        "remark": "Teaching Wk2,4,6,8,10"
+                    }
+                ]
+            },
+            {
+                "index_number": "08510",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "P3",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "CBC LAB",
+                        "remark": "Teaching Wk2,4,6,8,10"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS2002",
+        "title": "MICROBIOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "08611",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT23",
+                        "remark": "Teaching Wk1-7,9-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "LHN-TR+20",
+                        "remark": "Teaching Wk2-9,12"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "08612",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT23",
+                        "remark": "Teaching Wk1-7,9-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "FRI",
+                        "time": "1730-1820",
+                        "venue": "LHN-TR+20",
+                        "remark": "Teaching Wk1-7,9,12"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P2",
+                        "day": "FRI",
+                        "time": "1230-1520",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "08717",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT23",
+                        "remark": "Teaching Wk1-7,9-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "LHN-TR+21",
+                        "remark": "Teaching Wk2-9,12"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "08718",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT23",
+                        "remark": "Teaching Wk1-7,9-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "MON",
+                        "time": "1730-1820",
+                        "venue": "LHN-TR+20",
+                        "remark": "Teaching Wk2-9,12"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "08719",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT23",
+                        "remark": "Teaching Wk1-7,9-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "MON",
+                        "time": "1730-1820",
+                        "venue": "LHN-TR+21",
+                        "remark": "Teaching Wk2-9,12"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "08720",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT23",
+                        "remark": "Teaching Wk1-7,9-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "MON",
+                        "time": "1730-1820",
+                        "venue": "LHN-TR+20",
+                        "remark": "Teaching Wk2-9,12"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "08721",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT23",
+                        "remark": "Teaching Wk1-7,9-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T7",
+                        "day": "FRI",
+                        "time": "1730-1820",
+                        "venue": "LHN-TR+20",
+                        "remark": "Teaching Wk1-7,9,12"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P2",
+                        "day": "FRI",
+                        "time": "1230-1520",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "08722",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT23",
+                        "remark": "Teaching Wk1-7,9-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T8",
+                        "day": "FRI",
+                        "time": "1730-1820",
+                        "venue": "LHN-TR+21",
+                        "remark": "Teaching Wk1-7,9,12"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P2",
+                        "day": "FRI",
+                        "time": "1230-1520",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "08723",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT23",
+                        "remark": "Teaching Wk1-7,9-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T9",
+                        "day": "FRI",
+                        "time": "1630-1720",
+                        "venue": "LHN-TR+20",
+                        "remark": "Teaching Wk1-7,9,12"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P2",
+                        "day": "FRI",
+                        "time": "1230-1520",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "08724",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT23",
+                        "remark": "Teaching Wk1-7,9-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T10",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "LHN-TR+21",
+                        "remark": "Teaching Wk2-9,12"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "08725",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT23",
+                        "remark": "Teaching Wk1-7,9-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T11",
+                        "day": "FRI",
+                        "time": "1630-1720",
+                        "venue": "LHN-TR+21",
+                        "remark": "Teaching Wk1-7,9,12"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P2",
+                        "day": "FRI",
+                        "time": "1230-1520",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk10,11"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS2023",
+        "title": "REGULATORY CONTROL OF HEALTHCARE PRODUCTS & MEDICAL DEVICES~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "08648",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LT10",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1230-1320",
+                        "venue": "LT10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "08649",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LT10",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1230-1320",
+                        "venue": "LT10",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS2024",
+        "title": "EVOLUTION IN HEALTH & DISEASE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "08654",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "SBS-TR+6",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "SBS-TR+6",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS2029",
+        "title": "INTRODUCTION TO LABORATORY MEDICINE~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "08655",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "SBS-CR3",
+                        "remark": "Teaching Wk1-7,9-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "SBS-CR1",
+                        "remark": "Teaching Wk8"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS2100",
+        "title": "MOLECULAR & CELL BIOLOGY TECHNIQUES LEVEL 2~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "08640",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LT20",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "WED",
+                        "time": "1130-1620",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk2-6,10-12"
+                    }
+                ]
+            },
+            {
+                "index_number": "08641",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LT20",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P2",
+                        "day": "THU",
+                        "time": "1130-1620",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk2-6,10-12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3003",
+        "title": "DEVELOPMENTAL BIOLOGY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "08663",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT20",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1330-1420",
+                        "venue": "LHN-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "SBS-02N-22",
+                        "remark": "Teaching Wk3,4"
+                    }
+                ]
+            },
+            {
+                "index_number": "08664",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT20",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "FRI",
+                        "time": "1330-1420",
+                        "venue": "LHN-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P2",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "SBS-02N-22",
+                        "remark": "Teaching Wk3,4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3004",
+        "title": "CANCER BIOLOGY & THERAPY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "08665",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-CR1",
+                        "remark": "Teaching Wk2-7,11"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1230-1520",
+                        "venue": "LT20",
+                        "remark": "Teaching Wk1,8,10,11"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-B1N-12",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-B1N-18",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            },
+            {
+                "index_number": "08666",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-CR1",
+                        "remark": "Teaching Wk2-7,11"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "WED",
+                        "time": "1230-1520",
+                        "venue": "LT20",
+                        "remark": "Teaching Wk1,8,10,11"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P2",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-B1N-12",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P2",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-B1N-18",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            },
+            {
+                "index_number": "08667",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-CR1",
+                        "remark": "Teaching Wk2-7,11"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "WED",
+                        "time": "1230-1520",
+                        "venue": "LT20",
+                        "remark": "Teaching Wk1,8,10,11"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P3",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-B1N-12",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P3",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-B1N-18",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            },
+            {
+                "index_number": "08668",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-CR1",
+                        "remark": "Teaching Wk2-7,11"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "WED",
+                        "time": "1230-1520",
+                        "venue": "LT20",
+                        "remark": "Teaching Wk1,8,10,11"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P4",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-B1N-12",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P4",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-B1N-18",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3018",
+        "title": "PLANT BIOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "2.30 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "08671",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "FRI",
+                        "time": "0830-1020",
+                        "venue": "SBS-CR1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "LHN-TR+01",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk8,10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "08672",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "FRI",
+                        "time": "0830-1020",
+                        "venue": "SBS-CR1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "LHN-TR+02",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P2",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk8,10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "08673",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "FRI",
+                        "time": "0830-1020",
+                        "venue": "SBS-CR1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "LHN-TR+01",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P3",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk8,10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "08674",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "FRI",
+                        "time": "0830-1020",
+                        "venue": "SBS-CR1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "LHN-TR+02",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P4",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk8,10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "08675",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "FRI",
+                        "time": "0830-1020",
+                        "venue": "SBS-CR1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "LHN-TR+02",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P4",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk8,10,11"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3021",
+        "title": "BIOIMAGING TECHNIQUES IN EM*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "08681",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "SBS-TR+6",
+                        "remark": "Teaching Wk2-12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "SBS-TR+6",
+                        "remark": "Teaching Wk2-4,8-12"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "MON",
+                        "time": "1530-1720",
+                        "venue": "SBS-TR+6",
+                        "remark": "Teaching Wk5-7"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3027",
+        "title": "LIGHT & BIOMOLECULE BEHAVIOR IN HEALTH & DISEASE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "08683",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "SBS-CR4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "SBS-CR4",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3038",
+        "title": "INTELLECTUAL PROPERTY RIGHTS RELATED TO BIOBUSINESS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "08685",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "SBS-TR+6",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3338",
+        "title": "UAEB II - EFFECT OF ANTI-MITOTIC DRUGS ON CANCER CELLS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "08690",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "",
+                        "time": "",
+                        "venue": "",
+                        "remark": "Teaching Wk13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3342",
+        "title": "UAEB II -ROLE OF ACTIN CYTOSKELETON REGULATORS IN METASTASIS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "08691",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "",
+                        "time": "",
+                        "venue": "",
+                        "remark": "Teaching Wk13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3344",
+        "title": "UAEB II - MACROMOLECULAR CRYSTALLOGRAPHY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "08692",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "",
+                        "time": "",
+                        "venue": "",
+                        "remark": "Teaching Wk13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3351",
+        "title": "UAEB (SERIES I) - PLANT TAXONOMY & MOLECULAR PHYLOGENETICS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "08689",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "",
+                        "time": "",
+                        "venue": "",
+                        "remark": "Teaching Wk13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS4002",
+        "title": "CURRENT TOPICS IN CELL BIOLOGY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "08702",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0830-0920",
+                        "venue": "SBS-TR+6",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "SBS-TR+6",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS4010",
+        "title": "SYNTHETIC BIOLOGY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "08703",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "SBS-CR1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1230-1320",
+                        "venue": "SBS-CR1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "08704",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "SBS-CR1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1230-1320",
+                        "venue": "SBS-CR1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS4014",
+        "title": "MOLECULAR BASIS OF DISEASES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "08705",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "SBS-CR1",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LHS-LT",
+                        "remark": "Teaching Wk1-7,9-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "SBS-CR1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS4015",
+        "title": "PLANT BIOTECHNOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biological Sciences",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "08706",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "SBS-CR1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "SBS-TR+5",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "course_code": "EM5109",
+        "title": "ENVIRONMENTAL ISSUES & SUSTAINABILITY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Sustainable Urban Planning",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "28480",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1530-1820",
+                        "venue": "LT3",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SU3001",
+        "title": "INTEGRATED URBAN MANAGEMENT*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Sustainable Urban Planning",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "28460",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LT16",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "GP1",
+                        "day": "THU",
+                        "time": "1830-1920",
+                        "venue": "LT16",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,2303 @@
+[
+    {
+        "course_code": "AB1088",
+        "title": "CAREER LAUNCHPAD",
+        "academic_units": "1.0 AU",
+        "school_category": "Accountancy And Data Science & Artificial Intelligence Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "01210",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "LT19",
+                        "remark": "Teaching Wk2,3,6-11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "CR1",
+                        "remark": "Teaching Wk2-5,10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "01211",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "LT19",
+                        "remark": "Teaching Wk2,3,6-11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "CR2",
+                        "remark": "Teaching Wk2-5,10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "01212",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "LT19",
+                        "remark": "Teaching Wk2,3,6-11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "CR2",
+                        "remark": "Teaching Wk2-5,10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "01213",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "LT19",
+                        "remark": "Teaching Wk2,3,6-11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "4",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "CR2",
+                        "remark": "Teaching Wk2-5,10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "01214",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "LT19",
+                        "remark": "Teaching Wk2,3,6-11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "5",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "ABS LT6",
+                        "remark": "Teaching Wk2-5,10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "01215",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "LT19",
+                        "remark": "Teaching Wk2,3,6-11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "6",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "CR1",
+                        "remark": "Teaching Wk2-5,10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "01216",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "LT19",
+                        "remark": "Teaching Wk2,3,6-11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "7",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "CR2",
+                        "remark": "Teaching Wk2-5,10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "01217",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "LT19",
+                        "remark": "Teaching Wk2,3,6-11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "8",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "CR1",
+                        "remark": "Teaching Wk2-5,10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "01218",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "LT19",
+                        "remark": "Teaching Wk2,3,6-11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "9",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "CR2",
+                        "remark": "Teaching Wk2-5,10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "01219",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "LT19",
+                        "remark": "Teaching Wk2,3,6-11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "10",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "CR1",
+                        "remark": "Teaching Wk2-5,10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "01220",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "LT19",
+                        "remark": "Teaching Wk2,3,6-11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "11",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "CR2",
+                        "remark": "Teaching Wk2-5,10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "01221",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "LT19",
+                        "remark": "Teaching Wk2,3,6-11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "12",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "S3-SR8",
+                        "remark": "Teaching Wk2-5,10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "01222",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "LT19",
+                        "remark": "Teaching Wk2,3,6-11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "13",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "S3-SR9",
+                        "remark": "Teaching Wk2-5,10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "01223",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "LT19",
+                        "remark": "Teaching Wk2,3,6-11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "14",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "S3-SR9",
+                        "remark": "Teaching Wk2-5,10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "01224",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "LT19",
+                        "remark": "Teaching Wk2,3,6-11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "15",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "S3-SR9",
+                        "remark": "Teaching Wk2-5,10,11"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AB2008",
+        "title": "CAREERS FUTURE FORWARD",
+        "academic_units": "1.0 AU",
+        "school_category": "Accountancy And Data Science & Artificial Intelligence Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "01160",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+37",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR2",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+32",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR1",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "S4-SR16",
+                        "remark": "Teaching Wk5"
+                    }
+                ]
+            },
+            {
+                "index_number": "01161",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+37",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR2",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+32",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR1",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "S4-SR16",
+                        "remark": "Teaching Wk5"
+                    }
+                ]
+            },
+            {
+                "index_number": "01162",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+37",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR2",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+32",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR1",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "S4-SR16",
+                        "remark": "Teaching Wk5"
+                    }
+                ]
+            },
+            {
+                "index_number": "01163",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+37",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR2",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+32",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR1",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "4",
+                        "day": "TUE",
+                        "time": "0830-1020",
+                        "venue": "LHS-TR+56",
+                        "remark": "Teaching Wk5"
+                    }
+                ]
+            },
+            {
+                "index_number": "01164",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+37",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR1",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR2",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+32",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "5",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHS-TR+56",
+                        "remark": "Teaching Wk5"
+                    }
+                ]
+            },
+            {
+                "index_number": "01165",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+37",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR2",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+32",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR1",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "6",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LHS-TR+56",
+                        "remark": "Teaching Wk5"
+                    }
+                ]
+            },
+            {
+                "index_number": "01166",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+37",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR2",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+32",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR1",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "7",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "S4-SR3",
+                        "remark": "Teaching Wk5"
+                    }
+                ]
+            },
+            {
+                "index_number": "01167",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+37",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR2",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+32",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR1",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "8",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "S4-SR3",
+                        "remark": "Teaching Wk5"
+                    }
+                ]
+            },
+            {
+                "index_number": "01168",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+37",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR2",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+32",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR1",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "9",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "S4-SR3",
+                        "remark": "Teaching Wk5"
+                    }
+                ]
+            },
+            {
+                "index_number": "01169",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+37",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR2",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+32",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR1",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "10",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "S4-SR9",
+                        "remark": "Teaching Wk5"
+                    }
+                ]
+            },
+            {
+                "index_number": "01170",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+37",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR2",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+32",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR1",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "11",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "S4-SR9",
+                        "remark": "Teaching Wk5"
+                    }
+                ]
+            },
+            {
+                "index_number": "01171",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+37",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR2",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+32",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR1",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "12",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "S4-SR16",
+                        "remark": "Teaching Wk5"
+                    }
+                ]
+            },
+            {
+                "index_number": "01172",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+37",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR2",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+32",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR1",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "13",
+                        "day": "FRI",
+                        "time": "0830-1020",
+                        "venue": "S4-SR17",
+                        "remark": "Teaching Wk5"
+                    }
+                ]
+            },
+            {
+                "index_number": "01173",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+37",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR2",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+32",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR1",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "14",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "S4-SR17",
+                        "remark": "Teaching Wk5"
+                    }
+                ]
+            },
+            {
+                "index_number": "01174",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+37",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR2",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+32",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR1",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "15",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "S4-SR17",
+                        "remark": "Teaching Wk5"
+                    }
+                ]
+            },
+            {
+                "index_number": "01175",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+37",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR2",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "LHS-TR+32",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "CR1",
+                        "remark": "Teaching Wk3-13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "16",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "S4-SR17",
+                        "remark": "Teaching Wk5"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AC3103",
+        "title": "ACCOUNTING ANALYSIS & VALUATION",
+        "academic_units": "4.0 AU",
+        "school_category": "Accountancy And Data Science & Artificial Intelligence Year 5",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "00078",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "WED",
+                        "time": "0830-1220",
+                        "venue": "S4-SR15",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00079",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "MON",
+                        "time": "0830-1220",
+                        "venue": "ABS-SR13",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00080",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "WED",
+                        "time": "1430-1820",
+                        "venue": "S4-SR15",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00081",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "4",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "S4-SR17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00082",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "5",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "ABS-SR13",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00083",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "6",
+                        "day": "THU",
+                        "time": "1330-1720",
+                        "venue": "S4-SR13",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AC3104",
+        "title": "ENTERPRISE RISK MANAGEMENT & SUSTAINABILITY~",
+        "academic_units": "4.0 AU",
+        "school_category": "Accountancy And Data Science & Artificial Intelligence Year 5",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "2.30 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "00088",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "MON",
+                        "time": "0830-1220",
+                        "venue": "ABS-SR10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00089",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "MON",
+                        "time": "0830-1220",
+                        "venue": "S3-SR6",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00090",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "MON",
+                        "time": "1330-1720",
+                        "venue": "ABS-SR10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00091",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "4",
+                        "day": "TUE",
+                        "time": "0830-1220",
+                        "venue": "ABS-SR6",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00092",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "5",
+                        "day": "TUE",
+                        "time": "1330-1720",
+                        "venue": "ABS-SR13",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MH1812",
+        "title": "DISCRETE MATHEMATICS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Accountancy And Data Science & Artificial Intelligence Year 5",
+        "exam": {
+            "date": "28 November 2026",
+            "day": "Saturday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10364",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL1",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCSA",
+                        "day": "FRI",
+                        "time": "1330-1420",
+                        "venue": "TR+19",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10365",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL1",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCSB",
+                        "day": "TUE",
+                        "time": "1230-1320",
+                        "venue": "TR+17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10366",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL1",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCSC",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "TR+16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10367",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL1",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCSD",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "TR+15",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10368",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL1",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCSE",
+                        "day": "MON",
+                        "time": "1230-1320",
+                        "venue": "TR+18",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10369",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL1",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCSF",
+                        "day": "MON",
+                        "time": "1230-1320",
+                        "venue": "TR+17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10370",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL1",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCSG",
+                        "day": "MON",
+                        "time": "1030-1120",
+                        "venue": "TR+4",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10371",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL1",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCSH",
+                        "day": "MON",
+                        "time": "1030-1120",
+                        "venue": "TR+3",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10372",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL1",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCSI",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "TR+8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10373",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL1",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCSJ",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "TR+9",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10374",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL1",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCSK",
+                        "day": "TUE",
+                        "time": "1230-1320",
+                        "venue": "TR+22",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10375",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL1",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCS1",
+                        "day": "TUE",
+                        "time": "0930-1020",
+                        "venue": "TR+5",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10376",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL1",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCS2",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "TR+16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10377",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL1",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCS3",
+                        "day": "TUE",
+                        "time": "1030-1120",
+                        "venue": "TR+6",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10378",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL1",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCS4",
+                        "day": "TUE",
+                        "time": "1030-1120",
+                        "venue": "TR+7",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10379",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL1",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCMC",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "TR+5",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10380",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL1",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCMD",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "TR+6",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10381",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL1",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FDAA",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "TR+4",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10382",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL1",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FDAB",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "TR+3",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10383",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL1",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FDAC",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "TR+9",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10384",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL1",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FDAD",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "TR+7",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10385",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL1",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FDAE",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "TR+15",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10386",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL1",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FDAF",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "TR+4",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10387",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL1",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FDAG",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "TR+5",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10388",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL1",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TAIS1",
+                        "day": "TUE",
+                        "time": "1130-1220",
+                        "venue": "TR+6",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10389",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL1",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TAIS2",
+                        "day": "TUE",
+                        "time": "1130-1220",
+                        "venue": "TR+7",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70150",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL1",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "ACDA",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "SPMS-TR+5",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MH2100",
+        "title": "CALCULUS III*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Accountancy And Data Science & Artificial Intelligence Year 5",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "70226",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "ECDS1",
+                        "day": "TUE",
+                        "time": "0930-1020",
+                        "venue": "SPMS-TR+12",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70227",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "ECDS2",
+                        "day": "TUE",
+                        "time": "1030-1120",
+                        "venue": "SPMS-TR+12",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70229",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "ACDA",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "SPMS-TR+7",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MH2500",
+        "title": "PROBABILITY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Accountancy And Data Science & Artificial Intelligence Year 5",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "70264",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1130-1320",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "ACDA",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "SPMS-TR+16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MH3510",
+        "title": "REGRESSION ANALYSIS*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Accountancy And Data Science & Artificial Intelligence Year 5",
+        "exam": {
+            "date": "3 December 2026",
+            "day": "Thursday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "70280",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "TUE",
+                        "time": "1530-1720",
+                        "venue": "LT27",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MH4511",
+        "title": "SAMPLING & SURVEY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Accountancy And Data Science & Artificial Intelligence Year 5",
+        "exam": {
+            "date": "3 December 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "70315",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "FRI",
+                        "time": "1530-1620",
+                        "venue": "SPMS-LT2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MH4513",
+        "title": "SURVIVAL ANALYSIS*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Accountancy And Data Science & Artificial Intelligence Year 5",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "70320",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "SPMS-LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "SPMS-LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "1630-1720",
+                        "venue": "SPMS-LT4",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA",
+                        "day": "THU",
+                        "time": "1630-1720",
+                        "venue": "SPMS-LT4",
+                        "remark": "Teaching Wk4-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC3020",
+        "title": "DATABASE SYSTEM PRINCIPLES~",
+        "academic_units": "3.0 AU",
+        "school_category": "Accountancy And Data Science & Artificial Intelligence Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10501",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "LT1",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4061",
+        "title": "COMPUTER VISION~",
+        "academic_units": "3.0 AU",
+        "school_category": "Accountancy And Data Science & Artificial Intelligence Year 5",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10536",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LT19",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "TUE",
+                        "time": "1630-1720",
+                        "venue": "LT19",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4090",
+        "title": "APPLICATIONS OF DATA SCIENCE & AI IN ACCOUNTING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Accountancy And Data Science & Artificial Intelligence Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10540",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "FRI",
+                        "time": "0830-1020",
+                        "venue": "LT9",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "LT9",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,312 @@
+[
+    {
+        "course_code": "CC0001",
+        "title": "INQUIRY & COMMUNICATION IN AN INTERDISCIPLINARY WORLD",
+        "academic_units": "2.0 AU",
+        "school_category": "Mechanical Engineering(PartTime) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "26501",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "MAPT1",
+                        "day": "THU",
+                        "time": "1900-2050",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "26502",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "MAPT2",
+                        "day": "THU",
+                        "time": "1900-2050",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CC0002",
+        "title": "NAVIGATING THE DIGITAL WORLD",
+        "academic_units": "2.0 AU",
+        "school_category": "Mechanical Engineering(PartTime) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "26530",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "MAPT1",
+                        "day": "TUE",
+                        "time": "1900-2050",
+                        "venue": "LHN-TR+01",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CC0003",
+        "title": "ETHICS & CIVICS IN A MULTICULTURAL WORLD",
+        "academic_units": "2.0 AU",
+        "school_category": "Mechanical Engineering(PartTime) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "26503",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "MAPT1",
+                        "day": "FRI",
+                        "time": "1900-2050",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "26504",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "MAPT2",
+                        "day": "FRI",
+                        "time": "1900-2050",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CC0005",
+        "title": "HEALTHY LIVING & WELLBEING",
+        "academic_units": "3.0 AU",
+        "school_category": "Mechanical Engineering(PartTime) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "37888",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EPT1",
+                        "day": "WED",
+                        "time": "1900-2050",
+                        "venue": "LHN-TR+27",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EG2810",
+        "title": "MATHEMATICS A",
+        "academic_units": "4.0 AU",
+        "school_category": "Mechanical Engineering(PartTime) Year 1",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "26505",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EPLE",
+                        "day": "SAT",
+                        "time": "1900-2020",
+                        "venue": "RECORDED",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MAPT1",
+                        "day": "TUE",
+                        "time": "2030-2120",
+                        "venue": "LHN-TR+25",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA2001",
+        "title": "MECHANICS OF MATERIALS",
+        "academic_units": "3.0 AU",
+        "school_category": "Mechanical Engineering(PartTime) Year 1",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "26509",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "PLE",
+                        "day": "THU",
+                        "time": "2000-2050",
+                        "venue": "LHN-TR+15",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "PT1",
+                        "day": "THU",
+                        "time": "1900-1950",
+                        "venue": "LHN-TR+15",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA2003",
+        "title": "INTRODUCTION TO THERMO-FLUIDS",
+        "academic_units": "3.0 AU",
+        "school_category": "Mechanical Engineering(PartTime) Year 1",
+        "exam": {
+            "date": "28 November 2026",
+            "day": "Saturday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "26511",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "PLE",
+                        "day": "FRI",
+                        "time": "2000-2050",
+                        "venue": "LT11",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "PT1",
+                        "day": "FRI",
+                        "time": "1900-1950",
+                        "venue": "LHN-TR+16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "26512",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "PLE",
+                        "day": "FRI",
+                        "time": "2000-2050",
+                        "venue": "LT11",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "PT2",
+                        "day": "FRI",
+                        "time": "1900-1950",
+                        "venue": "LHN-TR+17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA2024",
+        "title": "ENGINEERING MATERIALS & MANUFACTURING PROCESSES",
+        "academic_units": "3.0 AU",
+        "school_category": "Mechanical Engineering(PartTime) Year 1",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "26516",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "PLE",
+                        "day": "MON",
+                        "time": "2000-2050",
+                        "venue": "LHN-TR+30",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "PT1",
+                        "day": "MON",
+                        "time": "1900-1950",
+                        "venue": "LHN-TR+30",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PH1012",
+        "title": "PHYSICS A*~#",
+        "academic_units": "4.0 AU",
+        "school_category": "Mechanical Engineering(PartTime) Year 1",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "5.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "26507",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "PLE",
+                        "day": "MON",
+                        "time": "1900-2120",
+                        "venue": "LT19",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MAPT1",
+                        "day": "FRI",
+                        "time": "2030-2150",
+                        "venue": "TR+68",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

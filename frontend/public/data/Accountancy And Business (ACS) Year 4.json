@@ -1,0 +1,56 @@
+[
+    {
+        "course_code": "BA3201",
+        "title": "LIFE CONTINGENCIES & DEMOGRAPHY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Accountancy And Business (ACS) Year 4",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "3 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "00127",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "MON",
+                        "time": "1430-1820",
+                        "venue": "ITL-SA1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BA3202",
+        "title": "ACTUARIAL STATISTICS~",
+        "academic_units": "4.0 AU",
+        "school_category": "Accountancy And Business (ACS) Year 4",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "9.00 am",
+            "duration": "3 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "00519",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1220",
+                        "venue": "ABS-SR5",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

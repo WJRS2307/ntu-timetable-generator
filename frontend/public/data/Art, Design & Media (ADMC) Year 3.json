@@ -1,0 +1,336 @@
+[
+    {
+        "course_code": "DD1100",
+        "title": "CRITICAL THINKING & PRACTICE IN ART, DESIGN & MEDIA",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADMC) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63001",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1150",
+                        "venue": "ART-02-35",
+                        "remark": "Teaching Wk1-4,6,8-10"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "LHN-TR+21",
+                        "remark": "Teaching Wk13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LHN-TR+21",
+                        "remark": "Teaching Wk1-12"
+                    }
+                ]
+            },
+            {
+                "index_number": "63002",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1150",
+                        "venue": "ART-02-35",
+                        "remark": "Teaching Wk1-4,6,8-10"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LHN-TR+01",
+                        "remark": "Teaching Wk13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "MON",
+                        "time": "1330-1820",
+                        "venue": "LHN-TR+01",
+                        "remark": "Teaching Wk1-12"
+                    }
+                ]
+            },
+            {
+                "index_number": "63003",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1150",
+                        "venue": "ART-02-35",
+                        "remark": "Teaching Wk1-4,6,8-10"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G03",
+                        "day": "MON",
+                        "time": "1630-1920",
+                        "venue": "LHN-TR+09",
+                        "remark": "Teaching Wk13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G03",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+09",
+                        "remark": "Teaching Wk1-12"
+                    }
+                ]
+            },
+            {
+                "index_number": "63004",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1150",
+                        "venue": "ART-02-35",
+                        "remark": "Teaching Wk1-4,6,8-10"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G04",
+                        "day": "MON",
+                        "time": "1630-1920",
+                        "venue": "LHN-TR+02",
+                        "remark": "Teaching Wk13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G04",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+02",
+                        "remark": "Teaching Wk1-12"
+                    }
+                ]
+            },
+            {
+                "index_number": "63005",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1150",
+                        "venue": "ART-02-35",
+                        "remark": "Teaching Wk1-4,6,8-10"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G05",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "LHN-TR+01",
+                        "remark": "Teaching Wk13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G05",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "LHN-TR+01",
+                        "remark": "Teaching Wk1-12"
+                    }
+                ]
+            },
+            {
+                "index_number": "63006",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1150",
+                        "venue": "ART-02-35",
+                        "remark": "Teaching Wk1-4,6,8-10"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G06",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "LHN-TR+03",
+                        "remark": "Teaching Wk13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G06",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LHN-TR+03",
+                        "remark": "Teaching Wk1-12"
+                    }
+                ]
+            },
+            {
+                "index_number": "63007",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1150",
+                        "venue": "ART-02-35",
+                        "remark": "Teaching Wk1-4,6,8-10"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G07",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LHN-TR+34",
+                        "remark": "Teaching Wk13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G07",
+                        "day": "THU",
+                        "time": "1330-1520",
+                        "venue": "LHN-TR+34",
+                        "remark": "Teaching Wk1-12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DD1101",
+        "title": "ETHICS & INTEGRITY FOR CREATIVE PRACTICES",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADMC) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63008",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "LHN-TR+21",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63009",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "TRX44",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63010",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G03",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "LHN-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63011",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G04",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "LHN-TR+01",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63012",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G05",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "LHN-TR+02",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63013",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G06",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LHN-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63014",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G07",
+                        "day": "THU",
+                        "time": "1630-1920",
+                        "venue": "LHN-TR+50",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HR1003",
+        "title": "INTRODUCTION TO THE HISTORIES OF ART I*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADMC) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17288",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "TR+79",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

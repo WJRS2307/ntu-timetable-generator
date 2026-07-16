@@ -1,0 +1,339 @@
+[
+    {
+        "course_code": "BS1008",
+        "title": "BIOSTATISTICS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Health And Society",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "08530",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1830-2020",
+                        "venue": "LT20",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "MON",
+                        "time": "1730-2020",
+                        "venue": "SBS-B1N-18",
+                        "remark": "Teaching Wk2,4,8,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "08531",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1830-2020",
+                        "venue": "LT20",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "MON",
+                        "time": "1730-2020",
+                        "venue": "SBS-B1N-18",
+                        "remark": "Teaching Wk2,4,8,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "08532",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1830-2020",
+                        "venue": "LT20",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P2",
+                        "day": "FRI",
+                        "time": "1730-2020",
+                        "venue": "SBS-B1N-18",
+                        "remark": "Teaching Wk2,4,8,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "08533",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1830-2020",
+                        "venue": "LT20",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P2",
+                        "day": "FRI",
+                        "time": "1730-2020",
+                        "venue": "SBS-B1N-18",
+                        "remark": "Teaching Wk2,4,8,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "08534",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1830-2020",
+                        "venue": "LT20",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P3",
+                        "day": "MON",
+                        "time": "1730-2020",
+                        "venue": "SBS-B1N-18",
+                        "remark": "Teaching Wk3,7,9,11"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS1200",
+        "title": "UNDERSTANDING SINGAPORE HEALTHCARE SYSTEM~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Health And Society",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "08535",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "SBS-TR+6",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "08536",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "SBS-TR+6",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS2023",
+        "title": "REGULATORY CONTROL OF HEALTHCARE PRODUCTS & MEDICAL DEVICES~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Health And Society",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "08648",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LT10",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1230-1320",
+                        "venue": "LT10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "08649",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LT10",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1230-1320",
+                        "venue": "LT10",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4150",
+        "title": "HEALTH COMMUNICATION*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Health And Society",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06088",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1030-1320",
+                        "venue": "CS-TR+8",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE3022",
+        "title": "PUBLIC ECONOMICS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Health And Society",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19564",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT12",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "0930-1020",
+                        "venue": "LHS-TR+34",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19565",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT12",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "TUE",
+                        "time": "1030-1120",
+                        "venue": "LHS-TR+34",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH3019",
+        "title": "HISTORY OF THE BODY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Health And Society",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17623",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "LHS-TR+31",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL4042",
+        "title": "BEING HUMAN IN FILM & LITERATURE*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Health And Society",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17255",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "HSSSEMRM7",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

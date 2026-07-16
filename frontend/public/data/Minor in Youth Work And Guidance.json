@@ -1,0 +1,68 @@
+[
+    {
+        "course_code": "AED28D",
+        "title": "BASIC COUNSELLING SKILLS FOR TEACHERS IN INITIAL TRG PROGRAM*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Youth Work And Guidance",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39269",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "NIE7-TR715",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AED38A",
+        "title": "MOTIVATING PUPILS TO LEARN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Youth Work And Guidance",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39270",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "FRI",
+                        "time": "1430-1720",
+                        "venue": "NIE2-TR216",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AED38G",
+        "title": "SPECIAL TOPICS IN YOUTH WORK & GUIDANCE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Youth Work And Guidance",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39271",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "NIE7-TR710",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

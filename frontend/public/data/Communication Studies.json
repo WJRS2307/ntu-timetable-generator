@@ -1,0 +1,2014 @@
+[
+    {
+        "course_code": "CS0201",
+        "title": "FOUNDATIONS OF COMMUNICATION STUDIES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06011",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "SCI-EXSR",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06012",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "SCI-EXSR",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06013",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "SCI-EXSR",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06014",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "SCI-EXSR",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS0204",
+        "title": "BASIC MEDIA WRITING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06015",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "0930-1050",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1030-1150",
+                        "venue": "SCI-TSN",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06016",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "0930-1050",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "MON",
+                        "time": "1030-1150",
+                        "venue": "SCI-TTM",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06017",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "0930-1050",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "MON",
+                        "time": "1230-1350",
+                        "venue": "SCI-TSN",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06018",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "0930-1050",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "MON",
+                        "time": "1230-1350",
+                        "venue": "SCI-TTM",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS0209",
+        "title": "MEDIA LAW, ETHICS & POLICY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06019",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1430-1550",
+                        "venue": "SCI-EXSR",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06020",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "MON",
+                        "time": "1630-1750",
+                        "venue": "SCI-EXSR",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06021",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "TUE",
+                        "time": "1430-1550",
+                        "venue": "SCI-EXSR",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06022",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "TUE",
+                        "time": "1630-1750",
+                        "venue": "SCI-EXSR",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2008",
+        "title": "FUNDAMENTALS OF RESEARCH*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06023",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "SCI-EXSR",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "CS-TR+9",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06024",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "SCI-EXSR",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "SCI-SR2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06025",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "SCI-EXSR",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "CS-TR+9",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06026",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "SCI-EXSR",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "SCI-SR2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2021",
+        "title": "NEWS REPORTING & WRITING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06027",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "SCI-EXSR",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "MEDIA C-L",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06028",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "SCI-EXSR",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "SCI-TTM",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2022",
+        "title": "MULTIMEDIA WRITING IN CHINESE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06029",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "SCI-TTM",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "SCI-TTM",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2023",
+        "title": "PRINT & DIGITAL PUBLICATIONS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06030",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "SCI-EXSR",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "SCI-SR1",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06031",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "SCI-EXSR",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "SCI-SR1",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06032",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "SCI-EXSR",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "SCI-SR1",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2024",
+        "title": "WEB DESIGN & TECHNOLOGIES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32601",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0830-0920",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "S2.2-B4-04",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32602",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0830-0920",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "S2.2-B4-04",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2025",
+        "title": "IMAGE & SOUND PRODUCTION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06033",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "LRG TV STU",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "06034",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S2",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "LRG TV STU",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "06035",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S3",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "LRG TV STU",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2027",
+        "title": "GENRE & NARRATIVE STRATEGIES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06036",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1630-1920",
+                        "venue": "MEDIA CO-L",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2028",
+        "title": "PRODUCTION MANAGEMENT FOR TV & CINEMA*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06037",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "CS-TR+9",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2030",
+        "title": "AUDIO IN MEDIA*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06038",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "SCI-SR2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "SCI-MAC",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "06039",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "SCI-SR2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "FRI",
+                        "time": "1330-1520",
+                        "venue": "SCI-MAC",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "06040",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "SCI-SR2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "FRI",
+                        "time": "1530-1720",
+                        "venue": "SCI-MAC",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2033",
+        "title": "CORPORATE COMMUNICATIONS MANAGEMENT*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06041",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "SCI-SR1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2044",
+        "title": "PHOTOJOURNALISM*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06042",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1320",
+                        "venue": "SCI-SR1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2054",
+        "title": "INTERPERSONAL COMMUNICATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06044",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "CS-TR+7",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2056",
+        "title": "PSYCHOLOGY &  COMMUNICATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06045",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "SCI-SR1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2057",
+        "title": "MEDIA EFFECTS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06046",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "SCI-SR1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2058",
+        "title": "INTEGRATED MARKETING COMMUNICATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06047",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1030-1320",
+                        "venue": "SCI-EXSR",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2059",
+        "title": "SOCIAL CONSEQUENCES OF MOBILE COMMUNICATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06048",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "CS-TR+7",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2090",
+        "title": "DIGITAL MEDIA ENTREPRENEURSHIP*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06053",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "SCI-EXSR",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2101",
+        "title": "PUBLIC RELATIONS WRITING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06054",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "CS-TR+8",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "06055",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "CS-TR+8",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2103",
+        "title": "PUBLIC RELATIONS & COMMUNICATIONS MANAGEMENT*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06056",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1320",
+                        "venue": "CS-TR+7",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2191",
+        "title": "SINGAPORE CINEMA*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06058",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "SCI-SR2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2300",
+        "title": "ACTING &  DIRECTING FOR TV &  FILM*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06102",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1320",
+                        "venue": "LRG TV STU",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2400",
+        "title": "FOUNDATION OF INFORMATION ANALYTICS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "06059",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1750",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1750",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "SCI-EXSR",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06060",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1750",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1750",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "WED",
+                        "time": "1030-1120",
+                        "venue": "SCI-EXSR",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06061",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1750",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1750",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "SCI-EXSR",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2403",
+        "title": "TELLING STORIES WITH DATA*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06062",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "SCI-SR2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2405",
+        "title": "DATA MINING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06063",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "SCI-TTM",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2409",
+        "title": "MEDIA, EMOTIONS, & MEANINGFULNESS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06064",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "CS-TR+8",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4018",
+        "title": "SPECIALISED JOURNALISM:BUSINESS & ECONOMICS*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06065",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "CS-TR+9",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4020",
+        "title": "FEATURE WRITING*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06066",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "CS-TR+9",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4023",
+        "title": "ADVANCED PHOTOJOURNALISM*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06067",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "MEDIA C-L",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4024",
+        "title": "WRITING FOR CINEMA & TV*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06103",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "CS-TR+8",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4026",
+        "title": "DOCUMENTARY PRODUCTION: CONCEPTS & APPLICATIONS*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06068",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "CS-TR+9",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "CS-TR+9",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4027",
+        "title": "NARRATIVE FILM & TV:CONCEPTS & APPLICATIONS*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06069",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "TUE",
+                        "time": "0930-1320",
+                        "venue": "LRG TV STU",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4029",
+        "title": "ADVERTISING CREATIVITY & COPYWRITING*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06070",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "SCI-SR2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4030",
+        "title": "CRISIS MANAGEMENT*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06071",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "CS-TR+7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "06072",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "CS-TR+7",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4031",
+        "title": "MEDIA PLANNING & STRATEGIES*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06073",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "CS-TR+8",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4032",
+        "title": "COMMUNICATION CAMPAIGNS*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06074",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "SCI-SR1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4034",
+        "title": "BRAND MANAGEMENT*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06075",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "SCI-SR2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4037",
+        "title": "AUDIENCE RESEARCH METHODS*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06076",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "SCI-TSN",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4053",
+        "title": "POPULAR CINEMA*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06077",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1030-1320",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4058",
+        "title": "INTERCULTURAL COMMUNICATION*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06078",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "CS-TR+7",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4059",
+        "title": "PUBLIC OPINION*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06049",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "SCI-SR1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4061",
+        "title": "GLOBAL MEDIA ISSUES &  POLICY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06079",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "SCI-EXSR",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4066",
+        "title": "ISSUES IN PUBLIC RELATIONS*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06080",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "CS-TR+8",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4068",
+        "title": "ISSUES IN CINEMA STUDIES*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06081",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1320",
+                        "venue": "SCI-SR2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4074",
+        "title": "CONSUMER BEHAVIOR*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06082",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "CS-TR+8",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4075",
+        "title": "SELECTED TOPICS IN PR:EVALUATING & PRODUCING CAMPAIGN RESULT*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06083",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1320",
+                        "venue": "CS-TR+8",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4092",
+        "title": "NEW MEDIA &  SOCIETY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06086",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "CS-TR+9",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4131",
+        "title": "RISK COMMUNICATION*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06087",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "SCI-SR2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4150",
+        "title": "HEALTH COMMUNICATION*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06088",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1030-1320",
+                        "venue": "CS-TR+8",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4197",
+        "title": "WAR & CINEMA*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06090",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1430-1550",
+                        "venue": "MEDIA C-L",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4260",
+        "title": "FILM FESTIVALS: HISTORY & THEORY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06091",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "CS-TR+9",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4269",
+        "title": "BOTS WITH PERSONALITY-DESIGNING AI AGENTS FOR COMMUNICATION*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06092",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "CS-TR+8",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4271",
+        "title": "HUMAN-AI INTERACTION & COMMUNICATION*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06093",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "SCI-SR1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4272",
+        "title": "FILMMAKING FOR THE COMMERCIAL WORLD*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06100",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "LRG TV STU",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4273",
+        "title": "AUDIO & VIDEO PODCASTING*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06101",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "MEDIA C-L",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4311",
+        "title": "PROMOTING SUSTAINABILITY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06094",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "CS-TR+7",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4315",
+        "title": "SOCIAL MEDIA, SELF & SOCIETY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06095",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "SCI-SR2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4321",
+        "title": "DIGITAL INCLUSION & DISABILITY:TECH, INCL. DES & SOC FUTURES*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06096",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1320",
+                        "venue": "MEDIA C-L",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4329",
+        "title": "DIGITAL ADVERTISING ESSENTIALS*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06043",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "SCI-SR1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS5081",
+        "title": "INTRODUCTION TO KOREA STUDIES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06097",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "FL5001",
+        "title": "INTRODUCTION TO FILM STUDIES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Communication Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06098",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1130-1250",
+                        "venue": "MEDIA C-L",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06099",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "THU",
+                        "time": "1430-1550",
+                        "venue": "MEDIA C-L",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    }
+]

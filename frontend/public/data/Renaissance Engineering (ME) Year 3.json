@@ -1,0 +1,4182 @@
+[
+    {
+        "course_code": "EG1001",
+        "title": "ENGINEERS IN SOCIETY",
+        "academic_units": "2.0 AU",
+        "school_category": "Renaissance Engineering (ME) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "23001",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-7"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "E001",
+                        "day": "MON",
+                        "time": "1030-1120",
+                        "venue": "TR+37",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23002",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-7"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "E002",
+                        "day": "MON",
+                        "time": "1030-1120",
+                        "venue": "LHN-TR+17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23003",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-7"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "E003",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "TR+29",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23004",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-7"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "E004",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "LHN-TR+02",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23005",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-7"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "E005",
+                        "day": "TUE",
+                        "time": "1430-1520",
+                        "venue": "TR+29",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23006",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-7"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "E006",
+                        "day": "TUE",
+                        "time": "1430-1520",
+                        "venue": "TR+15",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23007",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-7"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "E007",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "TR+29",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23008",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-7"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "E008",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "TR+8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23009",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-7"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "E009",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "TR+36",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23010",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-7"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "E010",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "LHN-TR+16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23011",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-7"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "E011",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EG2810",
+        "title": "MATHEMATICS A",
+        "academic_units": "4.0 AU",
+        "school_category": "Renaissance Engineering (ME) Year 3",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "23012",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EPLE",
+                        "day": "SAT",
+                        "time": "1900-2020",
+                        "venue": "RECORDED",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA1",
+                        "day": "TUE",
+                        "time": "2030-2120",
+                        "venue": "LHN-TR+25",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "FE1073",
+        "title": "AN INTRODUCTION TO ENGINEERING & PRACTICES",
+        "academic_units": "1.0 AU",
+        "school_category": "Renaissance Engineering (ME) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "23014",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL01",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk6,7"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL01",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "N1.1-B5-02",
+                        "remark": "Teaching Wk5"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL01",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "N1.1-B5-01",
+                        "remark": "Teaching Wk4"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL01",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "N3.2-B2-01",
+                        "remark": "Teaching Wk8,9"
+                    }
+                ]
+            },
+            {
+                "index_number": "23015",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL02",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk7,8"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL02",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "N1.1-B5-02",
+                        "remark": "Teaching Wk6"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL02",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "N1.1-B5-01",
+                        "remark": "Teaching Wk5"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL02",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "N3.2-B2-01",
+                        "remark": "Teaching Wk4,9"
+                    }
+                ]
+            },
+            {
+                "index_number": "23016",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL03",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk8,9"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL03",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "N1.1-B5-02",
+                        "remark": "Teaching Wk7"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL03",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "N1.1-B5-01",
+                        "remark": "Teaching Wk6"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL03",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "N3.2-B2-01",
+                        "remark": "Teaching Wk4,5"
+                    }
+                ]
+            },
+            {
+                "index_number": "23017",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL04",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk4,9"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL04",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "N1.1-B5-02",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL04",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "N1.1-B5-01",
+                        "remark": "Teaching Wk7"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL04",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "N3.2-B2-01",
+                        "remark": "Teaching Wk5,6"
+                    }
+                ]
+            },
+            {
+                "index_number": "23018",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL05",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk4,5"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL05",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "N1.1-B5-02",
+                        "remark": "Teaching Wk9"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL05",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "N1.1-B5-01",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL05",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "N3.2-B2-01",
+                        "remark": "Teaching Wk6,7"
+                    }
+                ]
+            },
+            {
+                "index_number": "23019",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL06",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk5,6"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL06",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "N1.1-B5-02",
+                        "remark": "Teaching Wk4"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL06",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "N1.1-B5-01",
+                        "remark": "Teaching Wk9"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL06",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "N3.2-B2-01",
+                        "remark": "Teaching Wk7,8"
+                    }
+                ]
+            },
+            {
+                "index_number": "23020",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL07",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk6,7"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL07",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "N1.1-B5-02",
+                        "remark": "Teaching Wk5"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL07",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "N1.1-B5-01",
+                        "remark": "Teaching Wk4"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL07",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "N3.2-B2-01",
+                        "remark": "Teaching Wk8,9"
+                    }
+                ]
+            },
+            {
+                "index_number": "23021",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL08",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk7,8"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL08",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "N1.1-B5-02",
+                        "remark": "Teaching Wk6"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL08",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "N1.1-B5-01",
+                        "remark": "Teaching Wk5"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL08",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "N3.2-B2-01",
+                        "remark": "Teaching Wk4,9"
+                    }
+                ]
+            },
+            {
+                "index_number": "23022",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL09",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk8,9"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL09",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "N1.1-B5-02",
+                        "remark": "Teaching Wk7"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL09",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "N1.1-B5-01",
+                        "remark": "Teaching Wk6"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL09",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "N3.2-B2-01",
+                        "remark": "Teaching Wk4,5"
+                    }
+                ]
+            },
+            {
+                "index_number": "23023",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL10",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk4,9"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL10",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "N1.1-B5-02",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL10",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "N1.1-B5-01",
+                        "remark": "Teaching Wk7"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL10",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "N3.2-B2-01",
+                        "remark": "Teaching Wk5,6"
+                    }
+                ]
+            },
+            {
+                "index_number": "23024",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL11",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk4,5"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL11",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "N1.1-B5-02",
+                        "remark": "Teaching Wk9"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL11",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "N1.1-B5-01",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL11",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "N3.2-B2-01",
+                        "remark": "Teaching Wk6,7"
+                    }
+                ]
+            },
+            {
+                "index_number": "23025",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL12",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk5,6"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL12",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "N1.1-B5-02",
+                        "remark": "Teaching Wk4"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL12",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "N1.1-B5-01",
+                        "remark": "Teaching Wk9"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL12",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "N3.2-B2-01",
+                        "remark": "Teaching Wk7,8"
+                    }
+                ]
+            },
+            {
+                "index_number": "23026",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL13",
+                        "day": "MON",
+                        "time": "1030-1320",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk6,7"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL13",
+                        "day": "MON",
+                        "time": "1030-1320",
+                        "venue": "N1.1-B5-02",
+                        "remark": "Teaching Wk5"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL13",
+                        "day": "MON",
+                        "time": "1030-1320",
+                        "venue": "N1.1-B5-01",
+                        "remark": "Teaching Wk4"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BL13",
+                        "day": "MON",
+                        "time": "1030-1320",
+                        "venue": "N3.2-B2-01",
+                        "remark": "Teaching Wk8,9"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HW0288",
+        "title": "ENGINEERING COMMUNICATION",
+        "academic_units": "2.0 AU",
+        "school_category": "Renaissance Engineering (ME) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10394",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCEA",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "TR+64",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10395",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCEB",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "TR+23",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10396",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCEC",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10397",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCED",
+                        "day": "FRI",
+                        "time": "1130-1320",
+                        "venue": "CSKL8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10398",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCEE",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "TR+32",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10399",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCE1",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "TR+95",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10400",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSA",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "TR+37",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10401",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSB",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "TR+31",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10402",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSC",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "TR+34",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10403",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSD",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "TR+37",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10404",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSE",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+18",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10405",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSF",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "TR+37",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10406",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSG",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "TR+77",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10407",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSH",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10408",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSI",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10410",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCS1",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "CSKL9",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10411",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCMA",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10412",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCMC",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10413",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCMD",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23027",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "MA1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23028",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "MA2",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "TR+32",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23029",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "MA3",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LHN-TR+20",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23030",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "MA4",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LHN-TR+20",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23031",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "MA5",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "LHN-TR+17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23032",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "MA6",
+                        "day": "TUE",
+                        "time": "1130-1320",
+                        "venue": "TR+21",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23033",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "MA7",
+                        "day": "TUE",
+                        "time": "1130-1320",
+                        "venue": "LHN-TR+17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23034",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "MA8",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "TR+23",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23035",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "MA9",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LHN-TR+21",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23036",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "MA10",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23037",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "MA11",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "LHN-TR+21",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23038",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "MA12",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "TR+32",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23039",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "MA13",
+                        "day": "THU",
+                        "time": "1130-1320",
+                        "venue": "TR+32",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23040",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "MA14",
+                        "day": "THU",
+                        "time": "1130-1320",
+                        "venue": "LHN-TR+17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23041",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "MA15",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "CSKL8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23042",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "MA16",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "LHN-TR+17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA0218",
+        "title": "INTRODUCTION TO DATA SCIENCE & ARTIFICIAL INTELLIGENCE*",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (ME) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "23043",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT14",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA1",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "CAE 2 LAB",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23044",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT14",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA2",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "CAE 2 LAB",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23045",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT14",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA3",
+                        "day": "MON",
+                        "time": "1530-1720",
+                        "venue": "CAE 2 LAB",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23046",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT14",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA4",
+                        "day": "MON",
+                        "time": "1530-1720",
+                        "venue": "CAE 2 LAB",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23047",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT14",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA5",
+                        "day": "TUE",
+                        "time": "0830-1020",
+                        "venue": "CAE 2 LAB",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23048",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT14",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA6",
+                        "day": "TUE",
+                        "time": "0830-1020",
+                        "venue": "CAE 2 LAB",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23049",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT14",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA7",
+                        "day": "WED",
+                        "time": "1330-1520",
+                        "venue": "CAE 2 LAB",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23050",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT14",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA8",
+                        "day": "WED",
+                        "time": "1530-1720",
+                        "venue": "CAE 2 LAB",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23051",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT14",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA9",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "CAE 2 LAB",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23052",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT14",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA10",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "CAE 2 LAB",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA2002",
+        "title": "THEORY OF MECHANISM*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (ME) Year 3",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "23088",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA1",
+                        "day": "MON",
+                        "time": "1330-1420",
+                        "venue": "TR+2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23089",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA2",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "TR+2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23090",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA3",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "TR+2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23091",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA4",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "TR+2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23092",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA5",
+                        "day": "TUE",
+                        "time": "1430-1520",
+                        "venue": "TR+2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23093",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA6",
+                        "day": "TUE",
+                        "time": "1530-1620",
+                        "venue": "TR+2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23094",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA7",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "TR+2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23095",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA8",
+                        "day": "WED",
+                        "time": "1530-1620",
+                        "venue": "TR+2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23096",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA9",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "TR+2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23097",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA10",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "TR+2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23098",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA11",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "TR+2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA2005",
+        "title": "ENGINEERING GRAPHICS",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (ME) Year 3",
+        "exam": {
+            "date": "3 December 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "23121",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA1",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "N3.2-B1-02",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23122",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA2",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "N3.2-B1-02",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23123",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA3",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "N3.2-B1-02",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23124",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA4",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "N3.2-B1-02",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23125",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA5",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "CAE 2 LAB",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23126",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA6",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "CAE 2 LAB",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23127",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA7",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "N3.2-B1-02",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23128",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA8",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "N3.2-B1-02",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23129",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA9",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "CAE 2 LAB",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23130",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA10",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "N3.2-B1-02",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23131",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA11",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "N3.2-B1-02",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23132",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA12",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "CAE 2 LAB",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23133",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA13",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "N3.2-B1-02",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23134",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA14",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "N3.2-B1-02",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA2006",
+        "title": "ENGINEERING MATHEMATICS",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (ME) Year 3",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "23135",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA1",
+                        "day": "MON",
+                        "time": "1330-1420",
+                        "venue": "TR+8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23136",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA2",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "LHN-TR+17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23137",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA3",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "LHN-TR+17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23138",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA4",
+                        "day": "TUE",
+                        "time": "1430-1520",
+                        "venue": "LHN-TR+16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23139",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA5",
+                        "day": "TUE",
+                        "time": "1530-1620",
+                        "venue": "LHN-TR+16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23140",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA6",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "LHN-TR+17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23141",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA7",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "LHN-TR+17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23142",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA8",
+                        "day": "WED",
+                        "time": "1530-1620",
+                        "venue": "TR+5",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA2009",
+        "title": "INTRODUCTION TO ELECTRICAL CIRCUITS & ELECTRONIC DEVICES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (ME) Year 3",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "23150",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1030-1120",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA1",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "LHN-TR+17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23151",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1030-1120",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA2",
+                        "day": "TUE",
+                        "time": "1430-1520",
+                        "venue": "LHN-TR+17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23152",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1030-1120",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA3",
+                        "day": "TUE",
+                        "time": "1530-1620",
+                        "venue": "LHN-TR+17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23153",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1030-1120",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA4",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "TR+37",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23154",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1030-1120",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA5",
+                        "day": "WED",
+                        "time": "1530-1620",
+                        "venue": "TR+7",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23155",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1030-1120",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA6",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "LHN-TR+16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23156",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1030-1120",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA7",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23157",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1030-1120",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA8",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23158",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1030-1120",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA9",
+                        "day": "THU",
+                        "time": "1630-1720",
+                        "venue": "LHN-TR+17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA2024",
+        "title": "ENGINEERING MATERIALS & MANUFACTURING PROCESSES",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (ME) Year 3",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "23160",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA1",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "TR+4",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23161",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA2",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "TR+22",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23162",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA3",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "TR+8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23163",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA4",
+                        "day": "TUE",
+                        "time": "1430-1520",
+                        "venue": "TR+8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23164",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA5",
+                        "day": "TUE",
+                        "time": "1530-1620",
+                        "venue": "TR+8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23165",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA6",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "TR+3",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23166",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA7",
+                        "day": "WED",
+                        "time": "1530-1620",
+                        "venue": "TR+6",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23167",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA8",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "TR+4",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23168",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA9",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "TR+29",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA3001",
+        "title": "MACHINE ELEMENT DESIGN~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (ME) Year 3",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "5.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "23231",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "LHN-TR+07",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23232",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA2",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "LHN-TR+19",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23233",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA3",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "LHN-TR+19",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23234",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA4",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "TR+3",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23235",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA5",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "TR+2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23236",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA6",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "LHN-TR+07",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23237",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA7",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "LHN-TR+19",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23238",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA8",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "TR+29",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23239",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA9",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "LHN-TR+07",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA3004",
+        "title": "MATHEMATICAL METHODS IN ENGINEERING",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (ME) Year 3",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "23267",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "TR+9",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23268",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA2",
+                        "day": "MON",
+                        "time": "1030-1120",
+                        "venue": "TR+29",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23269",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA3",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "TR+21",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23270",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA4",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "TR+3",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23271",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA5",
+                        "day": "WED",
+                        "time": "1030-1120",
+                        "venue": "TR+3",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23272",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA6",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "TR+6",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23273",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA7",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "LHN-TR+16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23274",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA8",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "TR+37",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23275",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA9",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "TR+3",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA3005",
+        "title": "CONTROL THEORY",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (ME) Year 3",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "23277",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LHN-TR+14",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23278",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA2",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LHN-TR+14",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23279",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA3",
+                        "day": "TUE",
+                        "time": "1030-1120",
+                        "venue": "LHN-TR+40",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23280",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA4",
+                        "day": "TUE",
+                        "time": "1130-1220",
+                        "venue": "LHN-TR+40",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23281",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA5",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "TR+4",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23282",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA6",
+                        "day": "WED",
+                        "time": "1030-1120",
+                        "venue": "TR+7",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23283",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA7",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "LHN-TR+16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23284",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA8",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LHN-TR+16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23285",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA9",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LHN-TR+16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA4001",
+        "title": "ENGINEERING DESIGN",
+        "academic_units": "4.0 AU",
+        "school_category": "Renaissance Engineering (ME) Year 3",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "23402",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA1",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "LHN-TR+18",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23403",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA2",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "LHN-TR+07",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23404",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA3",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "LHN-TR+08",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23405",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA4",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "LHN-TR+07",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23406",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA5",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "LHN-TR+08",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23407",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA6",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "LHN-TR+18",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23408",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA7",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LHN-TR+07",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23409",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA8",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LHN-TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA4002",
+        "title": "FLUID DYNAMICS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (ME) Year 3",
+        "exam": {
+            "date": "28 November 2026",
+            "day": "Saturday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "23410",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LT6",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LT19A",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA4705",
+        "title": "AIRCRAFT NAVIGATION & FLIGHT COMPUTERS",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (ME) Year 3",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "23420",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0830-0920",
+                        "venue": "LT6",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LT6",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA4804",
+        "title": "OPTIMIZATION THEORY & APPLICATIONS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (ME) Year 3",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "23421",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1330-1520",
+                        "venue": "LT4",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA4811",
+        "title": "PSYCHROMETRY & AIR CONDITIONING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (ME) Year 3",
+        "exam": {
+            "date": "3 December 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "23422",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "LHN-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LHN-LT",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA4814",
+        "title": "COMPUTATIONAL FLUID DYNAMICS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (ME) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "23423",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "0830-1020",
+                        "venue": "LT13",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA1",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "N3-B3B-05",
+                        "remark": "Teaching Wk2-7"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA1",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "N3-B3B-05",
+                        "remark": "Teaching Wk8-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA4822",
+        "title": "MEASUREMENTS & SENSING SYSTEMS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (ME) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "23424",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0830-1020",
+                        "venue": "LT13",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "LT11",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA4825",
+        "title": "ROBOTICS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (ME) Year 3",
+        "exam": {
+            "date": "3 December 2026",
+            "day": "Thursday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "23425",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LT13",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1730-1820",
+                        "venue": "LT13",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA4832",
+        "title": "MICROPROCESSOR SYSTEMS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (ME) Year 3",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "5.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "23426",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT6",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA1",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "N3.2-B1-03",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "23427",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT6",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA2",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "N3.2-B1-03",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA4842",
+        "title": "ENGINEERING METROLOGY &  MATERIALS CHARACTERIZATION~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (ME) Year 3",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "23428",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "LT11",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA4849",
+        "title": "OPERATIONS RESEARCH~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (ME) Year 3",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "23429",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "LHN-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHN-LT",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA4856",
+        "title": "NAVAL ARCHITECTURE & MARINE ENGINEERING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (ME) Year 3",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "23430",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1120",
+                        "venue": "LT16",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1530-1720",
+                        "venue": "LT15",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA4880",
+        "title": "AIRPORT OPERATIONS & SYSTEMS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (ME) Year 3",
+        "exam": {
+            "date": "3 December 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "23482",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LT18",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA1",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "LHN-TR+40",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23483",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LT18",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA2",
+                        "day": "TUE",
+                        "time": "1430-1520",
+                        "venue": "LHN-TR+40",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23484",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LT18",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA3",
+                        "day": "TUE",
+                        "time": "1530-1620",
+                        "venue": "LHN-TR+40",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23485",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LT18",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA4",
+                        "day": "TUE",
+                        "time": "1630-1720",
+                        "venue": "LHN-TR+40",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA4881",
+        "title": "AIR TRAFFIC MANAGEMENT~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (ME) Year 3",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "2.30 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "23487",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "LT13",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA1",
+                        "day": "MON",
+                        "time": "1330-1420",
+                        "venue": "LHN-TR+31",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23488",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "LT13",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA2",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "LHN-TR+31",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23489",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "LT13",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA3",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "LHN-TR+31",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "23490",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "LT13",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA4",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "LHN-TR+31",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    }
+]

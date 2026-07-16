@@ -1,0 +1,492 @@
+[
+    {
+        "course_code": "MT0001",
+        "title": "SHIPPING & THE ENVIRONMENT*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Maritime Studies",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "62011",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1130-1420",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS1",
+                        "day": "MON",
+                        "time": "0830-0920",
+                        "venue": "TR+35",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "62012",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1130-1420",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS2",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "TR+35",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "62013",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1130-1420",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS3",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "TR+30",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "62014",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1130-1420",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS4",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "TR+30",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "62015",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1130-1420",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS5",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "TR+30",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MT2002",
+        "title": "SHIPPING ECONOMICS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Maritime Studies",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "62161",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LT7",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS1",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "TRX43",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "62162",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LT7",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS2",
+                        "day": "WED",
+                        "time": "1530-1620",
+                        "venue": "TRX43",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "62163",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LT7",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS3",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "TRX44",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "62164",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LT7",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS4",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "TRX44",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "62165",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LT7",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS5",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "TRX44",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MT3003",
+        "title": "ORGANISATION OF A SHIP OWNING ENTITY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Maritime Studies",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "62201",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1530-1720",
+                        "venue": "LT7",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS1",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "TR+35",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "62202",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1530-1720",
+                        "venue": "LT7",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS2",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "TR+35",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "62203",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1530-1720",
+                        "venue": "LT7",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS3",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "TR+35",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "62204",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1530-1720",
+                        "venue": "LT7",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS4",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "TR+36",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MT3004",
+        "title": "SHIPPING MANAGEMENT*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Maritime Studies",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "62211",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1530-1720",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS1",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "TR+36",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "62212",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1530-1720",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS2",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "TRX43",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "62213",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1530-1720",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS3",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "TRX43",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "62214",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1530-1720",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS4",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "TR+36",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MT4101",
+        "title": "INTERMODAL TRANSPORTATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Maritime Studies",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "62351",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "LT13",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "62352",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LT13",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

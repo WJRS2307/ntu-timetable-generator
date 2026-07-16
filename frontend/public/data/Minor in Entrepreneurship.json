@@ -1,0 +1,252 @@
+[
+    {
+        "course_code": "DV2003",
+        "title": "BEYOND THE LOGO: INTRODUCTION TO BRANDING*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Entrepreneurship",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63207",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "ART-02-02A",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64054",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "ART-02-02A",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE5083",
+        "title": "FROM PASSION TO ACTION: SIX KEY STEPS TO A START-UP!*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Entrepreneurship",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32082",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1330-1450",
+                        "venue": "LT26",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1530-1650",
+                        "venue": "LT26",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ET5122",
+        "title": "E-STARTUPS & SOCIAL MEDIA STRATEGIES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Entrepreneurship",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39011",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "SAT",
+                        "time": "0830-1550",
+                        "venue": "LT10",
+                        "remark": "Teaching Wk2-7"
+                    }
+                ]
+            },
+            {
+                "index_number": "39012",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S2",
+                        "day": "SAT",
+                        "time": "0830-1550",
+                        "venue": "LT10",
+                        "remark": "Teaching Wk8-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ET5132",
+        "title": "NEW VENTURE FINANCING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Entrepreneurship",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39014",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S2",
+                        "day": "SAT",
+                        "time": "0830-1750",
+                        "venue": "RTP 02-04H",
+                        "remark": "Teaching Wk8-12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ET5134",
+        "title": "ENTERPRISE STRATEGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Entrepreneurship",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39007",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "MON",
+                        "time": "0830-1750",
+                        "venue": "RTP 02-04G",
+                        "remark": "Not conducted during Teaching Weeks"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "TUE",
+                        "time": "0830-1750",
+                        "venue": "RTP 02-04G",
+                        "remark": "Not conducted during Teaching Weeks"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "FRI",
+                        "time": "0830-1750",
+                        "venue": "RTP 02-04G",
+                        "remark": "Not conducted during Teaching Weeks"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "THU",
+                        "time": "0830-1750",
+                        "venue": "RTP 02-04G",
+                        "remark": "Not conducted during Teaching Weeks"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "WED",
+                        "time": "0830-1750",
+                        "venue": "RTP 02-04G",
+                        "remark": "Not conducted during Teaching Weeks"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ET5135",
+        "title": "BUSINESS VENTURE IMPLEMENTATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Entrepreneurship",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39015",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "SAT",
+                        "time": "0830-1650",
+                        "venue": "RTP 02-04G",
+                        "remark": "Teaching Wk2-6"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "WED",
+                        "time": "1830-2220",
+                        "venue": "ABS-03-018",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ET5218",
+        "title": "INNOVATION & COMMERCIALIZATION OF TECHNOLOGIES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Entrepreneurship",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39017",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "THU",
+                        "time": "1830-2120",
+                        "venue": "RTP 02-04G",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "NH5001",
+        "title": "STARTUP SPRINT: ENTREPRENEURSHIP IN ACTION~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Entrepreneurship",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "46501",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "TUE",
+                        "time": "1830-2120",
+                        "venue": "S3.1-B4-S1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

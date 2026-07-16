@@ -1,0 +1,231 @@
+[
+    {
+        "course_code": "ET5122",
+        "title": "E-STARTUPS & SOCIAL MEDIA STRATEGIES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Nanyang Technopreneurship Centre",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39011",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "SAT",
+                        "time": "0830-1550",
+                        "venue": "LT10",
+                        "remark": "Teaching Wk2-7"
+                    }
+                ]
+            },
+            {
+                "index_number": "39012",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S2",
+                        "day": "SAT",
+                        "time": "0830-1550",
+                        "venue": "LT10",
+                        "remark": "Teaching Wk8-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ET5131",
+        "title": "VENTURING INTO ENTREPRENEURSHIP*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Nanyang Technopreneurship Centre",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39005",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S5",
+                        "day": "SAT",
+                        "time": "0830-1750",
+                        "venue": "RTP 02-04H",
+                        "remark": "Teaching Wk1-5"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ET5132",
+        "title": "NEW VENTURE FINANCING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Nanyang Technopreneurship Centre",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39014",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S2",
+                        "day": "SAT",
+                        "time": "0830-1750",
+                        "venue": "RTP 02-04H",
+                        "remark": "Teaching Wk8-12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ET5134",
+        "title": "ENTERPRISE STRATEGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Nanyang Technopreneurship Centre",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39007",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "MON",
+                        "time": "0830-1750",
+                        "venue": "RTP 02-04G",
+                        "remark": "Not conducted during Teaching Weeks"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "TUE",
+                        "time": "0830-1750",
+                        "venue": "RTP 02-04G",
+                        "remark": "Not conducted during Teaching Weeks"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "FRI",
+                        "time": "0830-1750",
+                        "venue": "RTP 02-04G",
+                        "remark": "Not conducted during Teaching Weeks"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "THU",
+                        "time": "0830-1750",
+                        "venue": "RTP 02-04G",
+                        "remark": "Not conducted during Teaching Weeks"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "WED",
+                        "time": "0830-1750",
+                        "venue": "RTP 02-04G",
+                        "remark": "Not conducted during Teaching Weeks"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ET5135",
+        "title": "BUSINESS VENTURE IMPLEMENTATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Nanyang Technopreneurship Centre",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39015",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "SAT",
+                        "time": "0830-1650",
+                        "venue": "RTP 02-04G",
+                        "remark": "Teaching Wk2-6"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "WED",
+                        "time": "1830-2220",
+                        "venue": "ABS-03-018",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ET5211",
+        "title": "ENTREPRENEURIAL MINDSET & TECHNOLOGY INNOVATION~",
+        "academic_units": "3.0 AU",
+        "school_category": "Nanyang Technopreneurship Centre",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39001",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "RTP 02-04H",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ET5216",
+        "title": "VENTURE CAPITAL INVESTMENT & PRACTICES*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Nanyang Technopreneurship Centre",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39016",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "TUE",
+                        "time": "1730-2120",
+                        "venue": "RTP 02-04G",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ET5218",
+        "title": "INNOVATION & COMMERCIALIZATION OF TECHNOLOGIES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Nanyang Technopreneurship Centre",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39017",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "THU",
+                        "time": "1830-2120",
+                        "venue": "RTP 02-04G",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

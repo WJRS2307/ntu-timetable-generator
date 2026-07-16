@@ -1,0 +1,121 @@
+[
+    {
+        "course_code": "MT0001",
+        "title": "SHIPPING & THE ENVIRONMENT*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in ES",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "62011",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1130-1420",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS1",
+                        "day": "MON",
+                        "time": "0830-0920",
+                        "venue": "TR+35",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "62012",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1130-1420",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS2",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "TR+35",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "62013",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1130-1420",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS3",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "TR+30",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "62014",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1130-1420",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS4",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "TR+30",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "62015",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1130-1420",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS5",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "TR+30",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

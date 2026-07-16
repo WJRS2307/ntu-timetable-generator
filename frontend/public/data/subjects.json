@@ -1,0 +1,2774 @@
+[
+    {
+        "name": "Accountancy Year 1",
+        "file": "Accountancy Year 1.json"
+    },
+    {
+        "name": "Accountancy (GA) Year 1",
+        "file": "Accountancy (GA) Year 1.json"
+    },
+    {
+        "name": "Accountancy (GA) Year 2",
+        "file": "Accountancy (GA) Year 2.json"
+    },
+    {
+        "name": "Accountancy (GA) Year 3",
+        "file": "Accountancy (GA) Year 3.json"
+    },
+    {
+        "name": "Accountancy (GB) Year 1",
+        "file": "Accountancy (GB) Year 1.json"
+    },
+    {
+        "name": "Accountancy (GB) Year 2",
+        "file": "Accountancy (GB) Year 2.json"
+    },
+    {
+        "name": "Accountancy (GB) Year 3",
+        "file": "Accountancy (GB) Year 3.json"
+    },
+    {
+        "name": "Art, Design & Media (ADM) Year 1",
+        "file": "Art, Design & Media (ADM) Year 1.json"
+    },
+    {
+        "name": "Art, Design & Media (ADM) (DA) Year 1",
+        "file": "Art, Design & Media (ADM) (DA) Year 1.json"
+    },
+    {
+        "name": "Art, Design & Media (ADM) (DA) Year 2",
+        "file": "Art, Design & Media (ADM) (DA) Year 2.json"
+    },
+    {
+        "name": "Art, Design & Media (ADM) (DA) Year 3",
+        "file": "Art, Design & Media (ADM) (DA) Year 3.json"
+    },
+    {
+        "name": "Art, Design & Media (ADM) (DA) Year 4",
+        "file": "Art, Design & Media (ADM) (DA) Year 4.json"
+    },
+    {
+        "name": "Art, Design & Media (ADM) (MA) Year 1",
+        "file": "Art, Design & Media (ADM) (MA) Year 1.json"
+    },
+    {
+        "name": "Art, Design & Media (ADM) (MA) Year 2",
+        "file": "Art, Design & Media (ADM) (MA) Year 2.json"
+    },
+    {
+        "name": "Art, Design & Media (ADM) (MA) Year 3",
+        "file": "Art, Design & Media (ADM) (MA) Year 3.json"
+    },
+    {
+        "name": "Art, Design & Media (ADM) (MA) Year 4",
+        "file": "Art, Design & Media (ADM) (MA) Year 4.json"
+    },
+    {
+        "name": "Art, Design & Media (ADMC) Year 1",
+        "file": "Art, Design & Media (ADMC) Year 1.json"
+    },
+    {
+        "name": "Art, Design & Media (ADMC) Year 2",
+        "file": "Art, Design & Media (ADMC) Year 2.json"
+    },
+    {
+        "name": "Art, Design & Media (ADMC) Year 3",
+        "file": "Art, Design & Media (ADMC) Year 3.json"
+    },
+    {
+        "name": "Art, Design & Media (ADMC) Year 4",
+        "file": "Art, Design & Media (ADMC) Year 4.json"
+    },
+    {
+        "name": "Aerospace Engineering Year 1",
+        "file": "Aerospace Engineering Year 1.json"
+    },
+    {
+        "name": "Aerospace Engineering Year 2",
+        "file": "Aerospace Engineering Year 2.json"
+    },
+    {
+        "name": "Aerospace Engineering Year 3",
+        "file": "Aerospace Engineering Year 3.json"
+    },
+    {
+        "name": "Aerospace Engineering Year 4",
+        "file": "Aerospace Engineering Year 4.json"
+    },
+    {
+        "name": "Artificial Intelligence & Society Year 1",
+        "file": "Artificial Intelligence & Society Year 1.json"
+    },
+    {
+        "name": "Artificial Intelligence & Society Year 2",
+        "file": "Artificial Intelligence & Society Year 2.json"
+    },
+    {
+        "name": "Artificial Intelligence & Society Year 3",
+        "file": "Artificial Intelligence & Society Year 3.json"
+    },
+    {
+        "name": "Artificial Intelligence & Society Year 4",
+        "file": "Artificial Intelligence & Society Year 4.json"
+    },
+    {
+        "name": "Actuarial Data Science And Business Analytics Year 2",
+        "file": "Actuarial Data Science And Business Analytics Year 2.json"
+    },
+    {
+        "name": "Actuarial Data Science And Business Analytics Year 3",
+        "file": "Actuarial Data Science And Business Analytics Year 3.json"
+    },
+    {
+        "name": "Actuarial Data Science And Business Analytics Year 4",
+        "file": "Actuarial Data Science And Business Analytics Year 4.json"
+    },
+    {
+        "name": "Applied Computing In Finance Year 1",
+        "file": "Applied Computing In Finance Year 1.json"
+    },
+    {
+        "name": "Applied Computing In Finance Year 2",
+        "file": "Applied Computing In Finance Year 2.json"
+    },
+    {
+        "name": "Applied Computing In Finance Year 3",
+        "file": "Applied Computing In Finance Year 3.json"
+    },
+    {
+        "name": "Applied Computing In Finance Year 4",
+        "file": "Applied Computing In Finance Year 4.json"
+    },
+    {
+        "name": "Actuarial Data Science And Finance Year 2",
+        "file": "Actuarial Data Science And Finance Year 2.json"
+    },
+    {
+        "name": "Actuarial Data Science And Finance Year 3",
+        "file": "Actuarial Data Science And Finance Year 3.json"
+    },
+    {
+        "name": "Actuarial Data Science And Finance Year 4",
+        "file": "Actuarial Data Science And Finance Year 4.json"
+    },
+    {
+        "name": "Accountancy (Sustainability Management & Analytics) Year 1",
+        "file": "Accountancy (Sustainability Management & Analytics) Year 1.json"
+    },
+    {
+        "name": "Accountancy (Sustainability Management & Analytics) Year 2",
+        "file": "Accountancy (Sustainability Management & Analytics) Year 2.json"
+    },
+    {
+        "name": "Accountancy (Sustainability Management & Analytics) Year 3",
+        "file": "Accountancy (Sustainability Management & Analytics) Year 3.json"
+    },
+    {
+        "name": "Accountancy (Sustainability Management & Analytics) Year 4",
+        "file": "Accountancy (Sustainability Management & Analytics) Year 4.json"
+    },
+    {
+        "name": "Actuarial Data Science Year 2",
+        "file": "Actuarial Data Science Year 2.json"
+    },
+    {
+        "name": "Actuarial Data Science Year 3",
+        "file": "Actuarial Data Science Year 3.json"
+    },
+    {
+        "name": "Actuarial Data Science Year 4",
+        "file": "Actuarial Data Science Year 4.json"
+    },
+    {
+        "name": "Business Analytics Year 2",
+        "file": "Business Analytics Year 2.json"
+    },
+    {
+        "name": "Business Analytics Year 3",
+        "file": "Business Analytics Year 3.json"
+    },
+    {
+        "name": "Business Analytics Year 4",
+        "file": "Business Analytics Year 4.json"
+    },
+    {
+        "name": "Finance And Accounting Year 2",
+        "file": "Finance And Accounting Year 2.json"
+    },
+    {
+        "name": "Finance And Accounting Year 3",
+        "file": "Finance And Accounting Year 3.json"
+    },
+    {
+        "name": "Finance And Accounting Year 4",
+        "file": "Finance And Accounting Year 4.json"
+    },
+    {
+        "name": "Finance And Business Analytics Year 2",
+        "file": "Finance And Business Analytics Year 2.json"
+    },
+    {
+        "name": "Finance And Business Analytics Year 3",
+        "file": "Finance And Business Analytics Year 3.json"
+    },
+    {
+        "name": "Finance And Business Analytics Year 4",
+        "file": "Finance And Business Analytics Year 4.json"
+    },
+    {
+        "name": "Finance Year 2",
+        "file": "Finance Year 2.json"
+    },
+    {
+        "name": "Finance Year 3",
+        "file": "Finance Year 3.json"
+    },
+    {
+        "name": "Finance Year 4",
+        "file": "Finance Year 4.json"
+    },
+    {
+        "name": "Finance And International Trading Year 2",
+        "file": "Finance And International Trading Year 2.json"
+    },
+    {
+        "name": "Finance And International Trading Year 3",
+        "file": "Finance And International Trading Year 3.json"
+    },
+    {
+        "name": "Finance And International Trading Year 4",
+        "file": "Finance And International Trading Year 4.json"
+    },
+    {
+        "name": "Finance And Risk Analytics Year 2",
+        "file": "Finance And Risk Analytics Year 2.json"
+    },
+    {
+        "name": "Finance And Risk Analytics Year 3",
+        "file": "Finance And Risk Analytics Year 3.json"
+    },
+    {
+        "name": "Finance And Risk Analytics Year 4",
+        "file": "Finance And Risk Analytics Year 4.json"
+    },
+    {
+        "name": "Human Resource Consulting And Business Analytics Year 2",
+        "file": "Human Resource Consulting And Business Analytics Year 2.json"
+    },
+    {
+        "name": "Human Resource Consulting And Business Analytics Year 3",
+        "file": "Human Resource Consulting And Business Analytics Year 3.json"
+    },
+    {
+        "name": "Human Resource Consulting And Business Analytics Year 4",
+        "file": "Human Resource Consulting And Business Analytics Year 4.json"
+    },
+    {
+        "name": "Human Resource Consulting And Marketing Year 2",
+        "file": "Human Resource Consulting And Marketing Year 2.json"
+    },
+    {
+        "name": "Human Resource Consulting And Marketing Year 3",
+        "file": "Human Resource Consulting And Marketing Year 3.json"
+    },
+    {
+        "name": "Human Resource Consulting And Marketing Year 4",
+        "file": "Human Resource Consulting And Marketing Year 4.json"
+    },
+    {
+        "name": "Human Resource Consulting Year 2",
+        "file": "Human Resource Consulting Year 2.json"
+    },
+    {
+        "name": "Human Resource Consulting Year 3",
+        "file": "Human Resource Consulting Year 3.json"
+    },
+    {
+        "name": "Human Resource Consulting Year 4",
+        "file": "Human Resource Consulting Year 4.json"
+    },
+    {
+        "name": "Bioengineering Year 1",
+        "file": "Bioengineering Year 1.json"
+    },
+    {
+        "name": "Bioengineering Year 2",
+        "file": "Bioengineering Year 2.json"
+    },
+    {
+        "name": "Bioengineering Year 3",
+        "file": "Bioengineering Year 3.json"
+    },
+    {
+        "name": "Bioengineering Year 4",
+        "file": "Bioengineering Year 4.json"
+    },
+    {
+        "name": "International Trading Year 2",
+        "file": "International Trading Year 2.json"
+    },
+    {
+        "name": "International Trading Year 3",
+        "file": "International Trading Year 3.json"
+    },
+    {
+        "name": "International Trading Year 4",
+        "file": "International Trading Year 4.json"
+    },
+    {
+        "name": "Marketing And Business Analytics Year 2",
+        "file": "Marketing And Business Analytics Year 2.json"
+    },
+    {
+        "name": "Marketing And Business Analytics Year 3",
+        "file": "Marketing And Business Analytics Year 3.json"
+    },
+    {
+        "name": "Marketing And Business Analytics Year 4",
+        "file": "Marketing And Business Analytics Year 4.json"
+    },
+    {
+        "name": "Marketing Year 2",
+        "file": "Marketing Year 2.json"
+    },
+    {
+        "name": "Marketing Year 3",
+        "file": "Marketing Year 3.json"
+    },
+    {
+        "name": "Marketing Year 4",
+        "file": "Marketing Year 4.json"
+    },
+    {
+        "name": "Biomedical Sciences Year 1",
+        "file": "Biomedical Sciences Year 1.json"
+    },
+    {
+        "name": "Biomedical Sciences Year 2",
+        "file": "Biomedical Sciences Year 2.json"
+    },
+    {
+        "name": "Biomedical Sciences Year 3",
+        "file": "Biomedical Sciences Year 3.json"
+    },
+    {
+        "name": "Biomedical Sciences Year 4",
+        "file": "Biomedical Sciences Year 4.json"
+    },
+    {
+        "name": "Risk Analytics And Accounting Year 2",
+        "file": "Risk Analytics And Accounting Year 2.json"
+    },
+    {
+        "name": "Risk Analytics And Accounting Year 3",
+        "file": "Risk Analytics And Accounting Year 3.json"
+    },
+    {
+        "name": "Risk Analytics And Accounting Year 4",
+        "file": "Risk Analytics And Accounting Year 4.json"
+    },
+    {
+        "name": "Risk Analytics Year 2",
+        "file": "Risk Analytics Year 2.json"
+    },
+    {
+        "name": "Risk Analytics Year 3",
+        "file": "Risk Analytics Year 3.json"
+    },
+    {
+        "name": "Risk Analytics Year 4",
+        "file": "Risk Analytics Year 4.json"
+    },
+    {
+        "name": "Biological Sciences Year 1",
+        "file": "Biological Sciences Year 1.json"
+    },
+    {
+        "name": "Biological Sciences Year 2",
+        "file": "Biological Sciences Year 2.json"
+    },
+    {
+        "name": "Biological Sciences Year 3",
+        "file": "Biological Sciences Year 3.json"
+    },
+    {
+        "name": "Biological Sciences Year 4",
+        "file": "Biological Sciences Year 4.json"
+    },
+    {
+        "name": "Biomedical Sciences And Biobusiness Year 1",
+        "file": "Biomedical Sciences And Biobusiness Year 1.json"
+    },
+    {
+        "name": "Biomedical Sciences And Biobusiness Year 2",
+        "file": "Biomedical Sciences And Biobusiness Year 2.json"
+    },
+    {
+        "name": "Biomedical Sciences And Biobusiness Year 3",
+        "file": "Biomedical Sciences And Biobusiness Year 3.json"
+    },
+    {
+        "name": "Biomedical Sciences And Biobusiness Year 4",
+        "file": "Biomedical Sciences And Biobusiness Year 4.json"
+    },
+    {
+        "name": "Biological Sciences And Psychology Year 1",
+        "file": "Biological Sciences And Psychology Year 1.json"
+    },
+    {
+        "name": "Biological Sciences And Psychology Year 2",
+        "file": "Biological Sciences And Psychology Year 2.json"
+    },
+    {
+        "name": "Biological Sciences And Psychology Year 3",
+        "file": "Biological Sciences And Psychology Year 3.json"
+    },
+    {
+        "name": "Biological Sciences And Psychology Year 4",
+        "file": "Biological Sciences And Psychology Year 4.json"
+    },
+    {
+        "name": "Business Year 1",
+        "file": "Business Year 1.json"
+    },
+    {
+        "name": "Business Year 2",
+        "file": "Business Year 2.json"
+    },
+    {
+        "name": "Business (ACS) Year 1",
+        "file": "Business (ACS) Year 1.json"
+    },
+    {
+        "name": "Business (ACS) Year 2",
+        "file": "Business (ACS) Year 2.json"
+    },
+    {
+        "name": "Business (ACS) Year 3",
+        "file": "Business (ACS) Year 3.json"
+    },
+    {
+        "name": "Business (AWM) Year 2",
+        "file": "Business (AWM) Year 2.json"
+    },
+    {
+        "name": "Business (AWM) Year 3",
+        "file": "Business (AWM) Year 3.json"
+    },
+    {
+        "name": "Business (BA) Year 1",
+        "file": "Business (BA) Year 1.json"
+    },
+    {
+        "name": "Business (BA) Year 2",
+        "file": "Business (BA) Year 2.json"
+    },
+    {
+        "name": "Business (BA) Year 3",
+        "file": "Business (BA) Year 3.json"
+    },
+    {
+        "name": "Business (BA) Year 4",
+        "file": "Business (BA) Year 4.json"
+    },
+    {
+        "name": "Business (BAF) Year 1",
+        "file": "Business (BAF) Year 1.json"
+    },
+    {
+        "name": "Business (BAF) Year 2",
+        "file": "Business (BAF) Year 2.json"
+    },
+    {
+        "name": "Business (BAF) Year 3",
+        "file": "Business (BAF) Year 3.json"
+    },
+    {
+        "name": "Business (GA) Year 1",
+        "file": "Business (GA) Year 1.json"
+    },
+    {
+        "name": "Business (GA) Year 2",
+        "file": "Business (GA) Year 2.json"
+    },
+    {
+        "name": "Business (GB) Year 1",
+        "file": "Business (GB) Year 1.json"
+    },
+    {
+        "name": "Business (GB) Year 2",
+        "file": "Business (GB) Year 2.json"
+    },
+    {
+        "name": "Business (HRC) Year 1",
+        "file": "Business (HRC) Year 1.json"
+    },
+    {
+        "name": "Business (HRC) Year 2",
+        "file": "Business (HRC) Year 2.json"
+    },
+    {
+        "name": "Business (HRC) Year 3",
+        "file": "Business (HRC) Year 3.json"
+    },
+    {
+        "name": "Business (ITG) Year 2",
+        "file": "Business (ITG) Year 2.json"
+    },
+    {
+        "name": "Business (ITG) Year 3",
+        "file": "Business (ITG) Year 3.json"
+    },
+    {
+        "name": "Business (ITT) Year 1",
+        "file": "Business (ITT) Year 1.json"
+    },
+    {
+        "name": "Business (ITT) Year 2",
+        "file": "Business (ITT) Year 2.json"
+    },
+    {
+        "name": "Business (ITT) Year 3",
+        "file": "Business (ITT) Year 3.json"
+    },
+    {
+        "name": "Business (MKG) Year 1",
+        "file": "Business (MKG) Year 1.json"
+    },
+    {
+        "name": "Business (MKG) Year 2",
+        "file": "Business (MKG) Year 2.json"
+    },
+    {
+        "name": "Business (MKG) Year 3",
+        "file": "Business (MKG) Year 3.json"
+    },
+    {
+        "name": "Business (PBL) Year 2",
+        "file": "Business (PBL) Year 2.json"
+    },
+    {
+        "name": "Business (PBL) Year 3",
+        "file": "Business (PBL) Year 3.json"
+    },
+    {
+        "name": "Business (RA) Year 1",
+        "file": "Business (RA) Year 1.json"
+    },
+    {
+        "name": "Business (RA) Year 2",
+        "file": "Business (RA) Year 2.json"
+    },
+    {
+        "name": "Business (RA) Year 3",
+        "file": "Business (RA) Year 3.json"
+    },
+    {
+        "name": "Business (RMI) Year 2",
+        "file": "Business (RMI) Year 2.json"
+    },
+    {
+        "name": "Business (RMI) Year 3",
+        "file": "Business (RMI) Year 3.json"
+    },
+    {
+        "name": "Business (Double Major) Year 1",
+        "file": "Business (Double Major) Year 1.json"
+    },
+    {
+        "name": "Business (Double Major) (GA) Year 1",
+        "file": "Business (Double Major) (GA) Year 1.json"
+    },
+    {
+        "name": "Business (Double Major) (GB) Year 1",
+        "file": "Business (Double Major) (GB) Year 1.json"
+    },
+    {
+        "name": "Business (Single Major) Year 1",
+        "file": "Business (Single Major) Year 1.json"
+    },
+    {
+        "name": "Business (Single Major) (GA) Year 1",
+        "file": "Business (Single Major) (GA) Year 1.json"
+    },
+    {
+        "name": "Business (Single Major) (GB) Year 1",
+        "file": "Business (Single Major) (GB) Year 1.json"
+    },
+    {
+        "name": "Chemical & Biomolecular Engineering Year 1",
+        "file": "Chemical & Biomolecular Engineering Year 1.json"
+    },
+    {
+        "name": "Chemical & Biomolecular Engineering Year 2",
+        "file": "Chemical & Biomolecular Engineering Year 2.json"
+    },
+    {
+        "name": "Chemical & Biomolecular Engineering Year 3",
+        "file": "Chemical & Biomolecular Engineering Year 3.json"
+    },
+    {
+        "name": "Chemical & Biomolecular Engineering Year 4",
+        "file": "Chemical & Biomolecular Engineering Year 4.json"
+    },
+    {
+        "name": "Computer Engineering Year 1",
+        "file": "Computer Engineering Year 1.json"
+    },
+    {
+        "name": "Computer Engineering Year 2",
+        "file": "Computer Engineering Year 2.json"
+    },
+    {
+        "name": "Computer Engineering Year 3",
+        "file": "Computer Engineering Year 3.json"
+    },
+    {
+        "name": "Computer Engineering Year 4",
+        "file": "Computer Engineering Year 4.json"
+    },
+    {
+        "name": "Civil Engineering Year 1",
+        "file": "Civil Engineering Year 1.json"
+    },
+    {
+        "name": "Civil Engineering Year 2",
+        "file": "Civil Engineering Year 2.json"
+    },
+    {
+        "name": "Civil Engineering Year 3",
+        "file": "Civil Engineering Year 3.json"
+    },
+    {
+        "name": "Civil Engineering Year 4",
+        "file": "Civil Engineering Year 4.json"
+    },
+    {
+        "name": "Chemistry and Biological Chemistry Year 1",
+        "file": "Chemistry and Biological Chemistry Year 1.json"
+    },
+    {
+        "name": "Chemistry and Biological Chemistry Year 2",
+        "file": "Chemistry and Biological Chemistry Year 2.json"
+    },
+    {
+        "name": "Chemistry and Biological Chemistry Year 3",
+        "file": "Chemistry and Biological Chemistry Year 3.json"
+    },
+    {
+        "name": "Chemistry and Biological Chemistry Year 4",
+        "file": "Chemistry and Biological Chemistry Year 4.json"
+    },
+    {
+        "name": "Chinese Year 1",
+        "file": "Chinese Year 1.json"
+    },
+    {
+        "name": "Chinese Year 2",
+        "file": "Chinese Year 2.json"
+    },
+    {
+        "name": "Chinese Year 3",
+        "file": "Chinese Year 3.json"
+    },
+    {
+        "name": "Chinese Year 4",
+        "file": "Chinese Year 4.json"
+    },
+    {
+        "name": "Chinese Medicine Year 1",
+        "file": "Chinese Medicine Year 1.json"
+    },
+    {
+        "name": "Chinese Medicine Year 2",
+        "file": "Chinese Medicine Year 2.json"
+    },
+    {
+        "name": "Chinese Medicine Year 3",
+        "file": "Chinese Medicine Year 3.json"
+    },
+    {
+        "name": "Chinese Medicine Year 4",
+        "file": "Chinese Medicine Year 4.json"
+    },
+    {
+        "name": "Chinese And English Year 1",
+        "file": "Chinese And English Year 1.json"
+    },
+    {
+        "name": "Chinese And English Year 2",
+        "file": "Chinese And English Year 2.json"
+    },
+    {
+        "name": "Chinese And English Year 3",
+        "file": "Chinese And English Year 3.json"
+    },
+    {
+        "name": "Chinese And English Year 4",
+        "file": "Chinese And English Year 4.json"
+    },
+    {
+        "name": "Chinese And Linguistics & Multilingual Studies Year 1",
+        "file": "Chinese And Linguistics & Multilingual Studies Year 1.json"
+    },
+    {
+        "name": "Chinese And Linguistics & Multilingual Studies Year 2",
+        "file": "Chinese And Linguistics & Multilingual Studies Year 2.json"
+    },
+    {
+        "name": "Chinese And Linguistics & Multilingual Studies Year 3",
+        "file": "Chinese And Linguistics & Multilingual Studies Year 3.json"
+    },
+    {
+        "name": "Chinese And Linguistics & Multilingual Studies Year 4",
+        "file": "Chinese And Linguistics & Multilingual Studies Year 4.json"
+    },
+    {
+        "name": "Computing Year 1",
+        "file": "Computing Year 1.json"
+    },
+    {
+        "name": "Computing Year 2",
+        "file": "Computing Year 2.json"
+    },
+    {
+        "name": "Communication Studies Year 1",
+        "file": "Communication Studies Year 1.json"
+    },
+    {
+        "name": "Communication Studies Year 2",
+        "file": "Communication Studies Year 2.json"
+    },
+    {
+        "name": "Communication Studies Year 3",
+        "file": "Communication Studies Year 3.json"
+    },
+    {
+        "name": "Communication Studies Year 4",
+        "file": "Communication Studies Year 4.json"
+    },
+    {
+        "name": "Computer Science Year 1",
+        "file": "Computer Science Year 1.json"
+    },
+    {
+        "name": "Computer Science Year 2",
+        "file": "Computer Science Year 2.json"
+    },
+    {
+        "name": "Computer Science Year 3",
+        "file": "Computer Science Year 3.json"
+    },
+    {
+        "name": "Computer Science Year 4",
+        "file": "Computer Science Year 4.json"
+    },
+    {
+        "name": "Data Science & Artificial Intelligence Year 1",
+        "file": "Data Science & Artificial Intelligence Year 1.json"
+    },
+    {
+        "name": "Data Science & Artificial Intelligence Year 2",
+        "file": "Data Science & Artificial Intelligence Year 2.json"
+    },
+    {
+        "name": "Data Science & Artificial Intelligence Year 3",
+        "file": "Data Science & Artificial Intelligence Year 3.json"
+    },
+    {
+        "name": "Data Science & Artificial Intelligence Year 4",
+        "file": "Data Science & Artificial Intelligence Year 4.json"
+    },
+    {
+        "name": "Economics & Data Science Year 1",
+        "file": "Economics & Data Science Year 1.json"
+    },
+    {
+        "name": "Economics & Data Science Year 2",
+        "file": "Economics & Data Science Year 2.json"
+    },
+    {
+        "name": "Economics & Data Science Year 3",
+        "file": "Economics & Data Science Year 3.json"
+    },
+    {
+        "name": "Economics & Data Science Year 4",
+        "file": "Economics & Data Science Year 4.json"
+    },
+    {
+        "name": "Economics And Media Analytics Year 1",
+        "file": "Economics And Media Analytics Year 1.json"
+    },
+    {
+        "name": "Economics And Media Analytics Year 2",
+        "file": "Economics And Media Analytics Year 2.json"
+    },
+    {
+        "name": "Economics And Media Analytics Year 3",
+        "file": "Economics And Media Analytics Year 3.json"
+    },
+    {
+        "name": "Economics And Media Analytics Year 4",
+        "file": "Economics And Media Analytics Year 4.json"
+    },
+    {
+        "name": "Economics Year 1",
+        "file": "Economics Year 1.json"
+    },
+    {
+        "name": "Economics Year 2",
+        "file": "Economics Year 2.json"
+    },
+    {
+        "name": "Economics Year 3",
+        "file": "Economics Year 3.json"
+    },
+    {
+        "name": "Economics Year 4",
+        "file": "Economics Year 4.json"
+    },
+    {
+        "name": "Economics And Public Policy & Global Affairs Year 1",
+        "file": "Economics And Public Policy & Global Affairs Year 1.json"
+    },
+    {
+        "name": "Economics And Public Policy & Global Affairs Year 2",
+        "file": "Economics And Public Policy & Global Affairs Year 2.json"
+    },
+    {
+        "name": "Economics And Public Policy & Global Affairs Year 3",
+        "file": "Economics And Public Policy & Global Affairs Year 3.json"
+    },
+    {
+        "name": "Economics And Public Policy & Global Affairs Year 4",
+        "file": "Economics And Public Policy & Global Affairs Year 4.json"
+    },
+    {
+        "name": "Economics And Psychology Year 1",
+        "file": "Economics And Psychology Year 1.json"
+    },
+    {
+        "name": "Economics And Psychology Year 2",
+        "file": "Economics And Psychology Year 2.json"
+    },
+    {
+        "name": "Economics And Psychology Year 3",
+        "file": "Economics And Psychology Year 3.json"
+    },
+    {
+        "name": "Economics And Psychology Year 4",
+        "file": "Economics And Psychology Year 4.json"
+    },
+    {
+        "name": "Electrical & Electronic Engineering Year 2",
+        "file": "Electrical & Electronic Engineering Year 2.json"
+    },
+    {
+        "name": "Electrical & Electronic Engineering Year 3",
+        "file": "Electrical & Electronic Engineering Year 3.json"
+    },
+    {
+        "name": "Electrical & Electronic Engineering Year 4",
+        "file": "Electrical & Electronic Engineering Year 4.json"
+    },
+    {
+        "name": "Environmental Earth Systems Science Year 1",
+        "file": "Environmental Earth Systems Science Year 1.json"
+    },
+    {
+        "name": "Environmental Earth Systems Science Year 2",
+        "file": "Environmental Earth Systems Science Year 2.json"
+    },
+    {
+        "name": "Environmental Earth Systems Science (ECO) Year 2",
+        "file": "Environmental Earth Systems Science (ECO) Year 2.json"
+    },
+    {
+        "name": "Environmental Earth Systems Science (ECO) Year 3",
+        "file": "Environmental Earth Systems Science (ECO) Year 3.json"
+    },
+    {
+        "name": "Environmental Earth Systems Science (ECO) Year 4",
+        "file": "Environmental Earth Systems Science (ECO) Year 4.json"
+    },
+    {
+        "name": "Environmental Earth Systems Science (GEO) Year 3",
+        "file": "Environmental Earth Systems Science (GEO) Year 3.json"
+    },
+    {
+        "name": "Environmental Earth Systems Science (GEO) Year 4",
+        "file": "Environmental Earth Systems Science (GEO) Year 4.json"
+    },
+    {
+        "name": "Environmental Earth Systems Science (GEOS) Year 2",
+        "file": "Environmental Earth Systems Science (GEOS) Year 2.json"
+    },
+    {
+        "name": "Environmental Earth Systems Science (GEOS) Year 3",
+        "file": "Environmental Earth Systems Science (GEOS) Year 3.json"
+    },
+    {
+        "name": "Environmental Earth Systems Science (GEOS) Year 4",
+        "file": "Environmental Earth Systems Science (GEOS) Year 4.json"
+    },
+    {
+        "name": "Environmental Earth Systems Science (SOES) Year 2",
+        "file": "Environmental Earth Systems Science (SOES) Year 2.json"
+    },
+    {
+        "name": "Environmental Earth Systems Science (SOES) Year 3",
+        "file": "Environmental Earth Systems Science (SOES) Year 3.json"
+    },
+    {
+        "name": "Environmental Earth Systems Science (SOES) Year 4",
+        "file": "Environmental Earth Systems Science (SOES) Year 4.json"
+    },
+    {
+        "name": "English Literature And Art History Year 1",
+        "file": "English Literature And Art History Year 1.json"
+    },
+    {
+        "name": "English Literature And Art History Year 2",
+        "file": "English Literature And Art History Year 2.json"
+    },
+    {
+        "name": "English Literature And Art History Year 3",
+        "file": "English Literature And Art History Year 3.json"
+    },
+    {
+        "name": "English Literature And Art History Year 4",
+        "file": "English Literature And Art History Year 4.json"
+    },
+    {
+        "name": "English Year 1",
+        "file": "English Year 1.json"
+    },
+    {
+        "name": "English Year 2",
+        "file": "English Year 2.json"
+    },
+    {
+        "name": "English Year 3",
+        "file": "English Year 3.json"
+    },
+    {
+        "name": "English Year 4",
+        "file": "English Year 4.json"
+    },
+    {
+        "name": "English And History Year 1",
+        "file": "English And History Year 1.json"
+    },
+    {
+        "name": "English And History Year 2",
+        "file": "English And History Year 2.json"
+    },
+    {
+        "name": "English And History Year 3",
+        "file": "English And History Year 3.json"
+    },
+    {
+        "name": "English And History Year 4",
+        "file": "English And History Year 4.json"
+    },
+    {
+        "name": "English And Philosophy Year 1",
+        "file": "English And Philosophy Year 1.json"
+    },
+    {
+        "name": "English And Philosophy Year 2",
+        "file": "English And Philosophy Year 2.json"
+    },
+    {
+        "name": "English And Philosophy Year 3",
+        "file": "English And Philosophy Year 3.json"
+    },
+    {
+        "name": "English And Philosophy Year 4",
+        "file": "English And Philosophy Year 4.json"
+    },
+    {
+        "name": "Environmental Engineering Year 1",
+        "file": "Environmental Engineering Year 1.json"
+    },
+    {
+        "name": "Environmental Engineering Year 2",
+        "file": "Environmental Engineering Year 2.json"
+    },
+    {
+        "name": "Environmental Engineering Year 3",
+        "file": "Environmental Engineering Year 3.json"
+    },
+    {
+        "name": "Environmental Engineering Year 4",
+        "file": "Environmental Engineering Year 4.json"
+    },
+    {
+        "name": "Engineering Year 1",
+        "file": "Engineering Year 1.json"
+    },
+    {
+        "name": "Engineering (CEE) Year 1",
+        "file": "Engineering (CEE) Year 1.json"
+    },
+    {
+        "name": "Engineering (EEE) Year 1",
+        "file": "Engineering (EEE) Year 1.json"
+    },
+    {
+        "name": "Engineering (ENE) Year 1",
+        "file": "Engineering (ENE) Year 1.json"
+    },
+    {
+        "name": "Engineering (ME) Year 1",
+        "file": "Engineering (ME) Year 1.json"
+    },
+    {
+        "name": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 1",
+        "file": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 1.json"
+    },
+    {
+        "name": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 2",
+        "file": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 2.json"
+    },
+    {
+        "name": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3",
+        "file": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 3.json"
+    },
+    {
+        "name": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 4",
+        "file": "Environmental Earth Systems Science And Public Policy & Global Affairs Year 4.json"
+    },
+    {
+        "name": "History Year 1",
+        "file": "History Year 1.json"
+    },
+    {
+        "name": "History Year 2",
+        "file": "History Year 2.json"
+    },
+    {
+        "name": "History Year 3",
+        "file": "History Year 3.json"
+    },
+    {
+        "name": "History Year 4",
+        "file": "History Year 4.json"
+    },
+    {
+        "name": "History And Chinese Year 1",
+        "file": "History And Chinese Year 1.json"
+    },
+    {
+        "name": "History And Chinese Year 2",
+        "file": "History And Chinese Year 2.json"
+    },
+    {
+        "name": "History And Chinese Year 3",
+        "file": "History And Chinese Year 3.json"
+    },
+    {
+        "name": "History And Chinese Year 4",
+        "file": "History And Chinese Year 4.json"
+    },
+    {
+        "name": "History And Linguistics & Multilingual Studies Year 1",
+        "file": "History And Linguistics & Multilingual Studies Year 1.json"
+    },
+    {
+        "name": "History And Linguistics & Multilingual Studies Year 2",
+        "file": "History And Linguistics & Multilingual Studies Year 2.json"
+    },
+    {
+        "name": "History And Linguistics & Multilingual Studies Year 3",
+        "file": "History And Linguistics & Multilingual Studies Year 3.json"
+    },
+    {
+        "name": "History And Linguistics & Multilingual Studies Year 4",
+        "file": "History And Linguistics & Multilingual Studies Year 4.json"
+    },
+    {
+        "name": "Information Engineering & Media Year 1",
+        "file": "Information Engineering & Media Year 1.json"
+    },
+    {
+        "name": "Information Engineering & Media Year 2",
+        "file": "Information Engineering & Media Year 2.json"
+    },
+    {
+        "name": "Information Engineering & Media Year 3",
+        "file": "Information Engineering & Media Year 3.json"
+    },
+    {
+        "name": "Information Engineering & Media Year 4",
+        "file": "Information Engineering & Media Year 4.json"
+    },
+    {
+        "name": "Linguistics & Multilingual Studies And English Year 1",
+        "file": "Linguistics & Multilingual Studies And English Year 1.json"
+    },
+    {
+        "name": "Linguistics & Multilingual Studies And English Year 2",
+        "file": "Linguistics & Multilingual Studies And English Year 2.json"
+    },
+    {
+        "name": "Linguistics & Multilingual Studies And English Year 3",
+        "file": "Linguistics & Multilingual Studies And English Year 3.json"
+    },
+    {
+        "name": "Linguistics & Multilingual Studies And English Year 4",
+        "file": "Linguistics & Multilingual Studies And English Year 4.json"
+    },
+    {
+        "name": "Linguistics & Multilingual Studies And Philosophy Year 1",
+        "file": "Linguistics & Multilingual Studies And Philosophy Year 1.json"
+    },
+    {
+        "name": "Linguistics & Multilingual Studies And Philosophy Year 2",
+        "file": "Linguistics & Multilingual Studies And Philosophy Year 2.json"
+    },
+    {
+        "name": "Linguistics & Multilingual Studies And Philosophy Year 3",
+        "file": "Linguistics & Multilingual Studies And Philosophy Year 3.json"
+    },
+    {
+        "name": "Linguistics & Multilingual Studies And Philosophy Year 4",
+        "file": "Linguistics & Multilingual Studies And Philosophy Year 4.json"
+    },
+    {
+        "name": "Linguistics & Multilingual Studies Year 1",
+        "file": "Linguistics & Multilingual Studies Year 1.json"
+    },
+    {
+        "name": "Linguistics & Multilingual Studies Year 2",
+        "file": "Linguistics & Multilingual Studies Year 2.json"
+    },
+    {
+        "name": "Linguistics & Multilingual Studies Year 3",
+        "file": "Linguistics & Multilingual Studies Year 3.json"
+    },
+    {
+        "name": "Linguistics & Multilingual Studies Year 4",
+        "file": "Linguistics & Multilingual Studies Year 4.json"
+    },
+    {
+        "name": "Mathematical And Computer Sciences Year 1",
+        "file": "Mathematical And Computer Sciences Year 1.json"
+    },
+    {
+        "name": "Mathematical And Computer Sciences Year 2",
+        "file": "Mathematical And Computer Sciences Year 2.json"
+    },
+    {
+        "name": "Mathematical And Computer Sciences Year 3",
+        "file": "Mathematical And Computer Sciences Year 3.json"
+    },
+    {
+        "name": "Mathematical And Computer Sciences Year 4",
+        "file": "Mathematical And Computer Sciences Year 4.json"
+    },
+    {
+        "name": "Mathematics & Economics Year 1",
+        "file": "Mathematics & Economics Year 1.json"
+    },
+    {
+        "name": "Mathematics & Economics Year 2",
+        "file": "Mathematics & Economics Year 2.json"
+    },
+    {
+        "name": "Mathematics & Economics Year 3",
+        "file": "Mathematics & Economics Year 3.json"
+    },
+    {
+        "name": "Mathematics & Economics Year 4",
+        "file": "Mathematics & Economics Year 4.json"
+    },
+    {
+        "name": "Mathematical Sciences And Economics Year 1",
+        "file": "Mathematical Sciences And Economics Year 1.json"
+    },
+    {
+        "name": "Mathematical Sciences And Economics Year 2",
+        "file": "Mathematical Sciences And Economics Year 2.json"
+    },
+    {
+        "name": "Mathematical Sciences And Economics Year 3",
+        "file": "Mathematical Sciences And Economics Year 3.json"
+    },
+    {
+        "name": "Mathematical Sciences And Economics Year 4",
+        "file": "Mathematical Sciences And Economics Year 4.json"
+    },
+    {
+        "name": "Mathematical Sciences And Economics (AMAS) Year 2",
+        "file": "Mathematical Sciences And Economics (AMAS) Year 2.json"
+    },
+    {
+        "name": "Mathematical Sciences And Economics (AMAS) Year 3",
+        "file": "Mathematical Sciences And Economics (AMAS) Year 3.json"
+    },
+    {
+        "name": "Mathematical Sciences And Economics (AMAS) Year 4",
+        "file": "Mathematical Sciences And Economics (AMAS) Year 4.json"
+    },
+    {
+        "name": "Mathematical Sciences And Economics (BA) Year 2",
+        "file": "Mathematical Sciences And Economics (BA) Year 2.json"
+    },
+    {
+        "name": "Mathematical Sciences And Economics (BA) Year 3",
+        "file": "Mathematical Sciences And Economics (BA) Year 3.json"
+    },
+    {
+        "name": "Mathematical Sciences And Economics (BA) Year 4",
+        "file": "Mathematical Sciences And Economics (BA) Year 4.json"
+    },
+    {
+        "name": "Mathematical Sciences And Economics (PMAS) Year 2",
+        "file": "Mathematical Sciences And Economics (PMAS) Year 2.json"
+    },
+    {
+        "name": "Mathematical Sciences And Economics (PMAS) Year 3",
+        "file": "Mathematical Sciences And Economics (PMAS) Year 3.json"
+    },
+    {
+        "name": "Mathematical Sciences And Economics (PMAS) Year 4",
+        "file": "Mathematical Sciences And Economics (PMAS) Year 4.json"
+    },
+    {
+        "name": "Mathematical Sciences And Economics (STAT) Year 2",
+        "file": "Mathematical Sciences And Economics (STAT) Year 2.json"
+    },
+    {
+        "name": "Mathematical Sciences And Economics (STAT) Year 3",
+        "file": "Mathematical Sciences And Economics (STAT) Year 3.json"
+    },
+    {
+        "name": "Mathematical Sciences And Economics (STAT) Year 4",
+        "file": "Mathematical Sciences And Economics (STAT) Year 4.json"
+    },
+    {
+        "name": "Materials Engineering Year 1",
+        "file": "Materials Engineering Year 1.json"
+    },
+    {
+        "name": "Materials Engineering Year 2",
+        "file": "Materials Engineering Year 2.json"
+    },
+    {
+        "name": "Materials Engineering Year 3",
+        "file": "Materials Engineering Year 3.json"
+    },
+    {
+        "name": "Materials Engineering Year 4",
+        "file": "Materials Engineering Year 4.json"
+    },
+    {
+        "name": "Mathematical Sciences Year 1",
+        "file": "Mathematical Sciences Year 1.json"
+    },
+    {
+        "name": "Mathematical Sciences Year 2",
+        "file": "Mathematical Sciences Year 2.json"
+    },
+    {
+        "name": "Mathematical Sciences Year 3",
+        "file": "Mathematical Sciences Year 3.json"
+    },
+    {
+        "name": "Mathematical Sciences Year 4",
+        "file": "Mathematical Sciences Year 4.json"
+    },
+    {
+        "name": "Mathematical Sciences (AMAS) Year 1",
+        "file": "Mathematical Sciences (AMAS) Year 1.json"
+    },
+    {
+        "name": "Mathematical Sciences (AMAS) Year 2",
+        "file": "Mathematical Sciences (AMAS) Year 2.json"
+    },
+    {
+        "name": "Mathematical Sciences (AMAS) Year 3",
+        "file": "Mathematical Sciences (AMAS) Year 3.json"
+    },
+    {
+        "name": "Mathematical Sciences (AMAS) Year 4",
+        "file": "Mathematical Sciences (AMAS) Year 4.json"
+    },
+    {
+        "name": "Mathematical Sciences (BA) Year 1",
+        "file": "Mathematical Sciences (BA) Year 1.json"
+    },
+    {
+        "name": "Mathematical Sciences (BA) Year 2",
+        "file": "Mathematical Sciences (BA) Year 2.json"
+    },
+    {
+        "name": "Mathematical Sciences (BA) Year 3",
+        "file": "Mathematical Sciences (BA) Year 3.json"
+    },
+    {
+        "name": "Mathematical Sciences (BA) Year 4",
+        "file": "Mathematical Sciences (BA) Year 4.json"
+    },
+    {
+        "name": "Mathematical Sciences (PMAS) Year 1",
+        "file": "Mathematical Sciences (PMAS) Year 1.json"
+    },
+    {
+        "name": "Mathematical Sciences (PMAS) Year 2",
+        "file": "Mathematical Sciences (PMAS) Year 2.json"
+    },
+    {
+        "name": "Mathematical Sciences (PMAS) Year 3",
+        "file": "Mathematical Sciences (PMAS) Year 3.json"
+    },
+    {
+        "name": "Mathematical Sciences (PMAS) Year 4",
+        "file": "Mathematical Sciences (PMAS) Year 4.json"
+    },
+    {
+        "name": "Mathematical Sciences (STAT) Year 1",
+        "file": "Mathematical Sciences (STAT) Year 1.json"
+    },
+    {
+        "name": "Mathematical Sciences (STAT) Year 2",
+        "file": "Mathematical Sciences (STAT) Year 2.json"
+    },
+    {
+        "name": "Mathematical Sciences (STAT) Year 3",
+        "file": "Mathematical Sciences (STAT) Year 3.json"
+    },
+    {
+        "name": "Mathematical Sciences (STAT) Year 4",
+        "file": "Mathematical Sciences (STAT) Year 4.json"
+    },
+    {
+        "name": "Mechanical Engineering Year 2",
+        "file": "Mechanical Engineering Year 2.json"
+    },
+    {
+        "name": "Mechanical Engineering Year 3",
+        "file": "Mechanical Engineering Year 3.json"
+    },
+    {
+        "name": "Mechanical Engineering Year 4",
+        "file": "Mechanical Engineering Year 4.json"
+    },
+    {
+        "name": "Mechanical Engineering (DES) Year 2",
+        "file": "Mechanical Engineering (DES) Year 2.json"
+    },
+    {
+        "name": "Mechanical Engineering (DES) Year 3",
+        "file": "Mechanical Engineering (DES) Year 3.json"
+    },
+    {
+        "name": "Mechanical Engineering (DES) Year 4",
+        "file": "Mechanical Engineering (DES) Year 4.json"
+    },
+    {
+        "name": "Mechanical Engineering (IMS) Year 2",
+        "file": "Mechanical Engineering (IMS) Year 2.json"
+    },
+    {
+        "name": "Mechanical Engineering (IMS) Year 3",
+        "file": "Mechanical Engineering (IMS) Year 3.json"
+    },
+    {
+        "name": "Mechanical Engineering (IMS) Year 4",
+        "file": "Mechanical Engineering (IMS) Year 4.json"
+    },
+    {
+        "name": "Mechanical Engineering (RMS) Year 2",
+        "file": "Mechanical Engineering (RMS) Year 2.json"
+    },
+    {
+        "name": "Mechanical Engineering (RMS) Year 3",
+        "file": "Mechanical Engineering (RMS) Year 3.json"
+    },
+    {
+        "name": "Mechanical Engineering (RMS) Year 4",
+        "file": "Mechanical Engineering (RMS) Year 4.json"
+    },
+    {
+        "name": "Maritime Studies Year 1",
+        "file": "Maritime Studies Year 1.json"
+    },
+    {
+        "name": "Maritime Studies Year 2",
+        "file": "Maritime Studies Year 2.json"
+    },
+    {
+        "name": "Maritime Studies Year 3",
+        "file": "Maritime Studies Year 3.json"
+    },
+    {
+        "name": "Maritime Studies Year 4",
+        "file": "Maritime Studies Year 4.json"
+    },
+    {
+        "name": "Maritime Studies (ITG) Year 1",
+        "file": "Maritime Studies (ITG) Year 1.json"
+    },
+    {
+        "name": "Maritime Studies (ITG) Year 2",
+        "file": "Maritime Studies (ITG) Year 2.json"
+    },
+    {
+        "name": "Maritime Studies (ITG) Year 3",
+        "file": "Maritime Studies (ITG) Year 3.json"
+    },
+    {
+        "name": "Maritime Studies (ITG) Year 4",
+        "file": "Maritime Studies (ITG) Year 4.json"
+    },
+    {
+        "name": "Maritime Studies (MSB) Year 1",
+        "file": "Maritime Studies (MSB) Year 1.json"
+    },
+    {
+        "name": "Maritime Studies (MSB) Year 2",
+        "file": "Maritime Studies (MSB) Year 2.json"
+    },
+    {
+        "name": "Maritime Studies (MSB) Year 3",
+        "file": "Maritime Studies (MSB) Year 3.json"
+    },
+    {
+        "name": "Maritime Studies (MSB) Year 4",
+        "file": "Maritime Studies (MSB) Year 4.json"
+    },
+    {
+        "name": "Process Engineering And Synthetic Chemistry Year 1",
+        "file": "Process Engineering And Synthetic Chemistry Year 1.json"
+    },
+    {
+        "name": "Philosophy Year 1",
+        "file": "Philosophy Year 1.json"
+    },
+    {
+        "name": "Philosophy Year 2",
+        "file": "Philosophy Year 2.json"
+    },
+    {
+        "name": "Philosophy Year 3",
+        "file": "Philosophy Year 3.json"
+    },
+    {
+        "name": "Philosophy Year 4",
+        "file": "Philosophy Year 4.json"
+    },
+    {
+        "name": "Physics And Mathematical Sciences Year 1",
+        "file": "Physics And Mathematical Sciences Year 1.json"
+    },
+    {
+        "name": "Physics And Mathematical Sciences Year 2",
+        "file": "Physics And Mathematical Sciences Year 2.json"
+    },
+    {
+        "name": "Physics And Mathematical Sciences Year 3",
+        "file": "Physics And Mathematical Sciences Year 3.json"
+    },
+    {
+        "name": "Physics And Mathematical Sciences Year 4",
+        "file": "Physics And Mathematical Sciences Year 4.json"
+    },
+    {
+        "name": "Physics and Applied Physics Year 1",
+        "file": "Physics and Applied Physics Year 1.json"
+    },
+    {
+        "name": "Physics and Applied Physics Year 2",
+        "file": "Physics and Applied Physics Year 2.json"
+    },
+    {
+        "name": "Physics and Applied Physics (APHY) Year 1",
+        "file": "Physics and Applied Physics (APHY) Year 1.json"
+    },
+    {
+        "name": "Physics and Applied Physics (APHY) Year 2",
+        "file": "Physics and Applied Physics (APHY) Year 2.json"
+    },
+    {
+        "name": "Physics and Applied Physics (APHY) Year 3",
+        "file": "Physics and Applied Physics (APHY) Year 3.json"
+    },
+    {
+        "name": "Physics and Applied Physics (APHY) Year 4",
+        "file": "Physics and Applied Physics (APHY) Year 4.json"
+    },
+    {
+        "name": "Physics and Applied Physics (PPHY) Year 1",
+        "file": "Physics and Applied Physics (PPHY) Year 1.json"
+    },
+    {
+        "name": "Physics and Applied Physics (PPHY) Year 2",
+        "file": "Physics and Applied Physics (PPHY) Year 2.json"
+    },
+    {
+        "name": "Physics and Applied Physics (PPHY) Year 3",
+        "file": "Physics and Applied Physics (PPHY) Year 3.json"
+    },
+    {
+        "name": "Physics and Applied Physics (PPHY) Year 4",
+        "file": "Physics and Applied Physics (PPHY) Year 4.json"
+    },
+    {
+        "name": "Philosophy And Chinese Year 1",
+        "file": "Philosophy And Chinese Year 1.json"
+    },
+    {
+        "name": "Philosophy And Chinese Year 2",
+        "file": "Philosophy And Chinese Year 2.json"
+    },
+    {
+        "name": "Philosophy And Chinese Year 3",
+        "file": "Philosophy And Chinese Year 3.json"
+    },
+    {
+        "name": "Philosophy And Chinese Year 4",
+        "file": "Philosophy And Chinese Year 4.json"
+    },
+    {
+        "name": "Philosophy And History Year 1",
+        "file": "Philosophy And History Year 1.json"
+    },
+    {
+        "name": "Philosophy And History Year 2",
+        "file": "Philosophy And History Year 2.json"
+    },
+    {
+        "name": "Philosophy And History Year 3",
+        "file": "Philosophy And History Year 3.json"
+    },
+    {
+        "name": "Philosophy And History Year 4",
+        "file": "Philosophy And History Year 4.json"
+    },
+    {
+        "name": "Public Policy & Global Affairs Year 1",
+        "file": "Public Policy & Global Affairs Year 1.json"
+    },
+    {
+        "name": "Public Policy & Global Affairs Year 2",
+        "file": "Public Policy & Global Affairs Year 2.json"
+    },
+    {
+        "name": "Public Policy & Global Affairs Year 3",
+        "file": "Public Policy & Global Affairs Year 3.json"
+    },
+    {
+        "name": "Public Policy & Global Affairs Year 4",
+        "file": "Public Policy & Global Affairs Year 4.json"
+    },
+    {
+        "name": "Psychology And Linguistics & Multilingual Studies Year 1",
+        "file": "Psychology And Linguistics & Multilingual Studies Year 1.json"
+    },
+    {
+        "name": "Psychology And Linguistics & Multilingual Studies Year 2",
+        "file": "Psychology And Linguistics & Multilingual Studies Year 2.json"
+    },
+    {
+        "name": "Psychology And Linguistics & Multilingual Studies Year 3",
+        "file": "Psychology And Linguistics & Multilingual Studies Year 3.json"
+    },
+    {
+        "name": "Psychology And Linguistics & Multilingual Studies Year 4",
+        "file": "Psychology And Linguistics & Multilingual Studies Year 4.json"
+    },
+    {
+        "name": "Psychology And Media Analytics Year 1",
+        "file": "Psychology And Media Analytics Year 1.json"
+    },
+    {
+        "name": "Psychology And Media Analytics Year 2",
+        "file": "Psychology And Media Analytics Year 2.json"
+    },
+    {
+        "name": "Psychology And Media Analytics Year 3",
+        "file": "Psychology And Media Analytics Year 3.json"
+    },
+    {
+        "name": "Psychology And Media Analytics Year 4",
+        "file": "Psychology And Media Analytics Year 4.json"
+    },
+    {
+        "name": "Psychology Year 1",
+        "file": "Psychology Year 1.json"
+    },
+    {
+        "name": "Psychology Year 2",
+        "file": "Psychology Year 2.json"
+    },
+    {
+        "name": "Psychology Year 3",
+        "file": "Psychology Year 3.json"
+    },
+    {
+        "name": "Psychology Year 4",
+        "file": "Psychology Year 4.json"
+    },
+    {
+        "name": "Renaissance Engineering Year 1",
+        "file": "Renaissance Engineering Year 1.json"
+    },
+    {
+        "name": "Renaissance Engineering (ASEN) Year 2",
+        "file": "Renaissance Engineering (ASEN) Year 2.json"
+    },
+    {
+        "name": "Renaissance Engineering (ASEN) Year 3",
+        "file": "Renaissance Engineering (ASEN) Year 3.json"
+    },
+    {
+        "name": "Renaissance Engineering (ASEN) Year 4",
+        "file": "Renaissance Engineering (ASEN) Year 4.json"
+    },
+    {
+        "name": "Renaissance Engineering (BIE) Year 2",
+        "file": "Renaissance Engineering (BIE) Year 2.json"
+    },
+    {
+        "name": "Renaissance Engineering (BIE) Year 3",
+        "file": "Renaissance Engineering (BIE) Year 3.json"
+    },
+    {
+        "name": "Renaissance Engineering (BIE) Year 4",
+        "file": "Renaissance Engineering (BIE) Year 4.json"
+    },
+    {
+        "name": "Renaissance Engineering (CBE) Year 2",
+        "file": "Renaissance Engineering (CBE) Year 2.json"
+    },
+    {
+        "name": "Renaissance Engineering (CBE) Year 3",
+        "file": "Renaissance Engineering (CBE) Year 3.json"
+    },
+    {
+        "name": "Renaissance Engineering (CBE) Year 4",
+        "file": "Renaissance Engineering (CBE) Year 4.json"
+    },
+    {
+        "name": "Renaissance Engineering (CE) Year 2",
+        "file": "Renaissance Engineering (CE) Year 2.json"
+    },
+    {
+        "name": "Renaissance Engineering (CE) Year 3",
+        "file": "Renaissance Engineering (CE) Year 3.json"
+    },
+    {
+        "name": "Renaissance Engineering (CE) Year 4",
+        "file": "Renaissance Engineering (CE) Year 4.json"
+    },
+    {
+        "name": "Renaissance Engineering (CSC) Year 2",
+        "file": "Renaissance Engineering (CSC) Year 2.json"
+    },
+    {
+        "name": "Renaissance Engineering (CSC) Year 3",
+        "file": "Renaissance Engineering (CSC) Year 3.json"
+    },
+    {
+        "name": "Renaissance Engineering (CSC) Year 4",
+        "file": "Renaissance Engineering (CSC) Year 4.json"
+    },
+    {
+        "name": "Renaissance Engineering (CVEN) Year 2",
+        "file": "Renaissance Engineering (CVEN) Year 2.json"
+    },
+    {
+        "name": "Renaissance Engineering (CVEN) Year 3",
+        "file": "Renaissance Engineering (CVEN) Year 3.json"
+    },
+    {
+        "name": "Renaissance Engineering (CVEN) Year 4",
+        "file": "Renaissance Engineering (CVEN) Year 4.json"
+    },
+    {
+        "name": "Renaissance Engineering (EEE) Year 2",
+        "file": "Renaissance Engineering (EEE) Year 2.json"
+    },
+    {
+        "name": "Renaissance Engineering (EEE) Year 3",
+        "file": "Renaissance Engineering (EEE) Year 3.json"
+    },
+    {
+        "name": "Renaissance Engineering (EEE) Year 4",
+        "file": "Renaissance Engineering (EEE) Year 4.json"
+    },
+    {
+        "name": "Renaissance Engineering (ENE) Year 2",
+        "file": "Renaissance Engineering (ENE) Year 2.json"
+    },
+    {
+        "name": "Renaissance Engineering (ENE) Year 3",
+        "file": "Renaissance Engineering (ENE) Year 3.json"
+    },
+    {
+        "name": "Renaissance Engineering (ENE) Year 4",
+        "file": "Renaissance Engineering (ENE) Year 4.json"
+    },
+    {
+        "name": "Renaissance Engineering (IEM) Year 4",
+        "file": "Renaissance Engineering (IEM) Year 4.json"
+    },
+    {
+        "name": "Renaissance Engineering (MAT) Year 2",
+        "file": "Renaissance Engineering (MAT) Year 2.json"
+    },
+    {
+        "name": "Renaissance Engineering (MAT) Year 3",
+        "file": "Renaissance Engineering (MAT) Year 3.json"
+    },
+    {
+        "name": "Renaissance Engineering (MAT) Year 4",
+        "file": "Renaissance Engineering (MAT) Year 4.json"
+    },
+    {
+        "name": "Renaissance Engineering (ME) Year 2",
+        "file": "Renaissance Engineering (ME) Year 2.json"
+    },
+    {
+        "name": "Renaissance Engineering (ME) Year 3",
+        "file": "Renaissance Engineering (ME) Year 3.json"
+    },
+    {
+        "name": "Renaissance Engineering (ME) Year 4",
+        "file": "Renaissance Engineering (ME) Year 4.json"
+    },
+    {
+        "name": "Robotics Year 1",
+        "file": "Robotics Year 1.json"
+    },
+    {
+        "name": "Robotics Year 2",
+        "file": "Robotics Year 2.json"
+    },
+    {
+        "name": "Robotics Year 3",
+        "file": "Robotics Year 3.json"
+    },
+    {
+        "name": "Robotics Year 4",
+        "file": "Robotics Year 4.json"
+    },
+    {
+        "name": "Sociology Year 1",
+        "file": "Sociology Year 1.json"
+    },
+    {
+        "name": "Sociology Year 2",
+        "file": "Sociology Year 2.json"
+    },
+    {
+        "name": "Sociology Year 3",
+        "file": "Sociology Year 3.json"
+    },
+    {
+        "name": "Sociology Year 4",
+        "file": "Sociology Year 4.json"
+    },
+    {
+        "name": "Philosophy, Politics, & Economics Year 1",
+        "file": "Philosophy, Politics, & Economics Year 1.json"
+    },
+    {
+        "name": "Philosophy, Politics, & Economics Year 2",
+        "file": "Philosophy, Politics, & Economics Year 2.json"
+    },
+    {
+        "name": "Philosophy, Politics, & Economics Year 3",
+        "file": "Philosophy, Politics, & Economics Year 3.json"
+    },
+    {
+        "name": "Philosophy, Politics, & Economics Year 4",
+        "file": "Philosophy, Politics, & Economics Year 4.json"
+    },
+    {
+        "name": "Sport Science & Management Year 1",
+        "file": "Sport Science & Management Year 1.json"
+    },
+    {
+        "name": "Accountancy And Business (ACS) Year 2",
+        "file": "Accountancy And Business (ACS) Year 2.json"
+    },
+    {
+        "name": "Accountancy And Business (ACS) Year 4",
+        "file": "Accountancy And Business (ACS) Year 4.json"
+    },
+    {
+        "name": "Accountancy And Business (AWM) Year 2",
+        "file": "Accountancy And Business (AWM) Year 2.json"
+    },
+    {
+        "name": "Accountancy And Business (AWM) Year 3",
+        "file": "Accountancy And Business (AWM) Year 3.json"
+    },
+    {
+        "name": "Accountancy And Business (AWM) Year 4",
+        "file": "Accountancy And Business (AWM) Year 4.json"
+    },
+    {
+        "name": "Accountancy And Business (BA) Year 2",
+        "file": "Accountancy And Business (BA) Year 2.json"
+    },
+    {
+        "name": "Accountancy And Business (BA) Year 3",
+        "file": "Accountancy And Business (BA) Year 3.json"
+    },
+    {
+        "name": "Accountancy And Business (BA) Year 4",
+        "file": "Accountancy And Business (BA) Year 4.json"
+    },
+    {
+        "name": "Accountancy And Business (BAF) Year 2",
+        "file": "Accountancy And Business (BAF) Year 2.json"
+    },
+    {
+        "name": "Accountancy And Business (BAF) Year 3",
+        "file": "Accountancy And Business (BAF) Year 3.json"
+    },
+    {
+        "name": "Accountancy And Business (BAF) Year 4",
+        "file": "Accountancy And Business (BAF) Year 4.json"
+    },
+    {
+        "name": "Accountancy And Business (GA) Year 1",
+        "file": "Accountancy And Business (GA) Year 1.json"
+    },
+    {
+        "name": "Accountancy And Business (GA) Year 2",
+        "file": "Accountancy And Business (GA) Year 2.json"
+    },
+    {
+        "name": "Accountancy And Business (GA) Year 3",
+        "file": "Accountancy And Business (GA) Year 3.json"
+    },
+    {
+        "name": "Accountancy And Business (GA) Year 4",
+        "file": "Accountancy And Business (GA) Year 4.json"
+    },
+    {
+        "name": "Accountancy And Business (GB) Year 1",
+        "file": "Accountancy And Business (GB) Year 1.json"
+    },
+    {
+        "name": "Accountancy And Business (GB) Year 2",
+        "file": "Accountancy And Business (GB) Year 2.json"
+    },
+    {
+        "name": "Accountancy And Business (GB) Year 3",
+        "file": "Accountancy And Business (GB) Year 3.json"
+    },
+    {
+        "name": "Accountancy And Business (GB) Year 4",
+        "file": "Accountancy And Business (GB) Year 4.json"
+    },
+    {
+        "name": "Accountancy And Business (HRC) Year 2",
+        "file": "Accountancy And Business (HRC) Year 2.json"
+    },
+    {
+        "name": "Accountancy And Business (HRC) Year 3",
+        "file": "Accountancy And Business (HRC) Year 3.json"
+    },
+    {
+        "name": "Accountancy And Business (HRC) Year 4",
+        "file": "Accountancy And Business (HRC) Year 4.json"
+    },
+    {
+        "name": "Accountancy And Business (ITT) Year 2",
+        "file": "Accountancy And Business (ITT) Year 2.json"
+    },
+    {
+        "name": "Accountancy And Business (ITT) Year 3",
+        "file": "Accountancy And Business (ITT) Year 3.json"
+    },
+    {
+        "name": "Accountancy And Business (ITT) Year 4",
+        "file": "Accountancy And Business (ITT) Year 4.json"
+    },
+    {
+        "name": "Accountancy And Business (MKG) Year 2",
+        "file": "Accountancy And Business (MKG) Year 2.json"
+    },
+    {
+        "name": "Accountancy And Business (MKG) Year 3",
+        "file": "Accountancy And Business (MKG) Year 3.json"
+    },
+    {
+        "name": "Accountancy And Business (MKG) Year 4",
+        "file": "Accountancy And Business (MKG) Year 4.json"
+    },
+    {
+        "name": "Accountancy And Business (PBL) Year 2",
+        "file": "Accountancy And Business (PBL) Year 2.json"
+    },
+    {
+        "name": "Accountancy And Business (PBL) Year 3",
+        "file": "Accountancy And Business (PBL) Year 3.json"
+    },
+    {
+        "name": "Accountancy And Business (PBL) Year 4",
+        "file": "Accountancy And Business (PBL) Year 4.json"
+    },
+    {
+        "name": "Accountancy And Business (RA) Year 2",
+        "file": "Accountancy And Business (RA) Year 2.json"
+    },
+    {
+        "name": "Accountancy And Business (RA) Year 3",
+        "file": "Accountancy And Business (RA) Year 3.json"
+    },
+    {
+        "name": "Accountancy And Business (RA) Year 4",
+        "file": "Accountancy And Business (RA) Year 4.json"
+    },
+    {
+        "name": "Accountancy And Business (RMI) Year 2",
+        "file": "Accountancy And Business (RMI) Year 2.json"
+    },
+    {
+        "name": "Accountancy And Business (RMI) Year 3",
+        "file": "Accountancy And Business (RMI) Year 3.json"
+    },
+    {
+        "name": "Accountancy And Business (RMI) Year 4",
+        "file": "Accountancy And Business (RMI) Year 4.json"
+    },
+    {
+        "name": "Accountancy And Data Science & Artificial Intelligence Year 1",
+        "file": "Accountancy And Data Science & Artificial Intelligence Year 1.json"
+    },
+    {
+        "name": "Accountancy And Data Science & Artificial Intelligence Year 2",
+        "file": "Accountancy And Data Science & Artificial Intelligence Year 2.json"
+    },
+    {
+        "name": "Accountancy And Data Science & Artificial Intelligence Year 3",
+        "file": "Accountancy And Data Science & Artificial Intelligence Year 3.json"
+    },
+    {
+        "name": "Accountancy And Data Science & Artificial Intelligence Year 4",
+        "file": "Accountancy And Data Science & Artificial Intelligence Year 4.json"
+    },
+    {
+        "name": "Accountancy And Data Science & Artificial Intelligence Year 5",
+        "file": "Accountancy And Data Science & Artificial Intelligence Year 5.json"
+    },
+    {
+        "name": "Accountancy And Data Science & Artificial Intelligence (GA) Year 1",
+        "file": "Accountancy And Data Science & Artificial Intelligence (GA) Year 1.json"
+    },
+    {
+        "name": "Accountancy And Data Science & Artificial Intelligence (GA) Year 2",
+        "file": "Accountancy And Data Science & Artificial Intelligence (GA) Year 2.json"
+    },
+    {
+        "name": "Accountancy And Data Science & Artificial Intelligence (GB) Year 1",
+        "file": "Accountancy And Data Science & Artificial Intelligence (GB) Year 1.json"
+    },
+    {
+        "name": "Accountancy And Data Science & Artificial Intelligence (GB) Year 2",
+        "file": "Accountancy And Data Science & Artificial Intelligence (GB) Year 2.json"
+    },
+    {
+        "name": "Aerospace Engineering And Economics Year 1",
+        "file": "Aerospace Engineering And Economics Year 1.json"
+    },
+    {
+        "name": "Aerospace Engineering And Economics Year 2",
+        "file": "Aerospace Engineering And Economics Year 2.json"
+    },
+    {
+        "name": "Aerospace Engineering And Economics Year 3",
+        "file": "Aerospace Engineering And Economics Year 3.json"
+    },
+    {
+        "name": "Aerospace Engineering And Economics Year 4",
+        "file": "Aerospace Engineering And Economics Year 4.json"
+    },
+    {
+        "name": "Aerospace Engineering And Economics Year 5",
+        "file": "Aerospace Engineering And Economics Year 5.json"
+    },
+    {
+        "name": "Business And Computer Engineering Year 1",
+        "file": "Business And Computer Engineering Year 1.json"
+    },
+    {
+        "name": "Business And Computer Engineering Year 4",
+        "file": "Business And Computer Engineering Year 4.json"
+    },
+    {
+        "name": "Business And Computing Year 1",
+        "file": "Business And Computing Year 1.json"
+    },
+    {
+        "name": "Business And Computing Year 2",
+        "file": "Business And Computing Year 2.json"
+    },
+    {
+        "name": "Business And Computing Year 3",
+        "file": "Business And Computing Year 3.json"
+    },
+    {
+        "name": "Business And Computing Year 4",
+        "file": "Business And Computing Year 4.json"
+    },
+    {
+        "name": "Bioengineering And Economics Year 1",
+        "file": "Bioengineering And Economics Year 1.json"
+    },
+    {
+        "name": "Bioengineering And Economics Year 2",
+        "file": "Bioengineering And Economics Year 2.json"
+    },
+    {
+        "name": "Bioengineering And Economics Year 3",
+        "file": "Bioengineering And Economics Year 3.json"
+    },
+    {
+        "name": "Bioengineering And Economics Year 4",
+        "file": "Bioengineering And Economics Year 4.json"
+    },
+    {
+        "name": "Bioengineering And Economics Year 5",
+        "file": "Bioengineering And Economics Year 5.json"
+    },
+    {
+        "name": "Chemical & Biomolecular Engineering And Economics Year 1",
+        "file": "Chemical & Biomolecular Engineering And Economics Year 1.json"
+    },
+    {
+        "name": "Chemical & Biomolecular Engineering And Economics Year 2",
+        "file": "Chemical & Biomolecular Engineering And Economics Year 2.json"
+    },
+    {
+        "name": "Chemical & Biomolecular Engineering And Economics Year 3",
+        "file": "Chemical & Biomolecular Engineering And Economics Year 3.json"
+    },
+    {
+        "name": "Chemical & Biomolecular Engineering And Economics Year 4",
+        "file": "Chemical & Biomolecular Engineering And Economics Year 4.json"
+    },
+    {
+        "name": "Chemical & Biomolecular Engineering And Economics Year 5",
+        "file": "Chemical & Biomolecular Engineering And Economics Year 5.json"
+    },
+    {
+        "name": "Computer Engineering And Economics Year 1",
+        "file": "Computer Engineering And Economics Year 1.json"
+    },
+    {
+        "name": "Computer Engineering And Economics Year 2",
+        "file": "Computer Engineering And Economics Year 2.json"
+    },
+    {
+        "name": "Computer Engineering And Economics Year 3",
+        "file": "Computer Engineering And Economics Year 3.json"
+    },
+    {
+        "name": "Computer Engineering And Economics Year 4",
+        "file": "Computer Engineering And Economics Year 4.json"
+    },
+    {
+        "name": "Computer Engineering And Economics Year 5",
+        "file": "Computer Engineering And Economics Year 5.json"
+    },
+    {
+        "name": "Computer Science And Economics Year 1",
+        "file": "Computer Science And Economics Year 1.json"
+    },
+    {
+        "name": "Computer Science And Economics Year 2",
+        "file": "Computer Science And Economics Year 2.json"
+    },
+    {
+        "name": "Computer Science And Economics Year 3",
+        "file": "Computer Science And Economics Year 3.json"
+    },
+    {
+        "name": "Computer Science And Economics Year 4",
+        "file": "Computer Science And Economics Year 4.json"
+    },
+    {
+        "name": "Computer Science And Economics Year 5",
+        "file": "Computer Science And Economics Year 5.json"
+    },
+    {
+        "name": "Civil Engineering And Economics Year 1",
+        "file": "Civil Engineering And Economics Year 1.json"
+    },
+    {
+        "name": "Civil Engineering And Economics Year 2",
+        "file": "Civil Engineering And Economics Year 2.json"
+    },
+    {
+        "name": "Civil Engineering And Economics Year 3",
+        "file": "Civil Engineering And Economics Year 3.json"
+    },
+    {
+        "name": "Civil Engineering And Economics Year 4",
+        "file": "Civil Engineering And Economics Year 4.json"
+    },
+    {
+        "name": "Civil Engineering And Economics Year 5",
+        "file": "Civil Engineering And Economics Year 5.json"
+    },
+    {
+        "name": "Electrical & Electronic Engineering And Economics Year 1",
+        "file": "Electrical & Electronic Engineering And Economics Year 1.json"
+    },
+    {
+        "name": "Electrical & Electronic Engineering And Economics Year 2",
+        "file": "Electrical & Electronic Engineering And Economics Year 2.json"
+    },
+    {
+        "name": "Electrical & Electronic Engineering And Economics Year 3",
+        "file": "Electrical & Electronic Engineering And Economics Year 3.json"
+    },
+    {
+        "name": "Electrical & Electronic Engineering And Economics Year 4",
+        "file": "Electrical & Electronic Engineering And Economics Year 4.json"
+    },
+    {
+        "name": "Environmental Engineering And Economics Year 1",
+        "file": "Environmental Engineering And Economics Year 1.json"
+    },
+    {
+        "name": "Environmental Engineering And Economics Year 2",
+        "file": "Environmental Engineering And Economics Year 2.json"
+    },
+    {
+        "name": "Environmental Engineering And Economics Year 3",
+        "file": "Environmental Engineering And Economics Year 3.json"
+    },
+    {
+        "name": "Environmental Engineering And Economics Year 4",
+        "file": "Environmental Engineering And Economics Year 4.json"
+    },
+    {
+        "name": "Environmental Engineering And Economics Year 5",
+        "file": "Environmental Engineering And Economics Year 5.json"
+    },
+    {
+        "name": "Information Engineering & Media And Economics Year 1",
+        "file": "Information Engineering & Media And Economics Year 1.json"
+    },
+    {
+        "name": "Information Engineering & Media And Economics Year 2",
+        "file": "Information Engineering & Media And Economics Year 2.json"
+    },
+    {
+        "name": "Information Engineering & Media And Economics Year 3",
+        "file": "Information Engineering & Media And Economics Year 3.json"
+    },
+    {
+        "name": "Information Engineering & Media And Economics Year 4",
+        "file": "Information Engineering & Media And Economics Year 4.json"
+    },
+    {
+        "name": "Information Engineering & Media And Economics Year 5",
+        "file": "Information Engineering & Media And Economics Year 5.json"
+    },
+    {
+        "name": "Mechanical Engineering And Economics Year 1",
+        "file": "Mechanical Engineering And Economics Year 1.json"
+    },
+    {
+        "name": "Mechanical Engineering And Economics Year 2",
+        "file": "Mechanical Engineering And Economics Year 2.json"
+    },
+    {
+        "name": "Mechanical Engineering And Economics Year 3",
+        "file": "Mechanical Engineering And Economics Year 3.json"
+    },
+    {
+        "name": "Mechanical Engineering And Economics Year 4",
+        "file": "Mechanical Engineering And Economics Year 4.json"
+    },
+    {
+        "name": "Mechanical Engineering And Economics Year 5",
+        "file": "Mechanical Engineering And Economics Year 5.json"
+    },
+    {
+        "name": "Mechanical Engineering And Economics (DES) Year 1",
+        "file": "Mechanical Engineering And Economics (DES) Year 1.json"
+    },
+    {
+        "name": "Mechanical Engineering And Economics (DES) Year 2",
+        "file": "Mechanical Engineering And Economics (DES) Year 2.json"
+    },
+    {
+        "name": "Mechanical Engineering And Economics (DES) Year 3",
+        "file": "Mechanical Engineering And Economics (DES) Year 3.json"
+    },
+    {
+        "name": "Mechanical Engineering And Economics (DES) Year 4",
+        "file": "Mechanical Engineering And Economics (DES) Year 4.json"
+    },
+    {
+        "name": "Mechanical Engineering And Economics (RMS) Year 1",
+        "file": "Mechanical Engineering And Economics (RMS) Year 1.json"
+    },
+    {
+        "name": "Mechanical Engineering And Economics (RMS) Year 2",
+        "file": "Mechanical Engineering And Economics (RMS) Year 2.json"
+    },
+    {
+        "name": "Mechanical Engineering And Economics (RMS) Year 3",
+        "file": "Mechanical Engineering And Economics (RMS) Year 3.json"
+    },
+    {
+        "name": "Mechanical Engineering And Economics (RMS) Year 4",
+        "file": "Mechanical Engineering And Economics (RMS) Year 4.json"
+    },
+    {
+        "name": "Mechanical Engineering And Economics (RMS) Year 5",
+        "file": "Mechanical Engineering And Economics (RMS) Year 5.json"
+    },
+    {
+        "name": "Materials Engineering And Economics Year 1",
+        "file": "Materials Engineering And Economics Year 1.json"
+    },
+    {
+        "name": "Materials Engineering And Economics Year 2",
+        "file": "Materials Engineering And Economics Year 2.json"
+    },
+    {
+        "name": "Materials Engineering And Economics Year 3",
+        "file": "Materials Engineering And Economics Year 3.json"
+    },
+    {
+        "name": "Materials Engineering And Economics Year 4",
+        "file": "Materials Engineering And Economics Year 4.json"
+    },
+    {
+        "name": "Materials Engineering And Economics Year 5",
+        "file": "Materials Engineering And Economics Year 5.json"
+    },
+    {
+        "name": "Electrical & Electronic Engineering(PartTime) Year 1",
+        "file": "Electrical & Electronic Engineering(PartTime) Year 1.json"
+    },
+    {
+        "name": "Electrical & Electronic Engineering(PartTime) Year 2",
+        "file": "Electrical & Electronic Engineering(PartTime) Year 2.json"
+    },
+    {
+        "name": "Electrical & Electronic Engineering(PartTime) Year 3",
+        "file": "Electrical & Electronic Engineering(PartTime) Year 3.json"
+    },
+    {
+        "name": "Electrical & Electronic Engineering(PartTime) Year 4",
+        "file": "Electrical & Electronic Engineering(PartTime) Year 4.json"
+    },
+    {
+        "name": "Electrical & Electronic Engineering(PartTime) Year 5",
+        "file": "Electrical & Electronic Engineering(PartTime) Year 5.json"
+    },
+    {
+        "name": "Mechanical Engineering(PartTime) Year 1",
+        "file": "Mechanical Engineering(PartTime) Year 1.json"
+    },
+    {
+        "name": "Mechanical Engineering(PartTime) Year 2",
+        "file": "Mechanical Engineering(PartTime) Year 2.json"
+    },
+    {
+        "name": "Mechanical Engineering(PartTime) Year 3",
+        "file": "Mechanical Engineering(PartTime) Year 3.json"
+    },
+    {
+        "name": "Mechanical Engineering(PartTime) Year 4",
+        "file": "Mechanical Engineering(PartTime) Year 4.json"
+    },
+    {
+        "name": "Mechanical Engineering(PartTime) Year 5",
+        "file": "Mechanical Engineering(PartTime) Year 5.json"
+    },
+    {
+        "name": "Computer Science(PartTime) Year 1",
+        "file": "Computer Science(PartTime) Year 1.json"
+    },
+    {
+        "name": "Computer Science(PartTime) Year 2",
+        "file": "Computer Science(PartTime) Year 2.json"
+    },
+    {
+        "name": "Computer Science(PartTime) Year 3",
+        "file": "Computer Science(PartTime) Year 3.json"
+    },
+    {
+        "name": "Computer Science(PartTime) Year 4",
+        "file": "Computer Science(PartTime) Year 4.json"
+    },
+    {
+        "name": "Computing(PartTime) Year 1",
+        "file": "Computing(PartTime) Year 1.json"
+    },
+    {
+        "name": "Computing(PartTime) Year 2",
+        "file": "Computing(PartTime) Year 2.json"
+    },
+    {
+        "name": "Computing(PartTime) Year 3",
+        "file": "Computing(PartTime) Year 3.json"
+    },
+    {
+        "name": "Computing(PartTime) Year 4",
+        "file": "Computing(PartTime) Year 4.json"
+    },
+    {
+        "name": "Minor in Art History",
+        "file": "Minor in Art History.json"
+    },
+    {
+        "name": "Minor in Artificial Intelligence",
+        "file": "Minor in Artificial Intelligence.json"
+    },
+    {
+        "name": "Minor in Applied Physics",
+        "file": "Minor in Applied Physics.json"
+    },
+    {
+        "name": "Minor in Archaeology",
+        "file": "Minor in Archaeology.json"
+    },
+    {
+        "name": "Minor in Chinese Creative Writing",
+        "file": "Minor in Chinese Creative Writing.json"
+    },
+    {
+        "name": "Minor in Computing And Data Analysis",
+        "file": "Minor in Computing And Data Analysis.json"
+    },
+    {
+        "name": "Minor in Chemistry And Biological Chemistry",
+        "file": "Minor in Chemistry And Biological Chemistry.json"
+    },
+    {
+        "name": "Minor in Chinese",
+        "file": "Minor in Chinese.json"
+    },
+    {
+        "name": "Minor in Computing",
+        "file": "Minor in Computing.json"
+    },
+    {
+        "name": "Minor in Communication Studies",
+        "file": "Minor in Communication Studies.json"
+    },
+    {
+        "name": "Minor in Creative Writing",
+        "file": "Minor in Creative Writing.json"
+    },
+    {
+        "name": "Minor in Digitalisation And Data Analytics",
+        "file": "Minor in Digitalisation And Data Analytics.json"
+    },
+    {
+        "name": "Minor in Drama And Performance",
+        "file": "Minor in Drama And Performance.json"
+    },
+    {
+        "name": "Minor in Design And Systems Thinking",
+        "file": "Minor in Design And Systems Thinking.json"
+    },
+    {
+        "name": "Minor in Early Childhood Education",
+        "file": "Minor in Early Childhood Education.json"
+    },
+    {
+        "name": "Minor in Economics",
+        "file": "Minor in Economics.json"
+    },
+    {
+        "name": "Minor in Education Studies",
+        "file": "Minor in Education Studies.json"
+    },
+    {
+        "name": "Minor in Environmental Humanities",
+        "file": "Minor in Environmental Humanities.json"
+    },
+    {
+        "name": "Minor in English",
+        "file": "Minor in English.json"
+    },
+    {
+        "name": "Minor in English Literature",
+        "file": "Minor in English Literature.json"
+    },
+    {
+        "name": "Minor in Energy",
+        "file": "Minor in Energy.json"
+    },
+    {
+        "name": "Minor in Entrepreneurship",
+        "file": "Minor in Entrepreneurship.json"
+    },
+    {
+        "name": "Minor in Environmental And Urban Studies",
+        "file": "Minor in Environmental And Urban Studies.json"
+    },
+    {
+        "name": "Minor in Environmental Management",
+        "file": "Minor in Environmental Management.json"
+    },
+    {
+        "name": "Minor in Environmental Sustainability",
+        "file": "Minor in Environmental Sustainability.json"
+    },
+    {
+        "name": "Minor in ES",
+        "file": "Minor in ES.json"
+    },
+    {
+        "name": "Minor in English Language",
+        "file": "Minor in English Language.json"
+    },
+    {
+        "name": "Minor in Finance",
+        "file": "Minor in Finance.json"
+    },
+    {
+        "name": "Minor in Film",
+        "file": "Minor in Film.json"
+    },
+    {
+        "name": "Minor in Global Asia",
+        "file": "Minor in Global Asia.json"
+    },
+    {
+        "name": "Minor in Gender And Diversity Studies",
+        "file": "Minor in Gender And Diversity Studies.json"
+    },
+    {
+        "name": "Minor in Geography And Urban Studies",
+        "file": "Minor in Geography And Urban Studies.json"
+    },
+    {
+        "name": "Minor in Health And Society",
+        "file": "Minor in Health And Society.json"
+    },
+    {
+        "name": "Minor in History",
+        "file": "Minor in History.json"
+    },
+    {
+        "name": "Minor in International Trading",
+        "file": "Minor in International Trading.json"
+    },
+    {
+        "name": "Minor in Life Sciences",
+        "file": "Minor in Life Sciences.json"
+    },
+    {
+        "name": "Minor in Linguistics And Multilingual Studies",
+        "file": "Minor in Linguistics And Multilingual Studies.json"
+    },
+    {
+        "name": "Minor in Mathematics",
+        "file": "Minor in Mathematics.json"
+    },
+    {
+        "name": "Minor in Modern Languages",
+        "file": "Minor in Modern Languages.json"
+    },
+    {
+        "name": "Minor in Modern Languages (Chinese)",
+        "file": "Minor in Modern Languages (Chinese).json"
+    },
+    {
+        "name": "Minor in Modern Languages (Russian)",
+        "file": "Minor in Modern Languages (Russian).json"
+    },
+    {
+        "name": "Minor in Music",
+        "file": "Minor in Music.json"
+    },
+    {
+        "name": "Minor in Business",
+        "file": "Minor in Business.json"
+    },
+    {
+        "name": "Minor in Philosophy",
+        "file": "Minor in Philosophy.json"
+    },
+    {
+        "name": "Minor in Photography",
+        "file": "Minor in Photography.json"
+    },
+    {
+        "name": "Minor in Physics",
+        "file": "Minor in Physics.json"
+    },
+    {
+        "name": "Minor in Public Policy And Global Affairs",
+        "file": "Minor in Public Policy And Global Affairs.json"
+    },
+    {
+        "name": "Minor in Psychology",
+        "file": "Minor in Psychology.json"
+    },
+    {
+        "name": "Minor in Risk Analytics",
+        "file": "Minor in Risk Analytics.json"
+    },
+    {
+        "name": "Minor in Risk Management And Insurance",
+        "file": "Minor in Risk Management And Insurance.json"
+    },
+    {
+        "name": "Minor in Strategic Communication",
+        "file": "Minor in Strategic Communication.json"
+    },
+    {
+        "name": "Minor in Special Needs Education",
+        "file": "Minor in Special Needs Education.json"
+    },
+    {
+        "name": "Minor in Sociology",
+        "file": "Minor in Sociology.json"
+    },
+    {
+        "name": "Minor in Science Of Learning",
+        "file": "Minor in Science Of Learning.json"
+    },
+    {
+        "name": "Minor in Sport Science",
+        "file": "Minor in Sport Science.json"
+    },
+    {
+        "name": "Minor in Stem Education",
+        "file": "Minor in Stem Education.json"
+    },
+    {
+        "name": "Minor in Science, Technology And Society",
+        "file": "Minor in Science, Technology And Society.json"
+    },
+    {
+        "name": "Minor in Sustainable Urban Planning",
+        "file": "Minor in Sustainable Urban Planning.json"
+    },
+    {
+        "name": "Minor in Sustainability",
+        "file": "Minor in Sustainability.json"
+    },
+    {
+        "name": "Minor in Translation",
+        "file": "Minor in Translation.json"
+    },
+    {
+        "name": "Minor in Youth Work And Guidance",
+        "file": "Minor in Youth Work And Guidance.json"
+    },
+    {
+        "name": "General Education in Art, Humanities and Social Sciences",
+        "file": "General Education in Art, Humanities and Social Sciences.json"
+    },
+    {
+        "name": "General Education in Business & Management",
+        "file": "General Education in Business & Management.json"
+    },
+    {
+        "name": "General Education in Science, Technology & Society",
+        "file": "General Education in Science, Technology & Society.json"
+    },
+    {
+        "name": "General Education in Liberal Studies",
+        "file": "General Education in Liberal Studies.json"
+    },
+    {
+        "name": "General Education in Liberal Arts",
+        "file": "General Education in Liberal Arts.json"
+    },
+    {
+        "name": "English Proficiency",
+        "file": "English Proficiency.json"
+    },
+    {
+        "name": "C N Yang Scholars Programme",
+        "file": "C N Yang Scholars Programme.json"
+    },
+    {
+        "name": "University Scholars Programme (Core)",
+        "file": "University Scholars Programme (Core).json"
+    },
+    {
+        "name": "University Scholars Programme in Social Science",
+        "file": "University Scholars Programme in Social Science.json"
+    },
+    {
+        "name": "University Scholars Programme in Arts, Humanities and Culture",
+        "file": "University Scholars Programme in Arts, Humanities and Culture.json"
+    },
+    {
+        "name": "University Scholars Programme in Interdisciplinary Studies",
+        "file": "University Scholars Programme in Interdisciplinary Studies.json"
+    },
+    {
+        "name": "University Scholars Programme in Science and Engineering",
+        "file": "University Scholars Programme in Science and Engineering.json"
+    },
+    {
+        "name": "University Scholars Programme in Science, Technology & Society",
+        "file": "University Scholars Programme in Science, Technology & Society.json"
+    },
+    {
+        "name": "Turing AI Scholar Programme (Core)",
+        "file": "Turing AI Scholar Programme (Core).json"
+    },
+    {
+        "name": "Turing AI Scholar Programme (Prescribe Elective)",
+        "file": "Turing AI Scholar Programme (Prescribe Elective).json"
+    },
+    {
+        "name": "NBS Global Leader Scholar Programme (Core)",
+        "file": "NBS Global Leader Scholar Programme (Core).json"
+    },
+    {
+        "name": "Accountancy",
+        "file": "Accountancy.json"
+    },
+    {
+        "name": "Art, Design & Media (ADM)",
+        "file": "Art, Design & Media (ADM).json"
+    },
+    {
+        "name": "Biomedical Sciences",
+        "file": "Biomedical Sciences.json"
+    },
+    {
+        "name": "Biological Sciences",
+        "file": "Biological Sciences.json"
+    },
+    {
+        "name": "Business",
+        "file": "Business.json"
+    },
+    {
+        "name": "Chemical & Biomolecular Engineering",
+        "file": "Chemical & Biomolecular Engineering.json"
+    },
+    {
+        "name": "Computer Engineering",
+        "file": "Computer Engineering.json"
+    },
+    {
+        "name": "Civil Engineering",
+        "file": "Civil Engineering.json"
+    },
+    {
+        "name": "Chemistry and Biological Chemistry",
+        "file": "Chemistry and Biological Chemistry.json"
+    },
+    {
+        "name": "Chinese",
+        "file": "Chinese.json"
+    },
+    {
+        "name": "Communication Studies",
+        "file": "Communication Studies.json"
+    },
+    {
+        "name": "Computer Science",
+        "file": "Computer Science.json"
+    },
+    {
+        "name": "Economics",
+        "file": "Economics.json"
+    },
+    {
+        "name": "Electrical & Electronic Engineering",
+        "file": "Electrical & Electronic Engineering.json"
+    },
+    {
+        "name": "Environmental Earth Systems Science",
+        "file": "Environmental Earth Systems Science.json"
+    },
+    {
+        "name": "English",
+        "file": "English.json"
+    },
+    {
+        "name": "History",
+        "file": "History.json"
+    },
+    {
+        "name": "Interdisciplinary Collaborative Courses",
+        "file": "Interdisciplinary Collaborative Courses.json"
+    },
+    {
+        "name": "Linguistics & Multilingual Studies",
+        "file": "Linguistics & Multilingual Studies.json"
+    },
+    {
+        "name": "Materials Engineering",
+        "file": "Materials Engineering.json"
+    },
+    {
+        "name": "Mathematical Sciences",
+        "file": "Mathematical Sciences.json"
+    },
+    {
+        "name": "Mechanical Engineering",
+        "file": "Mechanical Engineering.json"
+    },
+    {
+        "name": "Medicine",
+        "file": "Medicine.json"
+    },
+    {
+        "name": "Maritime Studies",
+        "file": "Maritime Studies.json"
+    },
+    {
+        "name": "National Institute of Education",
+        "file": "National Institute of Education.json"
+    },
+    {
+        "name": "Nanyang Technopreneurship Centre",
+        "file": "Nanyang Technopreneurship Centre.json"
+    },
+    {
+        "name": "Philosophy",
+        "file": "Philosophy.json"
+    },
+    {
+        "name": "Physics and Applied Physics",
+        "file": "Physics and Applied Physics.json"
+    },
+    {
+        "name": "Public Policy & Global Affairs",
+        "file": "Public Policy & Global Affairs.json"
+    },
+    {
+        "name": "Psychology",
+        "file": "Psychology.json"
+    },
+    {
+        "name": "Sociology",
+        "file": "Sociology.json"
+    },
+    {
+        "name": "Humanities",
+        "file": "Humanities.json"
+    },
+    {
+        "name": "Physical and Mathematical Sciences",
+        "file": "Physical and Mathematical Sciences.json"
+    },
+    {
+        "name": "Sport Science & Management",
+        "file": "Sport Science & Management.json"
+    },
+    {
+        "name": "Social Sciences",
+        "file": "Social Sciences.json"
+    }
+]

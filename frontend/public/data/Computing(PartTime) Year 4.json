@@ -1,0 +1,24 @@
+[
+    {
+        "course_code": "HW0001",
+        "title": "INTRODUCTION TO ACADEMIC COMMUNICATION",
+        "academic_units": ".0 AU",
+        "school_category": "Computing(PartTime) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14560",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1900-2050",
+                        "venue": "ONLINE",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            }
+        ]
+    }
+]

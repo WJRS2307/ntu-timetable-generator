@@ -1,0 +1,318 @@
+[
+    {
+        "course_code": "BU5544",
+        "title": "MARKETING HEALTH: CONSUMERS' PURSUIT OF WELLNESS*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "General Education in Liberal Arts",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00985",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S4-SR23",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BU5546",
+        "title": "LUXURY MARKETING*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "General Education in Liberal Arts",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00981",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "S4-SR23",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BU5641",
+        "title": "CULTURAL INTELLIGENCE: HOW TO BE AN EXPLORER OF THE WORLD*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "General Education in Liberal Arts",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00814",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "TR+107",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00815",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "TR+108",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00816",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S3-SR10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00817",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "4",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S3-SR6",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00818",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "5",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S3-SR6",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BU5644",
+        "title": "SMARTER BRAIN? THE SCIENCE OF DECISION MAKING*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "General Education in Liberal Arts",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00850",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S4-SR16",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00851",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "FRI",
+                        "time": "1430-1720",
+                        "venue": "S4-SR16",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DM3008",
+        "title": "GENERATIVE ART*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "General Education in Liberal Arts",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64033",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "MON",
+                        "time": "1630-1920",
+                        "venue": "ART-02-17",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DV2003",
+        "title": "BEYOND THE LOGO: INTRODUCTION TO BRANDING*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "General Education in Liberal Arts",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64054",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "ART-02-02A",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE5091",
+        "title": "PRINCIPLES OF ECONOMICS*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "General Education in Liberal Arts",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "5.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19601",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "LHS-TR+46",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19602",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR+46",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19603",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "LHS-TR+46",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19604",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+46",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19605",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "WED",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+46",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,434 @@
+[
+    {
+        "course_code": "BH2601",
+        "title": "STRATEGIC HR MANAGEMENT & CONSULTING*",
+        "academic_units": "4.0 AU",
+        "school_category": "Accountancy And Business (HRC) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00762",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S3-SR1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00763",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "S3-SR1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00764",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S4-SR17",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BH2603",
+        "title": "TALENT SOURCING & ACQUISITION*",
+        "academic_units": "4.0 AU",
+        "school_category": "Accountancy And Business (HRC) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00776",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "ABS-SR14",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00777",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "ABS-SR6",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00778",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S4-SR22",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BH2605",
+        "title": "STRATEGIC HUMAN RESOURCE MANAGEMENT & CONSULTING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Accountancy And Business (HRC) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00769",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S3-SR1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00770",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "S3-SR1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00771",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S4-SR17",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BH2607",
+        "title": "TALENT SOURCING & ACQUISITION~",
+        "academic_units": "3.0 AU",
+        "school_category": "Accountancy And Business (HRC) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00783",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "ABS-SR14",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00784",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "ABS-SR6",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00785",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S4-SR22",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BH3601",
+        "title": "TALENT DEVELOPMENT & MANAGEMENT*",
+        "academic_units": "4.0 AU",
+        "school_category": "Accountancy And Business (HRC) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00791",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S3-SR10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00792",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "S4-SR7",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BH3603",
+        "title": "CULTURAL INTELLIGENCE AT WORK",
+        "academic_units": "4.0 AU",
+        "school_category": "Accountancy And Business (HRC) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00804",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "TR+107",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00805",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "TR+108",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00806",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S3-SR10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00807",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "4",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S3-SR6",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00808",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "5",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S3-SR6",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BH3605",
+        "title": "TALENT DEVELOPMENT & MANAGEMENT",
+        "academic_units": "3.0 AU",
+        "school_category": "Accountancy And Business (HRC) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00798",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S3-SR10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00799",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "S4-SR7",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BH3607",
+        "title": "DRIVING STRATEGIC CHANGE IN THE DIGITAL AGE~",
+        "academic_units": "3.0 AU",
+        "school_category": "Accountancy And Business (HRC) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00830",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S4-SR22",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BU5641",
+        "title": "CULTURAL INTELLIGENCE: HOW TO BE AN EXPLORER OF THE WORLD*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "Accountancy And Business (HRC) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00814",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "TR+107",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00815",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "TR+108",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00816",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S3-SR10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00817",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "4",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S3-SR6",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00818",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "5",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S3-SR6",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

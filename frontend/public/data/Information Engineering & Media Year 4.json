@@ -1,0 +1,949 @@
+[
+    {
+        "course_code": "CS2024",
+        "title": "WEB DESIGN & TECHNOLOGIES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Information Engineering & Media Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32601",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0830-0920",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "S2.2-B4-04",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32602",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0830-0920",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "S2.2-B4-04",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2025",
+        "title": "IMAGE & SOUND PRODUCTION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Information Engineering & Media Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06033",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "LRG TV STU",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "06034",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S2",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "LRG TV STU",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "06035",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S3",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "LRG TV STU",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2030",
+        "title": "AUDIO IN MEDIA*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Information Engineering & Media Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06038",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "SCI-SR2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "SCI-MAC",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "06039",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "SCI-SR2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "FRI",
+                        "time": "1330-1520",
+                        "venue": "SCI-MAC",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "06040",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "SCI-SR2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "FRI",
+                        "time": "1530-1720",
+                        "venue": "SCI-MAC",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DA3000",
+        "title": "THINKING & COMMUNICATING VISUALLY III",
+        "academic_units": "3.0 AU",
+        "school_category": "Information Engineering & Media Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32631",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S2.2-B4-04",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32632",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G2",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "S2.2-B4-04",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32633",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G3",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "S2.2-B4-04",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32634",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G4",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S2.2-B4-04",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DM2000",
+        "title": "INTERACTIVE I*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Information Engineering & Media Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64029",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "ART-01-11A",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DV2008",
+        "title": "INTERFACE DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Information Engineering & Media Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32638",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G1",
+                        "day": "FRI",
+                        "time": "1630-1920",
+                        "venue": "S2.2-B4-04",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HW0288",
+        "title": "ENGINEERING COMMUNICATION",
+        "academic_units": "2.0 AU",
+        "school_category": "Information Engineering & Media Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10394",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCEA",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "TR+64",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10395",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCEB",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "TR+23",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10396",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCEC",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10397",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCED",
+                        "day": "FRI",
+                        "time": "1130-1320",
+                        "venue": "CSKL8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10398",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCEE",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "TR+32",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10399",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCE1",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "TR+95",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10400",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSA",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "TR+37",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10401",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSB",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "TR+31",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10402",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSC",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "TR+34",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10403",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSD",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "TR+37",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10404",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSE",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+18",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10405",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSF",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "TR+37",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10406",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSG",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "TR+77",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10407",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSH",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10408",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSI",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10410",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCS1",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "CSKL9",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10411",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCMA",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10412",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCMC",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10413",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCMD",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4120",
+        "title": "OPTICAL COMMUNICATION SYSTEM DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Information Engineering & Media Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32541",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk1-8,11"
+                    },
+                    {
+                        "type": "DES",
+                        "group": "F51",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9,10,12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32542",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk1-8,11"
+                    },
+                    {
+                        "type": "DES",
+                        "group": "F52",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9,10,12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32543",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk1-8,11"
+                    },
+                    {
+                        "type": "DES",
+                        "group": "F53",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9,10,12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32544",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk1-8,11"
+                    },
+                    {
+                        "type": "DES",
+                        "group": "F54",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9,10,12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32545",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk1-8,11"
+                    },
+                    {
+                        "type": "DES",
+                        "group": "F55",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9,10,12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32546",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk1-8,11"
+                    },
+                    {
+                        "type": "DES",
+                        "group": "F56",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9,10,12,13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4154",
+        "title": "DIGITAL & TELECOMMUNICATIONS SYSTEMS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Information Engineering & Media Year 4",
+        "exam": {
+            "date": "28 November 2026",
+            "day": "Saturday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32548",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4422",
+        "title": "MULTIMODAL LARGE LANGUAGE MODELS - THEORY & APPLICATIONS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Information Engineering & Media Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32514",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LHN-TR+36",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4476",
+        "title": "IMAGE PROCESSING & COMPUTER VISION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Information Engineering & Media Year 4",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32549",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "LT28",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4483",
+        "title": "ARTIFICIAL INTELLIGENCE & DATA MINING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Information Engineering & Media Year 4",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32550",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "LT1A",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4727",
+        "title": "WEB APPLICATION DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Information Engineering & Media Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32551",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F31",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk12,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F31",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32552",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F32",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk12,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F32",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32553",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F33",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F33",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32554",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F34",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk12,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F34",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32555",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F35",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F35",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32556",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F36",
+                        "day": "WED",
+                        "time": "1330-1520",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F36",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32557",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F37",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F37",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32559",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F38",
+                        "day": "THU",
+                        "time": "1330-1520",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F38",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk12,13"
+                    }
+                ]
+            }
+        ]
+    }
+]

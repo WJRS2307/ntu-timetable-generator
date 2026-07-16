@@ -1,0 +1,100 @@
+[
+    {
+        "course_code": "AED06C",
+        "title": "TEACHING STRATEGIES FOR INCLUSIVE EDUCATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Special Needs Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39261",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "NIE3-TR303",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "NIE, LT9",
+                        "remark": "Teaching Wk1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AED06D",
+        "title": "ASSESSMENT OF SPECIAL NEEDS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Special Needs Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39262",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "NIE2-TR207",
+                        "remark": "Teaching Wk8-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "NIE3-TR302",
+                        "remark": "Teaching Wk2-7"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "NIE2-TR213",
+                        "remark": "Teaching Wk1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AED06E",
+        "title": "CONSULTATION & COLLABORATION WITH FAMILIES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Special Needs Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39263",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "NIE2-TR213",
+                        "remark": "Teaching Wk1-4"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "NIE7-TR717",
+                        "remark": "Teaching Wk5-13"
+                    }
+                ]
+            }
+        ]
+    }
+]

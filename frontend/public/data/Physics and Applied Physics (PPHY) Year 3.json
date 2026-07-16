@@ -1,0 +1,1938 @@
+[
+    {
+        "course_code": "CC0003",
+        "title": "ETHICS & CIVICS IN A MULTICULTURAL WORLD",
+        "academic_units": "2.0 AU",
+        "school_category": "Physics and Applied Physics (PPHY) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "82501",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T001",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82502",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T002",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82503",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T003",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82504",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T004",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82505",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T005",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82506",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T006",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+53",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82507",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T007",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82508",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T008",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82509",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T009",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82510",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T010",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82511",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T011",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82512",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T012",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+53",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82513",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T013",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82514",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T014",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82515",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T015",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82516",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T016",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82517",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T017",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82518",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T018",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82519",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T019",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82520",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T020",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82521",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T021",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82522",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T022",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82523",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T023",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82524",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T024",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82525",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T025",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82526",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T026",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+53",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82527",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T027",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82528",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T028",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82529",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T029",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82530",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T030",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82531",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T031",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82532",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T032",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+53",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82533",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T033",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82534",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T034",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82535",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T035",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82536",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T036",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82537",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T037",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82538",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T038",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+53",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82539",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T039",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82540",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T040",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82541",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T041",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82542",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T042",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82543",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T043",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82544",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T044",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82545",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T045",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82546",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T046",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82547",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T047",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82548",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T048",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+53",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82549",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T049",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82550",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T050",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82551",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T051",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82552",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T052",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82553",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T053",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82554",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T054",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+53",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82555",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T055",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82556",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T056",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82557",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T057",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82558",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T058",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82559",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T059",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82560",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T060",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82561",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T061",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82562",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T062",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82563",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T063",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82564",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T064",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82565",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T065",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82566",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T066",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82567",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T067",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82568",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T068",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+53",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82569",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T069",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82570",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T070",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82571",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T071",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82572",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T072",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82573",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T073",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82574",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T074",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+53",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82575",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T075",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82576",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T076",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82577",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T077",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82578",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T078",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82579",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T079",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82580",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T080",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+53",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82581",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T081",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82582",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T082",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82583",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T083",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82584",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T084",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82585",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T085",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82586",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T086",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82587",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T087",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82588",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T088",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82589",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T089",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82590",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T090",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HW0218",
+        "title": "COMMUNICATION ACROSS THE SCIENCES",
+        "academic_units": "2.0 AU",
+        "school_category": "Physics and Applied Physics (PPHY) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18338",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "CSKL8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18339",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP2",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "CSKL9",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18340",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP3",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "CSKL8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18341",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP4",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "CSKL9",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18342",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP5",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "CSKL8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18343",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP6",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "TR+23",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18344",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP7",
+                        "day": "TUE",
+                        "time": "1130-1320",
+                        "venue": "CSKL8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18345",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP8",
+                        "day": "TUE",
+                        "time": "1130-1320",
+                        "venue": "TR+23",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18346",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP9",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "CSKL8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18347",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP10",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+34",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18348",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP11",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "LHN-TR+19",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18349",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP12",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "CSKL9",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18350",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP13",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "LHN-TR+01",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HY0001",
+        "title": "ETHICS & MORAL REASONING",
+        "academic_units": "1.0 AU",
+        "school_category": "Physics and Applied Physics (PPHY) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17991",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "SAT",
+                        "time": "1130-1220",
+                        "venue": "",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PH3101",
+        "title": "QUANTUM MECHANICS II*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Physics and Applied Physics (PPHY) Year 3",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "2.30 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "70441",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "SPMS-TR+6",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70442",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "WED",
+                        "time": "1530-1620",
+                        "venue": "SPMS-TR+7",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70443",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "MON",
+                        "time": "1230-1320",
+                        "venue": "SPMS-TR+6",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PH3102",
+        "title": "CONDENSED MATTER PHYSICS I*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Physics and Applied Physics (PPHY) Year 3",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "70445",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "SPMS-TR+12",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1530-1620",
+                        "venue": "SPMS-TR+15",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "TUE",
+                        "time": "1630-1720",
+                        "venue": "SPMS-TR+15",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PH3103",
+        "title": "TECHNOLOGICAL APPLICATIONS OF QUANTUM MECHANICS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Physics and Applied Physics (PPHY) Year 3",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "70450",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT15",
+                        "remark": "Teaching Wk2"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "SPMS-LT2",
+                        "remark": "Teaching Wk1,3-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "SPMS-TR+13",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "70451",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT15",
+                        "remark": "Teaching Wk2"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "SPMS-LT2",
+                        "remark": "Teaching Wk1,3-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "SPMS-TR+15",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "70452",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT15",
+                        "remark": "Teaching Wk2"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "SPMS-LT2",
+                        "remark": "Teaching Wk1,3-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "FRI",
+                        "time": "1530-1620",
+                        "venue": "SPMS-TR+15",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PH3199",
+        "title": "PHYSICS LAB IIIA",
+        "academic_units": "2.0 AU",
+        "school_category": "Physics and Applied Physics (PPHY) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "70461",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "LA1",
+                        "day": "MON",
+                        "time": "1330-1720",
+                        "venue": "PAP YR3 LA",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70462",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "LA2",
+                        "day": "THU",
+                        "time": "1330-1720",
+                        "venue": "PAP YR3 LA",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PH3403",
+        "title": "ASTROPHYSICS & COSMOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Physics and Applied Physics (PPHY) Year 3",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "5.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "70471",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "SPMS-TR+9",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "MON",
+                        "time": "1230-1320",
+                        "venue": "SPMS-TR+15",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PH3409",
+        "title": "GEOMETRIC METHODS IN MATHEMATICAL PHYSICS*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Physics and Applied Physics (PPHY) Year 3",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "70472",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1130-1320",
+                        "venue": "SPMS-LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "SPMS-LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "SPMS-LT4",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PH4408",
+        "title": "NUCLEAR PHYSICS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Physics and Applied Physics (PPHY) Year 3",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "70501",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "SPMS-LT5",
+                        "remark": "Teaching Wk1,3,5,7,9,11,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "SPMS-LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "SPMS-LT5",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PH4411",
+        "title": "INTRODUCTION TO EXPERIMENTAL PARTICLE PHYSICS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Physics and Applied Physics (PPHY) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "70506",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "SAT",
+                        "time": "0930-1150",
+                        "venue": "SPMS LT2",
+                        "remark": "Teaching Wk3"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1920",
+                        "venue": "MAS EC RM2",
+                        "remark": "Teaching Wk3,4"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1630-1920",
+                        "venue": "MAS EC RM2",
+                        "remark": "Teaching Wk3,4"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1630-1920",
+                        "venue": "MAS EC RM2",
+                        "remark": "Teaching Wk3,4"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1920",
+                        "venue": "MAS EC RM2",
+                        "remark": "Teaching Wk3,4"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1920",
+                        "venue": "MAS EC RM2",
+                        "remark": "Teaching Wk3,4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PH4423",
+        "title": "ADVANCED TOPICS IN ASTROPHYSICS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Physics and Applied Physics (PPHY) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "70507",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "SPMS-TR+8",
+                        "remark": "Teaching Wk10,11"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "SPMS-TR+8",
+                        "remark": "Teaching Wk9-11"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "SPMS-TR+8",
+                        "remark": "Teaching Wk9,11"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "SPMS-TR+8",
+                        "remark": "Teaching Wk9-11"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "SPMS-TR+8",
+                        "remark": "Teaching Wk9-11"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "WED",
+                        "time": "1830-1920",
+                        "venue": "SPMS-TR+8",
+                        "remark": "Teaching Wk9-11"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "FRI",
+                        "time": "1830-1920",
+                        "venue": "SPMS-TR+8",
+                        "remark": "Teaching Wk9,11"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "TUE",
+                        "time": "1830-1920",
+                        "venue": "SPMS-TR+8",
+                        "remark": "Teaching Wk9-11"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "1830-1920",
+                        "venue": "SPMS-TR+8",
+                        "remark": "Teaching Wk9-11"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "MON",
+                        "time": "1830-1920",
+                        "venue": "SPMS-TR+8",
+                        "remark": "Teaching Wk10,11"
+                    }
+                ]
+            }
+        ]
+    }
+]

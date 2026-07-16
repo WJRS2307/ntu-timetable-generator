@@ -1,0 +1,1104 @@
+[
+    {
+        "course_code": "AB0403",
+        "title": "DECISION MAKING WITH PROGRAMMING & ANALYTICS*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "Business Year 2",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "5.00 pm",
+            "duration": "1 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "00458",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "S4-SR21",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00459",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "S4-SR21",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00460",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "S4-SR4",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00461",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "4",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "S4-SR4",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00462",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "5",
+                        "day": "TUE",
+                        "time": "0830-1020",
+                        "venue": "S4-SR2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00463",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "6",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "S4-SR2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00464",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "7",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "S4-SR14",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00465",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "8",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "S4-SR14",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00466",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "9",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "S4-SR21",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00467",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "10",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "S4-SR6",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00468",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "11",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "S4-SR6",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00469",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "12",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "S4-SR2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00470",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "13",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "S4-SR2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00471",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "14",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "S4-SR15",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00472",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "15",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "S4-SR15",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00473",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "16",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "S4-SR1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00474",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "17",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "S4-SR3",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BE1401",
+        "title": "BUSINESS OPERATIONS & PROCESS*#",
+        "academic_units": "4.0 AU",
+        "school_category": "Business Year 2",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "00569",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "FRI",
+                        "time": "0830-1120",
+                        "venue": "FTR2",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "FRI",
+                        "time": "0830-1120",
+                        "venue": "S4-SR10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00570",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "MON",
+                        "time": "0830-1120",
+                        "venue": "FTR",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "MON",
+                        "time": "0830-1120",
+                        "venue": "S4-SR7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00571",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "THU",
+                        "time": "0830-1120",
+                        "venue": "FTR",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "THU",
+                        "time": "0830-1120",
+                        "venue": "S4-SR8",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00572",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "4",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "FTR2",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "4",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "S4-SR5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00573",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "5",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "FTR1",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "5",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "S3-SR8",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00574",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "6",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "FTR",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "6",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "S3-SR6",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00575",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "7",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "ITL-SA3",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "7",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "S3-SR1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00576",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "8",
+                        "day": "THU",
+                        "time": "0830-1120",
+                        "venue": "FTR1",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "8",
+                        "day": "THU",
+                        "time": "0830-1120",
+                        "venue": "S3-SR8",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00577",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "9",
+                        "day": "WED",
+                        "time": "0830-1120",
+                        "venue": "FTR2",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "9",
+                        "day": "WED",
+                        "time": "0830-1120",
+                        "venue": "S3-SR4",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00578",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "10",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "FTR",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "10",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "S4-SR21",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00579",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "11",
+                        "day": "TUE",
+                        "time": "0830-1120",
+                        "venue": "FTR1",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "11",
+                        "day": "TUE",
+                        "time": "0830-1120",
+                        "venue": "S4-SR19",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00580",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "12",
+                        "day": "TUE",
+                        "time": "0830-1120",
+                        "venue": "FTR2",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "12",
+                        "day": "TUE",
+                        "time": "0830-1120",
+                        "venue": "S3-SR8",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00581",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "13",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "FTR2",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "13",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "S4-SR21",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00582",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "14",
+                        "day": "FRI",
+                        "time": "1430-1720",
+                        "venue": "FTR",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "14",
+                        "day": "FRI",
+                        "time": "1430-1720",
+                        "venue": "S3-SR6",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00583",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "15",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "FTR3",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "15",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "S3-SR10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00584",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "16",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "ITL-SA3",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "16",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "S3-SR8",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00585",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "17",
+                        "day": "WED",
+                        "time": "0830-1120",
+                        "venue": "ITL-SA1",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "17",
+                        "day": "WED",
+                        "time": "0830-1120",
+                        "venue": "S3-SR2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00586",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "18",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "ITL-SA1",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "18",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "S3-SR6",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BE1402",
+        "title": "BUSINESS OPERATIONS & PROCESS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Business Year 2",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "00591",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "FRI",
+                        "time": "0830-1120",
+                        "venue": "FTR2",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "FRI",
+                        "time": "0830-1120",
+                        "venue": "S4-SR10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00592",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "MON",
+                        "time": "0830-1120",
+                        "venue": "FTR",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "MON",
+                        "time": "0830-1120",
+                        "venue": "S4-SR7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00593",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "THU",
+                        "time": "0830-1120",
+                        "venue": "FTR",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "THU",
+                        "time": "0830-1120",
+                        "venue": "S4-SR8",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00594",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "4",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "FTR2",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "4",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "S4-SR5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00595",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "5",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "FTR1",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "5",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "S3-SR8",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00596",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "6",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "FTR",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "6",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "S3-SR6",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00597",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "7",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "ITL-SA3",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "7",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "S3-SR1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00598",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "8",
+                        "day": "THU",
+                        "time": "0830-1120",
+                        "venue": "FTR1",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "8",
+                        "day": "THU",
+                        "time": "0830-1120",
+                        "venue": "S3-SR8",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00599",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "9",
+                        "day": "WED",
+                        "time": "0830-1120",
+                        "venue": "FTR2",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "9",
+                        "day": "WED",
+                        "time": "0830-1120",
+                        "venue": "S3-SR4",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00600",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "10",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "FTR",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "10",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "S4-SR21",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00601",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "11",
+                        "day": "TUE",
+                        "time": "0830-1120",
+                        "venue": "FTR1",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "11",
+                        "day": "TUE",
+                        "time": "0830-1120",
+                        "venue": "S4-SR19",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00602",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "12",
+                        "day": "TUE",
+                        "time": "0830-1120",
+                        "venue": "FTR2",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "12",
+                        "day": "TUE",
+                        "time": "0830-1120",
+                        "venue": "S3-SR8",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00603",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "13",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "FTR2",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "13",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "S4-SR21",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00604",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "14",
+                        "day": "FRI",
+                        "time": "1430-1720",
+                        "venue": "FTR",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "14",
+                        "day": "FRI",
+                        "time": "1430-1720",
+                        "venue": "S3-SR6",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00605",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "15",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "FTR3",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "15",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "S3-SR10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00606",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "16",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "ITL-SA3",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "16",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "S3-SR8",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00607",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "17",
+                        "day": "WED",
+                        "time": "0830-1120",
+                        "venue": "ITL-SA1",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "17",
+                        "day": "WED",
+                        "time": "0830-1120",
+                        "venue": "S3-SR2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00608",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "18",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "ITL-SA1",
+                        "remark": "Teaching Wk6,7,10,11"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "18",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "S3-SR6",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HY0001",
+        "title": "ETHICS & MORAL REASONING",
+        "academic_units": "1.0 AU",
+        "school_category": "Business Year 2",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17991",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "SAT",
+                        "time": "1130-1220",
+                        "venue": "",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SP0061",
+        "title": "SCIENCE & TECHNOLOGY FOR HUMANITY",
+        "academic_units": "3.0 AU",
+        "school_category": "Business Year 2",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "22127",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+33",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "22128",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S2",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+33",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "22129",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S3",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "22133",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S4",
+                        "day": "TUE",
+                        "time": "1730-1920",
+                        "venue": "LHN-TR+50",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

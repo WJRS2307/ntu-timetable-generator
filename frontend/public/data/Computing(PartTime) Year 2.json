@@ -1,0 +1,112 @@
+[
+    {
+        "course_code": "CT2009",
+        "title": "DESIGN THINKING",
+        "academic_units": "3.0 AU",
+        "school_category": "Computing(PartTime) Year 2",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14544",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "COMP3",
+                        "day": "SAT",
+                        "time": "1330-1550",
+                        "venue": "LHN-TR+13",
+                        "remark": "Teaching Wk1,3,5,7,9,11,13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CT2010",
+        "title": "PROJECT MANAGEMENT (BUSINESS NEEDS ANALYSIS & RISK ANALYSIS)",
+        "academic_units": "3.0 AU",
+        "school_category": "Computing(PartTime) Year 2",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14545",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "COMP3",
+                        "day": "SAT",
+                        "time": "0930-1150",
+                        "venue": "LHN-TR+13",
+                        "remark": "Teaching Wk1,3,5,7,9,11,13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CT2011",
+        "title": "DATA ANALYSIS & MARKET SENSING (BUSINESS INTELLIGENCE)",
+        "academic_units": "3.0 AU",
+        "school_category": "Computing(PartTime) Year 2",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14546",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "COMP3",
+                        "day": "SAT",
+                        "time": "0930-1150",
+                        "venue": "SWLAB 3",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CT2079",
+        "title": "MINI CAPSTONE (FULL STACK) PROJECT",
+        "academic_units": "3.0 AU",
+        "school_category": "Computing(PartTime) Year 2",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14547",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "COMP3",
+                        "day": "SAT",
+                        "time": "1330-1550",
+                        "venue": "LHN-TR+13",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HW0001",
+        "title": "INTRODUCTION TO ACADEMIC COMMUNICATION",
+        "academic_units": ".0 AU",
+        "school_category": "Computing(PartTime) Year 2",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14560",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1900-2050",
+                        "venue": "ONLINE",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            }
+        ]
+    }
+]

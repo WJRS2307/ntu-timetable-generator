@@ -1,0 +1,24 @@
+[
+    {
+        "course_code": "CV0003",
+        "title": "INTRODUCTION TO DATA SCIENCE & ARTIFICIAL INTELLIGENCE",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (CVEN) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "62207",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "MS3",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "EST LAB 2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

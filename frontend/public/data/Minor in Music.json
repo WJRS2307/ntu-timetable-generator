@@ -1,0 +1,244 @@
+[
+    {
+        "course_code": "AAI16B",
+        "title": "BAROQUE & CLASSICAL MUSICAL PRACTICES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Music",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39637",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1030-1320",
+                        "venue": "NIE3-02-07",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAI16C",
+        "title": "ROMANTIC & 20TH CENTURY MUSICAL PRACTICES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Music",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39638",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "NIE3-02-04",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAI16G",
+        "title": "COMPOSING & ARRANGING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Music",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39624",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "NIE3-02-09",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAI16J",
+        "title": "MUSIC THEORY FOR DIVERSE SONIC WORLDS I*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Music",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39636",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "NIE3-02-18",
+                        "remark": "Teaching Wk2-12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAI28C",
+        "title": "PERCUSSION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Music",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39626",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "NIE3-01-05",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAI38D",
+        "title": "CHOIR I*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Music",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39628",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "NIE3-02-04",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAI38J",
+        "title": "BAND I*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Music",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39631",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1830-2120",
+                        "venue": "NIE3-01-05",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAI48A",
+        "title": "STUDIES IN CHINESE MUSIC*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Music",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39633",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1030-1320",
+                        "venue": "NIE3-02-23",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAI48B",
+        "title": "STUDIES IN MALAY MUSIC*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Music",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39634",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "NIE3-01-01",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAI48D",
+        "title": "CHOIR III*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Music",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39629",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "NIE3-02-04",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAI48J",
+        "title": "BAND III*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Music",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39632",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1830-2120",
+                        "venue": "NIE3-01-05",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

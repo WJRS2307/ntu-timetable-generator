@@ -1,0 +1,2119 @@
+[
+    {
+        "course_code": "CS0102",
+        "title": "MAKING SENSE OF BIG DATA",
+        "academic_units": "3.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06010",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DD0003",
+        "title": "INFORMATION VISUALIZATION",
+        "academic_units": "3.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64006",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "ART-01-02",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64007",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "TUE",
+                        "time": "1630-1920",
+                        "venue": "ART-01-02",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64008",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G03",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "ART-01-02",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64009",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G04",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "ART-01-02",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HD0103",
+        "title": "DIGITAL HUMANITIES: ART, ART HISTORY & CULTURAL HERITAGE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17285",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "HSSSEMRM8",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HG1001",
+        "title": "MIND & MEANING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17401",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "TR+94",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17402",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "TR+95",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17403",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "MON",
+                        "time": "1730-1820",
+                        "venue": "TR+94",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17404",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "MON",
+                        "time": "1730-1820",
+                        "venue": "TR+95",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17405",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "TUE",
+                        "time": "0930-1020",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17406",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "TUE",
+                        "time": "1030-1120",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17407",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T7",
+                        "day": "TUE",
+                        "time": "1230-1320",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17408",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T8",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HG2020",
+        "title": "LANGUAGE IN SOCIETY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17419",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+46",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17420",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "TUE",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+45",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17421",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "TUE",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+45",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17422",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "TUE",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+46",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17423",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "TUE",
+                        "time": "1630-1720",
+                        "venue": "LHS-TR+46",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17424",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "TUE",
+                        "time": "1630-1720",
+                        "venue": "LHS-TR+51",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HG2052",
+        "title": "LANGUAGE, TECHNOLOGY & THE INTERNET*",
+        "academic_units": "3.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17434",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+51",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL1001",
+        "title": "INTRODUCTION TO THE STUDY OF LITERATURE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17203",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "HSS-TR+1",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17204",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17205",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17206",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17207",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "TR+69",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17208",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "TR+69",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17209",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T7",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "TR+69",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17210",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T8",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17211",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T9",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17212",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T10",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "TR+68",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP1100",
+        "title": "FUNDAMENTALS OF SOCIAL SCIENCE RESEARCH*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19709",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1230-1320",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19710",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "MON",
+                        "time": "1330-1420",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19711",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19712",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19713",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19714",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19715",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T7",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19716",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T8",
+                        "day": "THU",
+                        "time": "1630-1720",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP2200",
+        "title": "BIOLOGICAL PSYCHOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19717",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1530-1720",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "LHS-TR+56",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19718",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1530-1720",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "LHS-TR+56",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19719",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1530-1720",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LHS-TR+56",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19720",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1530-1720",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LHS-TR+56",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19721",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1530-1720",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LHS-TR+56",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19722",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1530-1720",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LHS-TR+56",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP2500",
+        "title": "PERSONALITY & INDIVIDUAL DIFFERENCES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "5.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19723",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LHS-TR+49",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19724",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LHS-TR+49",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19725",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LHS-TR+49",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19726",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LHS-TR+49",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19727",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LHS-TR+49",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19728",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LHS-TR+49",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP3005",
+        "title": "\"FUN WILL NOW COMMENCE\": THE PSYCHOLOGY OF LEISURE~",
+        "academic_units": "3.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19738",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "LHS-TR+53",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP3204",
+        "title": "AN APE'S GUIDE TO HUMAN LANGUAGE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19731",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+56",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP3502",
+        "title": "PSYCHOLOGY OF EMOTION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19733",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1530-1820",
+                        "venue": "LHS-TR+49",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP3702",
+        "title": "CHILD PSYCHOPATHOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19734",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LT11",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "LT11",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19735",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LT11",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "LT11",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP3807",
+        "title": "OCCUPATIONAL HEALTH PSYCHOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "2.30 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19739",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "HSS-TR+2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP3901",
+        "title": "CULTURAL PSYCHOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": {
+            "date": "28 November 2026",
+            "day": "Saturday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19740",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "1530-1820",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP3902",
+        "title": "COMMUNITY PSYCHOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19736",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1230-1520",
+                        "venue": "LHS-TR+56",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4012",
+        "title": "APPLIED MULTIVARIATE METHODS FOR PSYCHOLOGICAL RESEARCH*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19732",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "HSSSEMRM8",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4031",
+        "title": "LABORATORY IN DEVELOPMENTAL PSYCHOLOGY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19748",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+56",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4041",
+        "title": "LABORATORY IN SOCIAL PSYCHOLOGY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19741",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+56",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4051",
+        "title": "LABORATORY IN PERSONALITY & INDIVIDUAL DIFFERENCES*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19742",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+55",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4063",
+        "title": "RESEARCH LAB IN LANGUAGE IN PERCEPTION & THOUGHT*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19743",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "1530-1820",
+                        "venue": "LHS-TR+47",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4081",
+        "title": "LABORATORY IN INDUSTRIAL & ORGANIZATIONAL PSYCHOLOGY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19744",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1630-1920",
+                        "venue": "LHS-TR+49",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4101",
+        "title": "LEGAL & COURTROOM PSYCHOLOGY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19745",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1630-1920",
+                        "venue": "LHS-TR+53",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4104",
+        "title": "EVIDENCE-BASED PRACTICE IN CLINICAL PSYCHOLOGY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19747",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+47",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4107",
+        "title": "INDUSTRIAL-ORGANISATIONAL PSYCHOLOGY IN PRACTICE*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19749",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+42",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4108",
+        "title": "PSYCHOLOGICAL THERAPIES & COUNSELLING*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19750",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "1730-2020",
+                        "venue": "LHS-TR+49",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4232",
+        "title": "PSYCHOLOGY OF SELF-REGULATION*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19757",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+55",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4242",
+        "title": "ADVANCED TOPICS IN SOCIAL COGNITION*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19751",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+32",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4251",
+        "title": "HUMAN MOTIVATION*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19752",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+55",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4262",
+        "title": "MULTISENSORY INTEGRATION*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19753",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "LHS-TR+47",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4273",
+        "title": "INTRODUCTION TO FUNCTIONAL NEUROIMAGING*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19754",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+52",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4274",
+        "title": "THE LAST DANCE: PERSPECTIVES OF DEATH, DYING & BEREAVEMENT*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19755",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LT23",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP4281",
+        "title": "SEMINAR IN SELECTED TOPICS: PSYCHOLOGY OF LEADERSHIP*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19756",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+43",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HR1001",
+        "title": "WAYS OF SEEING: EXPLORING VISUAL CULTURE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17286",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "HSSSEMRM3",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "17287",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM2",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "HSSSEMRM3",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HR3005",
+        "title": "FANTASY & THE FANTASTIC IN THE ARTS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17293",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "LHS-TR+45",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HS0101",
+        "title": "DIGITAL LITERACY, CULTURE & SOCIETY",
+        "academic_units": "3.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19991",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "LT24",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HW0208",
+        "title": "ACADEMIC COMMUNICATION IN THE SOCIAL SCIENCES",
+        "academic_units": "2.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "20021",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LHS-TR+34",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20022",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS2",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LHS-TR+34",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20023",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS3",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LHS-TR+34",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20024",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS4",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "LHS-TR+43",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20025",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS5",
+                        "day": "TUE",
+                        "time": "1130-1320",
+                        "venue": "LHS-TR+43",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20026",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS6",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LHS-TR+43",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20027",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS7",
+                        "day": "TUE",
+                        "time": "1530-1720",
+                        "venue": "LHS-TR+43",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20028",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS8",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20029",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS9",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20030",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS10",
+                        "day": "WED",
+                        "time": "1330-1520",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20031",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS11",
+                        "day": "WED",
+                        "time": "1530-1720",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20032",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS12",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20033",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS13",
+                        "day": "THU",
+                        "time": "1130-1320",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20034",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS14",
+                        "day": "THU",
+                        "time": "1330-1520",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20035",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS15",
+                        "day": "THU",
+                        "time": "1530-1720",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20036",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS16",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "LHS-TR+34",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20037",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS17",
+                        "day": "FRI",
+                        "time": "1130-1320",
+                        "venue": "LHS-TR+34",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20038",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS18",
+                        "day": "FRI",
+                        "time": "1330-1520",
+                        "venue": "LHS-TR+34",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HY1001",
+        "title": "INTRODUCTION TO PHILOSOPHY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Psychology Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17801",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR+31",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17802",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+46",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17803",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "FRI",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+31",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17804",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "FRI",
+                        "time": "1630-1720",
+                        "venue": "LHS-TR+31",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    }
+]

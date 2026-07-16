@@ -1,0 +1,715 @@
+[
+    {
+        "course_code": "BF2201",
+        "title": "INVESTMENTS*",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Finance",
+        "exam": {
+            "date": "3 December 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "00147",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "ABS-SR6",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00148",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "S3-SR9",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00149",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "ABS-SR6",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00150",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "4",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "S3-SR4",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00151",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "5",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S3-SR10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00152",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "6",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "S3-SR7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00153",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "7",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S4-SR8",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00154",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "8",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "FTR3",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00155",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "9",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S3-SR4",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00156",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "10",
+                        "day": "FRI",
+                        "time": "1430-1720",
+                        "venue": "S3-SR4",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00157",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "11",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S3-SR2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BF2209",
+        "title": "DERIVATIVE SECURITIES*",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Finance",
+        "exam": {
+            "date": "28 November 2026",
+            "day": "Saturday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "00187",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "S3-SR10",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BF2219",
+        "title": "INVESTMENTS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Finance",
+        "exam": {
+            "date": "3 December 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "00160",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "ABS-SR6",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00161",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "S3-SR9",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00162",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "ABS-SR6",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00163",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "4",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "S3-SR4",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00164",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "5",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S3-SR10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00165",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "6",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "S3-SR7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00166",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "7",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S4-SR8",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00167",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "8",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "FTR3",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00168",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "9",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S3-SR4",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00169",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "10",
+                        "day": "FRI",
+                        "time": "1430-1720",
+                        "venue": "S3-SR4",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00170",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "11",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S3-SR2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BF2221",
+        "title": "DERIVATIVE SECURITIES & HEDGING STRATEGIES~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Finance",
+        "exam": {
+            "date": "28 November 2026",
+            "day": "Saturday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "00193",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "S3-SR10",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BF3202",
+        "title": "FIXED INCOME SECURITIES*",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Finance",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "00250",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S4-SR24",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00251",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "S4-SR24",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BF3203",
+        "title": "EQUITY SECURITIES*",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Finance",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "00262",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "ABS-SR8",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00263",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "FRI",
+                        "time": "1430-1720",
+                        "venue": "ABS-SR14",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BF3204",
+        "title": "FINANCIAL MODELLING*",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Finance",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "00274",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "ITL-SA1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00275",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "ITL-SA1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BF3216",
+        "title": "FIXED INCOME SECURITIES~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Finance",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "00256",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S4-SR24",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00257",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "S4-SR24",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BF3217",
+        "title": "EQUITY VALUATION~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Finance",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "00268",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "ABS-SR8",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00269",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "FRI",
+                        "time": "1430-1720",
+                        "venue": "ABS-SR14",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BF3218",
+        "title": "FINANCIAL MODELLING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Finance",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "00280",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "ITL-SA1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00281",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "ITL-SA1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BU5201",
+        "title": "BUSINESS FINANCE*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Finance",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "00339",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "WED",
+                        "time": "0830-1120",
+                        "venue": "CR1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00340",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "THU",
+                        "time": "0830-1120",
+                        "venue": "S3-SR7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00341",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S3-SR7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00342",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "4",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "S4-SR22",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00343",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "5",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "S4-SR22",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00344",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "6",
+                        "day": "FRI",
+                        "time": "0830-1120",
+                        "venue": "S3-SR7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00345",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "7",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "ABS-SR5",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

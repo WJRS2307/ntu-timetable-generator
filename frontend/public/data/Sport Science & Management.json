@@ -1,0 +1,500 @@
+[
+    {
+        "course_code": "SS5003",
+        "title": "INTRODUCTION TO PILATES MATWORK & HATHA YOGA*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Sport Science & Management",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "68100",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "1",
+                        "day": "MON",
+                        "time": "1130-1420",
+                        "venue": "NIE5-02-08",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SS5101",
+        "title": "BADMINTON*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Sport Science & Management",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "68103",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "NTU SRC",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "68104",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "2",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "NTU SRC",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SS5102",
+        "title": "TENNIS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Sport Science & Management",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "68105",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "1730-2020",
+                        "venue": "NIE COURTS",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "68106",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "2",
+                        "day": "THU",
+                        "time": "0830-1120",
+                        "venue": "NIE COURTS",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SS5103",
+        "title": "SQUASH*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Sport Science & Management",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "68108",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "NIE5-B1-09",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "68109",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "2",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "NIE5-B1-09",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SS5104",
+        "title": "BASKETBALL*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Sport Science & Management",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "68110",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "1",
+                        "day": "WED",
+                        "time": "1830-2120",
+                        "venue": "NIE5-B2-04",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SS5105",
+        "title": "VOLLEYBALL*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Sport Science & Management",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "68112",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1730-2020",
+                        "venue": "NIE5-B2-04",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "68113",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "2",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "NIE5-B2-04",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SS5106",
+        "title": "NETBALL*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Sport Science & Management",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "68114",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "1",
+                        "day": "MON",
+                        "time": "1530-1820",
+                        "venue": "NIE COURTS",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "68115",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "2",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "NIE COURTS",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SS5107",
+        "title": "TABLE TENNIS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Sport Science & Management",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "68116",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "1830-2120",
+                        "venue": "NIE5-B1-08",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "68117",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "2",
+                        "day": "THU",
+                        "time": "1830-2120",
+                        "venue": "NIE5-B1-08",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SS5202",
+        "title": "SOCCER*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Sport Science & Management",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "68118",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "1830-2120",
+                        "venue": "NIE PITCH",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SS5203",
+        "title": "HOCKEY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Sport Science & Management",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "68120",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "1",
+                        "day": "MON",
+                        "time": "0830-1120",
+                        "venue": "NIE PITCH",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SS5204",
+        "title": "FLOORBALL*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Sport Science & Management",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "68122",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "1630-1920",
+                        "venue": "NIE5-B2-04",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SS5205",
+        "title": "RUGBY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Sport Science & Management",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "68123",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "1",
+                        "day": "FRI",
+                        "time": "0830-1120",
+                        "venue": "NTU SRC FD",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SS5206",
+        "title": "TCHOUKBALL*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Sport Science & Management",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "68125",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "1",
+                        "day": "WED",
+                        "time": "1830-2120",
+                        "venue": "NIE5-B2-04",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SS5303",
+        "title": "INTRODUCTION TO HIP-HOP & ITS DANCES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Sport Science & Management",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "68126",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1730-2020",
+                        "venue": "NIE5-02-08",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SS5305",
+        "title": "INTRODUCTION TO DANCES OF AMERICAN ORIGIN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Sport Science & Management",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "68127",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1130-1420",
+                        "venue": "NIE5-02-08",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SS5601",
+        "title": "HUMAN ANATOMY & PHYSIOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Sport Science & Management",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "68128",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "NIE5-LT11",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "NIE5-02-02",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SS5605",
+        "title": "PSYCHOSOCIAL ASPECTS OF SPORT & EXERCISE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Sport Science & Management",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "68129",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "NIE5-LT11",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "NIE5-TR501",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SS5611",
+        "title": "PHYSICAL ACTIVITY IN LIFE COURSE WELLNESS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Sport Science & Management",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "68130",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "NIE5-LT11",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "1",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "NIE5-TR501",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

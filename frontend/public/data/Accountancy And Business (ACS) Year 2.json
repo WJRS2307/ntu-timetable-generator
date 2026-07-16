@@ -1,0 +1,56 @@
+[
+    {
+        "course_code": "BA2202",
+        "title": "MATHEMATICS OF FINANCE*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Accountancy And Business (ACS) Year 2",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "3 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "00117",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "FRI",
+                        "time": "0830-1220",
+                        "venue": "ABS-SR14",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BA2203",
+        "title": "STATISTICAL MODELLING*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Accountancy And Business (ACS) Year 2",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "3 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "00122",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "MON",
+                        "time": "1330-1720",
+                        "venue": "ABS-SR6",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

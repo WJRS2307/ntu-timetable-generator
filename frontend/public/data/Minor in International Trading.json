@@ -1,0 +1,246 @@
+[
+    {
+        "course_code": "BF2216",
+        "title": "TRADE INCOTERMS & SHIP CHARTERING*",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in International Trading",
+        "exam": {
+            "date": "28 November 2026",
+            "day": "Saturday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "00355",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "ABS LT10",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BF2226",
+        "title": "TRADE INCOTERMS & SHIP CHARTERING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in International Trading",
+        "exam": {
+            "date": "28 November 2026",
+            "day": "Saturday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "00356",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "ABS LT10",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BF2227",
+        "title": "COMMODITY MARKETS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in International Trading",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00365",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "ABS LT10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00366",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "ABS LT10",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BF2302",
+        "title": "INTERNATIONAL TAX & TRADING LAW*~",
+        "academic_units": "2.0 AU",
+        "school_category": "Minor in International Trading",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00452",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "ABS-SR7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00453",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "FRI",
+                        "time": "1330-1520",
+                        "venue": "ABS-SR7",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BF3212",
+        "title": "TRADE, STRUCTURED & SUPPLY CHAIN FINANCE*~",
+        "academic_units": "2.0 AU",
+        "school_category": "Minor in International Trading",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00370",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "ABS LT6",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BF3213",
+        "title": "ENTERPRISE RISK MANAGEMENT IN COMMODITY MARKETS*~",
+        "academic_units": "2.0 AU",
+        "school_category": "Minor in International Trading",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00375",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1230-1520",
+                        "venue": "ABS LT6",
+                        "remark": "Teaching Wk1,5,8,12"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "FRI",
+                        "time": "1230-1520",
+                        "venue": "ABS LT6",
+                        "remark": "Teaching Wk1,5,8,12"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "ABS LT6",
+                        "remark": "Teaching Wk6"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BF3214",
+        "title": "COMMODITIES TRADING*~",
+        "academic_units": "2.0 AU",
+        "school_category": "Minor in International Trading",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00380",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1120",
+                        "venue": "ABS LT6",
+                        "remark": "Teaching Wk1,5,8,12"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "FRI",
+                        "time": "0830-1120",
+                        "venue": "ABS LT6",
+                        "remark": "Teaching Wk1,5,8,12"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "ABS LT6",
+                        "remark": "Teaching Wk6"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BF3226",
+        "title": "STRATEGIC MANAGEMENT IN COMMODITY MARKET~",
+        "academic_units": "2.0 AU",
+        "school_category": "Minor in International Trading",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "01190",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "WED",
+                        "time": "1330-1520",
+                        "venue": "ABS LT6",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

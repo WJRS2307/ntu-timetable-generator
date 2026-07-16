@@ -1,0 +1,46 @@
+[
+    {
+        "course_code": "AGE06B",
+        "title": "APPLICATIONS OF EDUCATIONAL NEUROSCIENCE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Science Of Learning",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39559",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "NIE7-01-06",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AGE06D",
+        "title": "NEURODIVERSITY & THE LEARNING EXPERIENCE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Science Of Learning",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39560",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "FRI",
+                        "time": "1430-1720",
+                        "venue": "NIE7-01-06",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

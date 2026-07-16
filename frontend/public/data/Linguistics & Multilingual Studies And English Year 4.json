@@ -1,0 +1,4113 @@
+[
+    {
+        "course_code": "CS0102",
+        "title": "MAKING SENSE OF BIG DATA",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06010",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DD0003",
+        "title": "INFORMATION VISUALIZATION",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64006",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "ART-01-02",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64007",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "TUE",
+                        "time": "1630-1920",
+                        "venue": "ART-01-02",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64008",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G03",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "ART-01-02",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64009",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G04",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "ART-01-02",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HD0103",
+        "title": "DIGITAL HUMANITIES: ART, ART HISTORY & CULTURAL HERITAGE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17285",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "HSSSEMRM8",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HG1001",
+        "title": "MIND & MEANING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17401",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "TR+94",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17402",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "TR+95",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17403",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "MON",
+                        "time": "1730-1820",
+                        "venue": "TR+94",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17404",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "MON",
+                        "time": "1730-1820",
+                        "venue": "TR+95",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17405",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "TUE",
+                        "time": "0930-1020",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17406",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "TUE",
+                        "time": "1030-1120",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17407",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T7",
+                        "day": "TUE",
+                        "time": "1230-1320",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17408",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T8",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HG2001",
+        "title": "MORPHOLOGY & SYNTAX*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17409",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "TR+112",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17410",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "TR+113",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17411",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "TR+113",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17412",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "TR+112",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17413",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "TR+112",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HG2002",
+        "title": "SEMANTICS & PRAGMATICS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17414",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "1530-1720",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "TR+95",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17415",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "1530-1720",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "WED",
+                        "time": "1030-1120",
+                        "venue": "TR+95",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17416",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "1530-1720",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "TR+95",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17417",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "1530-1720",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "TR+96",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17418",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "1530-1720",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "TR+96",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HG2013",
+        "title": "CHILD LANGUAGE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17429",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "TR+80",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HG2020",
+        "title": "LANGUAGE IN SOCIETY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17419",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+46",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17420",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "TUE",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+45",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17421",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "TUE",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+45",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17422",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "TUE",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+46",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17423",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "TUE",
+                        "time": "1630-1720",
+                        "venue": "LHS-TR+46",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17424",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "TUE",
+                        "time": "1630-1720",
+                        "venue": "LHS-TR+51",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HG2021",
+        "title": "INTERCULTURAL COMMUNICATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17430",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1230-1520",
+                        "venue": "LHS-TR+52",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HG2025",
+        "title": "DELECTABLE TONGUES: LANGUAGE & FOOD*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17432",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1030-1320",
+                        "venue": "HSS-TR+2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HG2033",
+        "title": "INTRODUCTION TO CONVERSATION ANALYSIS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17431",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+29",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HG2051",
+        "title": "LANGUAGE & THE COMPUTER*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17433",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+49",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HG2052",
+        "title": "LANGUAGE, TECHNOLOGY & THE INTERNET*",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17434",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+51",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HG2054",
+        "title": "PRAGMATICS OF AI LANGUAGE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17435",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "TR+80",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HG2096",
+        "title": "WHAT'S IN A TEXT? - ANALYZING WRITTEN DISCOURSE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17445",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "FRI",
+                        "time": "1230-1520",
+                        "venue": "TR+80",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HG3005",
+        "title": "STATISTICS FOR PSYCHOLINGUISTICS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17436",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "TR+80",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HG3023",
+        "title": "ANTHROPOLOGICAL LINGUISTICS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17437",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+51",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HG3043",
+        "title": "MALAY LINGUISTICS 1 - HISTORY & STRUCTURE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17438",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "HSSSEMRM7",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HG4020",
+        "title": "LANGUAGE CONTACT*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17440",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1330-1720",
+                        "venue": "HSSSEMRM6",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HG4048",
+        "title": "COMPARATIVE CHINESE DIALECTOLOGY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17441",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1330-1720",
+                        "venue": "LHS-TR+29",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HG4052",
+        "title": "SPEECH SYNTHESIS & RECOGNITION*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17442",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "FRI",
+                        "time": "0930-1320",
+                        "venue": "TR+69",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HG4054",
+        "title": "LANGUAGE & SOCIETY THROUGH DATA ANALYTICS*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17443",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "0930-1320",
+                        "venue": "TR+69",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HG4062",
+        "title": "LANGUAGE, CULTURE & SOCIETY IN SOUTHEAST ASIA*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17444",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1430-1820",
+                        "venue": "HSSSEMRM9",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL1001",
+        "title": "INTRODUCTION TO THE STUDY OF LITERATURE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17203",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "HSS-TR+1",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17204",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17205",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17206",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17207",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "TR+69",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17208",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "TR+69",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17209",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T7",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "TR+69",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17210",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T8",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17211",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T9",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17212",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T10",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "TR+68",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL1006",
+        "title": "INTRODUCTION TO AMERICAN LITERATURE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17223",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1130-1220",
+                        "venue": "HSS-TR+1",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17224",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "TUE",
+                        "time": "1130-1220",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17225",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "TUE",
+                        "time": "1230-1320",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17226",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17227",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "TR+65",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17228",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "TR+65",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17267",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T7",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "TR+65",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL2002",
+        "title": "RENAISSANCE LITERATURE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17229",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "HSSSEMRM4",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL2006",
+        "title": "MODERNISM*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17231",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "TR+92",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL2007",
+        "title": "CONTEMPORARY LITERATURE & CULTURE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17232",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "HSSSEMRM7",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL2009",
+        "title": "SOUTHEAST ASIAN LITERATURE & CULTURE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17233",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "1030-1320",
+                        "venue": "LHS-TR+29",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL2012",
+        "title": "ASIAN-AMERICAN LITERATURE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17234",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "TR+68",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL2020",
+        "title": "CREATIVE WRITING WORKSHOP*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17235",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "HSS-TR+2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL2027",
+        "title": "EARLY AMERICAN LITERATURE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17236",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "HSSSEMRM8",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL2030",
+        "title": "POST 1945 AMERICAN LITERATURE & CULTURE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17237",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "TR+69",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL2041",
+        "title": "ASIAN HISTORICAL FICTION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17238",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "HSSSEMRM4",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL2042",
+        "title": "CHILDREN'S LITERATURE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17239",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "HSSSEMRM4",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL3001",
+        "title": "FILM THEORY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17240",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "1030-1320",
+                        "venue": "HSSSEMRM4",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL3006",
+        "title": "MODERN DRAMA*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": {
+            "date": "3 December 2026",
+            "day": "Thursday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17230",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "HSSCSTUDIO",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL3012",
+        "title": "THE DISCOURSE OF LOVE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17241",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+55",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL3037",
+        "title": "THE ENVIRONMENT & CULTURAL PRODUCTION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17242",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+43",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL3042",
+        "title": "GOTHIC LITERATURE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17243",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "TR+79",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL3044",
+        "title": "THE LEGENDS OF KING ARTHUR*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17244",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "TR+94",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL3047",
+        "title": "THE ART OF POETRY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17245",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "HSS-TR+5",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL4009",
+        "title": "POPULAR LITERATURE & CULTURE*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17246",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "HSS-TR+1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL4013",
+        "title": "ADVANCED STUDIES IN LITERATURE & CULTURE*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17247",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "TR+67",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL4020",
+        "title": "ADVANCED STUDIES IN MODERNIST LITERATURE*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17249",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "LHN-TR+40",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL4028",
+        "title": "SCIENCE & LITERATURE*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17250",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "HSSSEMRM6",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL4033",
+        "title": "MAJOR AUTHOR STUDY: JAMES JOYCE*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17251",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "TR+66",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL4038",
+        "title": "ADVANCED STUDIES IN POSTCOLONIAL LITERATURE*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": {
+            "date": "3 December 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17253",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "HSSSEMRM6",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL4039",
+        "title": "ADVANCED STUDIES IN CHILDREN'S LITERATURE*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17254",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "HSSSEMRM6",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL4042",
+        "title": "BEING HUMAN IN FILM & LITERATURE*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17255",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "HSSSEMRM7",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP1000",
+        "title": "INTRODUCTION TO PSYCHOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19701",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1030-1120",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19702",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "TUE",
+                        "time": "1130-1220",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19703",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "TUE",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19704",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19705",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19706",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19707",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T7",
+                        "day": "FRI",
+                        "time": "1330-1420",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19708",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T8",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP1100",
+        "title": "FUNDAMENTALS OF SOCIAL SCIENCE RESEARCH*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19709",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1230-1320",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19710",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "MON",
+                        "time": "1330-1420",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19711",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19712",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19713",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19714",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19715",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T7",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19716",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T8",
+                        "day": "THU",
+                        "time": "1630-1720",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HR1001",
+        "title": "WAYS OF SEEING: EXPLORING VISUAL CULTURE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17286",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "HSSSEMRM3",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "17287",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM2",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "HSSSEMRM3",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HR3005",
+        "title": "FANTASY & THE FANTASTIC IN THE ARTS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17293",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "LHS-TR+45",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HR3010",
+        "title": "WEIRD ART WRITING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17294",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "HSSSEMRM9",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HS0101",
+        "title": "DIGITAL LITERACY, CULTURE & SOCIETY",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19991",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "LT24",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HW0207",
+        "title": "ACADEMIC COMMUNICATION IN LINGUISTICS",
+        "academic_units": "2.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17910",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SOH1",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "TR+92",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "17911",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SOH2",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "TR+93",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "17912",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SOH3",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "TR+93",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HY1001",
+        "title": "INTRODUCTION TO PHILOSOPHY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17801",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR+31",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17802",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+46",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17803",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "FRI",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+31",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17804",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "FRI",
+                        "time": "1630-1720",
+                        "venue": "LHS-TR+31",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HZ5101",
+        "title": "INTRODUCTION TO CREATIVE WRITING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17256",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+44",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "17257",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM2",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "TR+61",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "17258",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM3",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "HSSSEMRM7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "17259",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM4",
+                        "day": "TUE",
+                        "time": "1730-2020",
+                        "venue": "HSSSEMRM7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "17260",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM5",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "TR+78",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "17261",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM6",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "HSSSEMRM9",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HZ5201",
+        "title": "CREATIVE WRITING:POETRY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17262",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "HSS-TR+1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HZ5202",
+        "title": "CREATIVE WRITING:FICTION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17263",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "HSS-TR+5",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HZ5203",
+        "title": "CREATIVE WRITING: NON FICTION PROSE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17264",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "HSS-TR+1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HZ5204",
+        "title": "CREATIVE WRITING: PLAYWRITING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17265",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "HSS-TR+2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LA5003",
+        "title": "ARABIC LANGUAGE LEVEL 3*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18010",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "TR+154",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "TR+154",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LA5004",
+        "title": "ARABIC LANGUAGE LEVEL 4*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18011",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "TR+160",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1830-2020",
+                        "venue": "TR+160",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LA5101",
+        "title": "ADVANCED ARABIC LANGUAGE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18012",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LHS-TR+28",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LHS-TR+28",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LC5003",
+        "title": "CHINESE LANGUAGE LEVEL 3*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18027",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1730-1920",
+                        "venue": "TR+79",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "TR+79",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LC5004",
+        "title": "CHINESE LANGUAGE LEVEL 4*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18028",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "TUE",
+                        "time": "1630-2020",
+                        "venue": "HSS-TR+5",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LF5003",
+        "title": "FRENCH LANGUAGE LEVEL 3*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18044",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18045",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "WED",
+                        "time": "1830-2020",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "MON",
+                        "time": "1830-2020",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18046",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "THU",
+                        "time": "1830-2020",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "TUE",
+                        "time": "1830-2020",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18047",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T012",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T012",
+                        "day": "WED",
+                        "time": "1830-2020",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18048",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T013",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T013",
+                        "day": "THU",
+                        "time": "1830-2020",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18049",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T021",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T021",
+                        "day": "MON",
+                        "time": "1830-2020",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18050",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T023",
+                        "day": "THU",
+                        "time": "1830-2020",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T023",
+                        "day": "MON",
+                        "time": "1830-2020",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18051",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T031",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T031",
+                        "day": "TUE",
+                        "time": "1830-2020",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18052",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T032",
+                        "day": "WED",
+                        "time": "1830-2020",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T032",
+                        "day": "TUE",
+                        "time": "1830-2020",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LF5004",
+        "title": "FRENCH LANGUAGE LEVEL 4*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18053",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1830-2020",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1830-2020",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LF5005",
+        "title": "FRENCH LANGUAGE LEVEL 5*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18054",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1830-2020",
+                        "venue": "HSS-TR+5",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1830-2020",
+                        "venue": "HSS-TR+5",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LF5006",
+        "title": "FRENCH LANGUAGE LEVEL 6*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18055",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1830-2020",
+                        "venue": "HSS-TR+1",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "TUE",
+                        "time": "1830-2020",
+                        "venue": "HSS-TR+1",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LF5007",
+        "title": "FRENCH LANGUAGE LEVEL 7*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18056",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1830-2020",
+                        "venue": "HSS-TR+1",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1830-2020",
+                        "venue": "HSS-TR+1",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LF5008",
+        "title": "FRENCH LANGUAGE LEVEL 8*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18057",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1830-2020",
+                        "venue": "SEE LF5007",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1830-2020",
+                        "venue": "SEE LF5007",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LG5003",
+        "title": "GERMAN LANGUAGE LEVEL 3*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18071",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1630-2020",
+                        "venue": "CSKL10A",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LG5004",
+        "title": "GERMAN LANGUAGE LEVEL 4*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18072",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1630-2020",
+                        "venue": "TR121",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LG5005",
+        "title": "GERMAN LANGUAGE LEVEL 5*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18073",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1630-2020",
+                        "venue": "SEE LG5004",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LJ5003",
+        "title": "JAPANESE LANGUAGE LEVEL 3*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18097",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LHS-TR+26",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LHS-TR+26",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18098",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LHS-TR+26",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LHS-TR+26",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18099",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LHS-TR+25",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHS-TR+25",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18100",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T04",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "TR+151",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T04",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "TR+151",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LJ5004",
+        "title": "JAPANESE LANGUAGE LEVEL 4*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18101",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "TR+154",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "TR+154",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18102",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "TR+154",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "TR+154",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18103",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "TR+154",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "TR+154",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LJ5005",
+        "title": "JAPANESE LANGUAGE LEVEL 5*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18104",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "TR+153",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "TR+153",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LJ5006",
+        "title": "JAPANESE LANGUAGE LEVEL 6*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18105",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1330-1520",
+                        "venue": "TR+153",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "TR+153",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LK5003",
+        "title": "KOREAN LANGUAGE LEVEL 3*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18122",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "TR+166",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "TR+166",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18123",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "WED",
+                        "time": "1730-1920",
+                        "venue": "TR+166",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "TR+166",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18124",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "TR+166",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "TR+166",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18125",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T04",
+                        "day": "THU",
+                        "time": "1730-1920",
+                        "venue": "TR+166",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T04",
+                        "day": "TUE",
+                        "time": "1730-1920",
+                        "venue": "TR+166",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LK5004",
+        "title": "KOREAN LANGUAGE LEVEL 4*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18126",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1730-1920",
+                        "venue": "TR+165",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "TR+165",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18127",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "HSS-TR+2",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "HSSSEMRM3",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18128",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "THU",
+                        "time": "1730-1920",
+                        "venue": "HSS-TR+2",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "TUE",
+                        "time": "1730-1920",
+                        "venue": "HSS-TR+2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LK5005",
+        "title": "KOREAN LANGUAGE LEVEL 5*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18129",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "HSS-TR+2",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "HSS-TR+2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LK5006",
+        "title": "KOREAN LANGUAGE LEVEL 6*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18130",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "CSKL15",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "CSKL15",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LK5007",
+        "title": "KOREAN LANGUAGE LEVEL 7*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18131",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1730-1920",
+                        "venue": "TR+153",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "TR+153",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LM5003",
+        "title": "MALAY LANGUAGE LEVEL 3*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18156",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LHS-TR+34",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LHS-TR+39",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LM5004",
+        "title": "MALAY LANGUAGE LEVEL 4*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18157",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LHS-TR+34",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LHS-TR+39",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LM5005",
+        "title": "MALAY LEVEL 5*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18158",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "SEE LM5004",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "SER LM5004",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LS5003",
+        "title": "SPANISH LANGUAGE LEVEL 3*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18175",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1730-1920",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18176",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18177",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T012",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T012",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18178",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T021",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T021",
+                        "day": "WED",
+                        "time": "1730-1920",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LS5004",
+        "title": "SPANISH LANGUAGE LEVEL 4*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18179",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LS5005",
+        "title": "SPANISH LANGUAGE LEVEL 5*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18180",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LT5003",
+        "title": "THAI LANGUAGE LEVEL 3*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18202",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1630-2020",
+                        "venue": "LHS-TR+36",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LT5004",
+        "title": "THAI LANGUAGE LEVEL 4*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Linguistics & Multilingual Studies And English Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18203",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "TUE",
+                        "time": "1630-2020",
+                        "venue": "LHS-TR+36",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    }
+]

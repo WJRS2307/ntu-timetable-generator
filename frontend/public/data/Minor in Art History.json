@@ -1,0 +1,758 @@
+[
+    {
+        "course_code": "DD1102",
+        "title": "GLOBAL PERSPECTIVES ON VISUAL CULTURE~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Art History",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64010",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "ART-02-35",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "WED",
+                        "time": "0930-1050",
+                        "venue": "ART-B1-02A",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64011",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "ART-02-35",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "WED",
+                        "time": "1130-1250",
+                        "venue": "ART-B1-02A",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64012",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "ART-02-35",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G03",
+                        "day": "WED",
+                        "time": "1330-1450",
+                        "venue": "ART-B1-02A",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64013",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "ART-02-35",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G04",
+                        "day": "WED",
+                        "time": "1530-1650",
+                        "venue": "ART-B1-02A",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64014",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "ART-02-35",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G05",
+                        "day": "FRI",
+                        "time": "0930-1050",
+                        "venue": "ART-B1-02A",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64015",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "ART-02-35",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G06",
+                        "day": "FRI",
+                        "time": "1130-1250",
+                        "venue": "ART-B1-02A",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64016",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "ART-02-35",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G07",
+                        "day": "FRI",
+                        "time": "1330-1450",
+                        "venue": "ART-B1-02A",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DD3016",
+        "title": "HISTORY OF DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Art History",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63015",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE01",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "ART-B1-02A",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63016",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE02",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "ART-B1-13",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63017",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE03",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "ART-B1-02B",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DF2005",
+        "title": "WRITING FOR FILM*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Art History",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64020",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "ART-B1-14",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64021",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "ART-01-08",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DP2002",
+        "title": "HISTORY OF PHOTOGRAPHY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Art History",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64040",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "ART-02-15",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DT2007",
+        "title": "HISTORY & CULTURE OF ANIMATION, VFX & GAME*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Art History",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64051",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "ART-B1-03",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH2125",
+        "title": "THE WORLD IN 12 OBJECTS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Art History",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17619",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+47",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH3001",
+        "title": "HISTORIOGRAPHY: THEORY & METHODS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Art History",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17620",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1130-1420",
+                        "venue": "TR+66",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH4003",
+        "title": "THE SILK ROAD: OLD & NEW*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Art History",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17630",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1430-1820",
+                        "venue": "TR+92",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL2007",
+        "title": "CONTEMPORARY LITERATURE & CULTURE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Art History",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17232",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "HSSSEMRM7",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL2009",
+        "title": "SOUTHEAST ASIAN LITERATURE & CULTURE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Art History",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17233",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "1030-1320",
+                        "venue": "LHS-TR+29",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL3001",
+        "title": "FILM THEORY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Art History",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17240",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "1030-1320",
+                        "venue": "HSSSEMRM4",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL3042",
+        "title": "GOTHIC LITERATURE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Art History",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17243",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "TR+79",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL3044",
+        "title": "THE LEGENDS OF KING ARTHUR*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Art History",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17244",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "TR+94",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL4009",
+        "title": "POPULAR LITERATURE & CULTURE*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Art History",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17246",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "HSS-TR+1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL4042",
+        "title": "BEING HUMAN IN FILM & LITERATURE*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Art History",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17255",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "HSSSEMRM7",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HR1001",
+        "title": "WAYS OF SEEING: EXPLORING VISUAL CULTURE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Art History",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17286",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "HSSSEMRM3",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "17287",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM2",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "HSSSEMRM3",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HR1003",
+        "title": "INTRODUCTION TO THE HISTORIES OF ART I*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Art History",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17288",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "TR+79",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HR2001",
+        "title": "INTRODUCTION TO THE HISTORIES OF SOUTHEAST ASIAN ART*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Art History",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17289",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "TR+79",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HR2003",
+        "title": "THE ART &  ARCHITECTURE OF 'THE LONG CENTURY':1789-1914*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Art History",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17290",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "LHS-TR+26",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HR2009",
+        "title": "CONTEMPORARY CURATING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Art History",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17291",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "TR+112",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HR2010",
+        "title": "INTRODUCTION TO MUSEUM STUDIES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Art History",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17292",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+45",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HR3005",
+        "title": "FANTASY & THE FANTASTIC IN THE ARTS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Art History",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17293",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "LHS-TR+45",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HR3010",
+        "title": "WEIRD ART WRITING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Art History",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17294",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "HSSSEMRM9",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HR3012",
+        "title": "DANCING CULTURES: ART, BODY, & PERFORMANCE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Art History",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17295",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "HSS-TR+2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HR4003",
+        "title": "FROM COLONIALISM  TO TOURISM: EARLY PHOTOGRAPHY IN ASIA*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Art History",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17296",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "HSS-TR+5",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

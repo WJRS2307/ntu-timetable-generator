@@ -1,0 +1,1579 @@
+[
+    {
+        "course_code": "DA5000",
+        "title": "APPLIED DRAWING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64001",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "ART-02-28",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DA5001",
+        "title": "PAINTING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64002",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "ART-02-28",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DA5002",
+        "title": "WATERMEDIA LANDSCAPE PAINTING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64003",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "THU",
+                        "time": "1730-2020",
+                        "venue": "ART-02-29",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DA5005",
+        "title": "COMPOSITIONAL STUDY - SHAPES, SPACE & COLOR INTERACTION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64004",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "FRI",
+                        "time": "1730-2020",
+                        "venue": "ART-02-28",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DA5007",
+        "title": "DRAWING FOR ANIMATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64005",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "ART-02-28",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DD1102",
+        "title": "GLOBAL PERSPECTIVES ON VISUAL CULTURE~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64010",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "ART-02-35",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "WED",
+                        "time": "0930-1050",
+                        "venue": "ART-B1-02A",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64011",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "ART-02-35",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "WED",
+                        "time": "1130-1250",
+                        "venue": "ART-B1-02A",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64012",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "ART-02-35",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G03",
+                        "day": "WED",
+                        "time": "1330-1450",
+                        "venue": "ART-B1-02A",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64013",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "ART-02-35",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G04",
+                        "day": "WED",
+                        "time": "1530-1650",
+                        "venue": "ART-B1-02A",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64014",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "ART-02-35",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G05",
+                        "day": "FRI",
+                        "time": "0930-1050",
+                        "venue": "ART-B1-02A",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64015",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "ART-02-35",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G06",
+                        "day": "FRI",
+                        "time": "1130-1250",
+                        "venue": "ART-B1-02A",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64016",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "ART-02-35",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G07",
+                        "day": "FRI",
+                        "time": "1330-1450",
+                        "venue": "ART-B1-02A",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DD3016",
+        "title": "HISTORY OF DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63015",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE01",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "ART-B1-02A",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63016",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE02",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "ART-B1-13",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63017",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE03",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "ART-B1-02B",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DF2000",
+        "title": "DIGITAL FILM PRODUCTION I*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64017",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "ART-01-19",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64018",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "ART-01-19",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DF2003",
+        "title": "CINEMATOGRAPHY  I*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64019",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "ART-01-19",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DF2005",
+        "title": "WRITING FOR FILM*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64020",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "ART-B1-14",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64021",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "ART-01-08",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DF3010",
+        "title": "EXPERIMENTAL FILM PRODUCTION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64023",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "ART-01-12",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DF3012",
+        "title": "FILM DIRECTING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64024",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "ART-01-19",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64025",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "ART-01-19",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DF3013",
+        "title": "SUSTAINABLE PRODUCING FOR FILM & MEDIA*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64026",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "ART-02-23A",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DF5001",
+        "title": "DOCUMENTARY FILMMAKING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64027",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "ART-B1-14",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DM2000",
+        "title": "INTERACTIVE I*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64028",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "ART-01-11A",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64029",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "ART-01-11A",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DM2008",
+        "title": "PROGRAMMING FOR INTERACTION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64030",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "ART-02-17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64031",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "ART-02-17",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DM2012",
+        "title": "EXPLORATIONS IN A.I. GENERATED ART*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64032",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "ART-02-17",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DM3008",
+        "title": "GENERATIVE ART*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64033",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "MON",
+                        "time": "1630-1920",
+                        "venue": "ART-02-17",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DM3013",
+        "title": "INTERACTIVE SPACES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63051",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "ART-01-11A",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DM3014",
+        "title": "INTERACTIVE DEVICES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64034",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "ART-01-11A",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DP2001",
+        "title": "DIGITAL PHOTOGRAPHY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64037",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "ART-02-26",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64038",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "TUE",
+                        "time": "1630-1920",
+                        "venue": "ART-02-26",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64039",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G03",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "ART-02-26",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DP2002",
+        "title": "HISTORY OF PHOTOGRAPHY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64040",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "ART-02-15",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DP2006",
+        "title": "PRINCIPLES OF LIGHTING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64041",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "ART-02-24B",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64042",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "MON",
+                        "time": "1630-1920",
+                        "venue": "ART-02-24B",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DP2008",
+        "title": "EXPERIMENTAL PHOTOGRAPHY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64043",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "ART-02-30",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DP3000",
+        "title": "PHOTOGRAPHIC MEDIA & PRESENTATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64044",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "ART-02-30",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DP3010",
+        "title": "MOVING IMAGE FOR MEDIA ARTISTS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64045",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "ART-02-26",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DP5000",
+        "title": "BLACK & WHITE FILM PHOTOGRAPHY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64046",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "ART-02-30",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64047",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "ART-02-30",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64048",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G03",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "ART-02-30",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DR2001",
+        "title": "PRODUCT DESIGN I*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63100",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "ART-B1-22",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DR2002",
+        "title": "EMERGING PRODUCT DESIGN PRACTICES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64049",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "ART-B1-23",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DR2005",
+        "title": "COMPUTER AIDED DESIGN WORKSHOP I*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63101",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "ART-B1-23",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DR5003",
+        "title": "INTRODUCTION TO DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64050",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "LHN-TR+08",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DT2000",
+        "title": "BASIC PRINCIPLES OF MOTION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63150",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "ART-B1-04A",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63151",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "ART-B1-04A",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DT2001",
+        "title": "3D PRODUCTION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63152",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "WED",
+                        "time": "1930-2220",
+                        "venue": "ART-B1-05F",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63153",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "THU",
+                        "time": "1930-2220",
+                        "venue": "ART-B1-05F",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DT2007",
+        "title": "HISTORY & CULTURE OF ANIMATION, VFX & GAME*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64051",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "ART-B1-03",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DT2010",
+        "title": "DIGITAL COMPOSITING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63154",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "THU",
+                        "time": "1930-2220",
+                        "venue": "ART-B1-05G",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DT2011",
+        "title": "STOP MOTION PRINCIPLES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63155",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "ART-B1-05A",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DT2017",
+        "title": "WRITING FOR ANIMATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63170",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "ART-B1-13",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DT2018",
+        "title": "ANIMATION FOR GAMES I*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63157",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "MON",
+                        "time": "1930-2220",
+                        "venue": "ART-B1-05G",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63158",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "WED",
+                        "time": "1630-1920",
+                        "venue": "ART-B1-05G",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DT2020",
+        "title": "GAME DESIGN I*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63159",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "ART-B1-05G",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63160",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "ART-B1-05G",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DT2021",
+        "title": "GAME ASSETS DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63161",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "TUE",
+                        "time": "1930-2220",
+                        "venue": "ART-B1-05F",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DT3004",
+        "title": "RIGGING FOR ANIMATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63162",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "WED",
+                        "time": "1930-2220",
+                        "venue": "ART-B1-05G",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DT3009",
+        "title": "CINEMATIC CONCEPTS & MOTION CAPTURE APPLICATIONS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63163",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "TUE",
+                        "time": "1630-1920",
+                        "venue": "ART-B1-05G",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DT3017",
+        "title": "GAME SEMINAR*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63167",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "ART-B1-05G",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DT5001",
+        "title": "GRAPHIC STORYTELLING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63169",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "ART-B1-04A",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DT5002",
+        "title": "ISSUES IN ANIMATION PRACTICE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63168",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "ART-B1-05G",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DT5003",
+        "title": "DIGITAL PAINTING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64052",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "ART-B1-05F",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64053",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "WED",
+                        "time": "1630-1920",
+                        "venue": "ART-B1-05F",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DV2000",
+        "title": "TYPOGRAPHY I*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63200",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "ART-02-23B",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63201",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "ART-01-02",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63202",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G03",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "ART-02-02A",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DV2001",
+        "title": "VISUAL COMMUNICATION I*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63203",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "ART-02-02A",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63204",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "ART-02-02A",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63205",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G03",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "ART-02-23B",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DV2002",
+        "title": "ILLUSTRATION FOR DESIGNERS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63206",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "THU",
+                        "time": "1630-1920",
+                        "venue": "ART-02-02A",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DV2003",
+        "title": "BEYOND THE LOGO: INTRODUCTION TO BRANDING*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63207",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "ART-02-02A",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64054",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "ART-02-02A",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DV2008",
+        "title": "INTERFACE DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32638",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G1",
+                        "day": "FRI",
+                        "time": "1630-1920",
+                        "venue": "S2.2-B4-04",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63208",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G1",
+                        "day": "FRI",
+                        "time": "1630-1920",
+                        "venue": "S2.2-B4-04",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DV5001",
+        "title": "DESIGN IN MOTION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63215",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "TUE",
+                        "time": "1630-1920",
+                        "venue": "ART-02-02B",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

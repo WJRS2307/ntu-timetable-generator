@@ -1,0 +1,3047 @@
+[
+    {
+        "course_code": "E3101L",
+        "title": "ENGINEERING ELECTROMAGNETICS",
+        "academic_units": ".0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32801",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL01",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk8"
+                    }
+                ]
+            },
+            {
+                "index_number": "32802",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL02",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9"
+                    }
+                ]
+            },
+            {
+                "index_number": "32803",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL03",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9"
+                    }
+                ]
+            },
+            {
+                "index_number": "32804",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL04",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk8"
+                    }
+                ]
+            },
+            {
+                "index_number": "32805",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL05",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C_17",
+                        "remark": "Teaching Wk9"
+                    }
+                ]
+            },
+            {
+                "index_number": "32806",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL06",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk8"
+                    }
+                ]
+            },
+            {
+                "index_number": "32807",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL07",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S2-B4C_17",
+                        "remark": "Teaching Wk9"
+                    }
+                ]
+            },
+            {
+                "index_number": "32808",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL08",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk8"
+                    }
+                ]
+            },
+            {
+                "index_number": "32809",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL09",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C_17",
+                        "remark": "Teaching Wk9"
+                    }
+                ]
+            },
+            {
+                "index_number": "32810",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL10",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk8"
+                    }
+                ]
+            },
+            {
+                "index_number": "32811",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL11",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk8"
+                    }
+                ]
+            },
+            {
+                "index_number": "32812",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL12",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9"
+                    }
+                ]
+            },
+            {
+                "index_number": "32813",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL13",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C_17",
+                        "remark": "Teaching Wk9"
+                    }
+                ]
+            },
+            {
+                "index_number": "32815",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL14",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk8"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE3101",
+        "title": "ENGINEERING ELECTROMAGNETICS",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32351",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE01",
+                        "day": "MON",
+                        "time": "1030-1150",
+                        "venue": "TR+65",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32352",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE02",
+                        "day": "MON",
+                        "time": "1030-1150",
+                        "venue": "TR+67",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32353",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE03",
+                        "day": "MON",
+                        "time": "1330-1450",
+                        "venue": "TR+67",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32354",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE04",
+                        "day": "TUE",
+                        "time": "1030-1150",
+                        "venue": "TR+67",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32355",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE05",
+                        "day": "TUE",
+                        "time": "1330-1450",
+                        "venue": "TR+67",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32356",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE06",
+                        "day": "TUE",
+                        "time": "1530-1650",
+                        "venue": "TR+67",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32357",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE07",
+                        "day": "WED",
+                        "time": "1030-1150",
+                        "venue": "TR+67",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32358",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE08",
+                        "day": "WED",
+                        "time": "1030-1150",
+                        "venue": "TR+68",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32359",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE09",
+                        "day": "THU",
+                        "time": "0930-1050",
+                        "venue": "TR+67",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32360",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE10",
+                        "day": "THU",
+                        "time": "1330-1450",
+                        "venue": "TR+67",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32366",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE11",
+                        "day": "FRI",
+                        "time": "1030-1150",
+                        "venue": "TR+67",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4227",
+        "title": "CONTROL ENGINEERING DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32501",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F41",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "S2-B5A_01",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32502",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F42",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S2-B5A_01",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32503",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F43",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S2-B5A-01",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32504",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F44",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "S2-B5A-01",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4268",
+        "title": "ROBOTICS & AUTOMATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32507",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F41",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "LT28",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4323",
+        "title": "MIXED-SIGNAL IC DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": {
+            "date": "3 December 2026",
+            "day": "Thursday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32511",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F61",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S2-B3B-08",
+                        "remark": "Teaching Wk7-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F61",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LT25",
+                        "remark": "Teaching Wk1-6"
+                    }
+                ]
+            },
+            {
+                "index_number": "32512",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F62",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LT25",
+                        "remark": "Teaching Wk1-6"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F62",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "S2-B3B_08",
+                        "remark": "Teaching Wk7-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4341",
+        "title": "ADVANCED ANALOG CIRCUITS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32513",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "LT29",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4523",
+        "title": "POWER ENGINEERING DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32521",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F11",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk1-7"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F11",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk8-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F11",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "LHS-LT",
+                        "remark": "Teaching Wk1-7"
+                    }
+                ]
+            },
+            {
+                "index_number": "32522",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F12",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk8-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F12",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk1-7"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F12",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "LHS-LT",
+                        "remark": "Teaching Wk1-7"
+                    }
+                ]
+            },
+            {
+                "index_number": "32523",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F13",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk1-7"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F13",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk8-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F13",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "LHS-LT",
+                        "remark": "Teaching Wk1-7"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4530",
+        "title": "POWER SYSTEM ANALYSIS & CONTROL*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": {
+            "date": "28 November 2026",
+            "day": "Saturday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32526",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LT28",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4532",
+        "title": "POWER ELECTRONICS & DRIVES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32527",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "LT23",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4623",
+        "title": "CMOS PROCESS & DEVICE SIMULATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32531",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F61",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "S2-B5A-01",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32532",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F62",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S2-B5A-01",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32533",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F63",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "S2-B5A-01",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4647",
+        "title": "MICROELECTRONIC DEVICES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32534",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F61",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "LT28",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4903",
+        "title": "PHYSIOLOGICAL SYSTEMS ANALYSIS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32508",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "LT25",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE2003",
+        "title": "ECONOMETRICS I*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "5.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19531",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LHS-TR+31",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19532",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "MON",
+                        "time": "1030-1120",
+                        "venue": "LHS-TR+31",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19533",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "LHS-TR+31",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19534",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LHS-TR+48",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19535",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "MON",
+                        "time": "1030-1120",
+                        "venue": "LHS-TR+48",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19536",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "LHS-TR+48",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19537",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T7",
+                        "day": "MON",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR+31",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19538",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T8",
+                        "day": "MON",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR+48",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE3001",
+        "title": "MICROECONOMICS III~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19541",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1530-1720",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "TR+96",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19542",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1530-1720",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "WED",
+                        "time": "1030-1120",
+                        "venue": "TR+96",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19543",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1530-1720",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "WED",
+                        "time": "1530-1620",
+                        "venue": "TR+96",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19544",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1530-1720",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "TR+96",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19545",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1530-1720",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "TR+95",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19546",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1530-1720",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "TR+95",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19547",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1530-1720",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T7",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "TR+95",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19548",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1530-1720",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T8",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "TR+95",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE3002",
+        "title": "MACROECONOMICS III~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19551",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "TR+79",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19552",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "TR+79",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19553",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "TR+79",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19555",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LHS-TR+41",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19556",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "LHS-TR+41",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19557",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T7",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "LHS-TR+41",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19558",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T8",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR+41",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE3020",
+        "title": "INTERNATIONAL ECONOMICS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19561",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+43",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19562",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+43",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19563",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "LHS-TR+43",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE3022",
+        "title": "PUBLIC ECONOMICS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19564",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT12",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "0930-1020",
+                        "venue": "LHS-TR+34",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19565",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT12",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "TUE",
+                        "time": "1030-1120",
+                        "venue": "LHS-TR+34",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE3024",
+        "title": "ENVIRONMENTAL ECONOMICS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "2.30 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19566",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1130-1420",
+                        "venue": "HSSSEMRM9",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE3027",
+        "title": "HOUSING ECONOMICS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": {
+            "date": "28 November 2026",
+            "day": "Saturday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19567",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "LHS-TR+28",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19568",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "WED",
+                        "time": "1030-1120",
+                        "venue": "LHS-TR+28",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE3031",
+        "title": "INDUSTRIAL ORGANIZATION & BUSINESS STRATEGIES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19571",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "LHS-TR+45",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19572",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR+45",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19573",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "LHS-TR+45",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19574",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+45",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE3032",
+        "title": "GAME THEORY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19576",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT12",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR+41",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19577",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT12",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "LHS-TR+41",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19578",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT12",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+41",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE3040",
+        "title": "RATIONAL & IRRATIONAL DECISION MAKING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19583",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "TR102",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1330-1420",
+                        "venue": "LHS-TR+42",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19584",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "TR102",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+42",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19585",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "TR102",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "FRI",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+42",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE3112",
+        "title": "FINANCIAL ACCOUNTING FOR ECONOMISTS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "5.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19586",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1530-1720",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "TR+68",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19587",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1530-1720",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "TR+68",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19588",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1530-1720",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "TR+68",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE3125",
+        "title": "ECONOMICS OF MENTAL HEALTH & WELL-BEING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "5.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19589",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1530-1720",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LHS-TR+31",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19590",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1530-1720",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LHS-TR+31",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19591",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1530-1720",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "LHS-TR+31",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19592",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1530-1720",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+31",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE3602",
+        "title": "GAME THEORY*",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19608",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT12",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR+41",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE4040",
+        "title": "BEHAVIORAL ECONOMICS*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19593",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+49",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE4044",
+        "title": "GROWTH THEORY & EMPIRICS*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19594",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "1130-1320",
+                        "venue": "HSS-TR+1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "HSS-TR+1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE4045",
+        "title": "QUANTITATIVE ECONOMICS WITH DATA SCIENCE*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19595",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1130-1420",
+                        "venue": "LHS-TR+56",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE4140",
+        "title": "EXPERIMENTAL ECONOMICS*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19596",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1130-1320",
+                        "venue": "LT9",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+49",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19597",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1130-1320",
+                        "venue": "LT9",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "FRI",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+49",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HW0288",
+        "title": "ENGINEERING COMMUNICATION",
+        "academic_units": "2.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10394",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCEA",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "TR+64",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10395",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCEB",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "TR+23",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10396",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCEC",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10397",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCED",
+                        "day": "FRI",
+                        "time": "1130-1320",
+                        "venue": "CSKL8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10398",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCEE",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "TR+32",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10399",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCE1",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "TR+95",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10400",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSA",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "TR+37",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10401",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSB",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "TR+31",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10402",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSC",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "TR+34",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10403",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSD",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "TR+37",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10404",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSE",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+18",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10405",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSF",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "TR+37",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10406",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSG",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "TR+77",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10407",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSH",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10408",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSI",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10410",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCS1",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "CSKL9",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10411",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCMA",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10412",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCMC",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10413",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCMD",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32451",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE01",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "TR+64",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32452",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE02",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "TR+22",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32453",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE03",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "TR+20",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32454",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE04",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32455",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE05",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "CSKL9",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32456",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE06",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "TR+30",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32457",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE07",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "TR+23",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32458",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE08",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "CSKL9",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32459",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE09",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LHN-TR+18",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32460",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE10",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32461",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE11",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "TR+32",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32462",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE12",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "TR+94",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32463",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE13",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "ONLINE",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32464",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE14",
+                        "day": "THU",
+                        "time": "1130-1320",
+                        "venue": "TR+106",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32465",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE15",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+21",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32466",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE16",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "TR+89",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32467",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE17",
+                        "day": "FRI",
+                        "time": "1130-1320",
+                        "venue": "LHN-TR+17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32468",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE18",
+                        "day": "FRI",
+                        "time": "1130-1320",
+                        "venue": "ONLINE",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32469",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE19",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+18",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32470",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE20",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "CSKL8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32471",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE21",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+18",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4120",
+        "title": "OPTICAL COMMUNICATION SYSTEM DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32541",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk1-8,11"
+                    },
+                    {
+                        "type": "DES",
+                        "group": "F51",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9,10,12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32542",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk1-8,11"
+                    },
+                    {
+                        "type": "DES",
+                        "group": "F52",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9,10,12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32543",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk1-8,11"
+                    },
+                    {
+                        "type": "DES",
+                        "group": "F53",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9,10,12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32544",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk1-8,11"
+                    },
+                    {
+                        "type": "DES",
+                        "group": "F54",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9,10,12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32545",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk1-8,11"
+                    },
+                    {
+                        "type": "DES",
+                        "group": "F55",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9,10,12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32546",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk1-8,11"
+                    },
+                    {
+                        "type": "DES",
+                        "group": "F56",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9,10,12,13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4154",
+        "title": "DIGITAL & TELECOMMUNICATIONS SYSTEMS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": {
+            "date": "28 November 2026",
+            "day": "Saturday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32548",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4422",
+        "title": "MULTIMODAL LARGE LANGUAGE MODELS - THEORY & APPLICATIONS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32514",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LHN-TR+36",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4476",
+        "title": "IMAGE PROCESSING & COMPUTER VISION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32549",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "LT28",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4483",
+        "title": "ARTIFICIAL INTELLIGENCE & DATA MINING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32550",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "LT1A",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4727",
+        "title": "WEB APPLICATION DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32551",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F31",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk12,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F31",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32552",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F32",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk12,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F32",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32553",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F33",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F33",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32554",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F34",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk12,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F34",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32555",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F35",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F35",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32556",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F36",
+                        "day": "WED",
+                        "time": "1330-1520",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F36",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32557",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F37",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F37",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32559",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F38",
+                        "day": "THU",
+                        "time": "1330-1520",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F38",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk12,13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4758",
+        "title": "INFORMATION SECURITY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering And Economics Year 4",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32558",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "LT23",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

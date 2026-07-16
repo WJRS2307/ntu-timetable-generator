@@ -1,0 +1,279 @@
+[
+    {
+        "course_code": "CT3102",
+        "title": "WORLD WIDE WEB TECHNOLOGIES & APPLICATIONS",
+        "academic_units": "3.0 AU",
+        "school_category": "Computing(PartTime) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14549",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "COMP4",
+                        "day": "SAT",
+                        "time": "0930-1150",
+                        "venue": "SWLAB 1",
+                        "remark": "Teaching Wk1-7"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CT3103",
+        "title": "ADVANCED SOFTWARE ENGINEERING",
+        "academic_units": "3.0 AU",
+        "school_category": "Computing(PartTime) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14550",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "COMP4",
+                        "day": "SAT",
+                        "time": "1330-1550",
+                        "venue": "SWLAB1",
+                        "remark": "Teaching Wk1-7"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CT3104",
+        "title": "SOFTWARE TESTING",
+        "academic_units": "3.0 AU",
+        "school_category": "Computing(PartTime) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14551",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "COMP4",
+                        "day": "SAT",
+                        "time": "0930-1150",
+                        "venue": "LHN-TR+17",
+                        "remark": "Teaching Wk8-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CT3105",
+        "title": "DATA SCIENCE & ANALYTICS",
+        "academic_units": "3.0 AU",
+        "school_category": "Computing(PartTime) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14552",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "COMP4",
+                        "day": "SAT",
+                        "time": "1330-1550",
+                        "venue": "LHN-TR+02",
+                        "remark": "Teaching Wk8-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CT3201",
+        "title": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+        "academic_units": "3.0 AU",
+        "school_category": "Computing(PartTime) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14553",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "COMP4",
+                        "day": "SAT",
+                        "time": "0930-1150",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk1-7"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CT3203",
+        "title": "PRINCIPLES OF DEEP NEURAL NETWORK",
+        "academic_units": "3.0 AU",
+        "school_category": "Computing(PartTime) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14555",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "COMP4",
+                        "day": "SAT",
+                        "time": "0930-1150",
+                        "venue": "LHN-TR+16",
+                        "remark": "Teaching Wk8-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CT3204",
+        "title": "NATURAL LANGUAGE PROCESSING FUNDAMENTALS",
+        "academic_units": "3.0 AU",
+        "school_category": "Computing(PartTime) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14556",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "COMP4",
+                        "day": "SAT",
+                        "time": "1330-1550",
+                        "venue": "LHN-TR+16",
+                        "remark": "Teaching Wk8-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CT3205",
+        "title": "COMPUTER VISION FOR AI",
+        "academic_units": "3.0 AU",
+        "school_category": "Computing(PartTime) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14554",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "COMP4",
+                        "day": "SAT",
+                        "time": "1330-1550",
+                        "venue": "SWLAB 3",
+                        "remark": "Teaching Wk1-7"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CT3304",
+        "title": "APPLIED CRYPTOGRAPHY",
+        "academic_units": "3.0 AU",
+        "school_category": "Computing(PartTime) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14561",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "COMP4",
+                        "day": "SAT",
+                        "time": "0930-1150",
+                        "venue": "LHN-TR+03",
+                        "remark": "Teaching Wk8-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CT3306",
+        "title": "CYBER THREAT INTELLIGENCE",
+        "academic_units": "3.0 AU",
+        "school_category": "Computing(PartTime) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14557",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "COMP4",
+                        "day": "SAT",
+                        "time": "0930-1150",
+                        "venue": "LHN-TR+16",
+                        "remark": "Teaching Wk1-7"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CT3308",
+        "title": "DIGITAL FORENSIC",
+        "academic_units": "3.0 AU",
+        "school_category": "Computing(PartTime) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14558",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "COMP4",
+                        "day": "SAT",
+                        "time": "1330-1550",
+                        "venue": "LHN-TR+03",
+                        "remark": "Teaching Wk8-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "14559",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "COMP4",
+                        "day": "SAT",
+                        "time": "1330-1550",
+                        "venue": "LHN-TR+03",
+                        "remark": "Teaching Wk8-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HW0001",
+        "title": "INTRODUCTION TO ACADEMIC COMMUNICATION",
+        "academic_units": ".0 AU",
+        "school_category": "Computing(PartTime) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14560",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1900-2050",
+                        "venue": "ONLINE",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            }
+        ]
+    }
+]

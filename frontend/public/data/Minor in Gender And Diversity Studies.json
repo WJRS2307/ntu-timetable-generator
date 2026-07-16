@@ -1,0 +1,100 @@
+[
+    {
+        "course_code": "CS4321",
+        "title": "DIGITAL INCLUSION & DISABILITY:TECH, INCL. DES & SOC FUTURES*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Gender And Diversity Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06096",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1320",
+                        "venue": "MEDIA C-L",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HC4013",
+        "title": "GENDER & SEXUALITY IN CHINESE LITERATURE*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Gender And Diversity Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17024",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "HSSSEMRM4",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH3019",
+        "title": "HISTORY OF THE BODY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Gender And Diversity Studies",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17623",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "LHS-TR+31",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL3012",
+        "title": "THE DISCOURSE OF LOVE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Gender And Diversity Studies",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17241",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+55",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

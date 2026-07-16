@@ -1,0 +1,516 @@
+[
+    {
+        "course_code": "AAG28E",
+        "title": "INTRODUCTION TO GEOGRAPHICAL INFORMATION SYSTEMS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Geography And Urban Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39222",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1120",
+                        "venue": "NIE3-02-24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "NIE3-02-24",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES1001",
+        "title": "E2S2: ENVIRONMENT & SOCIETY*~#",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Geography And Urban Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79013",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT16",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LT16",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HA2003",
+        "title": "POLITICS & GOVERNMENT IN SOUTHEAST ASIA*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Geography And Urban Studies",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "20130",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LHN-TR+40",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "LHN-TR+40",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH3005",
+        "title": "SEISMIC JAPAN: HISTORY, CULTURE & SOCIETY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Geography And Urban Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17625",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "HSSAUDIT",
+                        "remark": "Teaching Wk1-11,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LT24",
+                        "remark": "Teaching Wk12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17626",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "HSSAUDIT",
+                        "remark": "Teaching Wk1-11,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LT24",
+                        "remark": "Teaching Wk12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "FRI",
+                        "time": "1330-1420",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17627",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "HSSAUDIT",
+                        "remark": "Teaching Wk1-11,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LT24",
+                        "remark": "Teaching Wk12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17628",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "HSSAUDIT",
+                        "remark": "Teaching Wk1-11,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LT24",
+                        "remark": "Teaching Wk12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "FRI",
+                        "time": "1530-1620",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HS2008",
+        "title": "SOCIAL CLASS & INEQUALITY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Geography And Urban Studies",
+        "exam": {
+            "date": "28 November 2026",
+            "day": "Saturday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19931",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR+28",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19932",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "LHS-TR+28",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19933",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+28",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19934",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+28",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HS2013",
+        "title": "MIGRATION & MULTICULTURALISM*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Geography And Urban Studies",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19941",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "HSS-TR+2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19942",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "WED",
+                        "time": "1530-1620",
+                        "venue": "HSS-TR+2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19943",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "HSS-TR+2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19944",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "WED",
+                        "time": "1730-1820",
+                        "venue": "HSS-TR+2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HS3004",
+        "title": "CITIES & URBAN LIFE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Geography And Urban Studies",
+        "exam": {
+            "date": "3 December 2026",
+            "day": "Thursday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19961",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR+42",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19962",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "MON",
+                        "time": "1330-1420",
+                        "venue": "LHS-TR+42",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19963",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+42",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19964",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+42",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

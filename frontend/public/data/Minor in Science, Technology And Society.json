@@ -1,0 +1,210 @@
+[
+    {
+        "course_code": "CS2059",
+        "title": "SOCIAL CONSEQUENCES OF MOBILE COMMUNICATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Science, Technology And Society",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06048",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "CS-TR+7",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4321",
+        "title": "DIGITAL INCLUSION & DISABILITY:TECH, INCL. DES & SOC FUTURES*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Science, Technology And Society",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06096",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1320",
+                        "venue": "MEDIA C-L",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH1004",
+        "title": "SCIENCE & TECHNOLOGY IN HISTORICAL PERSPECTIVE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Science, Technology And Society",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17632",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+33",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH3019",
+        "title": "HISTORY OF THE BODY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Science, Technology And Society",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17623",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "LHS-TR+31",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL4028",
+        "title": "SCIENCE & LITERATURE*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Science, Technology And Society",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17250",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "HSSSEMRM6",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HY3010",
+        "title": "PHILOSOPHY OF SCIENCE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Science, Technology And Society",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17806",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "HSSSEMRM8",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HY3012",
+        "title": "PHILOSOPHY OF TECHNOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Science, Technology And Society",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17807",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "FRI",
+                        "time": "1530-1820",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HY3910",
+        "title": "PHILOSOPHY OF SCIENCE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Science, Technology And Society",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17809",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "SEE HY3010",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HY3912",
+        "title": "PHILOSOPHY OF TECHNOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Science, Technology And Society",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17810",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "FRI",
+                        "time": "1530-1820",
+                        "venue": "SEE HY3012",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

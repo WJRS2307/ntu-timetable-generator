@@ -1,0 +1,46 @@
+[
+    {
+        "course_code": "SP0051",
+        "title": "ASTRONOMY",
+        "academic_units": "3.0 AU",
+        "school_category": "University Scholars Programme in Science, Technology & Society",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "22111",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+26",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SP0054",
+        "title": "A LIFE: BETWEEN CARE, SUFFERING, & RESILIENCE",
+        "academic_units": "3.0 AU",
+        "school_category": "University Scholars Programme in Science, Technology & Society",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "22135",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "WED",
+                        "time": "1630-1920",
+                        "venue": "LHN-TR+34",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

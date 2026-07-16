@@ -1,0 +1,2916 @@
+[
+    {
+        "course_code": "BS2002",
+        "title": "MICROBIOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biomedical Sciences And Biobusiness Year 3",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "08611",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT23",
+                        "remark": "Teaching Wk1-7,9-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "LHN-TR+20",
+                        "remark": "Teaching Wk2-9,12"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "08612",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT23",
+                        "remark": "Teaching Wk1-7,9-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "FRI",
+                        "time": "1730-1820",
+                        "venue": "LHN-TR+20",
+                        "remark": "Teaching Wk1-7,9,12"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P2",
+                        "day": "FRI",
+                        "time": "1230-1520",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "08717",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT23",
+                        "remark": "Teaching Wk1-7,9-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "LHN-TR+21",
+                        "remark": "Teaching Wk2-9,12"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "08718",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT23",
+                        "remark": "Teaching Wk1-7,9-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "MON",
+                        "time": "1730-1820",
+                        "venue": "LHN-TR+20",
+                        "remark": "Teaching Wk2-9,12"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "08719",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT23",
+                        "remark": "Teaching Wk1-7,9-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "MON",
+                        "time": "1730-1820",
+                        "venue": "LHN-TR+21",
+                        "remark": "Teaching Wk2-9,12"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "08722",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT23",
+                        "remark": "Teaching Wk1-7,9-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T8",
+                        "day": "FRI",
+                        "time": "1730-1820",
+                        "venue": "LHN-TR+21",
+                        "remark": "Teaching Wk1-7,9,12"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P2",
+                        "day": "FRI",
+                        "time": "1230-1520",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk10,11"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS2003",
+        "title": "BIOCHEMISTRY II",
+        "academic_units": "3.0 AU",
+        "school_category": "Biomedical Sciences And Biobusiness Year 3",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "08613",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "TUE",
+                        "time": "0830-1020",
+                        "venue": "ONLINE",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": "Teaching Wk5"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LHS-TR+47",
+                        "remark": "Teaching Wk1-4,6-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "THU",
+                        "time": "1230-1620",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk8,9"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS2024",
+        "title": "EVOLUTION IN HEALTH & DISEASE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biomedical Sciences And Biobusiness Year 3",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "08654",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "SBS-TR+6",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "SBS-TR+6",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3004",
+        "title": "CANCER BIOLOGY & THERAPY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biomedical Sciences And Biobusiness Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "08665",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-CR1",
+                        "remark": "Teaching Wk2-7,11"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1230-1520",
+                        "venue": "LT20",
+                        "remark": "Teaching Wk1,8,10,11"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-B1N-12",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-B1N-18",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            },
+            {
+                "index_number": "08666",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-CR1",
+                        "remark": "Teaching Wk2-7,11"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "WED",
+                        "time": "1230-1520",
+                        "venue": "LT20",
+                        "remark": "Teaching Wk1,8,10,11"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P2",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-B1N-12",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P2",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-B1N-18",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            },
+            {
+                "index_number": "08667",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-CR1",
+                        "remark": "Teaching Wk2-7,11"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "WED",
+                        "time": "1230-1520",
+                        "venue": "LT20",
+                        "remark": "Teaching Wk1,8,10,11"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P3",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-B1N-12",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P3",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-B1N-18",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            },
+            {
+                "index_number": "08668",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-CR1",
+                        "remark": "Teaching Wk2-7,11"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "WED",
+                        "time": "1230-1520",
+                        "venue": "LT20",
+                        "remark": "Teaching Wk1,8,10,11"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P4",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-B1N-12",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P4",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "SBS-B1N-18",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3018",
+        "title": "PLANT BIOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biomedical Sciences And Biobusiness Year 3",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "2.30 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "08671",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "FRI",
+                        "time": "0830-1020",
+                        "venue": "SBS-CR1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "LHN-TR+01",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk8,10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "08672",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "FRI",
+                        "time": "0830-1020",
+                        "venue": "SBS-CR1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "LHN-TR+02",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P2",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk8,10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "08673",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "FRI",
+                        "time": "0830-1020",
+                        "venue": "SBS-CR1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "LHN-TR+01",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P3",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk8,10,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "08675",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "FRI",
+                        "time": "0830-1020",
+                        "venue": "SBS-CR1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "LHN-TR+02",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P4",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "WET LAB",
+                        "remark": "Teaching Wk8,10,11"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3021",
+        "title": "BIOIMAGING TECHNIQUES IN EM*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biomedical Sciences And Biobusiness Year 3",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "08681",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "SBS-TR+6",
+                        "remark": "Teaching Wk2-12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "SBS-TR+6",
+                        "remark": "Teaching Wk2-4,8-12"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "P1",
+                        "day": "MON",
+                        "time": "1530-1720",
+                        "venue": "SBS-TR+6",
+                        "remark": "Teaching Wk5-7"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3027",
+        "title": "LIGHT & BIOMOLECULE BEHAVIOR IN HEALTH & DISEASE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biomedical Sciences And Biobusiness Year 3",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "08683",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "SBS-CR4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "SBS-CR4",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3038",
+        "title": "INTELLECTUAL PROPERTY RIGHTS RELATED TO BIOBUSINESS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biomedical Sciences And Biobusiness Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "08685",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "SBS-TR+6",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3201",
+        "title": "INTELLECTUAL PROPERTY RIGHTS REL TO BIOBUSINESS & THEIR APPN",
+        "academic_units": "5.0 AU",
+        "school_category": "Biomedical Sciences And Biobusiness Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "08684",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "SBS-TR+6",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3202",
+        "title": "COMMERCIALIZATION OF MOLECULAR & CELL BIOLOGY TECHNIQUES~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biomedical Sciences And Biobusiness Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "08686",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "LHN-TR+20",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3203",
+        "title": "RESHAPING HEALTHCARE WITH ENGINEERING & DIGITAL REVOLUTION~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biomedical Sciences And Biobusiness Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "08715",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "LHN-TR+20",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3338",
+        "title": "UAEB II - EFFECT OF ANTI-MITOTIC DRUGS ON CANCER CELLS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biomedical Sciences And Biobusiness Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "08690",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "",
+                        "time": "",
+                        "venue": "",
+                        "remark": "Teaching Wk13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3342",
+        "title": "UAEB II -ROLE OF ACTIN CYTOSKELETON REGULATORS IN METASTASIS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biomedical Sciences And Biobusiness Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "08691",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "",
+                        "time": "",
+                        "venue": "",
+                        "remark": "Teaching Wk13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS3351",
+        "title": "UAEB (SERIES I) - PLANT TAXONOMY & MOLECULAR PHYLOGENETICS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biomedical Sciences And Biobusiness Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "08689",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "",
+                        "time": "",
+                        "venue": "",
+                        "remark": "Teaching Wk13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS4002",
+        "title": "CURRENT TOPICS IN CELL BIOLOGY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biomedical Sciences And Biobusiness Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "08702",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "0830-0920",
+                        "venue": "SBS-TR+6",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "SBS-TR+6",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BS4014",
+        "title": "MOLECULAR BASIS OF DISEASES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biomedical Sciences And Biobusiness Year 3",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "08705",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "SBS-CR1",
+                        "remark": "Teaching Wk8"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LHS-LT",
+                        "remark": "Teaching Wk1-7,9-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "SBS-CR1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CC0007",
+        "title": "SCIENCE & TECHNOLOGY FOR HUMANITY",
+        "academic_units": "3.0 AU",
+        "school_category": "Biomedical Sciences And Biobusiness Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "84501",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T001",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84502",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T002",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84503",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T003",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84504",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T004",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84505",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T005",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84506",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T006",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84507",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T007",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84508",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T008",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84509",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T009",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84510",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T010",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84511",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T011",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84512",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T012",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84513",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T013",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84514",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T014",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84515",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T015",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84516",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T016",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84517",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T017",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84518",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T018",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84519",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T019",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84520",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T020",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84521",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T021",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84522",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T022",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84523",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T023",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84524",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T024",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84525",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T025",
+                        "day": "TUE",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84526",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T026",
+                        "day": "TUE",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84527",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T027",
+                        "day": "TUE",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84528",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T028",
+                        "day": "TUE",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84529",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T029",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84530",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T030",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84531",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T031",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84532",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T032",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84533",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T033",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84534",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T034",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84535",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T035",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84536",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T036",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84537",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T037",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84538",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T038",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84539",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T039",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84540",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T040",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84541",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T041",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84542",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T042",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84543",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T043",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84544",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T044",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84545",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T045",
+                        "day": "TUE",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84546",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T046",
+                        "day": "TUE",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84547",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T047",
+                        "day": "TUE",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84548",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T048",
+                        "day": "TUE",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84549",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T049",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84550",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T050",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84551",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T051",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84552",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T052",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84553",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T053",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84554",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T054",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84555",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T055",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84556",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T056",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84557",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T057",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84558",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T058",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84559",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T059",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84560",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T060",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84561",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T061",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84562",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T062",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84563",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T063",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84564",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T064",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84565",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T065",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84566",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T066",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84567",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T067",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84568",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T068",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84569",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T069",
+                        "day": "WED",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84570",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T070",
+                        "day": "WED",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84571",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T071",
+                        "day": "WED",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84572",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T072",
+                        "day": "WED",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84573",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T073",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84574",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T074",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84575",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T075",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84576",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T076",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84577",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T077",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84578",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T078",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84579",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T079",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84580",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T080",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84581",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T081",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84582",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T082",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84583",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T083",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84584",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T084",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84585",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T085",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84586",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T086",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84587",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T087",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84588",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T088",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84589",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T089",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84590",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T090",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84591",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T091",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84592",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T092",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84593",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T093",
+                        "day": "THU",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84594",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T094",
+                        "day": "THU",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84595",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T095",
+                        "day": "THU",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84596",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T096",
+                        "day": "THU",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84597",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T097",
+                        "day": "FRI",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84598",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T098",
+                        "day": "FRI",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84599",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T099",
+                        "day": "FRI",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84600",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T100",
+                        "day": "FRI",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84601",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T101",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84602",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T102",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84603",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T103",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84604",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T104",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84605",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T105",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84606",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T106",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84607",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T107",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84608",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T108",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84609",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T109",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84610",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T110",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84611",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T111",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84612",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T112",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84613",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T113",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84614",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T114",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84615",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T115",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84616",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T116",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CL0103",
+        "title": "LEARNING WITH CHILDREN THROUGH SERVICE-LEARNING",
+        "academic_units": "3.0 AU",
+        "school_category": "Biomedical Sciences And Biobusiness Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "42000",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42001",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42002",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE3",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42004",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE5",
+                        "day": "THU",
+                        "time": "1900-2050",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42005",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE6",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42006",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE7",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CL0104",
+        "title": "ENGAGING WITH YOUTHS THROUGH SERVICE-LEARNING",
+        "academic_units": "3.0 AU",
+        "school_category": "Biomedical Sciences And Biobusiness Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "42500",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE9",
+                        "day": "MON",
+                        "time": "1900-2050",
+                        "venue": "LT18",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42501",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE10",
+                        "day": "TUE",
+                        "time": "0830-1020",
+                        "venue": "LT18",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42503",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE12",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42505",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE14",
+                        "day": "WED",
+                        "time": "1900-2050",
+                        "venue": "LT18",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42507",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE16",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "LT18",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42508",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE17",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42509",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE18",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CL0105",
+        "title": "CONNECTING WITH SENIORS THROUGH SERVICE-LEARNING",
+        "academic_units": "3.0 AU",
+        "school_category": "Biomedical Sciences And Biobusiness Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "42600",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE19",
+                        "day": "TUE",
+                        "time": "1900-2050",
+                        "venue": "LT18",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42601",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE20",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LT18",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42602",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE21",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LT18",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42603",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE22",
+                        "day": "WED",
+                        "time": "1900-2050",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42604",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE23",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42605",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE24",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LT18",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42606",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE25",
+                        "day": "TUE",
+                        "time": "0830-1020",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42607",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE26",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "LT18",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42609",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE15",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LT18",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CL0106",
+        "title": "LEARNING IN INCLUSIVE COMMUNITIES THROUGH SERVICE-LEARNING",
+        "academic_units": "3.0 AU",
+        "school_category": "Biomedical Sciences And Biobusiness Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "42700",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE27",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42701",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE28",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42702",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE29",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LT16",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42703",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE30",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES4301",
+        "title": "CONSERVATION BIOLOGY & BIODIVERSITY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biomedical Sciences And Biobusiness Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79023",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "LT4",
+                        "remark": "Teaching Wk13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "LT16",
+                        "remark": "Teaching Wk1-12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ET5122",
+        "title": "E-STARTUPS & SOCIAL MEDIA STRATEGIES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biomedical Sciences And Biobusiness Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39011",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "SAT",
+                        "time": "0830-1550",
+                        "venue": "LT10",
+                        "remark": "Teaching Wk2-7"
+                    }
+                ]
+            },
+            {
+                "index_number": "39012",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S2",
+                        "day": "SAT",
+                        "time": "0830-1550",
+                        "venue": "LT10",
+                        "remark": "Teaching Wk8-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ET5132",
+        "title": "NEW VENTURE FINANCING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biomedical Sciences And Biobusiness Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39014",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S2",
+                        "day": "SAT",
+                        "time": "0830-1750",
+                        "venue": "RTP 02-04H",
+                        "remark": "Teaching Wk8-12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ET5212",
+        "title": "ENTREPRENEURIAL ECOSYSTEM*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Biomedical Sciences And Biobusiness Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00137",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S4-SR3",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

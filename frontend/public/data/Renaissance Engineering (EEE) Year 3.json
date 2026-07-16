@@ -1,0 +1,3341 @@
+[
+    {
+        "course_code": "BG3104",
+        "title": "BIOMEDICAL IMAGING",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "55027",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1530-1720",
+                        "venue": "CBE-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "B31",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "CBE-LT",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "E2005L",
+        "title": "ELECTRICAL DEVICES & MACHINES",
+        "academic_units": ".0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32711",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL01",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S2-B5C-07",
+                        "remark": "Teaching Wk6,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32712",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL02",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S2-B5C-07",
+                        "remark": "Teaching Wk7,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32713",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL03",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S2-B5C-07",
+                        "remark": "Teaching Wk7,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32714",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL04",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B5C-07",
+                        "remark": "Teaching Wk6,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32715",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL05",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S2-B5C-07",
+                        "remark": "Teaching Wk6,11"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "E2110L",
+        "title": "SIGNALS & SYSTEMS",
+        "academic_units": ".0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32841",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL01",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk6,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32842",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL02",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk7,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32843",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL03",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk6,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32844",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL04",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk7,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32845",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL05",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk6,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32846",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL06",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk6,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32847",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL07",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk7,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32848",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL08",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk7,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32849",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL09",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk7,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32850",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL10",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk7,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32851",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL11",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk6,11"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "E3011L",
+        "title": "MODELLING & CONTROL*~",
+        "academic_units": ".0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32781",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL01",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32782",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL02",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32783",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL03",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S2-B5C_02",
+                        "remark": "Teaching Wk11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32784",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL04",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S2-B5C_02",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32785",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL05",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S2-B5C_02",
+                        "remark": "Teaching Wk10"
+                    }
+                ]
+            },
+            {
+                "index_number": "32786",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL06",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32787",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL07",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk10"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "E3012L",
+        "title": "COMMUNICATION PRINCIPLES",
+        "academic_units": ".0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32788",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL01",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "S2-B4C_17",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32789",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL02",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C_17",
+                        "remark": "Teaching Wk13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32790",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL03",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S2-B4C_17",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32816",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL04",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C_17",
+                        "remark": "Teaching Wk13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "E3013L",
+        "title": "SEMICONDUCTOR DEVICES & PROCESSING*~",
+        "academic_units": ".0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32791",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL01",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S2-B5A-01",
+                        "remark": "Teaching Wk11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32792",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL02",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "S2-B5A_01",
+                        "remark": "Teaching Wk11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32793",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL03",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S2-B5A_01",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "E3014L",
+        "title": "DIGITAL SIGNAL PROCESSING",
+        "academic_units": ".0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32861",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL01",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk10"
+                    }
+                ]
+            },
+            {
+                "index_number": "32862",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL02",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk10"
+                    }
+                ]
+            },
+            {
+                "index_number": "32863",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL03",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk10"
+                    }
+                ]
+            },
+            {
+                "index_number": "32864",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL04",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32865",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL05",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk10"
+                    }
+                ]
+            },
+            {
+                "index_number": "32866",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL06",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk11"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "E3015L",
+        "title": "POWER SYSTEMS & CONVERSION*~",
+        "academic_units": ".0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32794",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL01",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S2-B5C-07",
+                        "remark": "Teaching Wk9"
+                    }
+                ]
+            },
+            {
+                "index_number": "32795",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL02",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S2-B5C-07",
+                        "remark": "Teaching Wk9"
+                    }
+                ]
+            },
+            {
+                "index_number": "32796",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL03",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S2-B5C-07",
+                        "remark": "Teaching Wk9"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "E3017L",
+        "title": "COMPUTER COMMUNICATIONS",
+        "academic_units": ".0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32871",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL01",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32872",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL02",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32873",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL03",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32874",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL04",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C_17",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32875",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL05",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C_17",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32876",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL06",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk11"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "E3018L",
+        "title": "INTRODUCTION TO PHOTONICS*~",
+        "academic_units": ".0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32797",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL01",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B5A-01",
+                        "remark": "Teaching Wk11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32798",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL02",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S2-B5A_01",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32814",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL03",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S2-B5A-01",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "E3019L",
+        "title": "INTEGRATED ELECTRONICS*~",
+        "academic_units": ".0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32799",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL01",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S2-B4A-02",
+                        "remark": "Teaching Wk13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32800",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL02",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B4A-02",
+                        "remark": "Teaching Wk13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "E3101L",
+        "title": "ENGINEERING ELECTROMAGNETICS",
+        "academic_units": ".0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32801",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL01",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk8"
+                    }
+                ]
+            },
+            {
+                "index_number": "32802",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL02",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9"
+                    }
+                ]
+            },
+            {
+                "index_number": "32803",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL03",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9"
+                    }
+                ]
+            },
+            {
+                "index_number": "32804",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL04",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk8"
+                    }
+                ]
+            },
+            {
+                "index_number": "32805",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL05",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C_17",
+                        "remark": "Teaching Wk9"
+                    }
+                ]
+            },
+            {
+                "index_number": "32806",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL06",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk8"
+                    }
+                ]
+            },
+            {
+                "index_number": "32807",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL07",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S2-B4C_17",
+                        "remark": "Teaching Wk9"
+                    }
+                ]
+            },
+            {
+                "index_number": "32808",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL08",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk8"
+                    }
+                ]
+            },
+            {
+                "index_number": "32809",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL09",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C_17",
+                        "remark": "Teaching Wk9"
+                    }
+                ]
+            },
+            {
+                "index_number": "32810",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL10",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk8"
+                    }
+                ]
+            },
+            {
+                "index_number": "32811",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL11",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk8"
+                    }
+                ]
+            },
+            {
+                "index_number": "32812",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL12",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9"
+                    }
+                ]
+            },
+            {
+                "index_number": "32813",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL13",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C_17",
+                        "remark": "Teaching Wk9"
+                    }
+                ]
+            },
+            {
+                "index_number": "32815",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL14",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk8"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "E3102L",
+        "title": "MICROPROCESSORS*~",
+        "academic_units": ".0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32881",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL01",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk7,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32882",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL02",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk7,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32883",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL03",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk8,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32884",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL04",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk8,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32885",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL05",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk7,11"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE2005",
+        "title": "ELECTRICAL DEVICES & MACHINES",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32301",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE01",
+                        "day": "TUE",
+                        "time": "1330-1450",
+                        "venue": "TR120",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32302",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE02",
+                        "day": "WED",
+                        "time": "0930-1050",
+                        "venue": "TR121",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32303",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE03",
+                        "day": "THU",
+                        "time": "1330-1450",
+                        "venue": "TR120",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32304",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE04",
+                        "day": "FRI",
+                        "time": "0930-1050",
+                        "venue": "TR120",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE2073",
+        "title": "INTRODUCTION TO EEE DESIGN & PROJECT",
+        "academic_units": "2.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32311",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk1,2"
+                    },
+                    {
+                        "type": "PRJ",
+                        "group": "EJ01",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-15",
+                        "remark": "Teaching Wk3-12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32312",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk1,2"
+                    },
+                    {
+                        "type": "PRJ",
+                        "group": "EJ02",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-15",
+                        "remark": "Teaching Wk3-12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32313",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk1,2"
+                    },
+                    {
+                        "type": "PRJ",
+                        "group": "EJ03",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S2-B4C-15",
+                        "remark": "Teaching Wk3-12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32314",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk1,2"
+                    },
+                    {
+                        "type": "PRJ",
+                        "group": "EJ04",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-15",
+                        "remark": "Teaching Wk3-12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32315",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk1,2"
+                    },
+                    {
+                        "type": "PRJ",
+                        "group": "EJ05",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "S2-B4C-15",
+                        "remark": "Teaching Wk3-12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32316",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk1,2"
+                    },
+                    {
+                        "type": "PRJ",
+                        "group": "EJ06",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-15",
+                        "remark": "Teaching Wk3-12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32317",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk1,2"
+                    },
+                    {
+                        "type": "PRJ",
+                        "group": "EJ07",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S2-B4C-15",
+                        "remark": "Teaching Wk3-12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32318",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk1,2"
+                    },
+                    {
+                        "type": "PRJ",
+                        "group": "EJ08",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-15",
+                        "remark": "Teaching Wk3-12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32319",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk1,2"
+                    },
+                    {
+                        "type": "PRJ",
+                        "group": "EJ09",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "S2-B4C-15",
+                        "remark": "Teaching Wk3-12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE2102",
+        "title": "ANALOG ELECTRONICS",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32321",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1550",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE01",
+                        "day": "TUE",
+                        "time": "0930-1050",
+                        "venue": "TR+65",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "EL03",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S2-B4A-01",
+                        "remark": "Teaching Wk5,8,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32322",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1550",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE02",
+                        "day": "TUE",
+                        "time": "0930-1050",
+                        "venue": "TR+96",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "EL04",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S2-B4A-01",
+                        "remark": "Teaching Wk6,9,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32323",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1550",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE03",
+                        "day": "TUE",
+                        "time": "1330-1450",
+                        "venue": "TR+78",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "EL02",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B4A-01",
+                        "remark": "Teaching Wk6,9,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32324",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1550",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE04",
+                        "day": "WED",
+                        "time": "0930-1050",
+                        "venue": "TR+94",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "EL06",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "S2-B4A-01",
+                        "remark": "Teaching Wk5,8,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32325",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1550",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE05",
+                        "day": "WED",
+                        "time": "0930-1050",
+                        "venue": "TR103",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "EL07",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "S2-B4A-01",
+                        "remark": "Teaching Wk6,9,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32326",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1550",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE06",
+                        "day": "WED",
+                        "time": "1330-1450",
+                        "venue": "TR+94",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "EL05",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S2-B4A-01",
+                        "remark": "Teaching Wk6,9,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32327",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1550",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE07",
+                        "day": "THU",
+                        "time": "0930-1050",
+                        "venue": "TR+77",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "EL01",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S2-B4A-01",
+                        "remark": "Teaching Wk6,9,12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE3011",
+        "title": "MODELLING & CONTROL*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32331",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE01",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "TR+77",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32332",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE02",
+                        "day": "TUE",
+                        "time": "1630-1720",
+                        "venue": "TR+61",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32333",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE03",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "TR120",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32334",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE04",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "TR103",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE3013",
+        "title": "SEMICONDUCTOR DEVICES & PROCESSING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32337",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE01",
+                        "day": "TUE",
+                        "time": "1030-1120",
+                        "venue": "TR+94",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32338",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE02",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "TR+62",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE3015",
+        "title": "POWER SYSTEMS & CONVERSION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32341",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT26",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE01",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "TR+68",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32343",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT26",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE02",
+                        "day": "TUE",
+                        "time": "0930-1020",
+                        "venue": "TR+69",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE3018",
+        "title": "INTRODUCTION TO PHOTONICS TECHNOLOGIES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": {
+            "date": "3 December 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32345",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE01",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "TR103",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32346",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE02",
+                        "day": "FRI",
+                        "time": "1330-1420",
+                        "venue": "TR+61",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE3019",
+        "title": "INTEGRATED ELECTRONICS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32347",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE01",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "TR+88",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32348",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE02",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "TR+64",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE3101",
+        "title": "ENGINEERING ELECTROMAGNETICS",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32351",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE01",
+                        "day": "MON",
+                        "time": "1030-1150",
+                        "venue": "TR+65",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32352",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE02",
+                        "day": "MON",
+                        "time": "1030-1150",
+                        "venue": "TR+67",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32353",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE03",
+                        "day": "MON",
+                        "time": "1330-1450",
+                        "venue": "TR+67",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32354",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE04",
+                        "day": "TUE",
+                        "time": "1030-1150",
+                        "venue": "TR+67",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32355",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE05",
+                        "day": "TUE",
+                        "time": "1330-1450",
+                        "venue": "TR+67",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32356",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE06",
+                        "day": "TUE",
+                        "time": "1530-1650",
+                        "venue": "TR+67",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32357",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE07",
+                        "day": "WED",
+                        "time": "1030-1150",
+                        "venue": "TR+67",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32358",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE08",
+                        "day": "WED",
+                        "time": "1030-1150",
+                        "venue": "TR+68",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32359",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE09",
+                        "day": "THU",
+                        "time": "0930-1050",
+                        "venue": "TR+67",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32360",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE10",
+                        "day": "THU",
+                        "time": "1330-1450",
+                        "venue": "TR+67",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32366",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE11",
+                        "day": "FRI",
+                        "time": "1030-1150",
+                        "venue": "TR+67",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE3180",
+        "title": "DESIGN & INNOVATION PROJECT",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "36000",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk1"
+                    },
+                    {
+                        "type": "PRJ",
+                        "group": "PRJ",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "LAB",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HW0288",
+        "title": "ENGINEERING COMMUNICATION",
+        "academic_units": "2.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10394",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCEA",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "TR+64",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10395",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCEB",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "TR+23",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10396",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCEC",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10397",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCED",
+                        "day": "FRI",
+                        "time": "1130-1320",
+                        "venue": "CSKL8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10398",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCEE",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "TR+32",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10399",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCE1",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "TR+95",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10400",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSA",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "TR+37",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10401",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSB",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "TR+31",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10402",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSC",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "TR+34",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10403",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSD",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "TR+37",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10404",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSE",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+18",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10405",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSF",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "TR+37",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10406",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSG",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "TR+77",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10407",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSH",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10408",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSI",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10410",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCS1",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "CSKL9",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10411",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCMA",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10412",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCMC",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10413",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCMD",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32451",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE01",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "TR+64",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32452",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE02",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "TR+22",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32453",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE03",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "TR+20",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32454",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE04",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32455",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE05",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "CSKL9",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32456",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE06",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "TR+30",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32457",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE07",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "TR+23",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32458",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE08",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "CSKL9",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32459",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE09",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LHN-TR+18",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32460",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE10",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32461",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE11",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "TR+32",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32462",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE12",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "TR+94",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32463",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE13",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "ONLINE",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32464",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE14",
+                        "day": "THU",
+                        "time": "1130-1320",
+                        "venue": "TR+106",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32465",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE15",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+21",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32466",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE16",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "TR+89",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32467",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE17",
+                        "day": "FRI",
+                        "time": "1130-1320",
+                        "venue": "LHN-TR+17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32468",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE18",
+                        "day": "FRI",
+                        "time": "1130-1320",
+                        "venue": "ONLINE",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32469",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE19",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+18",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32470",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE20",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "CSKL8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32471",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE21",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+18",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE0005",
+        "title": "INTRODUCTION TO DATA SCIENCE & ARTIFICIAL INTELLIGENCE",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32361",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "TUE",
+                        "time": "0930-1020",
+                        "venue": "LT23",
+                        "remark": "Teaching Wk1,3,5,6,9-11,13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "EL01",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "S2.2-B4-04",
+                        "remark": "Teaching Wk1-8,12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32362",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "TUE",
+                        "time": "0930-1020",
+                        "venue": "LT23",
+                        "remark": "Teaching Wk1,3,5,6,9-11,13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "EL02",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "S2.2-B4-04",
+                        "remark": "Teaching Wk1-8,12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32363",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "TUE",
+                        "time": "0930-1020",
+                        "venue": "LT23",
+                        "remark": "Teaching Wk1,3,5,6,9-11,13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "EL03",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "S2.2-B4-04",
+                        "remark": "Teaching Wk1-8,12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32364",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "TUE",
+                        "time": "0930-1020",
+                        "venue": "LT23",
+                        "remark": "Teaching Wk1,3,5,6,9-11,13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "EL04",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "S2.2-B4-04",
+                        "remark": "Teaching Wk1-8,12,13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE2107",
+        "title": "ENGINEERING MATHEMATICS II~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32371",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE01",
+                        "day": "MON",
+                        "time": "1430-1550",
+                        "venue": "TR102",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32372",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE02",
+                        "day": "TUE",
+                        "time": "0930-1050",
+                        "venue": "TR103",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32373",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE03",
+                        "day": "TUE",
+                        "time": "0930-1050",
+                        "venue": "TR+61",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32374",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE04",
+                        "day": "TUE",
+                        "time": "1330-1450",
+                        "venue": "TR+69",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32375",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE05",
+                        "day": "WED",
+                        "time": "0930-1050",
+                        "venue": "TR+65",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32376",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE06",
+                        "day": "WED",
+                        "time": "1430-1550",
+                        "venue": "TR+78",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32377",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE07",
+                        "day": "THU",
+                        "time": "1030-1150",
+                        "venue": "TR+78",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32378",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE08",
+                        "day": "THU",
+                        "time": "1430-1550",
+                        "venue": "TR+61",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32379",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE09",
+                        "day": "THU",
+                        "time": "1430-1550",
+                        "venue": "TR+65",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE2110",
+        "title": "SIGNALS & SYSTEMS",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32391",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE01",
+                        "day": "MON",
+                        "time": "1130-1250",
+                        "venue": "TR+92",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32392",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE02",
+                        "day": "TUE",
+                        "time": "0930-1050",
+                        "venue": "TR+92",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32393",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE03",
+                        "day": "TUE",
+                        "time": "1330-1450",
+                        "venue": "TR+93",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32394",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE04",
+                        "day": "WED",
+                        "time": "0930-1050",
+                        "venue": "TR+92",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32395",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE05",
+                        "day": "WED",
+                        "time": "1430-1550",
+                        "venue": "TR+91",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32396",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE06",
+                        "day": "THU",
+                        "time": "1030-1150",
+                        "venue": "TR+91",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32397",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE07",
+                        "day": "THU",
+                        "time": "1030-1150",
+                        "venue": "TR+92",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32398",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE08",
+                        "day": "THU",
+                        "time": "1430-1550",
+                        "venue": "TR+93",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32399",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE09",
+                        "day": "THU",
+                        "time": "1430-1550",
+                        "venue": "TR+92",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32400",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE10",
+                        "day": "FRI",
+                        "time": "0930-1050",
+                        "venue": "TR+92",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32401",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE11",
+                        "day": "FRI",
+                        "time": "1430-1550",
+                        "venue": "TR+95",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE3012",
+        "title": "COMMUNICATION PRINCIPLES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32411",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "FRI",
+                        "time": "1730-1850",
+                        "venue": "LT28",
+                        "remark": "Teaching Wk1"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE01",
+                        "day": "WED",
+                        "time": "1030-1150",
+                        "venue": "TR+89",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32412",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "FRI",
+                        "time": "1730-1850",
+                        "venue": "LT28",
+                        "remark": "Teaching Wk1"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE02",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "TR+89",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32413",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "FRI",
+                        "time": "1730-1850",
+                        "venue": "LT28",
+                        "remark": "Teaching Wk1"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE03",
+                        "day": "THU",
+                        "time": "1030-1150",
+                        "venue": "TR+89",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE3014",
+        "title": "DIGITAL SIGNAL PROCESSING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": {
+            "date": "3 December 2026",
+            "day": "Thursday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32421",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE01",
+                        "day": "MON",
+                        "time": "0930-1050",
+                        "venue": "TR+89",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32422",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE02",
+                        "day": "MON",
+                        "time": "1330-1450",
+                        "venue": "TR+89",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32423",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE03",
+                        "day": "TUE",
+                        "time": "0930-1050",
+                        "venue": "TR+89",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32424",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE04",
+                        "day": "WED",
+                        "time": "0930-1050",
+                        "venue": "TR+91",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32425",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE05",
+                        "day": "THU",
+                        "time": "0930-1050",
+                        "venue": "TR+88",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32426",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE06",
+                        "day": "THU",
+                        "time": "1330-1450",
+                        "venue": "TR+88",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE3017",
+        "title": "COMPUTER COMMUNICATIONS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32431",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE01",
+                        "day": "MON",
+                        "time": "1330-1450",
+                        "venue": "TR+93",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32432",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE02",
+                        "day": "TUE",
+                        "time": "1030-1150",
+                        "venue": "TR+93",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32433",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE03",
+                        "day": "TUE",
+                        "time": "1530-1650",
+                        "venue": "TR+93",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32434",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE04",
+                        "day": "WED",
+                        "time": "1030-1150",
+                        "venue": "TR+93",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32435",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE05",
+                        "day": "THU",
+                        "time": "1030-1150",
+                        "venue": "TR+93",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32436",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE06",
+                        "day": "THU",
+                        "time": "0930-1050",
+                        "venue": "TR121",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE3102",
+        "title": "MICROPROCESSORS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 3",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32441",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE01",
+                        "day": "TUE",
+                        "time": "1130-1250",
+                        "venue": "TR+88",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32442",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE02",
+                        "day": "WED",
+                        "time": "0930-1050",
+                        "venue": "TR+88",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32443",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE03",
+                        "day": "THU",
+                        "time": "0930-1050",
+                        "venue": "TR+90",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32444",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE04",
+                        "day": "THU",
+                        "time": "1330-1450",
+                        "venue": "TR+90",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

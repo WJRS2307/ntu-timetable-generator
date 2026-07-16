@@ -1,0 +1,323 @@
+[
+    {
+        "course_code": "HW0001",
+        "title": "INTRODUCTION TO ACADEMIC COMMUNICATION",
+        "academic_units": ".0 AU",
+        "school_category": "English Proficiency",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18301",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "CSKL6",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18302",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP2",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "CSKL7",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18303",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP3",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "CSKL6",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18304",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP4",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "CSKL7",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18305",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP5",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "CSKL6",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18306",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP6",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "CSKL7",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18307",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP7",
+                        "day": "TUE",
+                        "time": "1130-1320",
+                        "venue": "CSKL6",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18308",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP8",
+                        "day": "TUE",
+                        "time": "1130-1320",
+                        "venue": "CSKL7",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18309",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP9",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "CSKL6",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18310",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP10",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "CSKL7",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18311",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP11",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "CSKL6",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18312",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP12",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "CSKL7",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18313",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP13",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "CSKL6",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18314",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP14",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "CSKL7",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18315",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP15",
+                        "day": "WED",
+                        "time": "1330-1520",
+                        "venue": "CSKL6",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18316",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP16",
+                        "day": "WED",
+                        "time": "1530-1720",
+                        "venue": "CSKL6",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18317",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP17",
+                        "day": "WED",
+                        "time": "1530-1720",
+                        "venue": "CSKL7",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18318",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP18",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "CSKL6",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18319",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP19",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "CSKL6",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18320",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP20",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "CSKL7",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18321",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP21",
+                        "day": "FRI",
+                        "time": "1330-1520",
+                        "venue": "CSKL6",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18322",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP22",
+                        "day": "FRI",
+                        "time": "1330-1520",
+                        "venue": "CSKL7",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18323",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP23",
+                        "day": "FRI",
+                        "time": "1530-1720",
+                        "venue": "CSKL6",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18324",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "GP24",
+                        "day": "FRI",
+                        "time": "1530-1720",
+                        "venue": "CSKL7",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            }
+        ]
+    }
+]

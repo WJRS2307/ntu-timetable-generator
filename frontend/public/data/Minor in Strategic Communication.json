@@ -1,0 +1,218 @@
+[
+    {
+        "course_code": "CS0209",
+        "title": "MEDIA LAW, ETHICS & POLICY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Strategic Communication",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06019",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1430-1550",
+                        "venue": "SCI-EXSR",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06020",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "MON",
+                        "time": "1630-1750",
+                        "venue": "SCI-EXSR",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06021",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "TUE",
+                        "time": "1430-1550",
+                        "venue": "SCI-EXSR",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06022",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "TUE",
+                        "time": "1630-1750",
+                        "venue": "SCI-EXSR",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2059",
+        "title": "SOCIAL CONSEQUENCES OF MOBILE COMMUNICATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Strategic Communication",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06048",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "CS-TR+7",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4030",
+        "title": "CRISIS MANAGEMENT*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Strategic Communication",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06071",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "CS-TR+7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "06072",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "CS-TR+7",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4031",
+        "title": "MEDIA PLANNING & STRATEGIES*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Strategic Communication",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06073",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "CS-TR+8",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4058",
+        "title": "INTERCULTURAL COMMUNICATION*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Strategic Communication",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06078",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "CS-TR+7",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4059",
+        "title": "PUBLIC OPINION*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Strategic Communication",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06049",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "SCI-SR1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

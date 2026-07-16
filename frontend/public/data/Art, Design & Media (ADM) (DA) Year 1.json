@@ -1,0 +1,4687 @@
+[
+    {
+        "course_code": "CC0003",
+        "title": "ETHICS & CIVICS IN A MULTICULTURAL WORLD",
+        "academic_units": "2.0 AU",
+        "school_category": "Art, Design & Media (ADM) (DA) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "82501",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T001",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82502",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T002",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82503",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T003",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82504",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T004",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82505",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T005",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82506",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T006",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+53",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82507",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T007",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82508",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T008",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82509",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T009",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82510",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T010",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82511",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T011",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82512",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T012",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+53",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82513",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T013",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82514",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T014",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82515",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T015",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82516",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T016",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82517",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T017",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82518",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T018",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82519",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T019",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82520",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T020",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82521",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T021",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82522",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T022",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82523",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T023",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82524",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T024",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82525",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T025",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82526",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T026",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+53",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82527",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T027",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82528",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T028",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82529",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T029",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82530",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T030",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82531",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T031",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82532",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T032",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+53",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82533",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T033",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82534",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T034",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82535",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T035",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82536",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T036",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82537",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T037",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82538",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T038",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+53",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82539",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T039",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82540",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T040",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82541",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T041",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82542",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T042",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82543",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T043",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82544",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T044",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82545",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T045",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82546",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T046",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82547",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T047",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82548",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T048",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+53",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82549",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T049",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82550",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T050",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82551",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T051",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82552",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T052",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82553",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T053",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82554",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T054",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+53",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82555",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T055",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82556",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T056",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82557",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T057",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82558",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T058",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82559",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T059",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82560",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T060",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82561",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T061",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82562",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T062",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82563",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T063",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82564",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T064",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82565",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T065",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82566",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T066",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82567",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T067",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82568",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T068",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+53",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82569",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T069",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82570",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T070",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82571",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T071",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82572",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T072",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82573",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T073",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82574",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T074",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+53",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82575",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T075",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82576",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T076",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82577",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T077",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82578",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T078",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82579",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T079",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82580",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T080",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+53",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82581",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T081",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82582",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T082",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82583",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T083",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+43",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82584",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T084",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82585",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T085",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82586",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T086",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82587",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T087",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+11",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82588",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T088",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "82589",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T089",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk1,3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "82590",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T090",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CC0007",
+        "title": "SCIENCE & TECHNOLOGY FOR HUMANITY",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM) (DA) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "84501",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T001",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84502",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T002",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84503",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T003",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84504",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T004",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84505",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T005",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84506",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T006",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84507",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T007",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84508",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T008",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84509",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T009",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84510",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T010",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84511",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T011",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84512",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T012",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84513",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T013",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84514",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T014",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84515",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T015",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84516",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T016",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84517",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T017",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84518",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T018",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84519",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T019",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84520",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T020",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84521",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T021",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84522",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T022",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84523",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T023",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84524",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T024",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84525",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T025",
+                        "day": "TUE",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84526",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T026",
+                        "day": "TUE",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84527",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T027",
+                        "day": "TUE",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84528",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T028",
+                        "day": "TUE",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84529",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T029",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84530",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T030",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84531",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T031",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84532",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T032",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84533",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T033",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84534",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T034",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84535",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T035",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84536",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T036",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84537",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T037",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84538",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T038",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84539",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T039",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84540",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T040",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84541",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T041",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84542",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T042",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84543",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T043",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84544",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T044",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84545",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T045",
+                        "day": "TUE",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84546",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T046",
+                        "day": "TUE",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84547",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T047",
+                        "day": "TUE",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84548",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T048",
+                        "day": "TUE",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84549",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T049",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84550",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T050",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84551",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T051",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84552",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T052",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84553",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T053",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84554",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T054",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84555",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T055",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84556",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T056",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84557",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T057",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84558",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T058",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84559",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T059",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84560",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T060",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84561",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T061",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84562",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T062",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84563",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T063",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84564",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T064",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84565",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T065",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84566",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T066",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84567",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T067",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84568",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T068",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84569",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T069",
+                        "day": "WED",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84570",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T070",
+                        "day": "WED",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84571",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T071",
+                        "day": "WED",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84572",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T072",
+                        "day": "WED",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84573",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T073",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84574",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T074",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84575",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T075",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84576",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T076",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84577",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T077",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84578",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T078",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84579",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T079",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84580",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T080",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84581",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T081",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84582",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T082",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84583",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T083",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84584",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T084",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84585",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T085",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84586",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T086",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84587",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T087",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84588",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T088",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84589",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T089",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84590",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T090",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84591",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T091",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84592",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T092",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84593",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T093",
+                        "day": "THU",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84594",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T094",
+                        "day": "THU",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84595",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T095",
+                        "day": "THU",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84596",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T096",
+                        "day": "THU",
+                        "time": "1730-1920",
+                        "venue": "COLLAB 2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84597",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T097",
+                        "day": "FRI",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84598",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T098",
+                        "day": "FRI",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84599",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T099",
+                        "day": "FRI",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84600",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T100",
+                        "day": "FRI",
+                        "time": "0830-1020",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84601",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T101",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84602",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T102",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84603",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T103",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84604",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T104",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84605",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T105",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84606",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T106",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84607",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T107",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84608",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T108",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84609",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T109",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84610",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T110",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84611",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T111",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84612",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T112",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84613",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T113",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84614",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T114",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84615",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T115",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "84616",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T116",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "COLLAB 1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CL0103",
+        "title": "LEARNING WITH CHILDREN THROUGH SERVICE-LEARNING",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM) (DA) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "42000",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42001",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42002",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE3",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42004",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE5",
+                        "day": "THU",
+                        "time": "1900-2050",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42005",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE6",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42006",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE7",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CL0104",
+        "title": "ENGAGING WITH YOUTHS THROUGH SERVICE-LEARNING",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM) (DA) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "42500",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE9",
+                        "day": "MON",
+                        "time": "1900-2050",
+                        "venue": "LT18",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42501",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE10",
+                        "day": "TUE",
+                        "time": "0830-1020",
+                        "venue": "LT18",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42503",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE12",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42505",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE14",
+                        "day": "WED",
+                        "time": "1900-2050",
+                        "venue": "LT18",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42507",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE16",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "LT18",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42508",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE17",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42509",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE18",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CL0105",
+        "title": "CONNECTING WITH SENIORS THROUGH SERVICE-LEARNING",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM) (DA) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "42600",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE19",
+                        "day": "TUE",
+                        "time": "1900-2050",
+                        "venue": "LT18",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42601",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE20",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LT18",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42602",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE21",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LT18",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42603",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE22",
+                        "day": "WED",
+                        "time": "1900-2050",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42604",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE23",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42605",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE24",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LT18",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42606",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE25",
+                        "day": "TUE",
+                        "time": "0830-1020",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42607",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE26",
+                        "day": "FRI",
+                        "time": "1630-1820",
+                        "venue": "LT18",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42609",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE15",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LT18",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CL0106",
+        "title": "LEARNING IN INCLUSIVE COMMUNITIES THROUGH SERVICE-LEARNING",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM) (DA) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "42700",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE27",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42701",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE28",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42702",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE29",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LT16",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "42703",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE30",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LT17",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DD4006",
+        "title": "DESIGN ART INTERDISCIPLINARY SEMINAR",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM) (DA) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63022",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE01",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "ART-01-11A",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63023",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE02",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "ART-B1-17A",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63024",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE03",
+                        "day": "FRI",
+                        "time": "1330-1520",
+                        "venue": "ART-02-35",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "FRI",
+                        "time": "1530-1720",
+                        "venue": "ART-01-02",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63025",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE03",
+                        "day": "FRI",
+                        "time": "1330-1520",
+                        "venue": "ART-02-35",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "FRI",
+                        "time": "1730-1920",
+                        "venue": "ART-01-02",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DM2000",
+        "title": "INTERACTIVE I*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM) (DA) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64028",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "ART-01-11A",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DR3006",
+        "title": "PRODUCT DESIGN III",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM) (DA) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63102",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "ART-B1-17A",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DR3007",
+        "title": "STUDIES IN FORM",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM) (DA) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63103",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "ART-B1-22",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DV2000",
+        "title": "TYPOGRAPHY I*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM) (DA) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63200",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "ART-02-23B",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63201",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "ART-01-02",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63202",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G03",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "ART-02-02A",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DV2001",
+        "title": "VISUAL COMMUNICATION I*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM) (DA) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63203",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "ART-02-02A",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63204",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "ART-02-02A",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63205",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G03",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "ART-02-23B",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DV2002",
+        "title": "ILLUSTRATION FOR DESIGNERS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM) (DA) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63206",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "THU",
+                        "time": "1630-1920",
+                        "venue": "ART-02-02A",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DV3002",
+        "title": "EDITORIAL DESIGN",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM) (DA) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63209",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "ART-02-23B",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DV3010",
+        "title": "VISUAL COMMUNICATION III",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM) (DA) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63211",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "MON",
+                        "time": "1630-1920",
+                        "venue": "ART-01-02",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63212",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "ART-02-02A",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DV3011",
+        "title": "TYPOGRAPHY III",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM) (DA) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63213",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "ART-02-02B",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "63214",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "THU",
+                        "time": "1930-2220",
+                        "venue": "ART-02-02B",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DV5001",
+        "title": "DESIGN IN MOTION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM) (DA) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "63215",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "TUE",
+                        "time": "1630-1920",
+                        "venue": "ART-02-02B",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ML0004",
+        "title": "CAREER DESIGN & WORKPLACE READINESS IN A DYNAMIC WORLD",
+        "academic_units": "2.0 AU",
+        "school_category": "Art, Design & Media (ADM) (DA) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "83001",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T001",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+12",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83002",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T002",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+14",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83003",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T003",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+15",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83004",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T004",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+04",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83005",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T005",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+12",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83006",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T006",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+14",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83007",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T007",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+15",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83008",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T008",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+37",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83009",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T009",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "ABS-04-019",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83010",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T010",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+04",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83011",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T011",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+37",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83012",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T012",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "ABS-04-019",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83013",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T013",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+04",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83014",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T014",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+12",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83015",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T015",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+14",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83016",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T016",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+15",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83017",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T017",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+37",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83018",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T018",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "ABS-04-019",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83019",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T019",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+04",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83020",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T020",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+12",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83021",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T021",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+14",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83022",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T022",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+15",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83023",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T023",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+37",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83024",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T024",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "ABS-04-019",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83025",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T025",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+04",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83026",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T026",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+12",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83027",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T027",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+14",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83028",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T028",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+15",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83029",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T029",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+37",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83030",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T030",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "ABS-04-019",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83031",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T031",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+04",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83032",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T032",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+12",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83033",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T033",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+14",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83034",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T034",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+15",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83035",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T035",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+37",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83036",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T036",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "ABS-04-019",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83037",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T037",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+04",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83038",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T038",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+12",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83039",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T039",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+14",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83040",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T040",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+15",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83041",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T041",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+37",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83042",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T042",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "ABS-04-019",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83043",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T043",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+04",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83044",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T044",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+12",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83045",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T045",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+14",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83046",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T046",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+15",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83047",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T047",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+37",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83048",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T048",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "ABS-04-019",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83049",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T049",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+12",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83050",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T050",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+14",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83051",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T051",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+15",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83052",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T052",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+37",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83053",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T053",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "ABS-04-019",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83054",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T054",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+12",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83055",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T055",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+14",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83056",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T056",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+15",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83057",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T057",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+37",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83058",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T058",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "ABS-04-019",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83059",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T059",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+04",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83060",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T060",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+12",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83061",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T061",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+14",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83062",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T062",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+15",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83063",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T063",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+37",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83064",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T064",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "ABS-04-019",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83065",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T065",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+04",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83066",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T066",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+12",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83067",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T067",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+14",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83068",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T068",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+15",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83069",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T069",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+37",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83070",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T070",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "ABS-04-019",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83071",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T071",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+04",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83072",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T072",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+12",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83073",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T073",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+14",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83074",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T074",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+15",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83075",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T075",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+37",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83076",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T076",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "ABS-04-019",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83077",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T077",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+04",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83078",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T078",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+12",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83079",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T079",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+14",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83080",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T080",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+15",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83081",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T081",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+37",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83082",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T082",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "ABS-04-019",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83083",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T083",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+14",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83084",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T084",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+15",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83085",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T085",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHN-TR+37",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83086",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T086",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "ABS-04-019",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83087",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T087",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+14",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83088",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T088",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+15",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83089",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T089",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+37",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            },
+            {
+                "index_number": "83090",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T090",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "ABS-04-019",
+                        "remark": "Teaching Wk1-10"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SP0061",
+        "title": "SCIENCE & TECHNOLOGY FOR HUMANITY",
+        "academic_units": "3.0 AU",
+        "school_category": "Art, Design & Media (ADM) (DA) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "22127",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+33",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "22128",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S2",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+33",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "22129",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S3",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "22133",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S4",
+                        "day": "TUE",
+                        "time": "1730-1920",
+                        "venue": "LHN-TR+50",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

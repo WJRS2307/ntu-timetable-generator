@@ -1,0 +1,2130 @@
+[
+    {
+        "course_code": "CS0102",
+        "title": "MAKING SENSE OF BIG DATA",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06010",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "LF-LT",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DD0003",
+        "title": "INFORMATION VISUALIZATION",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64006",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "ART-01-02",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64007",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "TUE",
+                        "time": "1630-1920",
+                        "venue": "ART-01-02",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64008",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G03",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "ART-01-02",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64009",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G04",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "ART-01-02",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HD0103",
+        "title": "DIGITAL HUMANITIES: ART, ART HISTORY & CULTURAL HERITAGE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17285",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "HSSSEMRM8",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HG1001",
+        "title": "MIND & MEANING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17401",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "TR+94",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17402",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "TR+95",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17403",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "MON",
+                        "time": "1730-1820",
+                        "venue": "TR+94",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17404",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "MON",
+                        "time": "1730-1820",
+                        "venue": "TR+95",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17405",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "TUE",
+                        "time": "0930-1020",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17406",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "TUE",
+                        "time": "1030-1120",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17407",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T7",
+                        "day": "TUE",
+                        "time": "1230-1320",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17408",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T8",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HG2020",
+        "title": "LANGUAGE IN SOCIETY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17419",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+46",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17420",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "TUE",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+45",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17421",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "TUE",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+45",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17422",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "TUE",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+46",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17423",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "TUE",
+                        "time": "1630-1720",
+                        "venue": "LHS-TR+46",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17424",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT28",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "TUE",
+                        "time": "1630-1720",
+                        "venue": "LHS-TR+51",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HG2052",
+        "title": "LANGUAGE, TECHNOLOGY & THE INTERNET*",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17434",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+51",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH1001",
+        "title": "WHAT IS HISTORY?*~",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "5.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17601",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1430-1520",
+                        "venue": "HSS-TR+2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17602",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "TUE",
+                        "time": "1530-1620",
+                        "venue": "TR+95",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17603",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "TUE",
+                        "time": "1630-1720",
+                        "venue": "TR+95",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17604",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "TUE",
+                        "time": "1730-1820",
+                        "venue": "TR+95",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH1002",
+        "title": "ASIA-PACIFIC IN GLOBAL HISTORY: PRE-1800*~",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17605",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "TR+92",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17606",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "FRI",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+29",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17607",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "FRI",
+                        "time": "1630-1720",
+                        "venue": "LHS-TR+29",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17608",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "FRI",
+                        "time": "1730-1820",
+                        "venue": "LHS-TR+29",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH1004",
+        "title": "SCIENCE & TECHNOLOGY IN HISTORICAL PERSPECTIVE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17632",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+33",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH2009",
+        "title": "CHINA IN REVOLUTION & REFORM*~",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17609",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+36",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH2033",
+        "title": "TOTAL WAR IN ASIA & THE PACIFIC, 1931-1951~",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17613",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "TR+92",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17614",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+25",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17615",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "LHS-TR+25",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17616",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "MON",
+                        "time": "1730-1820",
+                        "venue": "LHS-TR+25",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH2046",
+        "title": "URBAN HISTORY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17617",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "FRI",
+                        "time": "1030-1320",
+                        "venue": "LHS-TR+32",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH2090",
+        "title": "SPECIAL TOPICS IN HISTORY I*~",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17618",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "LHS-TR+29",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH2125",
+        "title": "THE WORLD IN 12 OBJECTS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17619",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+47",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH3001",
+        "title": "HISTORIOGRAPHY: THEORY & METHODS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17620",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1130-1420",
+                        "venue": "TR+66",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH3005",
+        "title": "SEISMIC JAPAN: HISTORY, CULTURE & SOCIETY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17625",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "HSSAUDIT",
+                        "remark": "Teaching Wk1-11,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LT24",
+                        "remark": "Teaching Wk12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17626",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "HSSAUDIT",
+                        "remark": "Teaching Wk1-11,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LT24",
+                        "remark": "Teaching Wk12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "FRI",
+                        "time": "1330-1420",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17627",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "HSSAUDIT",
+                        "remark": "Teaching Wk1-11,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LT24",
+                        "remark": "Teaching Wk12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17628",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "HSSAUDIT",
+                        "remark": "Teaching Wk1-11,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LT24",
+                        "remark": "Teaching Wk12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "FRI",
+                        "time": "1530-1620",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH3007",
+        "title": "SOUTHEAST ASIAN-CHINA INTERACTIONS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17621",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "TR+109",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH3017",
+        "title": "WORLD ENVIRONMENTAL HISTORY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17637",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+44",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH3019",
+        "title": "HISTORY OF THE BODY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17623",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "LHS-TR+31",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH3090",
+        "title": "SPECIAL TOPICS IN HISTORY II*~",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17629",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1030-1320",
+                        "venue": "HSSSEMRM7",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH4003",
+        "title": "THE SILK ROAD: OLD & NEW*~",
+        "academic_units": "4.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17630",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1430-1820",
+                        "venue": "TR+92",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH4010",
+        "title": "ANTICOLONIAL RESISTANCE IN THE BRITISH EMPIRE*~",
+        "academic_units": "4.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17631",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1030-1420",
+                        "venue": "TR+114",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH4020",
+        "title": "SCIENCE, TECHNOLOGY, & SCIENCE FICTION*~",
+        "academic_units": "4.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17633",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "0930-1320",
+                        "venue": "HSSSEMRM7",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH4029",
+        "title": "HISTORY OF MODERN CHINA & COLONIAL HONG KONG, C.1945-1997*~",
+        "academic_units": "4.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17634",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "1330-1720",
+                        "venue": "LHS-TR+54",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH4046",
+        "title": "THE URBAN COAST*~",
+        "academic_units": "4.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17635",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "FRI",
+                        "time": "1530-1920",
+                        "venue": "LHS-TR+36",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH4092",
+        "title": "SPECIAL TOPICS IN HISTORY- WORLD HISTORY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17636",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1030-1420",
+                        "venue": "LHS-TR+41",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL1001",
+        "title": "INTRODUCTION TO THE STUDY OF LITERATURE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17203",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "HSS-TR+1",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17204",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17205",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17206",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17207",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "TR+69",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17208",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "TR+69",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17209",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T7",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "TR+69",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17210",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T8",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17211",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T9",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17212",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "HSSAUDIT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T10",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "TR+68",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP1000",
+        "title": "INTRODUCTION TO PSYCHOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19701",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1030-1120",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19702",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "TUE",
+                        "time": "1130-1220",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19703",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "TUE",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19704",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19705",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19706",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19707",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T7",
+                        "day": "FRI",
+                        "time": "1330-1420",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19708",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T8",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP1100",
+        "title": "FUNDAMENTALS OF SOCIAL SCIENCE RESEARCH*~",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19709",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1230-1320",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19710",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "MON",
+                        "time": "1330-1420",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19711",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19712",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19713",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19714",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19715",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T7",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19716",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T8",
+                        "day": "THU",
+                        "time": "1630-1720",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HR1001",
+        "title": "WAYS OF SEEING: EXPLORING VISUAL CULTURE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17286",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "HSSSEMRM3",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "17287",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM2",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "HSSSEMRM3",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HR2001",
+        "title": "INTRODUCTION TO THE HISTORIES OF SOUTHEAST ASIAN ART*~",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17289",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "TR+79",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HR2009",
+        "title": "CONTEMPORARY CURATING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17291",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "TR+112",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HR3005",
+        "title": "FANTASY & THE FANTASTIC IN THE ARTS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17293",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "LHS-TR+45",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HR4003",
+        "title": "FROM COLONIALISM  TO TOURISM: EARLY PHOTOGRAPHY IN ASIA*~",
+        "academic_units": "4.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17296",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "HSS-TR+5",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HS0101",
+        "title": "DIGITAL LITERACY, CULTURE & SOCIETY",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "19991",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "LT24",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HW0205",
+        "title": "ACADEMIC COMMUNICATION IN THE HUMANITIES",
+        "academic_units": "2.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17901",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SOH1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LHS-TR+55",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "17902",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SOH2",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LHS-TR+55",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "17903",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SOH3",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "TR+88",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "17904",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SOH4",
+                        "day": "MON",
+                        "time": "1530-1720",
+                        "venue": "TR+88",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "17905",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SOH5",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "TR+77",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "17906",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SOH6",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "TR+112",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HY1001",
+        "title": "INTRODUCTION TO PHILOSOPHY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "History Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17801",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR+31",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17802",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+46",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17803",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "FRI",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+31",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17804",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "FRI",
+                        "time": "1630-1720",
+                        "venue": "LHS-TR+31",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    }
+]

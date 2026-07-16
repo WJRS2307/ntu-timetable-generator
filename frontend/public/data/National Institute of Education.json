@@ -1,0 +1,1779 @@
+[
+    {
+        "course_code": "AAA08B",
+        "title": "FASHION & DESIGN: WEARABLE ART AS A SECOND SKIN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39602",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1130-1420",
+                        "venue": "NIE7-02-07",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAA08C",
+        "title": "EXPRESSIVE DRAWING: DEVELOPING PERSONAL APPROACH & STYLE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39600",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "NIE3-B2-01",
+                        "remark": "Teaching Wk2-12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAA08D",
+        "title": "ABSTRACT PAINTING: WHY IT'S HERE & HOW IT'S MADE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39601",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1130-1420",
+                        "venue": "NIE3-B2-01",
+                        "remark": "Teaching Wk2-12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAA18D",
+        "title": "LIFE DRAWING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39613",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "NIE3-B2-01",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAA18E",
+        "title": "DRAWING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39603",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LG1",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "NIE3-B1-10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "39604",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LG2",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "NIE3-B1-10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "39605",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LG3",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "NIE3-B1-10",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAA18H",
+        "title": "PAINTING WITH OIL & ACRYLIC*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39606",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "NIE3-B2-01",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAA18J",
+        "title": "PAINTING WITH WATERCOLOUR*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39607",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1030-1320",
+                        "venue": "NIE3-B2-01",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAA18K",
+        "title": "COMMUNICATION DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39616",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1320",
+                        "venue": "NIE3-B1-06",
+                        "remark": "Teaching Wk2-12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAA18L",
+        "title": "SILKSCREEN PRINTING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39608",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "NIE3-B1-08",
+                        "remark": "Teaching Wk2-12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAA18M",
+        "title": "BATIK*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39617",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1320",
+                        "venue": "NIE3-B1-10",
+                        "remark": "Teaching Wk2-12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAA18Q",
+        "title": "PRINTMAKING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39614",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "NIE3-B1-08",
+                        "remark": "Teaching Wk2-12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAA18R",
+        "title": "SCULPTURE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39609",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LG1",
+                        "day": "FRI",
+                        "time": "1130-1420",
+                        "venue": "NIE3-B3-01",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "39610",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LG2",
+                        "day": "FRI",
+                        "time": "1430-1720",
+                        "venue": "NIE3-B3-01",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAA28J",
+        "title": "DIGITAL MEDIA & VISUAL ARTS:MOVING IMAGE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39615",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "NIE3-B1-06",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAA28R",
+        "title": "CERAMICS I*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39611",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1130-1420",
+                        "venue": "NIE3-B2-03",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAA28S",
+        "title": "CERAMICS II*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39612",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0830-1120",
+                        "venue": "NIE3-B2-03",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAC18A",
+        "title": "CHINESE CALLIGRAPHY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39201",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "NIE3-B1-10",
+                        "remark": "Teaching Wk1-7,9-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAE18C",
+        "title": "EXPLORING THE GRAMMAR OF ENGLISH*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "39291",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "L1",
+                        "day": "TUE",
+                        "time": "0930-1050",
+                        "venue": "NIE3-B1-14",
+                        "remark": "Teaching Wk1"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "L1",
+                        "day": "TUE",
+                        "time": "0930-1050",
+                        "venue": "NIE2-TR215",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1130-1250",
+                        "venue": "NIE5-TR502",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAE18E",
+        "title": "INTRODUCTION TO LINGUISTICS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39292",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "L1",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "NIE2-TR214",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "NIE2-TR214",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAE28E",
+        "title": "THE ROLE OF LANGUAGE IN EDUCATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39293",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "L1",
+                        "day": "MON",
+                        "time": "1330-1450",
+                        "venue": "NIE3-TR303",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1430-1550",
+                        "venue": "NIE3-TR303",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAG28C",
+        "title": "UNDERSTANDING TOURISM*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39321",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "NIE3-02-26",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "NIE3-02-26",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAG28E",
+        "title": "INTRODUCTION TO GEOGRAPHICAL INFORMATION SYSTEMS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39222",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1120",
+                        "venue": "NIE3-02-24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "NIE3-02-24",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAG38A",
+        "title": "CITIES OF THE WORLD*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39323",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1130-1320",
+                        "venue": "NIE3-02-32",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "NIE3-02-32",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAI08C",
+        "title": "POPULAR MUSIC ARRANGEMENT WITH TECHNOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39625",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1320",
+                        "venue": "NIE3-02-09",
+                        "remark": "Teaching Wk2-12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAI16B",
+        "title": "BAROQUE & CLASSICAL MUSICAL PRACTICES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39637",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1030-1320",
+                        "venue": "NIE3-02-07",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAI16C",
+        "title": "ROMANTIC & 20TH CENTURY MUSICAL PRACTICES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39638",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "NIE3-02-04",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAI16G",
+        "title": "COMPOSING & ARRANGING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39624",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "NIE3-02-09",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAI16J",
+        "title": "MUSIC THEORY FOR DIVERSE SONIC WORLDS I*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39636",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "NIE3-02-18",
+                        "remark": "Teaching Wk2-12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAI28C",
+        "title": "PERCUSSION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39626",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "NIE3-01-05",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAI38C",
+        "title": "CLASSICAL GUITAR I*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39627",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "NIE3-01-01",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAI38D",
+        "title": "CHOIR I*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39628",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "NIE3-02-04",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAI38J",
+        "title": "BAND I*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39631",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1830-2120",
+                        "venue": "NIE3-01-05",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAI38Q",
+        "title": "VOICE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39630",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "NIE3-02-04",
+                        "remark": "Teaching Wk2-12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAI38R",
+        "title": "CONDUCTING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39639",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1530-1820",
+                        "venue": "NIE3-01-05",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAI48A",
+        "title": "STUDIES IN CHINESE MUSIC*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39633",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1030-1320",
+                        "venue": "NIE3-02-23",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAI48B",
+        "title": "STUDIES IN MALAY MUSIC*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39634",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "NIE3-01-01",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAI48D",
+        "title": "CHOIR III*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39629",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "NIE3-02-04",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAI48G",
+        "title": "STUDIES IN POP AND JAZZ*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39635",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1130-1420",
+                        "venue": "NIE3-01-01",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAI48J",
+        "title": "BAND III*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39632",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1830-2120",
+                        "venue": "NIE3-01-05",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAL18A",
+        "title": "GLOBALISATION: AN INTRODUCTION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39325",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "NIE3-1-314",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "NIE3-1-314",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAL28A",
+        "title": "SINGAPORE STUDIES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39324",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "0830-1020",
+                        "venue": "NIE3-02-25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "TUE",
+                        "time": "1030-1120",
+                        "venue": "NIE3-02-25",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAM18A",
+        "title": "MATHEMATICS AROUND US*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39383",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "NIE TR705",
+                        "remark": "Teaching Wk1-7,9-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAR08A",
+        "title": "LITERATURES OF SOUTHEAST ASIA*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39294",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "L1",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "NIE3-TR302",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAU08A",
+        "title": "THEATRE GAMES: ENGAGEMENT THROUGH PLAY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39622",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1230-1520",
+                        "venue": "3A-B2-03",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAU28A",
+        "title": "DRAMA AS ENGAGED & COLLABORATIVE LEARNING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39623",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1230-1520",
+                        "venue": "3A-B2-03",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ADP16A",
+        "title": "INTRODUCTION TO THEATRE  & PERFORMANCE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39618",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LG1",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "3A-B2-03",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "39619",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LG2",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "3A-B2-03",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ADP26L",
+        "title": "DEVISING THEATRE: METHODS & PRACTICES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39621",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1230-1520",
+                        "venue": "3A-B1-03",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ADP26M",
+        "title": "APPLIED THEATRE: THEORY, PRACTICE & PEDAGOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39620",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "3A-B2-03",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AED06C",
+        "title": "TEACHING STRATEGIES FOR INCLUSIVE EDUCATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39261",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "NIE3-TR303",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "NIE, LT9",
+                        "remark": "Teaching Wk1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AED06D",
+        "title": "ASSESSMENT OF SPECIAL NEEDS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39262",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "NIE2-TR207",
+                        "remark": "Teaching Wk8-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "NIE3-TR302",
+                        "remark": "Teaching Wk2-7"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "NIE2-TR213",
+                        "remark": "Teaching Wk1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AED06E",
+        "title": "CONSULTATION & COLLABORATION WITH FAMILIES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39263",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "NIE2-TR213",
+                        "remark": "Teaching Wk1-4"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "NIE7-TR717",
+                        "remark": "Teaching Wk5-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AED08D",
+        "title": "DIGITAL LITERACY FOR THE NET GENERATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39351",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "TBC",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AED16A",
+        "title": "PRACTICES & ISSUES IN EARLY CHILDHOOD EDUCATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39264",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "NIE3-TR310",
+                        "remark": "Teaching Wk2-5"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "NIE2-02-04",
+                        "remark": "Teaching Wk1"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "NIE3-TR317",
+                        "remark": "Teaching Wk6-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AED16B",
+        "title": "CURRICULUM & ASSESSMENT IN EARLY CHILDHOOD EDUCATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39265",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "NIE7-TR704",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AED16C",
+        "title": "LEARNING ENVIRONMENTS FOR YOUNG CHILDREN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39266",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "NIE, CDC",
+                        "remark": "Teaching Wk7-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "NIE7-TR719",
+                        "remark": "Teaching Wk1-6"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AED16D",
+        "title": "CHILD DEVELOPMENT IN EARLY CHILDHOOD EDUCATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39267",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "NIE3-TR302",
+                        "remark": "Teaching Wk1"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "NIE2-TR213",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AED16E",
+        "title": "DIVERSITY IN EARLY CHILDHOOD EDUCATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39268",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "NIE7-TR717",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AED18A",
+        "title": "CURRICULUM DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39231",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "2-01-TR208",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AED23C",
+        "title": "CRITICAL REASONING SKILLS FOR EFFECTIVE TEACHING*~",
+        "academic_units": "2.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39471",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "2-01-TR207",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AED28B",
+        "title": "CRITICAL PERSPECTIVES ON EDUCATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39472",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "NIE2-TR209",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AED28D",
+        "title": "BASIC COUNSELLING SKILLS FOR TEACHERS IN INITIAL TRG PROGRAM*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39269",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "NIE7-TR715",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AED38A",
+        "title": "MOTIVATING PUPILS TO LEARN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39270",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "FRI",
+                        "time": "1430-1720",
+                        "venue": "NIE2-TR216",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AED38C",
+        "title": "DESIGNING ICT-BASED CONSTRUCTIVIST ACTIVITIES*~",
+        "academic_units": "2.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39352",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "TBC",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AED38G",
+        "title": "SPECIAL TOPICS IN YOUTH WORK & GUIDANCE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39271",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "NIE7-TR710",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AGE06B",
+        "title": "APPLICATIONS OF EDUCATIONAL NEUROSCIENCE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39559",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "NIE7-01-06",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AGE06D",
+        "title": "NEURODIVERSITY & THE LEARNING EXPERIENCE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39560",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "FRI",
+                        "time": "1430-1720",
+                        "venue": "NIE7-01-06",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AGE08D",
+        "title": "DESIGNING LEARNING ENVIRONMENTS WITH THE INTERNET OF THINGS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39326",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "NIE3-02-25",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AGE08H",
+        "title": "MARINE ENVIRONMENTAL STUDIES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39411",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "LA",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "NIE7A-01-7",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AGE18N",
+        "title": "INTEGRATED STEM CURRICULUM*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39414",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "NIE7-02-01",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AGE18Q",
+        "title": "GENDER ISSUES IN SCIENCE, TECHNOLOGY, ENGINEERING & MATH*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39416",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "NIE TR710",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AGE18T",
+        "title": "RESEARCH PERSPECTIVES IN STEM EDUCATION~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39415",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "NIE TR715",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AGQ28C",
+        "title": "FOOD & SOCIETY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39413",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "LA",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "NIE7-02-12",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AGT08A",
+        "title": "TAMIL CULTURE & LIFESTYLES THROUGH MOVIES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "National Institute of Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39202",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "NIE2-B1-14",
+                        "remark": "Teaching Wk1-7,9-13"
+                    }
+                ]
+            }
+        ]
+    }
+]

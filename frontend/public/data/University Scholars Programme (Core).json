@@ -1,0 +1,98 @@
+[
+    {
+        "course_code": "SP0001",
+        "title": "LANGUAGE & LOGIC",
+        "academic_units": "3.0 AU",
+        "school_category": "University Scholars Programme (Core)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "22011",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "MON",
+                        "time": "1630-1920",
+                        "venue": "LHN-TR+07",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "22012",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S2",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "LHN-TR+07",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "22013",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S3",
+                        "day": "WED",
+                        "time": "1630-1920",
+                        "venue": "LHN-TR+07",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SP0008",
+        "title": "BEING & BECOMING",
+        "academic_units": "2.0 AU",
+        "school_category": "University Scholars Programme (Core)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "22031",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LHN-TR+08",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "22032",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S2",
+                        "day": "THU",
+                        "time": "1330-1520",
+                        "venue": "LHN-TR+08",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "22033",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S3",
+                        "day": "MON",
+                        "time": "1930-2120",
+                        "venue": "LHN-TR+08",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,398 @@
+[
+    {
+        "course_code": "CC0001",
+        "title": "INQUIRY & COMMUNICATION IN AN INTERDISCIPLINARY WORLD",
+        "academic_units": "2.0 AU",
+        "school_category": "Electrical & Electronic Engineering(PartTime) Year 2",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "26501",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "MAPT1",
+                        "day": "THU",
+                        "time": "1900-2050",
+                        "venue": "LHN-TR+06",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "26502",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "MAPT2",
+                        "day": "THU",
+                        "time": "1900-2050",
+                        "venue": "LHN-TR+05",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CC0002",
+        "title": "NAVIGATING THE DIGITAL WORLD",
+        "academic_units": "2.0 AU",
+        "school_category": "Electrical & Electronic Engineering(PartTime) Year 2",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "26530",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "MAPT1",
+                        "day": "TUE",
+                        "time": "1900-2050",
+                        "venue": "LHN-TR+01",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE2005",
+        "title": "ELECTRICAL DEVICES & MACHINES",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering(PartTime) Year 2",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "37504",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EPT1",
+                        "day": "WED",
+                        "time": "1900-2020",
+                        "venue": "TR+62",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "EPL1",
+                        "day": "THU",
+                        "time": "1900-2150",
+                        "venue": "S2-B5C-07",
+                        "remark": "Teaching Wk6,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "37505",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EPT2",
+                        "day": "WED",
+                        "time": "1900-2020",
+                        "venue": "TR+64",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "EPL2",
+                        "day": "THU",
+                        "time": "1900-2150",
+                        "venue": "S2-B5C-07",
+                        "remark": "Teaching Wk7,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "37506",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EPT3",
+                        "day": "WED",
+                        "time": "2030-2150",
+                        "venue": "TR+63",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "EPL3",
+                        "day": "FRI",
+                        "time": "1900-2150",
+                        "venue": "S2-B5C-07",
+                        "remark": "Teaching Wk7,13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE2102",
+        "title": "ANALOG ELECTRONICS",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering(PartTime) Year 2",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "37510",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EPLE",
+                        "day": "TUE",
+                        "time": "2030-2150",
+                        "venue": "RECORDING",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EPT1",
+                        "day": "TUE",
+                        "time": "1900-2020",
+                        "venue": "TR102",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "EPL1",
+                        "day": "FRI",
+                        "time": "1900-2150",
+                        "venue": "S2-B4A-01",
+                        "remark": "Teaching Wk5,8,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "37511",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EPLE",
+                        "day": "TUE",
+                        "time": "2030-2150",
+                        "venue": "RECORDING",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EPT2",
+                        "day": "TUE",
+                        "time": "1900-2020",
+                        "venue": "TR103",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "EPL2",
+                        "day": "FRI",
+                        "time": "1900-2150",
+                        "venue": "S2-B4A-01",
+                        "remark": "Teaching Wk6,9,12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HW0001",
+        "title": "INTRODUCTION TO ACADEMIC COMMUNICATION",
+        "academic_units": ".0 AU",
+        "school_category": "Electrical & Electronic Engineering(PartTime) Year 2",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14560",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1900-2050",
+                        "venue": "ONLINE",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE2106",
+        "title": "ENGINEERING MATHEMATICS I",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering(PartTime) Year 2",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "2.30 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "37523",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EPLE",
+                        "day": "MON",
+                        "time": "1900-2050",
+                        "venue": "LT17",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EPT1",
+                        "day": "MON",
+                        "time": "2100-2150",
+                        "venue": "TR+61",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "37524",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EPLE",
+                        "day": "MON",
+                        "time": "1900-2050",
+                        "venue": "LT17",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EPT2",
+                        "day": "MON",
+                        "time": "2100-2150",
+                        "venue": "TR+63",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "37525",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EPLE",
+                        "day": "MON",
+                        "time": "1900-2050",
+                        "venue": "LT17",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EPT3",
+                        "day": "THU",
+                        "time": "2100-2150",
+                        "venue": "TR+64",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA2003",
+        "title": "INTRODUCTION TO THERMO-FLUIDS",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering(PartTime) Year 2",
+        "exam": {
+            "date": "28 November 2026",
+            "day": "Saturday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "26511",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "PLE",
+                        "day": "FRI",
+                        "time": "2000-2050",
+                        "venue": "LT11",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "PT1",
+                        "day": "FRI",
+                        "time": "1900-1950",
+                        "venue": "LHN-TR+16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "26512",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "PLE",
+                        "day": "FRI",
+                        "time": "2000-2050",
+                        "venue": "LT11",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "PT2",
+                        "day": "FRI",
+                        "time": "1900-1950",
+                        "venue": "LHN-TR+17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MA2024",
+        "title": "ENGINEERING MATERIALS & MANUFACTURING PROCESSES",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering(PartTime) Year 2",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "26516",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "PLE",
+                        "day": "MON",
+                        "time": "2000-2050",
+                        "venue": "LHN-TR+30",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "PT1",
+                        "day": "MON",
+                        "time": "1900-1950",
+                        "venue": "LHN-TR+30",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    }
+]

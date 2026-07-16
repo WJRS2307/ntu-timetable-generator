@@ -1,0 +1,410 @@
+[
+    {
+        "course_code": "CB4248",
+        "title": "ADVANCED SEMICONDUCTOR PROCESSES~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemical & Biomolecular Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "55167",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "BIE-TR+1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CH2010",
+        "title": "ENGINEERING STATISTICS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemical & Biomolecular Engineering",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "55060",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1530-1720",
+                        "venue": "CBE-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "B21",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "CBE-LT",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "55061",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1530-1720",
+                        "venue": "CBE-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "C21",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "CBE-LT",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CH3111",
+        "title": "PROCESS CONTROL & DYNAMICS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemical & Biomolecular Engineering",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "55088",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1530-1720",
+                        "venue": "CBE-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "C31",
+                        "day": "TUE",
+                        "time": "1130-1220",
+                        "venue": "CBE-LT",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CH4102",
+        "title": "PROJECT MANAGEMENT FOR ENGINEERS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemical & Biomolecular Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "55109",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "CBE-SR2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CH4106",
+        "title": "FORMULATION OF ACTIVE PHARMACEUTICAL INGREDIENTS DOSAGE FORM*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemical & Biomolecular Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "55110",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+52",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CH4223",
+        "title": "PETROLEUM REFINING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemical & Biomolecular Engineering",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "55112",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "CBE-SR1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CH4244",
+        "title": "NUMERICAL METHODS & DATA ANALYTICS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemical & Biomolecular Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "55113",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "CBE-SR2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "55114",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "CBE-SR2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CH4303",
+        "title": "BIOSEPARATIONS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemical & Biomolecular Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "55115",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "CBE-SR2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "55116",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "CBE-SR2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "55117",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "CBE-SR2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CH4306",
+        "title": "BIOANALYTICAL TECHNIQUES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemical & Biomolecular Engineering",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "55118",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "CBE-SR3",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CH4341",
+        "title": "FUNDAMENTALS OF INTELLECTUAL PROPERTY IN CHEMICAL ENG*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemical & Biomolecular Engineering",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "55119",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LHN-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "LHN-LT",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CH4702",
+        "title": "INDEPENDENT RESEARCH PROJECT 1*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemical & Biomolecular Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "55120",
+                "lessons": [
+                    {
+                        "type": "PRJ",
+                        "group": "IRP",
+                        "day": "SAT",
+                        "time": "1230-1320",
+                        "venue": "LAB",
+                        "remark": "Not conducted during Teaching Weeks"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CH4703",
+        "title": "INDEPENDENT RESEARCH PROJECT 2*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemical & Biomolecular Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "55121",
+                "lessons": [
+                    {
+                        "type": "PRJ",
+                        "group": "IRP",
+                        "day": "SAT",
+                        "time": "1230-1320",
+                        "venue": "LAB",
+                        "remark": "Not conducted during Teaching Weeks"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CH5221",
+        "title": "FOOD INDUSTRY SEMINAR SERIES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemical & Biomolecular Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "55132",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "CBE-SR2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "55133",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "CBE-SR2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

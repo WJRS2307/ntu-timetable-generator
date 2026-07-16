@@ -1,0 +1,381 @@
+[
+    {
+        "course_code": "HY1001",
+        "title": "INTRODUCTION TO PHILOSOPHY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Philosophy",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17801",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR+31",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17802",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+46",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17803",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "FRI",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+31",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17804",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "FRI",
+                        "time": "1630-1720",
+                        "venue": "LHS-TR+31",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HY1002",
+        "title": "SYMBOLIC LOGIC*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Philosophy",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17805",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+49",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HY3010",
+        "title": "PHILOSOPHY OF SCIENCE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Philosophy",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17806",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "HSSSEMRM8",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HY3012",
+        "title": "PHILOSOPHY OF TECHNOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Philosophy",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17807",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "FRI",
+                        "time": "1530-1820",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HY3024",
+        "title": "VIRTUE ETHICS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Philosophy",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17808",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+46",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HY3910",
+        "title": "PHILOSOPHY OF SCIENCE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Philosophy",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17809",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "SEE HY3010",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HY3912",
+        "title": "PHILOSOPHY OF TECHNOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Philosophy",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17810",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "FRI",
+                        "time": "1530-1820",
+                        "venue": "SEE HY3012",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HY4005",
+        "title": "HISTORY OF ANALYTIC PHILOSOPHY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Philosophy",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17811",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "TR+91",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HY4015",
+        "title": "PHILOSOPHICAL METHODOLOGIES*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Philosophy",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17812",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+41",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HY4021",
+        "title": "PRACTICAL RATIONALITY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Philosophy",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17813",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+45",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HY4046",
+        "title": "HISTORY & PHILOSOPHY OF SPACE & TIME~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Philosophy",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17814",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "HSSSEMRM6",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HY4110",
+        "title": "SPECIAL TOPICS IN PHILOSOPHY OF SCIENCE*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Philosophy",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17815",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "TR+109",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HY4113",
+        "title": "SPECIAL TOPICS IN CHINESE PHILOSOPHY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Philosophy",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17816",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+45",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HY4116",
+        "title": "PHENOMENOLOGY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Philosophy",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17817",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "TR+109",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

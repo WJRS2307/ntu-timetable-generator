@@ -1,0 +1,1213 @@
+[
+    {
+        "course_code": "AB1301",
+        "title": "BUSINESS LAW*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "Maritime Studies (ITG) Year 1",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "00392",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S4-SR15",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00393",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S3-SR8",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00394",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "S4-SR15",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00395",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "4",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "S3-SR8",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00396",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "5",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "ESR4",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00397",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "6",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S3-SR7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00398",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "7",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S4-SR13",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00399",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "8",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S3-SR7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00400",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "9",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S4-SR17",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00401",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "10",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "ABS-SR14",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00402",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "11",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "S3-SR2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00403",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "12",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "ESR4",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00404",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "13",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "S3-SR1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00405",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "14",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S3-SR5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00406",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "15",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "ABS-SR5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00407",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "16",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "ABS-SR10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00408",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "17",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S4-SR9",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00409",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "18",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "ABS-SR11",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00410",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "19",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "S4-SR9",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00411",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "20",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "ITL-SA2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BU5101",
+        "title": "ACCOUNTING: A USER PERSPECTIVE*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "Maritime Studies (ITG) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "01180",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "SAT",
+                        "time": "0930-1220",
+                        "venue": "LT19A",
+                        "remark": "Teaching Wk7"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "1130-1420",
+                        "venue": "FTR2",
+                        "remark": "Teaching Wk8,13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "1130-1420",
+                        "venue": "ITL-SA3",
+                        "remark": "Teaching Wk8,13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "1130-1420",
+                        "venue": "ABS-SR10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "01181",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "SAT",
+                        "time": "0930-1220",
+                        "venue": "LT19A",
+                        "remark": "Teaching Wk7"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "FTR2",
+                        "remark": "Teaching Wk8,13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "ITL-SA3",
+                        "remark": "Teaching Wk8,13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "ABS-SR10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "01182",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "SAT",
+                        "time": "0930-1220",
+                        "venue": "LT19A",
+                        "remark": "Teaching Wk7"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "ITL-SA3",
+                        "remark": "Teaching Wk8,13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "ITL-SA2",
+                        "remark": "Teaching Wk8,13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S4-SR23",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "01183",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "SAT",
+                        "time": "0930-1220",
+                        "venue": "LT19A",
+                        "remark": "Teaching Wk7"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "4",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "ITL-SA3",
+                        "remark": "Teaching Wk8,13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "4",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "ITL-SA2",
+                        "remark": "Teaching Wk8,13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "4",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "ABS-SR10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "01184",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "SAT",
+                        "time": "0930-1220",
+                        "venue": "LT19A",
+                        "remark": "Teaching Wk7"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "5",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "ITL-SA1",
+                        "remark": "Teaching Wk8,13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "5",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "ITL-SA3",
+                        "remark": "Teaching Wk8,13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "5",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S4-SR21",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "01185",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "SAT",
+                        "time": "0930-1220",
+                        "venue": "LT19A",
+                        "remark": "Teaching Wk7"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "6",
+                        "day": "FRI",
+                        "time": "1230-1520",
+                        "venue": "ITL-SA1",
+                        "remark": "Teaching Wk8,13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "6",
+                        "day": "FRI",
+                        "time": "1230-1520",
+                        "venue": "ITL-SA3",
+                        "remark": "Teaching Wk8,13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "6",
+                        "day": "FRI",
+                        "time": "1230-1520",
+                        "venue": "S4-SR21",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BU5601",
+        "title": "FUNDAMENTALS OF MANAGEMENT*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "Maritime Studies (ITG) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00836",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "TR+96",
+                        "remark": "Teaching Wk3,5,7,9,11,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "00837",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "2",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "TR+96",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "00838",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "3",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "TR+96",
+                        "remark": "Teaching Wk3,5,7,9,11,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "00839",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "4",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "TR+96",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "00840",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "5",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LHS-TR+42",
+                        "remark": "Teaching Wk3,5,7,9,11,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "00841",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "6",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LHS-TR+42",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "00842",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "7",
+                        "day": "WED",
+                        "time": "1330-1520",
+                        "venue": "ABS-SR5",
+                        "remark": "Teaching Wk3,5,7,9,11,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "00843",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "8",
+                        "day": "WED",
+                        "time": "1330-1520",
+                        "venue": "ABS-SR5",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "00844",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "9",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "S3-SR1",
+                        "remark": "Teaching Wk3,5,7,9,11,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "00845",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "10",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "S3-SR1",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "00846",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "11",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "ABS-SR10",
+                        "remark": "Teaching Wk3,5,7,9,11,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "00847",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "12",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "ABS-SR10",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE5091",
+        "title": "PRINCIPLES OF ECONOMICS*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "Maritime Studies (ITG) Year 1",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "5.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19601",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "LHS-TR+46",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19602",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR+46",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19603",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "LHS-TR+46",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19604",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+46",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19605",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "WED",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+46",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HW0208",
+        "title": "ACADEMIC COMMUNICATION IN THE SOCIAL SCIENCES",
+        "academic_units": "2.0 AU",
+        "school_category": "Maritime Studies (ITG) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "20021",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LHS-TR+34",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20022",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS2",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LHS-TR+34",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20023",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS3",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LHS-TR+34",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20024",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS4",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "LHS-TR+43",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20025",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS5",
+                        "day": "TUE",
+                        "time": "1130-1320",
+                        "venue": "LHS-TR+43",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20026",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS6",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LHS-TR+43",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20027",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS7",
+                        "day": "TUE",
+                        "time": "1530-1720",
+                        "venue": "LHS-TR+43",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20028",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS8",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20029",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS9",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20030",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS10",
+                        "day": "WED",
+                        "time": "1330-1520",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20031",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS11",
+                        "day": "WED",
+                        "time": "1530-1720",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20032",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS12",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20033",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS13",
+                        "day": "THU",
+                        "time": "1130-1320",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20034",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS14",
+                        "day": "THU",
+                        "time": "1330-1520",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20035",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS15",
+                        "day": "THU",
+                        "time": "1530-1720",
+                        "venue": "LHS-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20036",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS16",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "LHS-TR+34",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20037",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS17",
+                        "day": "FRI",
+                        "time": "1130-1320",
+                        "venue": "LHS-TR+34",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20038",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "SSS18",
+                        "day": "FRI",
+                        "time": "1330-1520",
+                        "venue": "LHS-TR+34",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HY0001",
+        "title": "ETHICS & MORAL REASONING",
+        "academic_units": "1.0 AU",
+        "school_category": "Maritime Studies (ITG) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17991",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "SAT",
+                        "time": "1130-1220",
+                        "venue": "",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SP0061",
+        "title": "SCIENCE & TECHNOLOGY FOR HUMANITY",
+        "academic_units": "3.0 AU",
+        "school_category": "Maritime Studies (ITG) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "22127",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+33",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "22128",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S2",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LHN-TR+33",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "22129",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S3",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+50",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "22133",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S4",
+                        "day": "TUE",
+                        "time": "1730-1920",
+                        "venue": "LHN-TR+50",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

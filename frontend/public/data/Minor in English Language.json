@@ -1,0 +1,105 @@
+[
+    {
+        "course_code": "AAE18C",
+        "title": "EXPLORING THE GRAMMAR OF ENGLISH*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in English Language",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "39291",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "L1",
+                        "day": "TUE",
+                        "time": "0930-1050",
+                        "venue": "NIE3-B1-14",
+                        "remark": "Teaching Wk1"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "L1",
+                        "day": "TUE",
+                        "time": "0930-1050",
+                        "venue": "NIE2-TR215",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1130-1250",
+                        "venue": "NIE5-TR502",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAE18E",
+        "title": "INTRODUCTION TO LINGUISTICS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in English Language",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39292",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "L1",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "NIE2-TR214",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "NIE2-TR214",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AAE28E",
+        "title": "THE ROLE OF LANGUAGE IN EDUCATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in English Language",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39293",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "L1",
+                        "day": "MON",
+                        "time": "1330-1450",
+                        "venue": "NIE3-TR303",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1430-1550",
+                        "venue": "NIE3-TR303",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

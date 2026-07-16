@@ -1,0 +1,368 @@
+[
+    {
+        "course_code": "BG4211",
+        "title": "CNYSP OVERSEAS FINAL YEAR PROJECT",
+        "academic_units": "8.0 AU",
+        "school_category": "C N Yang Scholars Programme",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "55042",
+                "lessons": [
+                    {
+                        "type": "PRJ",
+                        "group": "Yang",
+                        "day": "SAT",
+                        "time": "1730-1820",
+                        "venue": "OVERSEAS",
+                        "remark": "Not conducted during Teaching Weeks"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CH4211",
+        "title": "CNYSP OVERSEAS FINAL YEAR PROJECT",
+        "academic_units": "8.0 AU",
+        "school_category": "C N Yang Scholars Programme",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "55111",
+                "lessons": [
+                    {
+                        "type": "PRJ",
+                        "group": "Yang",
+                        "day": "SAT",
+                        "time": "1730-1820",
+                        "venue": "OVERSEAS",
+                        "remark": "Not conducted during Teaching Weeks"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CY0001",
+        "title": "LANGUAGE & LOGIC",
+        "academic_units": "3.0 AU",
+        "school_category": "C N Yang Scholars Programme",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "22007",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "MON",
+                        "time": "1630-1920",
+                        "venue": "LHN-TR+08",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "22008",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S2",
+                        "day": "TUE",
+                        "time": "1630-1920",
+                        "venue": "LHN-TR+08",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "22009",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S3",
+                        "day": "THU",
+                        "time": "1630-1920",
+                        "venue": "LHN-TR+08",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "22043",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S4",
+                        "day": "TUE",
+                        "time": "0830-1120",
+                        "venue": "RPR SR2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "22044",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S5",
+                        "day": "WED",
+                        "time": "0830-1120",
+                        "venue": "RPR SR2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "22045",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S6",
+                        "day": "WED",
+                        "time": "1230-1520",
+                        "venue": "RPR SR2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CY1001",
+        "title": "THE SYSTEMS ARCHITECTURE OF LIFE",
+        "academic_units": "3.0 AU",
+        "school_category": "C N Yang Scholars Programme",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "08538",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1530-1750",
+                        "venue": "SBS CR1",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1530-1620",
+                        "venue": "SBS CR1",
+                        "remark": "Teaching Wk1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CY1101",
+        "title": "MOLECULE",
+        "academic_units": "4.0 AU",
+        "school_category": "C N Yang Scholars Programme",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "59042",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1330-1420",
+                        "venue": "SPMS-LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "SPMS-LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA",
+                        "day": "WED",
+                        "time": "1030-1320",
+                        "venue": "CBC LAB",
+                        "remark": "Teaching Wk2-11"
+                    }
+                ]
+            },
+            {
+                "index_number": "59043",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1330-1420",
+                        "venue": "SPMS-LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "SPMS-LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA",
+                        "day": "WED",
+                        "time": "1030-1320",
+                        "venue": "CBC LAB",
+                        "remark": "Teaching Wk2-11"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CY1308",
+        "title": "PHYSICS",
+        "academic_units": "3.0 AU",
+        "school_category": "C N Yang Scholars Programme",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "81003",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1530-1650",
+                        "venue": "",
+                        "remark": "Not conducted during Teaching Weeks"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "A01",
+                        "day": "THU",
+                        "time": "1230-1350",
+                        "venue": "SPMS-TR+16",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "81004",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1530-1650",
+                        "venue": "",
+                        "remark": "Not conducted during Teaching Weeks"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "A02",
+                        "day": "THU",
+                        "time": "1430-1550",
+                        "venue": "SPMS-TR+16",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "81005",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1530-1650",
+                        "venue": "",
+                        "remark": "Not conducted during Teaching Weeks"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "A03",
+                        "day": "THU",
+                        "time": "1630-1750",
+                        "venue": "SPMS-TR+16",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CY1601",
+        "title": "MATHEMATICS I",
+        "academic_units": "4.0 AU",
+        "school_category": "C N Yang Scholars Programme",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "70160",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+15",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "LHS-TR+52",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70161",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+15",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "TUE",
+                        "time": "1130-1320",
+                        "venue": "LHS-TR+47",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    }
+]

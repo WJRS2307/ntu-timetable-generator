@@ -1,0 +1,1652 @@
+[
+    {
+        "course_code": "AB0603",
+        "title": "SOCIAL ENTREPRENEURSHIP~#",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Sustainability",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00986",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "ABS-SR14",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AC3104",
+        "title": "ENTERPRISE RISK MANAGEMENT & SUSTAINABILITY~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Sustainability",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "2.30 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "00088",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "MON",
+                        "time": "0830-1220",
+                        "venue": "ABS-SR10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00089",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "MON",
+                        "time": "0830-1220",
+                        "venue": "S3-SR6",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00090",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "MON",
+                        "time": "1330-1720",
+                        "venue": "ABS-SR10",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00091",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "4",
+                        "day": "TUE",
+                        "time": "0830-1220",
+                        "venue": "ABS-SR6",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00092",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "5",
+                        "day": "TUE",
+                        "time": "1330-1720",
+                        "venue": "ABS-SR13",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BF2228",
+        "title": "SUSTAINABLE FINANCE~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Sustainability",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00385",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "ABS-SR7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00386",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "S4-SR2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00387",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "WED",
+                        "time": "1830-2120",
+                        "venue": "ABS-SR6",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2008",
+        "title": "FUNDAMENTALS OF RESEARCH*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Sustainability",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06023",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "SCI-EXSR",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "CS-TR+9",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06024",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "SCI-EXSR",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "SCI-SR2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06025",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "SCI-EXSR",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "CS-TR+9",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "06026",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "SCI-EXSR",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "SCI-SR2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS4311",
+        "title": "PROMOTING SUSTAINABILITY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Sustainability",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06094",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "CS-TR+7",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE5094",
+        "title": "IMPACT OF ELECTROMAGNETIC RADIATION ON HUMANS*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Sustainability",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32083",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LT22",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EM5109",
+        "title": "ENVIRONMENTAL ISSUES & SUSTAINABILITY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Sustainability",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "28480",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "WED",
+                        "time": "1530-1820",
+                        "venue": "LT3",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES4906",
+        "title": "ENVIRONMENTAL HYDROLOGY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Sustainability",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79026",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "N1.1-B2-1B",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "TUE",
+                        "time": "1130-1220",
+                        "venue": "N1.1-B2-1B",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES5003",
+        "title": "BLUE PLANET: HOW THE OCEAN WORKS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Sustainability",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79028",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT19",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "79503",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT19",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES5005",
+        "title": "ENVIRONMENTAL EARTH SYSTEMS SCIENCE*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Sustainability",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79029",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "LT19",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "79504",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "LT19",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES5008",
+        "title": "BIODIVERSITY & NATURAL HISTORY OF SINGAPORE~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Sustainability",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79030",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "LT7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "79505",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "LT7",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HA1001",
+        "title": "INTRODUCTION TO INTERNATIONAL RELATIONS & FOREIGN POLICY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Sustainability",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "20101",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR+32",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20102",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "LHS-TR+32",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20103",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+32",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20104",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "WED",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+32",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HA1003",
+        "title": "INTRODUCTION TO PUBLIC ADMINISTRATION & POLICY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Sustainability",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "20115",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1330-1420",
+                        "venue": "LHS-TR+48",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20116",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+48",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20117",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+48",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "20118",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "LHS-TR+48",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HC3018",
+        "title": "POSTHUMANISM IN CHINESE LITERATURE, FILM & CULTURE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Sustainability",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17020",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "LHS-TR+34",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE3024",
+        "title": "ENVIRONMENTAL ECONOMICS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Sustainability",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "2.30 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19566",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1130-1420",
+                        "venue": "HSSSEMRM9",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HE5091",
+        "title": "PRINCIPLES OF ECONOMICS*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Sustainability",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "5.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "01060",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC2",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "NBS1",
+                        "day": "TUE",
+                        "time": "0930-1020",
+                        "venue": "TR+110",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "01061",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC2",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "NBS2",
+                        "day": "TUE",
+                        "time": "1030-1120",
+                        "venue": "TR+110",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "01062",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC2",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "NBS3",
+                        "day": "TUE",
+                        "time": "1030-1120",
+                        "venue": "LHS-TR+51",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "01063",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC2",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "NBS4",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "TR+110",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "01064",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC2",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "NBS5",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "LHS-TR+29",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "01065",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC2",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "NBS6",
+                        "day": "TUE",
+                        "time": "1430-1520",
+                        "venue": "TR+110",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "01066",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC2",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "NBS7",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "S3-SR9",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "01067",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC2",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "NBS8",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "LHS-TR+49",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "01068",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC2",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "NBS9",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "S3-SR9",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "01069",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC2",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "NBS10",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LHS-TR+49",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "01070",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC2",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "NBS11",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "S3-SR9",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "01071",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC2",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "NBS12",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LHS-TR+28",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "01072",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC2",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "NBS13",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "LHS-TR+28",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "01073",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC2",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "NBS14",
+                        "day": "FRI",
+                        "time": "1330-1420",
+                        "venue": "LHS-TR+52",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "01074",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC2",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "NBS15",
+                        "day": "FRI",
+                        "time": "1330-1420",
+                        "venue": "S3-SR2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "01075",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC2",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "NBS16",
+                        "day": "MON",
+                        "time": "1330-1420",
+                        "venue": "LHS-TR+44",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "19601",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "LHS-TR+46",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19602",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR+46",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19603",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "LHS-TR+46",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19604",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "LHS-TR+46",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19605",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "WED",
+                        "time": "1530-1620",
+                        "venue": "LHS-TR+46",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH3005",
+        "title": "SEISMIC JAPAN: HISTORY, CULTURE & SOCIETY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Sustainability",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17625",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "HSSAUDIT",
+                        "remark": "Teaching Wk1-11,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LT24",
+                        "remark": "Teaching Wk12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17626",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "HSSAUDIT",
+                        "remark": "Teaching Wk1-11,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LT24",
+                        "remark": "Teaching Wk12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "FRI",
+                        "time": "1330-1420",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17627",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "HSSAUDIT",
+                        "remark": "Teaching Wk1-11,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LT24",
+                        "remark": "Teaching Wk12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "17628",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "HSSAUDIT",
+                        "remark": "Teaching Wk1-11,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LT24",
+                        "remark": "Teaching Wk12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "FRI",
+                        "time": "1530-1620",
+                        "venue": "TR+66",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH3017",
+        "title": "WORLD ENVIRONMENTAL HISTORY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Sustainability",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17637",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+44",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL3037",
+        "title": "THE ENVIRONMENT & CULTURAL PRODUCTION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Sustainability",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17242",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+43",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HL4013",
+        "title": "ADVANCED STUDIES IN LITERATURE & CULTURE*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Sustainability",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "17247",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "TR+67",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HP1100",
+        "title": "FUNDAMENTALS OF SOCIAL SCIENCE RESEARCH*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Sustainability",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "19709",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1230-1320",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19710",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "MON",
+                        "time": "1330-1420",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19711",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19712",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19713",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19714",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19715",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T7",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "19716",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T8",
+                        "day": "THU",
+                        "time": "1630-1720",
+                        "venue": "HSSCOMLAB5",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MT0001",
+        "title": "SHIPPING & THE ENVIRONMENT*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Sustainability",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "62011",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1130-1420",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS1",
+                        "day": "MON",
+                        "time": "0830-0920",
+                        "venue": "TR+35",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "62012",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1130-1420",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS2",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "TR+35",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "62013",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1130-1420",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS3",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "TR+30",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "62014",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1130-1420",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS4",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "TR+30",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "62015",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1130-1420",
+                        "venue": "LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MS5",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "TR+30",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

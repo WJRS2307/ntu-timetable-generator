@@ -1,0 +1,1986 @@
+[
+    {
+        "course_code": "CB1102",
+        "title": "INTRO TO CHEMISTRY, CHEM ENG & BIOMED ENG",
+        "academic_units": "1.0 AU",
+        "school_category": "Chemistry and Biological Chemistry Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "55048",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CH5221",
+        "title": "FOOD INDUSTRY SEMINAR SERIES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemistry and Biological Chemistry Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "55132",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "CBE-SR2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CM1001",
+        "title": "FOUNDATIONS OF CHEMISTRY I*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Chemistry and Biological Chemistry Year 4",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "59001",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1030-1120",
+                        "venue": "SPMS-TR+13",
+                        "remark": "Teaching Wk3,5,7,9,11"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA7",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "CBC LAB",
+                        "remark": "Teaching Wk2,4,6,8,10"
+                    }
+                ]
+            },
+            {
+                "index_number": "59002",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "TUE",
+                        "time": "0930-1020",
+                        "venue": "SPMS-TR+14",
+                        "remark": "Teaching Wk3,5,7,9,11"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA8",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "CBC LAB",
+                        "remark": "Teaching Wk3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "59003",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "TUE",
+                        "time": "1430-1520",
+                        "venue": "SPMS-TR+13",
+                        "remark": "Teaching Wk3,5,7,9,11"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA5",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "CBC LAB",
+                        "remark": "Teaching Wk2,4,6,8,10"
+                    }
+                ]
+            },
+            {
+                "index_number": "59004",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "TUE",
+                        "time": "1430-1520",
+                        "venue": "SPMS-TR+14",
+                        "remark": "Teaching Wk3,5,7,9,11"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA4",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "CBC LAB",
+                        "remark": "Teaching Wk3,5,7,9,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "59005",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "TUE",
+                        "time": "1430-1520",
+                        "venue": "SPMS-TR+14",
+                        "remark": "Teaching Wk3,5,7,9,11"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA5",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "CBC LAB",
+                        "remark": "Teaching Wk2,4,6,8,10"
+                    }
+                ]
+            },
+            {
+                "index_number": "59006",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "TUE",
+                        "time": "1430-1520",
+                        "venue": "SPMS-TR+14",
+                        "remark": "Teaching Wk3,5,7,9,11"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA6",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "CBC LAB",
+                        "remark": "Teaching Wk3,5,7,9,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "59007",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T7",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "SPMS-TR+13",
+                        "remark": "Teaching Wk3,5,7,9,11"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA4",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "CBC LAB",
+                        "remark": "Teaching Wk3,5,7,9,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "59008",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T8",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "SPMS-TR+13",
+                        "remark": "Teaching Wk3,5,7,9,11"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA2",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "CBC LAB",
+                        "remark": "Teaching Wk3,5,7,9,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "59009",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T8",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "SPMS-TR+13",
+                        "remark": "Teaching Wk3,5,7,9,11"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA7",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "CBC LAB",
+                        "remark": "Teaching Wk2,4,6,8,10"
+                    }
+                ]
+            },
+            {
+                "index_number": "59010",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T8",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "SPMS-TR+13",
+                        "remark": "Teaching Wk3,5,7,9,11"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA8",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "CBC LAB",
+                        "remark": "Teaching Wk3,5,7,9,11"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CM2011",
+        "title": "ANALYTICAL CHEMISTRY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemistry and Biological Chemistry Year 4",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "59013",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT24",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CM2021",
+        "title": "INORGANIC & BIOINORGANIC CHEMISTRY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemistry and Biological Chemistry Year 4",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "59014",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1030-1120",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1520",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "0930-1020",
+                        "venue": "SPMS-TR+3",
+                        "remark": "Teaching Wk3,5,7,11,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "59015",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1030-1120",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1520",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "TUE",
+                        "time": "1130-1220",
+                        "venue": "SPMS-TR+3",
+                        "remark": "Teaching Wk3,5,7,11,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "59016",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1030-1120",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1520",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "SPMS-TR+3",
+                        "remark": "Teaching Wk3,5,7,11,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "59017",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1030-1120",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1520",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "WED",
+                        "time": "1030-1120",
+                        "venue": "SPMS-TR+3",
+                        "remark": "Teaching Wk3,5,7,11,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "59018",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1030-1120",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1520",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "SPMS-TR+3",
+                        "remark": "Teaching Wk3,5,7,11,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "59019",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1030-1120",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1520",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "SPMS-TR+3",
+                        "remark": "Teaching Wk3,5,7,11,13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CM2061",
+        "title": "CHEMISTRY & BIOLOGICAL CHEMISTRY LABORATORY 1*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemistry and Biological Chemistry Year 4",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "59021",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "LA1",
+                        "day": "THU",
+                        "time": "0930-1520",
+                        "venue": "CBC LAB",
+                        "remark": "Teaching Wk1-3,5-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "59022",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "LA2",
+                        "day": "FRI",
+                        "time": "0930-1520",
+                        "venue": "CBC LAB",
+                        "remark": "Teaching Wk1-3,5-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CM3011",
+        "title": "CHEMICAL SPECTROSCOPY & APPLICATIONS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemistry and Biological Chemistry Year 4",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "59023",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "SPMS-LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1330-1420",
+                        "venue": "SPMS-LT1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CM3021",
+        "title": "ORGANOMETALLIC CHEMISTRY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemistry and Biological Chemistry Year 4",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "59024",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "SPMS-LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1530-1620",
+                        "venue": "SPMS-LT1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CM3031",
+        "title": "ORGANIC REACTION MECHANISMS & SYNTHESIS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemistry and Biological Chemistry Year 4",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "59025",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "SPMS-LT1",
+                        "remark": "Teaching Wk1,8-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "SPMS-LT1",
+                        "remark": "Teaching Wk8-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1030-1120",
+                        "venue": "SPMS-TR+4",
+                        "remark": "Teaching Wk2-7"
+                    }
+                ]
+            },
+            {
+                "index_number": "59026",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "SPMS-LT1",
+                        "remark": "Teaching Wk1,8-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "SPMS-LT1",
+                        "remark": "Teaching Wk8-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "TUE",
+                        "time": "1130-1220",
+                        "venue": "SPMS-TR+4",
+                        "remark": "Teaching Wk2-7"
+                    }
+                ]
+            },
+            {
+                "index_number": "59027",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "SPMS-LT1",
+                        "remark": "Teaching Wk1,8-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "SPMS-LT1",
+                        "remark": "Teaching Wk8-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "TUE",
+                        "time": "1430-1520",
+                        "venue": "SPMS-TR+4",
+                        "remark": "Teaching Wk2-7"
+                    }
+                ]
+            },
+            {
+                "index_number": "59028",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "SPMS-LT1",
+                        "remark": "Teaching Wk1,8-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "SPMS-LT1",
+                        "remark": "Teaching Wk8-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "TUE",
+                        "time": "1530-1620",
+                        "venue": "SPMS-TR+4",
+                        "remark": "Teaching Wk2-7"
+                    }
+                ]
+            },
+            {
+                "index_number": "59029",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "SPMS-LT1",
+                        "remark": "Teaching Wk1,8-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "SPMS-LT1",
+                        "remark": "Teaching Wk8-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "WED",
+                        "time": "1530-1620",
+                        "venue": "SPMS-TR+4",
+                        "remark": "Teaching Wk2-7"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CM3041",
+        "title": "PHYSICAL & BIOPHYSICAL CHEMISTRY 2*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemistry and Biological Chemistry Year 4",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "59030",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "SPMS-LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "SPMS-LT3",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CM3062",
+        "title": "CHEMISTRY & BIOLOGICAL CHEMISTRY LABORATORY 4",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemistry and Biological Chemistry Year 4",
+        "exam": {
+            "date": "3 December 2026",
+            "day": "Thursday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "59031",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "LA1",
+                        "day": "THU",
+                        "time": "0930-1520",
+                        "venue": "CBC LAB",
+                        "remark": "Teaching Wk2,3,5-11"
+                    }
+                ]
+            },
+            {
+                "index_number": "59032",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "LA2",
+                        "day": "FRI",
+                        "time": "0930-1520",
+                        "venue": "CBC LAB",
+                        "remark": "Teaching Wk2,3,5-11"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CM4012",
+        "title": "STRUCTURAL DETERMINATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemistry and Biological Chemistry Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "59033",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "SPMS-LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "SPMS-LT3",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CM4013",
+        "title": "CURRENT TOPICS IN ANALYTICAL CHEMISTRY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemistry and Biological Chemistry Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "59034",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "SPMS-LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1720",
+                        "venue": "SPMS-LT3",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CM4044",
+        "title": "ARTIFICIAL INTELLIGENCE IN CHEMISTRY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemistry and Biological Chemistry Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "59035",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1130-1320",
+                        "venue": "COMP LAB 1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "COMP LAB 1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CM4053",
+        "title": "PHARMACEUTICAL CHEMISTRY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemistry and Biological Chemistry Year 4",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "59036",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "SPMS-LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "0930-1020",
+                        "venue": "SPMS-LT3",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CM4062",
+        "title": "POLYMER CHEMISTRY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemistry and Biological Chemistry Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "59037",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "SPMS-LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1230-1320",
+                        "venue": "SPMS-LT3",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CM4063",
+        "title": "NANOSCIENCE & NANOTECHNOLOGY",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemistry and Biological Chemistry Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "59038",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "SPMS-LT3",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CM5013",
+        "title": "SCENT CREATION: THE ART & SCIENCE OF PERFUMERY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemistry and Biological Chemistry Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "59039",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "SPMS-TR+3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "CBC LAB",
+                        "remark": "Teaching Wk5-9"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "SPMS-TR+4",
+                        "remark": "Teaching Wk10-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CM5081",
+        "title": "MEDICINAL CHEMISTRY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemistry and Biological Chemistry Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "59040",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "SPMS-LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "SPMS-LT4",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CM5101",
+        "title": "FOOD CHEMISTRY & NUTRITION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemistry and Biological Chemistry Year 4",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "59041",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "SPMS-LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA",
+                        "day": "FRI",
+                        "time": "1430-1720",
+                        "venue": "CBC LAB",
+                        "remark": "Teaching Wk2,3,5-12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MH1802",
+        "title": "CALCULUS FOR THE SCIENCES",
+        "academic_units": "4.0 AU",
+        "school_category": "Chemistry and Biological Chemistry Year 4",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "70572",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "WED",
+                        "time": "1530-1620",
+                        "venue": "SPMS-TR+5",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70574",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T4",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "SPMS-TR+15",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70575",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T5",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "SPMS-TR+15",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70576",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T6",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "SPMS-TR+12",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70577",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T7",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "SPMS-TR+12",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70578",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T8",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "SPMS-TR+12",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70579",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T9",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "SPMS-TR+16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70580",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T10",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "SPMS-TR+7",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70581",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T11",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "SPMS-TR+6",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70582",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T12",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "SPMS-TR+7",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PH1012",
+        "title": "PHYSICS A*~#",
+        "academic_units": "4.0 AU",
+        "school_category": "Chemistry and Biological Chemistry Year 4",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "5.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "23470",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LB",
+                        "day": "TUE",
+                        "time": "0830-0950",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LB",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA1",
+                        "day": "TUE",
+                        "time": "1230-1350",
+                        "venue": "LHN-TR+02",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "23471",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LB",
+                        "day": "TUE",
+                        "time": "0830-0950",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LB",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA2",
+                        "day": "TUE",
+                        "time": "1230-1350",
+                        "venue": "LHN-TR+01",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "23472",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LB",
+                        "day": "TUE",
+                        "time": "0830-0950",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LB",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA3",
+                        "day": "TUE",
+                        "time": "1230-1350",
+                        "venue": "TR+90",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "23473",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LB",
+                        "day": "TUE",
+                        "time": "0830-0950",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LB",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA4",
+                        "day": "TUE",
+                        "time": "1530-1650",
+                        "venue": "LHN-TR+02",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "23474",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LB",
+                        "day": "TUE",
+                        "time": "0830-0950",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LB",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA5",
+                        "day": "TUE",
+                        "time": "1530-1650",
+                        "venue": "LHN-TR+01",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "23475",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LB",
+                        "day": "TUE",
+                        "time": "0830-0950",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LB",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA6",
+                        "day": "TUE",
+                        "time": "1230-1350",
+                        "venue": "LHS-TR+53",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "23476",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LB",
+                        "day": "TUE",
+                        "time": "0830-0950",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LB",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA7",
+                        "day": "WED",
+                        "time": "1730-1850",
+                        "venue": "TR+114",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "23477",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LB",
+                        "day": "TUE",
+                        "time": "0830-0950",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LB",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA8",
+                        "day": "WED",
+                        "time": "1730-1850",
+                        "venue": "TR+113",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "23478",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LB",
+                        "day": "TUE",
+                        "time": "0830-0950",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LB",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA9",
+                        "day": "FRI",
+                        "time": "1430-1550",
+                        "venue": "TR+112",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "23479",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LB",
+                        "day": "TUE",
+                        "time": "0830-0950",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LB",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA10",
+                        "day": "FRI",
+                        "time": "1430-1550",
+                        "venue": "LHN-TR+19",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "23480",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LB",
+                        "day": "TUE",
+                        "time": "0830-0950",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LB",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MA11",
+                        "day": "FRI",
+                        "time": "1430-1550",
+                        "venue": "LHN-TR+40",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "55163",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LB",
+                        "day": "TUE",
+                        "time": "0830-0950",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LB",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "CB12",
+                        "day": "WED",
+                        "time": "0930-1050",
+                        "venue": "S4-SR1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PH3301",
+        "title": "INTRODUCTION TO BIOIMAGING & BIOSENSING TECHNIQUES~",
+        "academic_units": "3.0 AU",
+        "school_category": "Chemistry and Biological Chemistry Year 4",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "70465",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "SPMS-LT5",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "SPMS-LT5",
+                        "remark": "Teaching Wk1"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "TUE",
+                        "time": "1630-1720",
+                        "venue": "SPMS-LT5",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    }
+]

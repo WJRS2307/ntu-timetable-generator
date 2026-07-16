@@ -1,0 +1,199 @@
+[
+    {
+        "course_code": "HL2020",
+        "title": "CREATIVE WRITING WORKSHOP*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Creative Writing",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17235",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "HSS-TR+2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HZ5101",
+        "title": "INTRODUCTION TO CREATIVE WRITING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Creative Writing",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17256",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+44",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "17257",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM2",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "TR+61",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "17258",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM3",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "HSSSEMRM7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "17259",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM4",
+                        "day": "TUE",
+                        "time": "1730-2020",
+                        "venue": "HSSSEMRM7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "17260",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM5",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "TR+78",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "17261",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM6",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "HSSSEMRM9",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HZ5201",
+        "title": "CREATIVE WRITING:POETRY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Creative Writing",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17262",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "HSS-TR+1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HZ5202",
+        "title": "CREATIVE WRITING:FICTION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Creative Writing",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17263",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "HSS-TR+5",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HZ5203",
+        "title": "CREATIVE WRITING: NON FICTION PROSE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Creative Writing",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17264",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "HSS-TR+1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HZ5204",
+        "title": "CREATIVE WRITING: PLAYWRITING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Creative Writing",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17265",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "HSS-TR+2",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

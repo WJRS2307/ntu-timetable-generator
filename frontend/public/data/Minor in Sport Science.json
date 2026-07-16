@@ -1,0 +1,92 @@
+[
+    {
+        "course_code": "SS5601",
+        "title": "HUMAN ANATOMY & PHYSIOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Sport Science",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "68128",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "NIE5-LT11",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "NIE5-02-02",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SS5605",
+        "title": "PSYCHOSOCIAL ASPECTS OF SPORT & EXERCISE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Sport Science",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "68129",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "NIE5-LT11",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "NIE5-TR501",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SS5611",
+        "title": "PHYSICAL ACTIVITY IN LIFE COURSE WELLNESS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Sport Science",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "68130",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "WED",
+                        "time": "1130-1320",
+                        "venue": "NIE5-LT11",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "1",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "NIE5-TR501",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

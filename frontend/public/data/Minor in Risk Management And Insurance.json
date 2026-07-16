@@ -1,0 +1,107 @@
+[
+    {
+        "course_code": "BU5201",
+        "title": "BUSINESS FINANCE*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Risk Management And Insurance",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "00339",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "WED",
+                        "time": "0830-1120",
+                        "venue": "CR1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00340",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "THU",
+                        "time": "0830-1120",
+                        "venue": "S3-SR7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00341",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S3-SR7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00342",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "4",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "S4-SR22",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00343",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "5",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "S4-SR22",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00344",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "6",
+                        "day": "FRI",
+                        "time": "0830-1120",
+                        "venue": "S3-SR7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00345",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "7",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "ABS-SR5",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

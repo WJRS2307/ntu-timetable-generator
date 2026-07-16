@@ -1,0 +1,417 @@
+[
+    {
+        "course_code": "CC0002",
+        "title": "NAVIGATING THE DIGITAL WORLD",
+        "academic_units": "2.0 AU",
+        "school_category": "Computer Science(PartTime) Year 2",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "26530",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "MAPT1",
+                        "day": "TUE",
+                        "time": "1900-2050",
+                        "venue": "LHN-TR+01",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC2000",
+        "title": "PROBABILITY & STATISTICS FOR COMPUTING",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science(PartTime) Year 2",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14503",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL2",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FAIA",
+                        "day": "FRI",
+                        "time": "1330-1420",
+                        "venue": "TR+3",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "14505",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL2",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SDDA",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "TR+4",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "14510",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL2",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FDDB",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "TR+3",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC2001",
+        "title": "ALGORITHM DESIGN & ANALYSIS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science(PartTime) Year 2",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "14507",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "1230-1320",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1630-1720",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEC",
+                        "day": "MON",
+                        "time": "1030-1120",
+                        "venue": "TR+17",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "SCEC",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "HWLAB2",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC2005",
+        "title": "OPERATING SYSTEMS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science(PartTime) Year 2",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14508",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL2",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL2",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TDDB",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "TR+8",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TDDB",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "SWLAB3",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC2008",
+        "title": "COMPUTER NETWORK~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science(PartTime) Year 2",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "9.00 am",
+            "duration": "1 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "14509",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "CSPT2",
+                        "day": "THU",
+                        "time": "1830-1920",
+                        "venue": "TR+3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "CSPT2",
+                        "day": "THU",
+                        "time": "1930-2020",
+                        "venue": "TR+3",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "CSPT2",
+                        "day": "THU",
+                        "time": "2030-2120",
+                        "venue": "SWLAB2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC3000",
+        "title": "ARTIFICIAL INTELLIGENCE~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science(PartTime) Year 2",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "14515",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL3",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT20",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "SAIA",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "ONLINE",
+                        "remark": "Teaching Wk1,3,5,7,9,11,13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC3050",
+        "title": "ADVANCED COMPUTER ARCHITECTURE~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science(PartTime) Year 2",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "14530",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "CSPT3",
+                        "day": "WED",
+                        "time": "1830-1920",
+                        "venue": "TR+36",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "CSPT3",
+                        "day": "WED",
+                        "time": "1930-2020",
+                        "venue": "TR+36",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "CSPT3",
+                        "day": "WED",
+                        "time": "2030-2120",
+                        "venue": "HWLAB1",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4002",
+        "title": "NATURAL LANGUAGE PROCESSING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science(PartTime) Year 2",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "14526",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "CSPT4",
+                        "day": "MON",
+                        "time": "1830-1920",
+                        "venue": "TR+35",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "CSPT4",
+                        "day": "MON",
+                        "time": "1930-2120",
+                        "venue": "TR+35",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4013",
+        "title": "APPLICATION SECURITY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science(PartTime) Year 2",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14528",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "CSPT4",
+                        "day": "TUE",
+                        "time": "1730-1920",
+                        "venue": "LT8",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "CSPT4",
+                        "day": "TUE",
+                        "time": "1930-2020",
+                        "venue": "LT8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4053",
+        "title": "BLOCKCHAIN TECHNOLOGY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science(PartTime) Year 2",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14524",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "CSPT4",
+                        "day": "FRI",
+                        "time": "1830-1920",
+                        "venue": "TR+29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "CSPT4",
+                        "day": "FRI",
+                        "time": "1930-2120",
+                        "venue": "TR+29",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    }
+]

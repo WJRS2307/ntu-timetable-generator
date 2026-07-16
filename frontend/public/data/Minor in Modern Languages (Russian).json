@@ -1,0 +1,4369 @@
+[
+    {
+        "course_code": "LA5001",
+        "title": "ARABIC LANGUAGE LEVEL 1*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18001",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1030-1150",
+                        "venue": "TR+152",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1030-1150",
+                        "venue": "TR+152",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18002",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "TUE",
+                        "time": "1630-1750",
+                        "venue": "TR+151",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "TUE",
+                        "time": "1830-1950",
+                        "venue": "TR+151",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18003",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "TR+151",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "WED",
+                        "time": "1830-1950",
+                        "venue": "TR+151",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18004",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T012",
+                        "day": "MON",
+                        "time": "1030-1150",
+                        "venue": "TR+152",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T012",
+                        "day": "TUE",
+                        "time": "1830-1950",
+                        "venue": "TR+151",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18005",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T013",
+                        "day": "MON",
+                        "time": "1030-1150",
+                        "venue": "TR+152",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T013",
+                        "day": "WED",
+                        "time": "1830-1950",
+                        "venue": "TR+151",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18006",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T021",
+                        "day": "WED",
+                        "time": "1030-1150",
+                        "venue": "TR+152",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T021",
+                        "day": "TUE",
+                        "time": "1630-1750",
+                        "venue": "TR+151",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18007",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T023",
+                        "day": "TUE",
+                        "time": "1630-1750",
+                        "venue": "TR+151",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T023",
+                        "day": "WED",
+                        "time": "1830-1950",
+                        "venue": "TR+151",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LA5002",
+        "title": "ARABIC LANGUAGE LEVEL 2*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18008",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "TUE",
+                        "time": "1630-1750",
+                        "venue": "TR+153",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "TUE",
+                        "time": "1830-1950",
+                        "venue": "TR+153",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18009",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "TR+152",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "WED",
+                        "time": "1830-1950",
+                        "venue": "TR+152",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18207",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T023",
+                        "day": "TUE",
+                        "time": "1630-1750",
+                        "venue": "TR+153",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T023",
+                        "day": "WED",
+                        "time": "1830-1950",
+                        "venue": "TR+152",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LA5003",
+        "title": "ARABIC LANGUAGE LEVEL 3*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18010",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "TR+154",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "TR+154",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LA5004",
+        "title": "ARABIC LANGUAGE LEVEL 4*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18011",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "TR+160",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1830-2020",
+                        "venue": "TR+160",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LA5101",
+        "title": "ADVANCED ARABIC LANGUAGE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18012",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LHS-TR+28",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LHS-TR+28",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LC5001",
+        "title": "CHINESE LANGUAGE LEVEL 1*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18017",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1230-1520",
+                        "venue": "CSKL17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18018",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "MON",
+                        "time": "1630-1920",
+                        "venue": "CSKL17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18019",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "CSKL17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18020",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T05",
+                        "day": "TUE",
+                        "time": "1630-1920",
+                        "venue": "CSKL17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18021",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T06",
+                        "day": "WED",
+                        "time": "1230-1520",
+                        "venue": "CSKL17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18022",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T07",
+                        "day": "WED",
+                        "time": "1630-1920",
+                        "venue": "CSKL17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18023",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T08",
+                        "day": "THU",
+                        "time": "1230-1520",
+                        "venue": "CSKL17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18024",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T09",
+                        "day": "THU",
+                        "time": "1630-1920",
+                        "venue": "CSKL17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LC5002",
+        "title": "CHINESE LANGUAGE LEVEL 2*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18025",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "TUE",
+                        "time": "1630-1920",
+                        "venue": "TR+79",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18026",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "WED",
+                        "time": "1630-1920",
+                        "venue": "TR+79",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LC5003",
+        "title": "CHINESE LANGUAGE LEVEL 3*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18027",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1730-1920",
+                        "venue": "TR+79",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "TR+79",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LC5004",
+        "title": "CHINESE LANGUAGE LEVEL 4*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18028",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "TUE",
+                        "time": "1630-2020",
+                        "venue": "HSS-TR+5",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LC5005",
+        "title": "CHINESE LANGUAGE LEVEL 5*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18209",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1630-2020",
+                        "venue": "LHS-TR+46",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LF5001",
+        "title": "FRENCH LANGUAGE LEVEL 1*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18031",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1230-1350",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1230-1350",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18032",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "WED",
+                        "time": "1430-1550",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "MON",
+                        "time": "1430-1550",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18033",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "TR+78",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "MON",
+                        "time": "1630-1750",
+                        "venue": "TR+78",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18034",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T04",
+                        "day": "WED",
+                        "time": "1830-1950",
+                        "venue": "TR+78",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T04",
+                        "day": "MON",
+                        "time": "1830-1950",
+                        "venue": "TR+78",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18035",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T05",
+                        "day": "THU",
+                        "time": "1030-1150",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T05",
+                        "day": "TUE",
+                        "time": "1030-1150",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18036",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T06",
+                        "day": "THU",
+                        "time": "1230-1350",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T06",
+                        "day": "TUE",
+                        "time": "1230-1350",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18037",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T07",
+                        "day": "THU",
+                        "time": "1430-1550",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T07",
+                        "day": "TUE",
+                        "time": "1430-1550",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18038",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T08",
+                        "day": "THU",
+                        "time": "1630-1750",
+                        "venue": "TR+78",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T08",
+                        "day": "TUE",
+                        "time": "1630-1750",
+                        "venue": "TR+78",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18039",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T09",
+                        "day": "THU",
+                        "time": "1830-1950",
+                        "venue": "TR+78",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T09",
+                        "day": "TUE",
+                        "time": "1830-1950",
+                        "venue": "TR+78",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LF5002",
+        "title": "FRENCH LANGUAGE LEVEL 2*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18040",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1630-1750",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18041",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "THU",
+                        "time": "1630-1750",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "TUE",
+                        "time": "1630-1750",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18042",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T012",
+                        "day": "THU",
+                        "time": "1630-1750",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T012",
+                        "day": "MON",
+                        "time": "1630-1750",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18043",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T021",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T021",
+                        "day": "TUE",
+                        "time": "1630-1750",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LF5003",
+        "title": "FRENCH LANGUAGE LEVEL 3*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18044",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18045",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "WED",
+                        "time": "1830-2020",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "MON",
+                        "time": "1830-2020",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18046",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "THU",
+                        "time": "1830-2020",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "TUE",
+                        "time": "1830-2020",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18047",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T012",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T012",
+                        "day": "WED",
+                        "time": "1830-2020",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18048",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T013",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T013",
+                        "day": "THU",
+                        "time": "1830-2020",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18049",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T021",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T021",
+                        "day": "MON",
+                        "time": "1830-2020",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18050",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T023",
+                        "day": "THU",
+                        "time": "1830-2020",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T023",
+                        "day": "MON",
+                        "time": "1830-2020",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18051",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T031",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T031",
+                        "day": "TUE",
+                        "time": "1830-2020",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18052",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T032",
+                        "day": "WED",
+                        "time": "1830-2020",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T032",
+                        "day": "TUE",
+                        "time": "1830-2020",
+                        "venue": "CSKL11",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LF5004",
+        "title": "FRENCH LANGUAGE LEVEL 4*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18053",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1830-2020",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1830-2020",
+                        "venue": "TR+80",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LF5005",
+        "title": "FRENCH LANGUAGE LEVEL 5*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18054",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1830-2020",
+                        "venue": "HSS-TR+5",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1830-2020",
+                        "venue": "HSS-TR+5",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LF5006",
+        "title": "FRENCH LANGUAGE LEVEL 6*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18055",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1830-2020",
+                        "venue": "HSS-TR+1",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "TUE",
+                        "time": "1830-2020",
+                        "venue": "HSS-TR+1",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LF5007",
+        "title": "FRENCH LANGUAGE LEVEL 7*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18056",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1830-2020",
+                        "venue": "HSS-TR+1",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1830-2020",
+                        "venue": "HSS-TR+1",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LF5008",
+        "title": "FRENCH LANGUAGE LEVEL 8*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18057",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1830-2020",
+                        "venue": "SEE LF5007",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1830-2020",
+                        "venue": "SEE LF5007",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LF5101",
+        "title": "FRENCH FOR PROFESSIONAL PURPOSES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18058",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1630-1750",
+                        "venue": "TR+77",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1830-1950",
+                        "venue": "TR+77",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LG5001",
+        "title": "GERMAN LANGUAGE LEVEL 1*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18059",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1030-1350",
+                        "venue": "CSKL10A",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18060",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "MON",
+                        "time": "1630-1950",
+                        "venue": "CSKL10A",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18061",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "TUE",
+                        "time": "1030-1350",
+                        "venue": "CSKL10A",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18062",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T04",
+                        "day": "TUE",
+                        "time": "1630-1950",
+                        "venue": "CSKL10A",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18063",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T05",
+                        "day": "WED",
+                        "time": "1030-1350",
+                        "venue": "TR+107",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18064",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T06",
+                        "day": "WED",
+                        "time": "1630-1950",
+                        "venue": "TR+107",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18065",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T07",
+                        "day": "THU",
+                        "time": "1030-1350",
+                        "venue": "TR+108",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18066",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T08",
+                        "day": "THU",
+                        "time": "1230-1550",
+                        "venue": "CSKL10A",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18067",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T09",
+                        "day": "THU",
+                        "time": "1630-1950",
+                        "venue": "CSKL10A",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LG5002",
+        "title": "GERMAN LANGUAGE LEVEL 2*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18068",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1630-1950",
+                        "venue": "TR+77",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18069",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "TUE",
+                        "time": "1630-1950",
+                        "venue": "TR+77",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18070",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "WED",
+                        "time": "1230-1550",
+                        "venue": "CSKL10A",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LG5003",
+        "title": "GERMAN LANGUAGE LEVEL 3*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18071",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1630-2020",
+                        "venue": "CSKL10A",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LG5004",
+        "title": "GERMAN LANGUAGE LEVEL 4*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18072",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1630-2020",
+                        "venue": "TR121",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LG5005",
+        "title": "GERMAN LANGUAGE LEVEL 5*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18073",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1630-2020",
+                        "venue": "SEE LG5004",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LH5001",
+        "title": "HINDI LANGUAGE LEVEL 1*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18074",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1830-1950",
+                        "venue": "LHS-TR+43",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "TUE",
+                        "time": "1830-1950",
+                        "venue": "LHS-TR+43",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LH5002",
+        "title": "HINDI LANGUAGE LEVEL 2*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18075",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1830-1950",
+                        "venue": "LHS-TR+43",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1830-1950",
+                        "venue": "LHS-TR+43",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LI5001",
+        "title": "ITALIAN LANGUAGE LEVEL 1*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18076",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1030-1150",
+                        "venue": "TR+152",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "TUE",
+                        "time": "1030-1150",
+                        "venue": "TR+152",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18077",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "THU",
+                        "time": "1230-1350",
+                        "venue": "TR+152",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "TUE",
+                        "time": "1230-1350",
+                        "venue": "TR+152",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18078",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "THU",
+                        "time": "1430-1550",
+                        "venue": "TR+152",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "TUE",
+                        "time": "1430-1550",
+                        "venue": "TR+152",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LI5002",
+        "title": "ITALIAN LANGUAGE LEVEL 2*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18079",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1630-1750",
+                        "venue": "TR+152",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "TUE",
+                        "time": "1630-1750",
+                        "venue": "TR+152",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LJ5001",
+        "title": "JAPANESE LANGUAGE LEVEL 1*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18080",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1030-1150",
+                        "venue": "LHS-TR+25",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1030-1150",
+                        "venue": "LHS-TR+25",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18081",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "THU",
+                        "time": "1230-1350",
+                        "venue": "LHS-TR+25",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "MON",
+                        "time": "1230-1350",
+                        "venue": "LHS-TR+25",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18082",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "THU",
+                        "time": "1030-1150",
+                        "venue": "TR+151",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "MON",
+                        "time": "1030-1150",
+                        "venue": "TR+151",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18083",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T04",
+                        "day": "MON",
+                        "time": "1230-1350",
+                        "venue": "TR+151",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T04",
+                        "day": "THU",
+                        "time": "1230-1350",
+                        "venue": "TR+151",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18084",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T05",
+                        "day": "TUE",
+                        "time": "1230-1350",
+                        "venue": "LHS-TR+42",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T05",
+                        "day": "THU",
+                        "time": "1230-1350",
+                        "venue": "LHS-TR+46",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18085",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T06",
+                        "day": "THU",
+                        "time": "1430-1550",
+                        "venue": "LHS-TR+46",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T06",
+                        "day": "TUE",
+                        "time": "1430-1550",
+                        "venue": "LHS-TR+42",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18086",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T07",
+                        "day": "THU",
+                        "time": "1030-1150",
+                        "venue": "LHS-TR+34",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T07",
+                        "day": "TUE",
+                        "time": "1030-1150",
+                        "venue": "LHS-TR+26",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18087",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T08",
+                        "day": "THU",
+                        "time": "1230-1350",
+                        "venue": "LHS-TR+34",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T08",
+                        "day": "TUE",
+                        "time": "1230-1350",
+                        "venue": "LHS-TR+26",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18088",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T09",
+                        "day": "THU",
+                        "time": "1430-1550",
+                        "venue": "LHS-TR+34",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T09",
+                        "day": "TUE",
+                        "time": "1430-1550",
+                        "venue": "LHS-TR+26",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18089",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T10",
+                        "day": "THU",
+                        "time": "1030-1150",
+                        "venue": "LHS-TR+25",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T10",
+                        "day": "TUE",
+                        "time": "1030-1150",
+                        "venue": "LHS-TR+25",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18090",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T11",
+                        "day": "THU",
+                        "time": "1230-1350",
+                        "venue": "LHS-TR+25",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T11",
+                        "day": "TUE",
+                        "time": "1230-1350",
+                        "venue": "LHS-TR+25",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LJ5002",
+        "title": "JAPANESE LANGUAGE LEVEL 2*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18091",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1130-1250",
+                        "venue": "CSKL12",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1130-1250",
+                        "venue": "CSKL12",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18092",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "MON",
+                        "time": "1330-1450",
+                        "venue": "CSKL12",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "WED",
+                        "time": "1330-1450",
+                        "venue": "CSKL12",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18093",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "MON",
+                        "time": "1530-1650",
+                        "venue": "CSKL12",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "WED",
+                        "time": "1530-1650",
+                        "venue": "CSKL12",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18094",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T04",
+                        "day": "TUE",
+                        "time": "1130-1250",
+                        "venue": "CSKL12",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T04",
+                        "day": "THU",
+                        "time": "1130-1250",
+                        "venue": "CSKL12",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18095",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T05",
+                        "day": "THU",
+                        "time": "1430-1550",
+                        "venue": "CSKL12",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T05",
+                        "day": "TUE",
+                        "time": "1430-1550",
+                        "venue": "CSKL12",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18096",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T06",
+                        "day": "THU",
+                        "time": "1730-1850",
+                        "venue": "CSKL12",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T06",
+                        "day": "TUE",
+                        "time": "1730-1850",
+                        "venue": "CSKL12",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LJ5003",
+        "title": "JAPANESE LANGUAGE LEVEL 3*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18097",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LHS-TR+26",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LHS-TR+26",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18098",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LHS-TR+26",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LHS-TR+26",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18099",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "LHS-TR+25",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHS-TR+25",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18100",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T04",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "TR+151",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T04",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "TR+151",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LJ5004",
+        "title": "JAPANESE LANGUAGE LEVEL 4*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18101",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "TR+154",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "TR+154",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18102",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "TR+154",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "TR+154",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18103",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "TR+154",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "TR+154",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LJ5005",
+        "title": "JAPANESE LANGUAGE LEVEL 5*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18104",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "TR+153",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "TR+153",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LJ5006",
+        "title": "JAPANESE LANGUAGE LEVEL 6*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18105",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1330-1520",
+                        "venue": "TR+153",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "TR+153",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LK5001",
+        "title": "KOREAN LANGUAGE LEVEL 1*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18107",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1030-1150",
+                        "venue": "CSKL15",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1030-1150",
+                        "venue": "CSKL15",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18108",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "WED",
+                        "time": "1230-1350",
+                        "venue": "TR+159",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "MON",
+                        "time": "1230-1350",
+                        "venue": "TR+159",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18109",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "WED",
+                        "time": "1330-1450",
+                        "venue": "CSKL15",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "MON",
+                        "time": "1330-1450",
+                        "venue": "CSKL15",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18110",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T04",
+                        "day": "WED",
+                        "time": "1430-1550",
+                        "venue": "TR+159",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T04",
+                        "day": "MON",
+                        "time": "1430-1550",
+                        "venue": "TR+159",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18111",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T05",
+                        "day": "WED",
+                        "time": "1530-1650",
+                        "venue": "CSKL15",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T05",
+                        "day": "MON",
+                        "time": "1530-1650",
+                        "venue": "CSKL15",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18112",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T06",
+                        "day": "THU",
+                        "time": "1030-1150",
+                        "venue": "TR+159",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T06",
+                        "day": "TUE",
+                        "time": "1030-1150",
+                        "venue": "TR+159",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18113",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T07",
+                        "day": "THU",
+                        "time": "1230-1350",
+                        "venue": "TR+159",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T07",
+                        "day": "TUE",
+                        "time": "1230-1350",
+                        "venue": "TR+159",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18114",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T08",
+                        "day": "THU",
+                        "time": "1430-1550",
+                        "venue": "CSKL15",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T08",
+                        "day": "TUE",
+                        "time": "1430-1550",
+                        "venue": "CSKL15",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18115",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T09",
+                        "day": "THU",
+                        "time": "1530-1650",
+                        "venue": "TR+159",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T09",
+                        "day": "TUE",
+                        "time": "1530-1650",
+                        "venue": "TR+159",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LK5002",
+        "title": "KOREAN LANGUAGE LEVEL 2*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18116",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1230-1350",
+                        "venue": "TR+165",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1230-1350",
+                        "venue": "TR+165",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18117",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "WED",
+                        "time": "1430-1550",
+                        "venue": "TR+165",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "MON",
+                        "time": "1430-1550",
+                        "venue": "TR+165",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18118",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "WED",
+                        "time": "1730-1850",
+                        "venue": "TR+159",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "MON",
+                        "time": "1730-1850",
+                        "venue": "TR+159",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18119",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T04",
+                        "day": "THU",
+                        "time": "1030-1150",
+                        "venue": "TR+166",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T04",
+                        "day": "TUE",
+                        "time": "1030-1150",
+                        "venue": "TR+166",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18120",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T05",
+                        "day": "THU",
+                        "time": "1230-1350",
+                        "venue": "TR+165",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T05",
+                        "day": "TUE",
+                        "time": "1230-1350",
+                        "venue": "TR+165",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18121",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T06",
+                        "day": "THU",
+                        "time": "1430-1550",
+                        "venue": "TR+166",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T06",
+                        "day": "TUE",
+                        "time": "1430-1550",
+                        "venue": "TR+166",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LK5003",
+        "title": "KOREAN LANGUAGE LEVEL 3*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18122",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "TR+166",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "TR+166",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18123",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "WED",
+                        "time": "1730-1920",
+                        "venue": "TR+166",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "TR+166",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18124",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "TR+166",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "TR+166",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18125",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T04",
+                        "day": "THU",
+                        "time": "1730-1920",
+                        "venue": "TR+166",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T04",
+                        "day": "TUE",
+                        "time": "1730-1920",
+                        "venue": "TR+166",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LK5004",
+        "title": "KOREAN LANGUAGE LEVEL 4*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18126",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1730-1920",
+                        "venue": "TR+165",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "TR+165",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18127",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "HSS-TR+2",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "HSSSEMRM3",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18128",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "THU",
+                        "time": "1730-1920",
+                        "venue": "HSS-TR+2",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "TUE",
+                        "time": "1730-1920",
+                        "venue": "HSS-TR+2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LK5006",
+        "title": "KOREAN LANGUAGE LEVEL 6*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18130",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "CSKL15",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "CSKL15",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LK5007",
+        "title": "KOREAN LANGUAGE LEVEL 7*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18131",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1730-1920",
+                        "venue": "TR+153",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "TR+153",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LK5101",
+        "title": "BUSINESS KOREAN 1*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18132",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "TR+166",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "TR+166",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LL5001",
+        "title": "SINGAPORE SIGN LANGUAGE LEVEL 1*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18134",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "TUE",
+                        "time": "1830-2120",
+                        "venue": "HSSSEMRM8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18135",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "THU",
+                        "time": "1830-2120",
+                        "venue": "HSSSEMRM8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18136",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "FRI",
+                        "time": "1830-2120",
+                        "venue": "HSSSEMRM8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LL5002",
+        "title": "SINGAPORE SIGN LANGUAGE LEVEL 2*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18137",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1830-2120",
+                        "venue": "HSSSEMRM8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LM5001",
+        "title": "MALAY LANGUAGE LEVEL 1*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18138",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1030-1150",
+                        "venue": "HSSSEMRM3",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1030-1150",
+                        "venue": "HSSSEMRM3",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18139",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "WED",
+                        "time": "1230-1350",
+                        "venue": "HSSSEMRM3",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "MON",
+                        "time": "1230-1350",
+                        "venue": "HSSSEMRM3",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18140",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "WED",
+                        "time": "1430-1550",
+                        "venue": "HSSSEMRM3",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "MON",
+                        "time": "1430-1550",
+                        "venue": "HSSSEMRM3",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18141",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T04",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "HSSSEMRM3",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T04",
+                        "day": "MON",
+                        "time": "1630-1750",
+                        "venue": "HSSSEMRM3",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18142",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T05",
+                        "day": "THU",
+                        "time": "1230-1350",
+                        "venue": "CSKL10B",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T05",
+                        "day": "TUE",
+                        "time": "1230-1350",
+                        "venue": "CSKL10B",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18143",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T06",
+                        "day": "THU",
+                        "time": "1430-1550",
+                        "venue": "CSKL10B",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T06",
+                        "day": "TUE",
+                        "time": "1430-1550",
+                        "venue": "CSKL10B",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18144",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T07",
+                        "day": "WED",
+                        "time": "1430-1550",
+                        "venue": "HSSSEMRM7",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T07",
+                        "day": "MON",
+                        "time": "1430-1550",
+                        "venue": "HSSSEMRM7",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18145",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T08",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "HSSSEMRM7",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T08",
+                        "day": "MON",
+                        "time": "1630-1750",
+                        "venue": "HSSSEMRM7",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18146",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T09",
+                        "day": "THU",
+                        "time": "1330-1450",
+                        "venue": "HSSSEMRM3",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T09",
+                        "day": "TUE",
+                        "time": "1330-1450",
+                        "venue": "HSSSEMRM4",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18147",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T10",
+                        "day": "TUE",
+                        "time": "1530-1650",
+                        "venue": "HSSSEMRM4",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T10",
+                        "day": "THU",
+                        "time": "1530-1650",
+                        "venue": "HSSSEMRM3",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LM5002",
+        "title": "MALAY LANGUAGE LEVEL 2*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18148",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1030-1150",
+                        "venue": "CSKL10B",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1030-1150",
+                        "venue": "CSKL10B",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18149",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "WED",
+                        "time": "1230-1350",
+                        "venue": "CSKL10B",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "MON",
+                        "time": "1230-1350",
+                        "venue": "CSKL10B",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18150",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "CSKL10B",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "TUE",
+                        "time": "1630-1750",
+                        "venue": "CSKL10B",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18151",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T012",
+                        "day": "MON",
+                        "time": "1030-1150",
+                        "venue": "CSKL10B",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T012",
+                        "day": "WED",
+                        "time": "1230-1350",
+                        "venue": "CSKL10B",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18152",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T013",
+                        "day": "MON",
+                        "time": "1030-1150",
+                        "venue": "CSKL10B",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T013",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "CSKL10B",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18153",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T021",
+                        "day": "WED",
+                        "time": "1030-1150",
+                        "venue": "CSKL10B",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T021",
+                        "day": "MON",
+                        "time": "1230-1350",
+                        "venue": "CSKL10B",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18154",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T023",
+                        "day": "MON",
+                        "time": "1230-1350",
+                        "venue": "CSKL10B",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T023",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "CSKL10B",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18155",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T032",
+                        "day": "WED",
+                        "time": "1230-1350",
+                        "venue": "CSKL10B",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T032",
+                        "day": "TUE",
+                        "time": "1630-1750",
+                        "venue": "CSKL10B",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LM5003",
+        "title": "MALAY LANGUAGE LEVEL 3*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18156",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LHS-TR+34",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LHS-TR+39",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LM5004",
+        "title": "MALAY LANGUAGE LEVEL 4*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18157",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LHS-TR+34",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LHS-TR+39",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LM5005",
+        "title": "MALAY LEVEL 5*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18158",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "SEE LM5004",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "SER LM5004",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LS5001",
+        "title": "SPANISH LANGUAGE LEVEL 1*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18159",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1030-1150",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1030-1150",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18160",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "WED",
+                        "time": "1230-1350",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "MON",
+                        "time": "1230-1350",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18161",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "WED",
+                        "time": "1430-1550",
+                        "venue": "CSKL16",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "MON",
+                        "time": "1430-1550",
+                        "venue": "CSKL16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18162",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T04",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "CSKL16",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T04",
+                        "day": "MON",
+                        "time": "1630-1750",
+                        "venue": "CSKL16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18163",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T05",
+                        "day": "THU",
+                        "time": "1030-1150",
+                        "venue": "CSKL16",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T05",
+                        "day": "TUE",
+                        "time": "1030-1150",
+                        "venue": "CSKL16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18164",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T06",
+                        "day": "THU",
+                        "time": "1230-1350",
+                        "venue": "TR+154",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T06",
+                        "day": "TUE",
+                        "time": "1230-1350",
+                        "venue": "TR+154",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18165",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T07",
+                        "day": "THU",
+                        "time": "1430-1550",
+                        "venue": "CSKL16",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T07",
+                        "day": "TUE",
+                        "time": "1430-1550",
+                        "venue": "CSKL16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18166",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T08",
+                        "day": "THU",
+                        "time": "1630-1750",
+                        "venue": "TR+154",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T08",
+                        "day": "TUE",
+                        "time": "1630-1750",
+                        "venue": "TR+154",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18167",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T09",
+                        "day": "THU",
+                        "time": "1830-1950",
+                        "venue": "TR+154",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T09",
+                        "day": "TUE",
+                        "time": "1830-1950",
+                        "venue": "TR+154",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LS5002",
+        "title": "SPANISH LANGUAGE LEVEL 2*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18168",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1230-1350",
+                        "venue": "CSKL16",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1230-1350",
+                        "venue": "CSKL16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18169",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "THU",
+                        "time": "1230-1350",
+                        "venue": "CSKL16",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "TUE",
+                        "time": "1230-1350",
+                        "venue": "CSKL16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18170",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "THU",
+                        "time": "1730-1850",
+                        "venue": "CSKL16",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "TUE",
+                        "time": "1730-1850",
+                        "venue": "CSKL16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18171",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T012",
+                        "day": "THU",
+                        "time": "1230-1350",
+                        "venue": "CSKL16",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T012",
+                        "day": "MON",
+                        "time": "1230-1350",
+                        "venue": "CSKL16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18172",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T013",
+                        "day": "MON",
+                        "time": "1230-1350",
+                        "venue": "CSKL16",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T013",
+                        "day": "THU",
+                        "time": "1730-1850",
+                        "venue": "CSKL16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18173",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T021",
+                        "day": "WED",
+                        "time": "1230-1350",
+                        "venue": "CSKL16",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T021",
+                        "day": "TUE",
+                        "time": "1230-1350",
+                        "venue": "CSKL16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18174",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T031",
+                        "day": "WED",
+                        "time": "1230-1350",
+                        "venue": "CSKL16",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T031",
+                        "day": "TUE",
+                        "time": "1730-1850",
+                        "venue": "CSKL16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LS5003",
+        "title": "SPANISH LANGUAGE LEVEL 3*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18175",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1730-1920",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18176",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18177",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T012",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T012",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18178",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T021",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T021",
+                        "day": "WED",
+                        "time": "1730-1920",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LS5004",
+        "title": "SPANISH LANGUAGE LEVEL 4*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18179",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LS5005",
+        "title": "SPANISH LANGUAGE LEVEL 5*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18180",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "TR+87",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LT5001",
+        "title": "THAI LANGUAGE LEVEL 1*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18181",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1030-1320",
+                        "venue": "LHS-TR+36",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18182",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "MON",
+                        "time": "1630-1920",
+                        "venue": "LHS-TR+42",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18183",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T03",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "LHS-TR+36",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18184",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T04",
+                        "day": "TUE",
+                        "time": "1630-1920",
+                        "venue": "LHS-TR+44",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18185",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T05",
+                        "day": "WED",
+                        "time": "1030-1320",
+                        "venue": "LHS-TR+36",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18186",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T06",
+                        "day": "WED",
+                        "time": "1630-1920",
+                        "venue": "LHS-TR+42",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18187",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T07",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "LHS-TR+36",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18188",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T08",
+                        "day": "THU",
+                        "time": "1630-1920",
+                        "venue": "LHS-TR+36",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18189",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T09",
+                        "day": "FRI",
+                        "time": "1030-1320",
+                        "venue": "LHS-TR+36",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18190",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T012",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LHS-TR-36",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T012",
+                        "day": "MON",
+                        "time": "1830-1920",
+                        "venue": "LHS-TR-42",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18191",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T015",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LHS-TR-36",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T015",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR-36",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18192",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T025",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR-36",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T025",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LHS-TR-42",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18193",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T037",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LHS-TR-36",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T037",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR-36",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18194",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T038",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LHS-TR-36",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T038",
+                        "day": "THU",
+                        "time": "1830-1920",
+                        "venue": "LHS-TR-36",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18195",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T046",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LHS-TR-44",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T046",
+                        "day": "WED",
+                        "time": "1830-1920",
+                        "venue": "LHS-TR-42",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18196",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T049",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR-36",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T049",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LHS-TR-44",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18197",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T069",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "LHS-TR-36",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T069",
+                        "day": "WED",
+                        "time": "1630-1820",
+                        "venue": "LHS-TR-42",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18198",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T078",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LHS-TR-36",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T078",
+                        "day": "THU",
+                        "time": "1830-1920",
+                        "venue": "LHS-TR-36",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LT5002",
+        "title": "THAI LANGUAGE LEVEL 2*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18199",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "TUE",
+                        "time": "1630-1920",
+                        "venue": "LHS-TR+42",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18200",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T02",
+                        "day": "WED",
+                        "time": "1630-1920",
+                        "venue": "LHS-TR+36",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "18201",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T012",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LHS-TR-42",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T012",
+                        "day": "WED",
+                        "time": "1830-1920",
+                        "venue": "LHS-TR-36",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LT5003",
+        "title": "THAI LANGUAGE LEVEL 3*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18202",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1630-2020",
+                        "venue": "LHS-TR+36",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LT5004",
+        "title": "THAI LANGUAGE LEVEL 4*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18203",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "TUE",
+                        "time": "1630-2020",
+                        "venue": "LHS-TR+36",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LV5001",
+        "title": "VIETNAMESE LANGUAGE LEVEL 1*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18204",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1630-1750",
+                        "venue": "LHS-TR+37",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "TUE",
+                        "time": "1630-1750",
+                        "venue": "LHS-TR+37",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LV5002",
+        "title": "VIETNAMESE LANGUAGE LEVEL 2*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18205",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "LHS-TR+37",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "MON",
+                        "time": "1630-1750",
+                        "venue": "LHS-TR+37",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "LZ5001",
+        "title": "TAMIL LANGUAGE LEVEL 1*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Modern Languages (Russian)",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "18206",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "THU",
+                        "time": "1630-1750",
+                        "venue": "LHS-TR+26",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T01",
+                        "day": "TUE",
+                        "time": "1630-1750",
+                        "venue": "LHS-TR+26",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    }
+]

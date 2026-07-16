@@ -1,0 +1,2271 @@
+[
+    {
+        "course_code": "E3011L",
+        "title": "MODELLING & CONTROL*~",
+        "academic_units": ".0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32781",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL01",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32782",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL02",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32783",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL03",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S2-B5C_02",
+                        "remark": "Teaching Wk11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32784",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL04",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S2-B5C_02",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32785",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL05",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S2-B5C_02",
+                        "remark": "Teaching Wk10"
+                    }
+                ]
+            },
+            {
+                "index_number": "32786",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL06",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32787",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL07",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk10"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "E3013L",
+        "title": "SEMICONDUCTOR DEVICES & PROCESSING*~",
+        "academic_units": ".0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32791",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL01",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S2-B5A-01",
+                        "remark": "Teaching Wk11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32792",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL02",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "S2-B5A_01",
+                        "remark": "Teaching Wk11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32793",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL03",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S2-B5A_01",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "E3015L",
+        "title": "POWER SYSTEMS & CONVERSION*~",
+        "academic_units": ".0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32794",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL01",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S2-B5C-07",
+                        "remark": "Teaching Wk9"
+                    }
+                ]
+            },
+            {
+                "index_number": "32795",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL02",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S2-B5C-07",
+                        "remark": "Teaching Wk9"
+                    }
+                ]
+            },
+            {
+                "index_number": "32796",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL03",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S2-B5C-07",
+                        "remark": "Teaching Wk9"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "E3018L",
+        "title": "INTRODUCTION TO PHOTONICS*~",
+        "academic_units": ".0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32797",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL01",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B5A-01",
+                        "remark": "Teaching Wk11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32798",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL02",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S2-B5A_01",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32814",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL03",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S2-B5A-01",
+                        "remark": "Teaching Wk12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "E3019L",
+        "title": "INTEGRATED ELECTRONICS*~",
+        "academic_units": ".0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32799",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL01",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S2-B4A-02",
+                        "remark": "Teaching Wk13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32800",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL02",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B4A-02",
+                        "remark": "Teaching Wk13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "E3102L",
+        "title": "MICROPROCESSORS*~",
+        "academic_units": ".0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32881",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL01",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk7,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32882",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL02",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk7,11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32883",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL03",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk8,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32884",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL04",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk8,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "32885",
+                "lessons": [
+                    {
+                        "type": "LAB",
+                        "group": "EL05",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk7,11"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE3011",
+        "title": "MODELLING & CONTROL*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32331",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE01",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "TR+77",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32332",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE02",
+                        "day": "TUE",
+                        "time": "1630-1720",
+                        "venue": "TR+61",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32333",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE03",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "TR120",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32334",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE04",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "TR103",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE3013",
+        "title": "SEMICONDUCTOR DEVICES & PROCESSING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32337",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE01",
+                        "day": "TUE",
+                        "time": "1030-1120",
+                        "venue": "TR+94",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32338",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "LT23",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE02",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "TR+62",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE3015",
+        "title": "POWER SYSTEMS & CONVERSION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32341",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT26",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE01",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "TR+68",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32343",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LT26",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE02",
+                        "day": "TUE",
+                        "time": "0930-1020",
+                        "venue": "TR+69",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE3018",
+        "title": "INTRODUCTION TO PHOTONICS TECHNOLOGIES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": {
+            "date": "3 December 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32345",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE01",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "TR103",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32346",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT29",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE02",
+                        "day": "FRI",
+                        "time": "1330-1420",
+                        "venue": "TR+61",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE3019",
+        "title": "INTEGRATED ELECTRONICS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32347",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE01",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "TR+88",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32348",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE02",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "TR+64",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4227",
+        "title": "CONTROL ENGINEERING DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32501",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F41",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "S2-B5A_01",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32502",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F42",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S2-B5A_01",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32503",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F43",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S2-B5A-01",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32504",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F44",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "S2-B5A-01",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4268",
+        "title": "ROBOTICS & AUTOMATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32507",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F41",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "LT28",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4323",
+        "title": "MIXED-SIGNAL IC DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": {
+            "date": "3 December 2026",
+            "day": "Thursday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32511",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F61",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S2-B3B-08",
+                        "remark": "Teaching Wk7-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F61",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LT25",
+                        "remark": "Teaching Wk1-6"
+                    }
+                ]
+            },
+            {
+                "index_number": "32512",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F62",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LT25",
+                        "remark": "Teaching Wk1-6"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F62",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "S2-B3B_08",
+                        "remark": "Teaching Wk7-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4341",
+        "title": "ADVANCED ANALOG CIRCUITS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32513",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "LT29",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4523",
+        "title": "POWER ENGINEERING DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32521",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F11",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk1-7"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F11",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk8-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F11",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "LHS-LT",
+                        "remark": "Teaching Wk1-7"
+                    }
+                ]
+            },
+            {
+                "index_number": "32522",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F12",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk8-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F12",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk1-7"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F12",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "LHS-LT",
+                        "remark": "Teaching Wk1-7"
+                    }
+                ]
+            },
+            {
+                "index_number": "32523",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F13",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk1-7"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F13",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk8-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F13",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "LHS-LT",
+                        "remark": "Teaching Wk1-7"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4530",
+        "title": "POWER SYSTEM ANALYSIS & CONTROL*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": {
+            "date": "28 November 2026",
+            "day": "Saturday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32526",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LT28",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4532",
+        "title": "POWER ELECTRONICS & DRIVES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32527",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "LT23",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4623",
+        "title": "CMOS PROCESS & DEVICE SIMULATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32531",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F61",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "S2-B5A-01",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32532",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F62",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S2-B5A-01",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32533",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F63",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "S2-B5A-01",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4647",
+        "title": "MICROELECTRONIC DEVICES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32534",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F61",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "LT28",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4903",
+        "title": "PHYSIOLOGICAL SYSTEMS ANALYSIS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32508",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "LT25",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE5081",
+        "title": "INNOVATION & TECHNOLOGY MANAGEMENT*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32081",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1920",
+                        "venue": "LT29",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE5083",
+        "title": "FROM PASSION TO ACTION: SIX KEY STEPS TO A START-UP!*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32082",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1330-1450",
+                        "venue": "LT26",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1530-1650",
+                        "venue": "LT26",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE5094",
+        "title": "IMPACT OF ELECTROMAGNETIC RADIATION ON HUMANS*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32083",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LT22",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE6108",
+        "title": "COMPUTER NETWORKS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32571",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "A",
+                        "day": "MON",
+                        "time": "1830-2120",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE6225",
+        "title": "MULTIVARIABLE CONTROL SYSTEMS ANALYSIS & DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32572",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "A",
+                        "day": "THU",
+                        "time": "1830-2120",
+                        "venue": "\"LT29\"",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE6301",
+        "title": "SMART BIOSENSORS & SYSTEMS FOR HEALTHCARE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32573",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "A",
+                        "day": "WED",
+                        "time": "1830-2120",
+                        "venue": "\"LT1A\"",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE6405",
+        "title": "NATURAL LANGUAGE PROCESSING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32575",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "A",
+                        "day": "FRI",
+                        "time": "1900-2150",
+                        "venue": "EMB",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE6610",
+        "title": "INTEGRATED CIRCUIT (IC) PACKAGING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32576",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "A",
+                        "day": "TUE",
+                        "time": "1830-2120",
+                        "venue": "\"LHS-LT\"",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE2107",
+        "title": "ENGINEERING MATHEMATICS II~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32371",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE01",
+                        "day": "MON",
+                        "time": "1430-1550",
+                        "venue": "TR102",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32372",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE02",
+                        "day": "TUE",
+                        "time": "0930-1050",
+                        "venue": "TR103",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32373",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE03",
+                        "day": "TUE",
+                        "time": "0930-1050",
+                        "venue": "TR+61",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32374",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE04",
+                        "day": "TUE",
+                        "time": "1330-1450",
+                        "venue": "TR+69",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32375",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE05",
+                        "day": "WED",
+                        "time": "0930-1050",
+                        "venue": "TR+65",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32376",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE06",
+                        "day": "WED",
+                        "time": "1430-1550",
+                        "venue": "TR+78",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32377",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE07",
+                        "day": "THU",
+                        "time": "1030-1150",
+                        "venue": "TR+78",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32378",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE08",
+                        "day": "THU",
+                        "time": "1430-1550",
+                        "venue": "TR+61",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32379",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE09",
+                        "day": "THU",
+                        "time": "1430-1550",
+                        "venue": "TR+65",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE3012",
+        "title": "COMMUNICATION PRINCIPLES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32411",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "FRI",
+                        "time": "1730-1850",
+                        "venue": "LT28",
+                        "remark": "Teaching Wk1"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE01",
+                        "day": "WED",
+                        "time": "1030-1150",
+                        "venue": "TR+89",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32412",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "FRI",
+                        "time": "1730-1850",
+                        "venue": "LT28",
+                        "remark": "Teaching Wk1"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE02",
+                        "day": "WED",
+                        "time": "1630-1750",
+                        "venue": "TR+89",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32413",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "FRI",
+                        "time": "1730-1850",
+                        "venue": "LT28",
+                        "remark": "Teaching Wk1"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "EE03",
+                        "day": "THU",
+                        "time": "1030-1150",
+                        "venue": "TR+89",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE3014",
+        "title": "DIGITAL SIGNAL PROCESSING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": {
+            "date": "3 December 2026",
+            "day": "Thursday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32421",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE01",
+                        "day": "MON",
+                        "time": "0930-1050",
+                        "venue": "TR+89",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32422",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE02",
+                        "day": "MON",
+                        "time": "1330-1450",
+                        "venue": "TR+89",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32423",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE03",
+                        "day": "TUE",
+                        "time": "0930-1050",
+                        "venue": "TR+89",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32424",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE04",
+                        "day": "WED",
+                        "time": "0930-1050",
+                        "venue": "TR+91",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32425",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE05",
+                        "day": "THU",
+                        "time": "0930-1050",
+                        "venue": "TR+88",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32426",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE06",
+                        "day": "THU",
+                        "time": "1330-1450",
+                        "venue": "TR+88",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE3017",
+        "title": "COMPUTER COMMUNICATIONS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32431",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE01",
+                        "day": "MON",
+                        "time": "1330-1450",
+                        "venue": "TR+93",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32432",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE02",
+                        "day": "TUE",
+                        "time": "1030-1150",
+                        "venue": "TR+93",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32433",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE03",
+                        "day": "TUE",
+                        "time": "1530-1650",
+                        "venue": "TR+93",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32434",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE04",
+                        "day": "WED",
+                        "time": "1030-1150",
+                        "venue": "TR+93",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32435",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE05",
+                        "day": "THU",
+                        "time": "1030-1150",
+                        "venue": "TR+93",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32436",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE06",
+                        "day": "THU",
+                        "time": "0930-1050",
+                        "venue": "TR121",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE3102",
+        "title": "MICROPROCESSORS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32441",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE01",
+                        "day": "TUE",
+                        "time": "1130-1250",
+                        "venue": "TR+88",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32442",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE02",
+                        "day": "WED",
+                        "time": "0930-1050",
+                        "venue": "TR+88",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32443",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE03",
+                        "day": "THU",
+                        "time": "0930-1050",
+                        "venue": "TR+90",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32444",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "EE04",
+                        "day": "THU",
+                        "time": "1330-1450",
+                        "venue": "TR+90",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4120",
+        "title": "OPTICAL COMMUNICATION SYSTEM DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32541",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk1-8,11"
+                    },
+                    {
+                        "type": "DES",
+                        "group": "F51",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9,10,12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32542",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk1-8,11"
+                    },
+                    {
+                        "type": "DES",
+                        "group": "F52",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9,10,12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32543",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk1-8,11"
+                    },
+                    {
+                        "type": "DES",
+                        "group": "F53",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9,10,12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32544",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk1-8,11"
+                    },
+                    {
+                        "type": "DES",
+                        "group": "F54",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9,10,12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32545",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk1-8,11"
+                    },
+                    {
+                        "type": "DES",
+                        "group": "F55",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9,10,12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32546",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk1-8,11"
+                    },
+                    {
+                        "type": "DES",
+                        "group": "F56",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9,10,12,13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4154",
+        "title": "DIGITAL & TELECOMMUNICATIONS SYSTEMS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": {
+            "date": "28 November 2026",
+            "day": "Saturday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32548",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4422",
+        "title": "MULTIMODAL LARGE LANGUAGE MODELS - THEORY & APPLICATIONS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32514",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LHN-TR+36",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4476",
+        "title": "IMAGE PROCESSING & COMPUTER VISION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32549",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "LT28",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4483",
+        "title": "ARTIFICIAL INTELLIGENCE & DATA MINING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32550",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "LT1A",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4727",
+        "title": "WEB APPLICATION DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32551",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F31",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk12,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F31",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32552",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F32",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk12,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F32",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32553",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F33",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F33",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32554",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F34",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk12,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F34",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32555",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F35",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F35",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32556",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F36",
+                        "day": "WED",
+                        "time": "1330-1520",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F36",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32557",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F37",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F37",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32559",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F38",
+                        "day": "THU",
+                        "time": "1330-1520",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F38",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk12,13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4758",
+        "title": "INFORMATION SECURITY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Electrical & Electronic Engineering",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32558",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "LT23",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,1247 @@
+[
+    {
+        "course_code": "HW0288",
+        "title": "ENGINEERING COMMUNICATION",
+        "academic_units": "2.0 AU",
+        "school_category": "Computer Science And Economics Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10394",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCEA",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "TR+64",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10395",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCEB",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "TR+23",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10396",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCEC",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10397",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCED",
+                        "day": "FRI",
+                        "time": "1130-1320",
+                        "venue": "CSKL8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10398",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCEE",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "TR+32",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10399",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCE1",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "TR+95",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10400",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSA",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "TR+37",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10401",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSB",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "TR+31",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10402",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSC",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "TR+34",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10403",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSD",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "TR+37",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10404",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSE",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LHN-TR+18",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10405",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSF",
+                        "day": "WED",
+                        "time": "1230-1420",
+                        "venue": "TR+37",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10406",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSG",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "TR+77",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10407",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSH",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10408",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSI",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10409",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCSJ",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "TR+37",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10410",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCS1",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "CSKL9",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10411",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCMA",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10412",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCMC",
+                        "day": "THU",
+                        "time": "1630-1820",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10413",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "TCMD",
+                        "day": "THU",
+                        "time": "1030-1220",
+                        "venue": "TR+33",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC2000",
+        "title": "PROBABILITY & STATISTICS FOR COMPUTING",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science And Economics Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10133",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL2",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FAIA",
+                        "day": "FRI",
+                        "time": "1330-1420",
+                        "venue": "TR+3",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10134",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL2",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FDDB",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "TR+3",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10135",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL2",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FDDC",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "TR+4",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10136",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL2",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCMA",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "TR+17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10137",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL2",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCMB",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "TR+8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10138",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL2",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCMC",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "TR+6",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10139",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL2",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCMD",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "TR+3",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10140",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL2",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SDDA",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "TR+4",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10141",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL2",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SDDB",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "TR+3",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC3010",
+        "title": "COMPUTER SECURITY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science And Economics Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10500",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "0830-1020",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "WED",
+                        "time": "1730-1820",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC3020",
+        "title": "DATABASE SYSTEM PRINCIPLES~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science And Economics Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10501",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "LT1",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC3030",
+        "title": "ADVANCED COMPUTER NETWORKS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science And Economics Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10502",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LT8",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "TUE",
+                        "time": "1630-1720",
+                        "venue": "LT8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC3270",
+        "title": "REASONING ABOUT PROGRAMS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science And Economics Year 5",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10518",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT8",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "LT8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC3271",
+        "title": "LOGIC, PROOF, & THE FOUNDATIONS OF CALCULUS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science And Economics Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10543",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "LT17",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "LT13",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4000",
+        "title": "MACHINE LEARNING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science And Economics Year 5",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10519",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "TUE",
+                        "time": "1230-1320",
+                        "venue": "LT2A",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4001",
+        "title": "NEURAL NETWORK & DEEP LEARNING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science And Economics Year 5",
+        "exam": {
+            "date": "28 November 2026",
+            "day": "Saturday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10520",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LT19",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "WED",
+                        "time": "1730-1820",
+                        "venue": "LT19",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4002",
+        "title": "NATURAL LANGUAGE PROCESSING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science And Economics Year 5",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10521",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "WED",
+                        "time": "1030-1120",
+                        "venue": "LT2A",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4010",
+        "title": "APPLIED CRYPTOGRAPHY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science And Economics Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10522",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TEL1",
+                        "day": "TUE",
+                        "time": "1130-1220",
+                        "venue": "TR+32",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10523",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TEL2",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "TR+32",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10524",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TEL3",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "TR+20",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10525",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TEL4",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "TR+20",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10526",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TEL5",
+                        "day": "FRI",
+                        "time": "1530-1620",
+                        "venue": "TR+20",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4011",
+        "title": "SECURITY MANAGEMENT~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science And Economics Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10542",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "MON",
+                        "time": "1530-1720",
+                        "venue": "LT7",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "MON",
+                        "time": "1730-1820",
+                        "venue": "LT7",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4013",
+        "title": "APPLICATION SECURITY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science And Economics Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10541",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "1730-1920",
+                        "venue": "LT8",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "TUE",
+                        "time": "1930-2020",
+                        "venue": "LT8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4016",
+        "title": "CYBER THREAT INTELLIGENCE~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science And Economics Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10527",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "MON",
+                        "time": "1230-1320",
+                        "venue": "LT1",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4017",
+        "title": "DATA PRIVACY & SECURITY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science And Economics Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10539",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT6",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "TUE",
+                        "time": "1530-1620",
+                        "venue": "LT6",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4020",
+        "title": "DATA ANALYTICS & MINING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science And Economics Year 5",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10528",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "LT2A",
+                        "remark": "Teaching Wk2-4,6-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "LT1A",
+                        "remark": "Teaching Wk5"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4024",
+        "title": "DATA VISUALISATION~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science And Economics Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10529",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT25",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4030",
+        "title": "WIRELESS & MOBILE NETWORKS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science And Economics Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10532",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "LT27",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4040",
+        "title": "ADVANCED TOPICS IN ALGORITHMS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science And Economics Year 5",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10533",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4050",
+        "title": "PARALLEL COMPUTING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science And Economics Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10534",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LT6",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL1",
+                        "day": "MON",
+                        "time": "0830-1120",
+                        "venue": "HWLAB1",
+                        "remark": "Teaching Wk1,3,5,7,9,11,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10544",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LT6",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL2",
+                        "day": "MON",
+                        "time": "0830-1120",
+                        "venue": "HWLAB1",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4053",
+        "title": "BLOCKCHAIN TECHNOLOGY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science And Economics Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10535",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "LT25",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4055",
+        "title": "INTRODUCTION TO QUANTUM COMPUTING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science And Economics Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10538",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT19",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LT19",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4061",
+        "title": "COMPUTER VISION~",
+        "academic_units": "3.0 AU",
+        "school_category": "Computer Science And Economics Year 5",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10536",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LT19",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "TUE",
+                        "time": "1630-1720",
+                        "venue": "LT19",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    }
+]

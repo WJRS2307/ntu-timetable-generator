@@ -1,0 +1,243 @@
+[
+    {
+        "course_code": "DP2001",
+        "title": "DIGITAL PHOTOGRAPHY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Photography",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64037",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "ART-02-26",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64038",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "TUE",
+                        "time": "1630-1920",
+                        "venue": "ART-02-26",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64039",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G03",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "ART-02-26",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DP2002",
+        "title": "HISTORY OF PHOTOGRAPHY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Photography",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64040",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "ART-02-15",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DP2006",
+        "title": "PRINCIPLES OF LIGHTING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Photography",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64041",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "ART-02-24B",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64042",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "MON",
+                        "time": "1630-1920",
+                        "venue": "ART-02-24B",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DP2008",
+        "title": "EXPERIMENTAL PHOTOGRAPHY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Photography",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64043",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "ART-02-30",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DP3000",
+        "title": "PHOTOGRAPHIC MEDIA & PRESENTATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Photography",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64044",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "ART-02-30",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DP3010",
+        "title": "MOVING IMAGE FOR MEDIA ARTISTS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Photography",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64045",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "ART-02-26",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DP5000",
+        "title": "BLACK & WHITE FILM PHOTOGRAPHY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Photography",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64046",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "ART-02-30",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64047",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G02",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "ART-02-30",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "64048",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G03",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "ART-02-30",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HR4003",
+        "title": "FROM COLONIALISM  TO TOURISM: EARLY PHOTOGRAPHY IN ASIA*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Minor in Photography",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17296",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "HSS-TR+5",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,1468 @@
+[
+    {
+        "course_code": "EG1001",
+        "title": "ENGINEERS IN SOCIETY",
+        "academic_units": "2.0 AU",
+        "school_category": "Renaissance Engineering (CSC) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10357",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "LKC-LT",
+                        "remark": "Teaching Wk1-7"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "E016",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "LHN-TR+18",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "RE1401",
+        "title": "FINANCIAL MANAGEMENT",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (CSC) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "80411",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "RPR SR1",
+                        "remark": "Teaching Wk1,13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "S",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "RPR SR1",
+                        "remark": "Teaching Wk2-12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC3000",
+        "title": "ARTIFICIAL INTELLIGENCE~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (CSC) Year 4",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10331",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL3",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT20",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "SAIA",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "ONLINE",
+                        "remark": "Teaching Wk1,3,5,7,9,11,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10332",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL3",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT20",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL1",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "ONLINE",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "10333",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL3",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT20",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL2",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "ONLINE",
+                        "remark": "Teaching Wk1,3,5,7,9,11,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10334",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL3",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT20",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL3",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "ONLINE",
+                        "remark": "Teaching Wk1,3,5,7,9,11,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10336",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL3",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT20",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL5",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "ONLINE",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "10338",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL3",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT20",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL4",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "ONLINE",
+                        "remark": "Teaching Wk1,3,5,7,9,11,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10339",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL3",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT20",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL6",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "ONLINE",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC3010",
+        "title": "COMPUTER SECURITY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (CSC) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10500",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "0830-1020",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "WED",
+                        "time": "1730-1820",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC3020",
+        "title": "DATABASE SYSTEM PRINCIPLES~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (CSC) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10501",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "LT1",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC3030",
+        "title": "ADVANCED COMPUTER NETWORKS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (CSC) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10502",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LT8",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "TUE",
+                        "time": "1630-1720",
+                        "venue": "LT8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC3040",
+        "title": "ADVANCED SOFTWARE ENGINEERING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (CSC) Year 4",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10503",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LT2A",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL1",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "SWLAB3",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "10504",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LT2A",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL2",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "SWLAB3",
+                        "remark": "Teaching Wk1,3,5,7,9,11,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10505",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LT2A",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL3",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "SWLAB3",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "10506",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LT2A",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL4",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "SWLAB3",
+                        "remark": "Teaching Wk1,3,5,7,9,11,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10507",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LT2A",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL5",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "SWLAB3",
+                        "remark": "Teaching Wk1,3,5,7,9,11,13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC3050",
+        "title": "ADVANCED COMPUTER ARCHITECTURE~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (CSC) Year 4",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10508",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "FRI",
+                        "time": "1630-1720",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TEL1",
+                        "day": "WED",
+                        "time": "1030-1120",
+                        "venue": "LHN-TR+63",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL1",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "HWLAB1",
+                        "remark": "Teaching Wk1,3,5,7,9,11,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10509",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "FRI",
+                        "time": "1630-1720",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TEL2",
+                        "day": "MON",
+                        "time": "1730-1820",
+                        "venue": "LHN-TR+63",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL2",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "HWLAB1",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "10510",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "FRI",
+                        "time": "1630-1720",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TEL3",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "LHN-TR+63",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL3",
+                        "day": "MON",
+                        "time": "1230-1420",
+                        "venue": "HWLAB1",
+                        "remark": "Teaching Wk1,3,5,7,9,11,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10511",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "LT24",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "FRI",
+                        "time": "1630-1720",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TEL4",
+                        "day": "WED",
+                        "time": "1630-1720",
+                        "venue": "LHN-TR+63",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL4",
+                        "day": "THU",
+                        "time": "1430-1620",
+                        "venue": "HWLAB1",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC3061",
+        "title": "HUMAN COMPUTER INTERACTION~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (CSC) Year 4",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10513",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "LT3",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL1",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "HWLAB2",
+                        "remark": "Teaching Wk1,3,5,7,9,11,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10514",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "LT3",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL2",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "HWLAB2",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "10515",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "LT3",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL3",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "HWLAB2",
+                        "remark": "Teaching Wk1,3,5,7,9,11,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10516",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "LT3",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL4",
+                        "day": "TUE",
+                        "time": "0830-1020",
+                        "venue": "HWLAB2",
+                        "remark": "Teaching Wk1,3,5,7,9,11,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10517",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "LT3",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL5",
+                        "day": "TUE",
+                        "time": "0830-1020",
+                        "venue": "HWLAB2",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC3270",
+        "title": "REASONING ABOUT PROGRAMS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (CSC) Year 4",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10518",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT8",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "LT8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4000",
+        "title": "MACHINE LEARNING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (CSC) Year 4",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10519",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "TUE",
+                        "time": "1230-1320",
+                        "venue": "LT2A",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4001",
+        "title": "NEURAL NETWORK & DEEP LEARNING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (CSC) Year 4",
+        "exam": {
+            "date": "28 November 2026",
+            "day": "Saturday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10520",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LT19",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "WED",
+                        "time": "1730-1820",
+                        "venue": "LT19",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4002",
+        "title": "NATURAL LANGUAGE PROCESSING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (CSC) Year 4",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10521",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "WED",
+                        "time": "1030-1120",
+                        "venue": "LT2A",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4010",
+        "title": "APPLIED CRYPTOGRAPHY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (CSC) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10522",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TEL1",
+                        "day": "TUE",
+                        "time": "1130-1220",
+                        "venue": "TR+32",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10523",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TEL2",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "TR+32",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10524",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TEL3",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "TR+20",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10525",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TEL4",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "TR+20",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10526",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TEL5",
+                        "day": "FRI",
+                        "time": "1530-1620",
+                        "venue": "TR+20",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4011",
+        "title": "SECURITY MANAGEMENT~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (CSC) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10542",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "MON",
+                        "time": "1530-1720",
+                        "venue": "LT7",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "MON",
+                        "time": "1730-1820",
+                        "venue": "LT7",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4013",
+        "title": "APPLICATION SECURITY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (CSC) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10541",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "1730-1920",
+                        "venue": "LT8",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "TUE",
+                        "time": "1930-2020",
+                        "venue": "LT8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4016",
+        "title": "CYBER THREAT INTELLIGENCE~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (CSC) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10527",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "MON",
+                        "time": "1230-1320",
+                        "venue": "LT1",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4020",
+        "title": "DATA ANALYTICS & MINING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (CSC) Year 4",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10528",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "LT2A",
+                        "remark": "Teaching Wk2-4,6-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "LT1A",
+                        "remark": "Teaching Wk5"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4025",
+        "title": "DIGITAL PRODUCT MANAGEMENT",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (CSC) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10530",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "1530-1720",
+                        "venue": "LT7",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TEL1",
+                        "day": "TUE",
+                        "time": "1730-1820",
+                        "venue": "LHN-TR+52",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10531",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "1530-1720",
+                        "venue": "LT7",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TEL2",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "TR+18",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4030",
+        "title": "WIRELESS & MOBILE NETWORKS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (CSC) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10532",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "LT27",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4040",
+        "title": "ADVANCED TOPICS IN ALGORITHMS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (CSC) Year 4",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10533",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4050",
+        "title": "PARALLEL COMPUTING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (CSC) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10534",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LT6",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL1",
+                        "day": "MON",
+                        "time": "0830-1120",
+                        "venue": "HWLAB1",
+                        "remark": "Teaching Wk1,3,5,7,9,11,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10544",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LT6",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL2",
+                        "day": "MON",
+                        "time": "0830-1120",
+                        "venue": "HWLAB1",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4053",
+        "title": "BLOCKCHAIN TECHNOLOGY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (CSC) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10535",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "LT25",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4061",
+        "title": "COMPUTER VISION~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (CSC) Year 4",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10536",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LT19",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "TUE",
+                        "time": "1630-1720",
+                        "venue": "LT19",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    }
+]

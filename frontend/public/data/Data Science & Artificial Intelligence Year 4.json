@@ -1,0 +1,3410 @@
+[
+    {
+        "course_code": "CS4031",
+        "title": "MEDIA PLANNING & STRATEGIES*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06073",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "CS-TR+8",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HY0001",
+        "title": "ETHICS & MORAL REASONING",
+        "academic_units": "1.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17991",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LEC1",
+                        "day": "SAT",
+                        "time": "1130-1220",
+                        "venue": "",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MH2100",
+        "title": "CALCULUS III*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "70229",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "ACDA",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "SPMS-TR+7",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70234",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TDAA",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "SPMS-TR+12",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70235",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TDAB",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "SPMS-TR+16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70236",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TDAC",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "SPMS-TR+4",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70237",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TDAD",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "SPMS-TR+15",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70238",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "LT1A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TDAE",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "SPMS-TR+5",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MH2500",
+        "title": "PROBABILITY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "70255",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1130-1320",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SDAA",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "LHS-TR+49",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70256",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1130-1320",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SDAB",
+                        "day": "TUE",
+                        "time": "0930-1020",
+                        "venue": "SPMS-TR+16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70257",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1130-1320",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SDAC",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "SPMS-TR+16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70258",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1130-1320",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SDAD",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "SPMS-TR+17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70259",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1130-1320",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SDAE",
+                        "day": "TUE",
+                        "time": "0930-1020",
+                        "venue": "SPMS-TR+17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70260",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1130-1320",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SDAF",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "SPMS-TR+16",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "70261",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1130-1320",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SDAG",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "SPMS-TR+17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MH3510",
+        "title": "REGRESSION ANALYSIS*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": {
+            "date": "3 December 2026",
+            "day": "Thursday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "70280",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "TUE",
+                        "time": "1530-1720",
+                        "venue": "LT27",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MH3512",
+        "title": "STOCHASTIC PROCESSES*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "70285",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "SPMS-LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1520",
+                        "venue": "SPMS-LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "SPMS-LT1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MH4511",
+        "title": "SAMPLING & SURVEY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": {
+            "date": "3 December 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "70315",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1030-1220",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "SPMS-LT2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "FRI",
+                        "time": "1530-1620",
+                        "venue": "SPMS-LT2",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MH4513",
+        "title": "SURVIVAL ANALYSIS*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "70320",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "SPMS-LT3",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "SPMS-LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "1630-1720",
+                        "venue": "SPMS-LT4",
+                        "remark": "Teaching Wk1-3"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA",
+                        "day": "THU",
+                        "time": "1630-1720",
+                        "venue": "SPMS-LT4",
+                        "remark": "Teaching Wk4-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MH4521",
+        "title": "REINFORCEMENT LEARNING*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "70327",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "SPMS-LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1630-1720",
+                        "venue": "SPMS-LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "1730-1820",
+                        "venue": "SPMS-LT5",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "COMP LAB 3",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC1001",
+        "title": "INTRODUCTION TO COMPUTATIONAL THINKING & PROGRAMMING",
+        "academic_units": "2.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10001",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCEA",
+                        "day": "WED",
+                        "time": "0830-0920",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FCEA",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10002",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCEB",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FCEB",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10003",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCEC",
+                        "day": "TUE",
+                        "time": "1230-1320",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FCEC",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10004",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCED",
+                        "day": "MON",
+                        "time": "1230-1320",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FCED",
+                        "day": "MON",
+                        "time": "1330-1420",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10005",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCEE",
+                        "day": "TUE",
+                        "time": "1230-1320",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FCEE",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10006",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCE1",
+                        "day": "WED",
+                        "time": "0830-0920",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FCE1",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10007",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCE2",
+                        "day": "MON",
+                        "time": "1030-1120",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FCE2",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10008",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCE3",
+                        "day": "WED",
+                        "time": "0830-0920",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FCE3",
+                        "day": "WED",
+                        "time": "0930-1020",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10009",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCSA",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FCSA",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10010",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCSB",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FCSB",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10011",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCSC",
+                        "day": "TUE",
+                        "time": "1230-1320",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FCSC",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10012",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCSD",
+                        "day": "TUE",
+                        "time": "1230-1320",
+                        "venue": "SWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FCSD",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "SWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10013",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCSE",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FCSE",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10014",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCSF",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FCSF",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10015",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCSG",
+                        "day": "TUE",
+                        "time": "1030-1120",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FCSG",
+                        "day": "TUE",
+                        "time": "1130-1220",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10016",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCSH",
+                        "day": "TUE",
+                        "time": "1030-1120",
+                        "venue": "SWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FCSH",
+                        "day": "TUE",
+                        "time": "1130-1220",
+                        "venue": "SWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10017",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCSI",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FCSI",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10018",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCSJ",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FCSJ",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10019",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCSK",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FCSK",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10020",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCS1",
+                        "day": "TUE",
+                        "time": "1030-1120",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FCS1",
+                        "day": "TUE",
+                        "time": "1130-1220",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10021",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCS2",
+                        "day": "MON",
+                        "time": "1430-1520",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FCS2",
+                        "day": "MON",
+                        "time": "1530-1620",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10022",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCS3",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FCS3",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10023",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCS4",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FCS4",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10024",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCMA",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "SWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FCMA",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "SWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10025",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCMB",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "SWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FCMB",
+                        "day": "FRI",
+                        "time": "1230-1320",
+                        "venue": "SWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10026",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCMC",
+                        "day": "THU",
+                        "time": "0830-0920",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FCMC",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10027",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FCMD",
+                        "day": "THU",
+                        "time": "0830-0920",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FCMD",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10028",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FDAA",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FDAA",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10029",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FDAB",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "SWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FDAB",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "SWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10030",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FDAC",
+                        "day": "WED",
+                        "time": "1030-1120",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FDAC",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10031",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FDAD",
+                        "day": "WED",
+                        "time": "1030-1120",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FDAD",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10032",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FDAE",
+                        "day": "THU",
+                        "time": "0830-0920",
+                        "venue": "SWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FDAE",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "SWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10033",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FDAF",
+                        "day": "THU",
+                        "time": "1230-1320",
+                        "venue": "SWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FDAF",
+                        "day": "THU",
+                        "time": "1330-1420",
+                        "venue": "SWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10034",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FDAG",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FDAG",
+                        "day": "WED",
+                        "time": "1530-1620",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10035",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FAIA",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FAIA",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10036",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FDDB",
+                        "day": "MON",
+                        "time": "1230-1320",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FDDB",
+                        "day": "MON",
+                        "time": "1330-1420",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10037",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FDDC",
+                        "day": "THU",
+                        "time": "0830-0920",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FDDC",
+                        "day": "THU",
+                        "time": "0930-1020",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10038",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "ECDS1",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "ECDS1",
+                        "day": "WED",
+                        "time": "1530-1620",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10039",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "ECDS2",
+                        "day": "WED",
+                        "time": "1430-1520",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "ECDS2",
+                        "day": "WED",
+                        "time": "1530-1620",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10040",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MACS1",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "MACS1",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10041",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "MACS2",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "SWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "MACS2",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "SWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10042",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE2",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "ACDA1",
+                        "day": "MON",
+                        "time": "1230-1320",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "ACDA1",
+                        "day": "MON",
+                        "time": "1330-1420",
+                        "venue": "HWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10045",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "BACF1",
+                        "day": "MON",
+                        "time": "1030-1120",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BACF1",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10046",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "BACF2",
+                        "day": "MON",
+                        "time": "1030-1120",
+                        "venue": "SWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BACF2",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "SWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10047",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "BACF3",
+                        "day": "MON",
+                        "time": "1030-1120",
+                        "venue": "SWLAB2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "BACF3",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "SWLAB2",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10048",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FEL2",
+                        "day": "WED",
+                        "time": "1030-1120",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FEL2",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "10049",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "MON",
+                        "time": "0930-1020",
+                        "venue": "LT19A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "FEL3",
+                        "day": "TUE",
+                        "time": "1430-1520",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "FEL3",
+                        "day": "TUE",
+                        "time": "1530-1620",
+                        "venue": "SWLAB1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC3010",
+        "title": "COMPUTER SECURITY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10500",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "0830-1020",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "WED",
+                        "time": "1730-1820",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC3020",
+        "title": "DATABASE SYSTEM PRINCIPLES~",
+        "academic_units": "3.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10501",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "FRI",
+                        "time": "1230-1420",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "LT1",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC3030",
+        "title": "ADVANCED COMPUTER NETWORKS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10502",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LT8",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "TUE",
+                        "time": "1630-1720",
+                        "venue": "LT8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC3040",
+        "title": "ADVANCED SOFTWARE ENGINEERING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10503",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LT2A",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL1",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "SWLAB3",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "10504",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LT2A",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL2",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "SWLAB3",
+                        "remark": "Teaching Wk1,3,5,7,9,11,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10505",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LT2A",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL3",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "SWLAB3",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            },
+            {
+                "index_number": "10506",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LT2A",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL4",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "SWLAB3",
+                        "remark": "Teaching Wk1,3,5,7,9,11,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10507",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "LT2A",
+                        "remark": "Teaching Wk2-13"
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL5",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "SWLAB3",
+                        "remark": "Teaching Wk1,3,5,7,9,11,13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC3270",
+        "title": "REASONING ABOUT PROGRAMS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10518",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT8",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "LT8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC3271",
+        "title": "LOGIC, PROOF, & THE FOUNDATIONS OF CALCULUS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10543",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "1230-1420",
+                        "venue": "LT17",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "LT13",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4000",
+        "title": "MACHINE LEARNING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10519",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "TUE",
+                        "time": "1230-1320",
+                        "venue": "LT2A",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4001",
+        "title": "NEURAL NETWORK & DEEP LEARNING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": {
+            "date": "28 November 2026",
+            "day": "Saturday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10520",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LT19",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "WED",
+                        "time": "1730-1820",
+                        "venue": "LT19",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4002",
+        "title": "NATURAL LANGUAGE PROCESSING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10521",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "WED",
+                        "time": "1030-1120",
+                        "venue": "LT2A",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4010",
+        "title": "APPLIED CRYPTOGRAPHY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10522",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TEL1",
+                        "day": "TUE",
+                        "time": "1130-1220",
+                        "venue": "TR+32",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10523",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TEL2",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "TR+32",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10524",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TEL3",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "TR+20",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10525",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TEL4",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "TR+20",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10526",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT4",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TEL5",
+                        "day": "FRI",
+                        "time": "1530-1620",
+                        "venue": "TR+20",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4011",
+        "title": "SECURITY MANAGEMENT~",
+        "academic_units": "3.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10542",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "MON",
+                        "time": "1530-1720",
+                        "venue": "LT7",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "MON",
+                        "time": "1730-1820",
+                        "venue": "LT7",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4013",
+        "title": "APPLICATION SECURITY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10541",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "1730-1920",
+                        "venue": "LT8",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "TUE",
+                        "time": "1930-2020",
+                        "venue": "LT8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4016",
+        "title": "CYBER THREAT INTELLIGENCE~",
+        "academic_units": "3.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10527",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LT1",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "MON",
+                        "time": "1230-1320",
+                        "venue": "LT1",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4017",
+        "title": "DATA PRIVACY & SECURITY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10539",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT6",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "TUE",
+                        "time": "1530-1620",
+                        "venue": "LT6",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4020",
+        "title": "DATA ANALYTICS & MINING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10528",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "LT2A",
+                        "remark": "Teaching Wk2-4,6-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "LT1A",
+                        "remark": "Teaching Wk5"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4024",
+        "title": "DATA VISUALISATION~",
+        "academic_units": "3.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10529",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "FRI",
+                        "time": "1430-1620",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "LT25",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4025",
+        "title": "DIGITAL PRODUCT MANAGEMENT",
+        "academic_units": "3.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10530",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "1530-1720",
+                        "venue": "LT7",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TEL1",
+                        "day": "TUE",
+                        "time": "1730-1820",
+                        "venue": "LHN-TR+52",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10531",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "1530-1720",
+                        "venue": "LT7",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "TEL2",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "TR+18",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4030",
+        "title": "WIRELESS & MOBILE NETWORKS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10532",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LT27",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "LT27",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4040",
+        "title": "ADVANCED TOPICS IN ALGORITHMS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10533",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "LT22",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "LT22",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4050",
+        "title": "PARALLEL COMPUTING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10534",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LT6",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL1",
+                        "day": "MON",
+                        "time": "0830-1120",
+                        "venue": "HWLAB1",
+                        "remark": "Teaching Wk1,3,5,7,9,11,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "10544",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "WED",
+                        "time": "1430-1620",
+                        "venue": "LT6",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "TEL2",
+                        "day": "MON",
+                        "time": "0830-1120",
+                        "venue": "HWLAB1",
+                        "remark": "Teaching Wk2,4,6,8,10,12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4053",
+        "title": "BLOCKCHAIN TECHNOLOGY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10535",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "WED",
+                        "time": "1330-1420",
+                        "venue": "LT25",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4055",
+        "title": "INTRODUCTION TO QUANTUM COMPUTING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "10538",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT19",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "THU",
+                        "time": "1130-1220",
+                        "venue": "LT19",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4061",
+        "title": "COMPUTER VISION~",
+        "academic_units": "3.0 AU",
+        "school_category": "Data Science & Artificial Intelligence Year 4",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10536",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LT19",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "TUE",
+                        "time": "1630-1720",
+                        "venue": "LT19",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    }
+]

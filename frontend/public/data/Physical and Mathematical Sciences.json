@@ -1,0 +1,37 @@
+[
+    {
+        "course_code": "PS5886",
+        "title": "MAKING & TINKERING (LITE I)*~#",
+        "academic_units": "2.0 AU",
+        "school_category": "Physical and Mathematical Sciences",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "70705",
+                "lessons": [
+                    {
+                        "type": "PRJ",
+                        "group": "P1",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "PAP YR1 LA",
+                        "remark": "Teaching Wk1-8"
+                    }
+                ]
+            },
+            {
+                "index_number": "70706",
+                "lessons": [
+                    {
+                        "type": "PRJ",
+                        "group": "P2",
+                        "day": "TUE",
+                        "time": "1830-2120",
+                        "venue": "PAP YR1 LA",
+                        "remark": "Teaching Wk1-8"
+                    }
+                ]
+            }
+        ]
+    }
+]

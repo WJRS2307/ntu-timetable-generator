@@ -1,0 +1,90 @@
+[
+    {
+        "course_code": "AED23C",
+        "title": "CRITICAL REASONING SKILLS FOR EFFECTIVE TEACHING*~",
+        "academic_units": "2.0 AU",
+        "school_category": "Minor in Education Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39471",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "2-01-TR207",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AED28B",
+        "title": "CRITICAL PERSPECTIVES ON EDUCATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Education Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39472",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "NIE2-TR209",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AED38A",
+        "title": "MOTIVATING PUPILS TO LEARN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Education Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39270",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "FRI",
+                        "time": "1430-1720",
+                        "venue": "NIE2-TR216",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AED38C",
+        "title": "DESIGNING ICT-BASED CONSTRUCTIVIST ACTIVITIES*~",
+        "academic_units": "2.0 AU",
+        "school_category": "Minor in Education Studies",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39352",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "TBC",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "course_code": "HH2125",
+        "title": "THE WORLD IN 12 OBJECTS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Archaeology",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17619",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "LHS-TR+47",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HH3007",
+        "title": "SOUTHEAST ASIAN-CHINA INTERACTIONS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Archaeology",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17621",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "TR+109",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HR2010",
+        "title": "INTRODUCTION TO MUSEUM STUDIES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Archaeology",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17292",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "LHS-TR+45",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

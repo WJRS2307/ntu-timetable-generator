@@ -1,0 +1,122 @@
+[
+    {
+        "course_code": "CS2025",
+        "title": "IMAGE & SOUND PRODUCTION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Information Engineering & Media And Economics Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06033",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S1",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "LRG TV STU",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "06034",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S2",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "LRG TV STU",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "06035",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S3",
+                        "day": "THU",
+                        "time": "1030-1320",
+                        "venue": "LRG TV STU",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CS2030",
+        "title": "AUDIO IN MEDIA*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Information Engineering & Media And Economics Year 5",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "06038",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "SCI-SR2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "SCI-MAC",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "06039",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "SCI-SR2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "FRI",
+                        "time": "1330-1520",
+                        "venue": "SCI-MAC",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "06040",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "SCI-SR2",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T3",
+                        "day": "FRI",
+                        "time": "1530-1720",
+                        "venue": "SCI-MAC",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

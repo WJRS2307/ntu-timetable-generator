@@ -1,0 +1,144 @@
+[
+    {
+        "course_code": "AED16A",
+        "title": "PRACTICES & ISSUES IN EARLY CHILDHOOD EDUCATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Early Childhood Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39264",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "NIE3-TR310",
+                        "remark": "Teaching Wk2-5"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "NIE2-02-04",
+                        "remark": "Teaching Wk1"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "NIE3-TR317",
+                        "remark": "Teaching Wk6-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AED16B",
+        "title": "CURRICULUM & ASSESSMENT IN EARLY CHILDHOOD EDUCATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Early Childhood Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39265",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "NIE7-TR704",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AED16C",
+        "title": "LEARNING ENVIRONMENTS FOR YOUNG CHILDREN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Early Childhood Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39266",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "NIE, CDC",
+                        "remark": "Teaching Wk7-13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "TUE",
+                        "time": "1030-1320",
+                        "venue": "NIE7-TR719",
+                        "remark": "Teaching Wk1-6"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AED16D",
+        "title": "CHILD DEVELOPMENT IN EARLY CHILDHOOD EDUCATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Early Childhood Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39267",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "NIE3-TR302",
+                        "remark": "Teaching Wk1"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "NIE2-TR213",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AED16E",
+        "title": "DIVERSITY IN EARLY CHILDHOOD EDUCATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Early Childhood Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39268",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "NIE7-TR717",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

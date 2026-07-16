@@ -1,0 +1,310 @@
+[
+    {
+        "course_code": "BU5501",
+        "title": "MARKETING FOR THE 21ST CENTURY*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Design And Systems Thinking",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "5.00 pm",
+            "duration": "1 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "00971",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1630-1750",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "MON",
+                        "time": "0830-1020",
+                        "venue": "S3-SR3",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "00972",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1630-1750",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "S3-SR3",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "00973",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1630-1750",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "3",
+                        "day": "MON",
+                        "time": "1530-1720",
+                        "venue": "S3-SR3",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "00974",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1630-1750",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "4",
+                        "day": "TUE",
+                        "time": "0830-1020",
+                        "venue": "S3-SR5",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "00975",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1630-1750",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "5",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "S3-SR5",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "00976",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1630-1750",
+                        "venue": "LT25",
+                        "remark": ""
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "6",
+                        "day": "TUE",
+                        "time": "1530-1720",
+                        "venue": "S3-SR9",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "DR5003",
+        "title": "INTRODUCTION TO DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Design And Systems Thinking",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "64050",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "G01",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "LHN-TR+08",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE5083",
+        "title": "FROM PASSION TO ACTION: SIX KEY STEPS TO A START-UP!*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Design And Systems Thinking",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32082",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1330-1450",
+                        "venue": "LT26",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1530-1650",
+                        "venue": "LT26",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES3202",
+        "title": "NATURE-BASED SOLUTIONS FOR URBAN SYSTEM*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Design And Systems Thinking",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79018",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "N1.1-B2-1C",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "1530-1720",
+                        "venue": "N1.1-B2-1C",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES4304",
+        "title": "EYES ON EARTH - SATELLITE REMOTE SENSING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Design And Systems Thinking",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79025",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1330-1520",
+                        "venue": "N1.1-B2-1B",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "N1.1-B2-1B",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "79501",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1330-1520",
+                        "venue": "N1.1-B2-1B",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "N1.1-B2-1B",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "PS5886",
+        "title": "MAKING & TINKERING (LITE I)*~#",
+        "academic_units": "2.0 AU",
+        "school_category": "Minor in Design And Systems Thinking",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "70705",
+                "lessons": [
+                    {
+                        "type": "PRJ",
+                        "group": "P1",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "PAP YR1 LA",
+                        "remark": "Teaching Wk1-8"
+                    }
+                ]
+            },
+            {
+                "index_number": "70706",
+                "lessons": [
+                    {
+                        "type": "PRJ",
+                        "group": "P2",
+                        "day": "TUE",
+                        "time": "1830-2120",
+                        "venue": "PAP YR1 LA",
+                        "remark": "Teaching Wk1-8"
+                    }
+                ]
+            }
+        ]
+    }
+]

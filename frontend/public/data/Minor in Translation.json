@@ -1,0 +1,90 @@
+[
+    {
+        "course_code": "HT5101",
+        "title": "TRANSLATION: HISTORIES, THEORIES & PRINCIPLES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Translation",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17029",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "HSSSEMRM8",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HT5102",
+        "title": "LANGUAGE FOUNDATION FOR TRANSLATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Translation",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17030",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "HSSSEMRM8",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HT5301",
+        "title": "LINGUISTICS, CULTURE & TRANSLATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Translation",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17031",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "HSS-TR+5",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HT5401",
+        "title": "TRANSLATION: APPRECIATION, CRITICISM & EVALUATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Translation",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17033",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "HSS-TR+1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

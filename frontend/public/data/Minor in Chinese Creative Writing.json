@@ -1,0 +1,90 @@
+[
+    {
+        "course_code": "HF5101",
+        "title": "INTRODUCTION TO CHINESE CREATIVE WRITING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Chinese Creative Writing",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17034",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "FRI",
+                        "time": "1430-1720",
+                        "venue": "TR+96",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HF5201",
+        "title": "CREATIVE WRITING: CHINESE PROSE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Chinese Creative Writing",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17035",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1030-1320",
+                        "venue": "LHS-TR+44",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HF5301",
+        "title": "CREATIVE WRITING: CHINESE FICTION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Chinese Creative Writing",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17036",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "FRI",
+                        "time": "1030-1320",
+                        "venue": "LHS-TR+44",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HF5601",
+        "title": "CREATIVE WRITING: CHINESE CROSSMEDIA WRITING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Chinese Creative Writing",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "17037",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "SEM1",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "LHS-TR+51",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

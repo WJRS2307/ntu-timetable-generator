@@ -1,0 +1,634 @@
+[
+    {
+        "course_code": "ES1001",
+        "title": "E2S2: ENVIRONMENT & SOCIETY*~#",
+        "academic_units": "4.0 AU",
+        "school_category": "Environmental Earth Systems Science",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79013",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "LT16",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "1230-1420",
+                        "venue": "LT16",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES2001",
+        "title": "COMPUTATIONAL EARTH SYSTEMS SCIENCE*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Environmental Earth Systems Science",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79014",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LHN-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "LHN-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "LAB",
+                        "group": "LA1",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "N1.1-B2-1C",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES3003",
+        "title": "INTRODUCTION TO GEOCHEMISTRY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79016",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "N1.1-B2-1B",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "N1.1-B2-1B",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES3006",
+        "title": "SPACE GEODESY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79017",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1330-1520",
+                        "venue": "N1.1-B2-1C",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "TUE",
+                        "time": "1530-1620",
+                        "venue": "N1.1-B2-1C",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES3202",
+        "title": "NATURE-BASED SOLUTIONS FOR URBAN SYSTEM*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79018",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1430-1520",
+                        "venue": "N1.1-B2-1C",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "1530-1720",
+                        "venue": "N1.1-B2-1C",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES3203",
+        "title": "THE GENOME & SOCIETY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79032",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LHN-TR+37",
+                        "remark": "Teaching Wk13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LHN-TR+36",
+                        "remark": "Teaching Wk1-12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "LHN-TR+37",
+                        "remark": "Teaching Wk13"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "WED",
+                        "time": "1130-1220",
+                        "venue": "LHN-TR+36",
+                        "remark": "Teaching Wk1-12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES3306",
+        "title": "GLOBAL CHANGE ECOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79019",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "N1.1-B2-1B",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "MON",
+                        "time": "1130-1220",
+                        "venue": "N1.1-B2-1B",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES3307",
+        "title": "EXPERIMENTAL DESIGN & ANALYSIS FOR ECOLOGY*~",
+        "academic_units": "4.0 AU",
+        "school_category": "Environmental Earth Systems Science",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79020",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+37",
+                        "remark": "Teaching Wk13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+36",
+                        "remark": "Teaching Wk1-12"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "1130-1320",
+                        "venue": "LHN-TR+03",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES3801",
+        "title": "BIOGEOCHEMISTRY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79021",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LHN-TR+34",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "MON",
+                        "time": "1630-1720",
+                        "venue": "LHN-TR+34",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES4201",
+        "title": "ENVIRONMENTAL MANAGEMENT & VALUATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79022",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "0930-1020",
+                        "venue": "N1.1-B2-1C",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "TUE",
+                        "time": "1030-1220",
+                        "venue": "N1.1-B2-1C",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES4301",
+        "title": "CONSERVATION BIOLOGY & BIODIVERSITY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79023",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "LT4",
+                        "remark": "Teaching Wk13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "LT16",
+                        "remark": "Teaching Wk1-12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES4303",
+        "title": "MARINE & AQUATIC ECOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79024",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "N1.1-B2-1C",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES4304",
+        "title": "EYES ON EARTH - SATELLITE REMOTE SENSING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79025",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1330-1520",
+                        "venue": "N1.1-B2-1B",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "N1.1-B2-1B",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "79501",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1330-1520",
+                        "venue": "N1.1-B2-1B",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "THU",
+                        "time": "1530-1620",
+                        "venue": "N1.1-B2-1B",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES4906",
+        "title": "ENVIRONMENTAL HYDROLOGY~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79026",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "N1.1-B2-1B",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "TUE",
+                        "time": "1130-1220",
+                        "venue": "N1.1-B2-1B",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES5001",
+        "title": "NATURAL HAZARDS & SOCIETY*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "79027",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "LT19",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "79502",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "LT19",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES5003",
+        "title": "BLUE PLANET: HOW THE OCEAN WORKS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79028",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT19",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "79503",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT19",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES5005",
+        "title": "ENVIRONMENTAL EARTH SYSTEMS SCIENCE*~#",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79029",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "LT19",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "79504",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "LT19",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES5008",
+        "title": "BIODIVERSITY & NATURAL HISTORY OF SINGAPORE~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79030",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "LT7",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "79505",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "LT7",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ES5100",
+        "title": "SUSTAINABILITY CAPSTONE PROJECT~",
+        "academic_units": "3.0 AU",
+        "school_category": "Environmental Earth Systems Science",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "79031",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "LHN-TR+01",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

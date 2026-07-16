@@ -1,0 +1,112 @@
+[
+    {
+        "course_code": "CT2001",
+        "title": "DATA STRUCTURES & ALGORITHMS",
+        "academic_units": "3.0 AU",
+        "school_category": "Computing(PartTime) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14540",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "COMP1",
+                        "day": "SAT",
+                        "time": "0930-1150",
+                        "venue": "HWLAB 1",
+                        "remark": "Teaching Wk1-7"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CT2002",
+        "title": "INTRODUCTION TO COMPUTER ARCHITECTURE & NETWORKS",
+        "academic_units": "3.0 AU",
+        "school_category": "Computing(PartTime) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14541",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "COMP1",
+                        "day": "SAT",
+                        "time": "1330-1550",
+                        "venue": "HWLAB 1",
+                        "remark": "Teaching Wk1-7"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CT2003",
+        "title": "OBJECT ORIENTED DESIGN & PROGRAMMING",
+        "academic_units": "3.0 AU",
+        "school_category": "Computing(PartTime) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14542",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "COMP1",
+                        "day": "SAT",
+                        "time": "0930-1150",
+                        "venue": "SWLAB 2",
+                        "remark": "Teaching Wk8-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "CT2004",
+        "title": "SOFTWARE ENGINEERING",
+        "academic_units": "3.0 AU",
+        "school_category": "Computing(PartTime) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14543",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "COMP1",
+                        "day": "SAT",
+                        "time": "1330-1550",
+                        "venue": "SWLAB 2",
+                        "remark": "Teaching Wk8-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "HW0001",
+        "title": "INTRODUCTION TO ACADEMIC COMMUNICATION",
+        "academic_units": ".0 AU",
+        "school_category": "Computing(PartTime) Year 1",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "14560",
+                "lessons": [
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1900-2050",
+                        "venue": "ONLINE",
+                        "remark": "Teaching Wk3-13"
+                    }
+                ]
+            }
+        ]
+    }
+]

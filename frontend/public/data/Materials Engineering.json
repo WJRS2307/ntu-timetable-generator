@@ -1,0 +1,443 @@
+[
+    {
+        "course_code": "MS4610",
+        "title": "ADVANCED BIOMATERIALS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Materials Engineering",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "1 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "15361",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "LT11",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1430-1520",
+                        "venue": "TR+17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            },
+            {
+                "index_number": "15362",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "LT11",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T2",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "TR+17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MS4621",
+        "title": "SELECTED TOPICS ON APPLIED POLYMER MATERIALS*~",
+        "academic_units": "2.0 AU",
+        "school_category": "Materials Engineering",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "1 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "15351",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1330-1520",
+                        "venue": "LT9",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1430-1520",
+                        "venue": "TR+21",
+                        "remark": "Teaching Wk2,4,6,8"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MS4623",
+        "title": "POROUS MATERIALS FOR INDUSTRIAL & SUSTAINABLE TECH~",
+        "academic_units": "3.0 AU",
+        "school_category": "Materials Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "15541",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "LHN-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "LHN-LT",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MS4631",
+        "title": "CORROSION ENGINEERING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Materials Engineering",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "15381",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1530-1720",
+                        "venue": "LHN-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "TR+17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MS4640",
+        "title": "ADVANCED ANALYSIS OF MATERIALS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Materials Engineering",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "15391",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1630-1820",
+                        "venue": "LT11",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "TUE",
+                        "time": "1330-1420",
+                        "venue": "LT8",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MS4642",
+        "title": "ADDITIVE MANUFACTURING OF MATERIALS*~",
+        "academic_units": "1.0 AU",
+        "school_category": "Materials Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "15341",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1630-1820",
+                        "venue": "LHN-LT",
+                        "remark": "Teaching Wk1-7"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MS4651",
+        "title": "THIN FILM TECHNOLOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Materials Engineering",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "15411",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "LT10",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1330-1420",
+                        "venue": "TR+17",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MS4660",
+        "title": "FUNDAMENTALS OF INTELLECTUAL PROPERTY IN MATLS SCI & ENG*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Materials Engineering",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "15421",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1030-1220",
+                        "venue": "LHN-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1330-1420",
+                        "venue": "LHN-LT",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MS4666",
+        "title": "ENVIRONMENTAL DEGRADATION OF PLASTICS*~",
+        "academic_units": "1.0 AU",
+        "school_category": "Materials Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "15521",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "1130-1320",
+                        "venue": "LT11",
+                        "remark": "Teaching Wk2-6"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "THU",
+                        "time": "1030-1120",
+                        "venue": "TR+16",
+                        "remark": "Teaching Wk3-5"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MS4667",
+        "title": "INTRODUCTION TO SUSTAINABLE MATERIALS*~",
+        "academic_units": "2.0 AU",
+        "school_category": "Materials Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "15531",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "WED",
+                        "time": "1530-1720",
+                        "venue": "LT10",
+                        "remark": "Teaching Wk1-7"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "MON",
+                        "time": "1430-1620",
+                        "venue": "LT11",
+                        "remark": "Teaching Wk1-7"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MS4672",
+        "title": "MACHINE LEARNING FOR MATERIALS DESIGN~",
+        "academic_units": "2.0 AU",
+        "school_category": "Materials Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "15571",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0830-0920",
+                        "venue": "E-STUDIO",
+                        "remark": "Teaching Wk1-8"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "E-STUDIO",
+                        "remark": "Teaching Wk1-8"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MS4681",
+        "title": "CARBON MARKETS: TOWARDS A LOW-CARBON FUTURE*~",
+        "academic_units": "2.0 AU",
+        "school_category": "Materials Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "15551",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1230-1520",
+                        "venue": "LT12",
+                        "remark": "Teaching Wk8-10"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1530-1820",
+                        "venue": "LT12",
+                        "remark": "Teaching Wk1,3,5,6,8-10"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1530-1820",
+                        "venue": "E-STUDIO",
+                        "remark": "Teaching Wk2,4,7,8"
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "T1",
+                        "day": "FRI",
+                        "time": "1530-1820",
+                        "venue": "E-SPACE",
+                        "remark": "Teaching Wk2,4,7,8"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "MS4682",
+        "title": "MATERIALS FOR HYDROGEN FUEL*~",
+        "academic_units": "1.0 AU",
+        "school_category": "Materials Engineering",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "15561",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "1030-1220",
+                        "venue": "LT12",
+                        "remark": "Teaching Wk1-9"
+                    }
+                ]
+            }
+        ]
+    }
+]

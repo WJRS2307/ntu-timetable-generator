@@ -1,0 +1,81 @@
+[
+    {
+        "course_code": "ADP16A",
+        "title": "INTRODUCTION TO THEATRE  & PERFORMANCE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Drama And Performance",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39618",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LG1",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "3A-B2-03",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "39619",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LG2",
+                        "day": "WED",
+                        "time": "1430-1720",
+                        "venue": "3A-B2-03",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ADP26L",
+        "title": "DEVISING THEATRE: METHODS & PRACTICES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Drama And Performance",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39621",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "1230-1520",
+                        "venue": "3A-B1-03",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "ADP26M",
+        "title": "APPLIED THEATRE: THEORY, PRACTICE & PEDAGOGY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Drama And Performance",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39620",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "3A-B2-03",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

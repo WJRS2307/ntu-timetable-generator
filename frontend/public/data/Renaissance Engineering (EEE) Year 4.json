@@ -1,0 +1,1104 @@
+[
+    {
+        "course_code": "BG3104",
+        "title": "BIOMEDICAL IMAGING",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 4",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "55027",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "1530-1720",
+                        "venue": "CBE-LT",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "B31",
+                        "day": "WED",
+                        "time": "1230-1320",
+                        "venue": "CBE-LT",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4227",
+        "title": "CONTROL ENGINEERING DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32501",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F41",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "S2-B5A_01",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32502",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F42",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S2-B5A_01",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32503",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F43",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S2-B5A-01",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32504",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F44",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "S2-B5A-01",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4268",
+        "title": "ROBOTICS & AUTOMATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 4",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32507",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F41",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "LT28",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4323",
+        "title": "MIXED-SIGNAL IC DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 4",
+        "exam": {
+            "date": "3 December 2026",
+            "day": "Thursday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32511",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F61",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S2-B3B-08",
+                        "remark": "Teaching Wk7-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F61",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LT25",
+                        "remark": "Teaching Wk1-6"
+                    }
+                ]
+            },
+            {
+                "index_number": "32512",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F62",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LT25",
+                        "remark": "Teaching Wk1-6"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F62",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "S2-B3B_08",
+                        "remark": "Teaching Wk7-13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4341",
+        "title": "ADVANCED ANALOG CIRCUITS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 4",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32513",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "LT29",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4523",
+        "title": "POWER ENGINEERING DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 4",
+        "exam": {
+            "date": "27 November 2026",
+            "day": "Friday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32521",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F11",
+                        "day": "FRI",
+                        "time": "0930-1020",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk1-7"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F11",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk8-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F11",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "LHS-LT",
+                        "remark": "Teaching Wk1-7"
+                    }
+                ]
+            },
+            {
+                "index_number": "32522",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F12",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk8-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F12",
+                        "day": "FRI",
+                        "time": "1130-1220",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk1-7"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F12",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "LHS-LT",
+                        "remark": "Teaching Wk1-7"
+                    }
+                ]
+            },
+            {
+                "index_number": "32523",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F13",
+                        "day": "FRI",
+                        "time": "1030-1120",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk1-7"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F13",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "S2-B5C-02",
+                        "remark": "Teaching Wk8-13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F13",
+                        "day": "MON",
+                        "time": "1730-1920",
+                        "venue": "LHS-LT",
+                        "remark": "Teaching Wk1-7"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4530",
+        "title": "POWER SYSTEM ANALYSIS & CONTROL*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 4",
+        "exam": {
+            "date": "28 November 2026",
+            "day": "Saturday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32526",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LT28",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4532",
+        "title": "POWER ELECTRONICS & DRIVES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 4",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32527",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "LT23",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4623",
+        "title": "CMOS PROCESS & DEVICE SIMULATION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32531",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F61",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "S2-B5A-01",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32532",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F62",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S2-B5A-01",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "32533",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F63",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "S2-B5A-01",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4647",
+        "title": "MICROELECTRONIC DEVICES*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 4",
+        "exam": {
+            "date": "25 November 2026",
+            "day": "Wednesday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32534",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F61",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "LT28",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE4903",
+        "title": "PHYSIOLOGICAL SYSTEMS ANALYSIS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 4",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "1.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32508",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "LT25",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE6108",
+        "title": "COMPUTER NETWORKS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32571",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "A",
+                        "day": "MON",
+                        "time": "1830-2120",
+                        "venue": "LKC-LT",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE6225",
+        "title": "MULTIVARIABLE CONTROL SYSTEMS ANALYSIS & DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32572",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "A",
+                        "day": "THU",
+                        "time": "1830-2120",
+                        "venue": "\"LT29\"",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE6301",
+        "title": "SMART BIOSENSORS & SYSTEMS FOR HEALTHCARE*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32573",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "A",
+                        "day": "WED",
+                        "time": "1830-2120",
+                        "venue": "\"LT1A\"",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE6311",
+        "title": "INTEGRATED NANOPHOTONIC DEVICES",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32574",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "A",
+                        "day": "WED",
+                        "time": "1830-2120",
+                        "venue": "\"LT29\"",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE6405",
+        "title": "NATURAL LANGUAGE PROCESSING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32575",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "A",
+                        "day": "FRI",
+                        "time": "1900-2150",
+                        "venue": "EMB",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "EE6610",
+        "title": "INTEGRATED CIRCUIT (IC) PACKAGING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32576",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "A",
+                        "day": "TUE",
+                        "time": "1830-2120",
+                        "venue": "\"LHS-LT\"",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4120",
+        "title": "OPTICAL COMMUNICATION SYSTEM DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32541",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk1-8,11"
+                    },
+                    {
+                        "type": "DES",
+                        "group": "F51",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9,10,12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32542",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk1-8,11"
+                    },
+                    {
+                        "type": "DES",
+                        "group": "F52",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9,10,12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32543",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk1-8,11"
+                    },
+                    {
+                        "type": "DES",
+                        "group": "F53",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9,10,12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32544",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk1-8,11"
+                    },
+                    {
+                        "type": "DES",
+                        "group": "F54",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9,10,12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32545",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk1-8,11"
+                    },
+                    {
+                        "type": "DES",
+                        "group": "F55",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9,10,12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32546",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "LT26",
+                        "remark": "Teaching Wk1-8,11"
+                    },
+                    {
+                        "type": "DES",
+                        "group": "F56",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S2-B4C-17",
+                        "remark": "Teaching Wk9,10,12,13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4154",
+        "title": "DIGITAL & TELECOMMUNICATIONS SYSTEMS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 4",
+        "exam": {
+            "date": "28 November 2026",
+            "day": "Saturday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32548",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LHS-LT",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4422",
+        "title": "MULTIMODAL LARGE LANGUAGE MODELS - THEORY & APPLICATIONS~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32514",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "LHN-TR+36",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4476",
+        "title": "IMAGE PROCESSING & COMPUTER VISION*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 4",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32549",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "LT28",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4483",
+        "title": "ARTIFICIAL INTELLIGENCE & DATA MINING*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 4",
+        "exam": {
+            "date": "30 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32550",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "LT1A",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4727",
+        "title": "WEB APPLICATION DESIGN*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "32551",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F31",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk12,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F31",
+                        "day": "MON",
+                        "time": "0930-1120",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32552",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F32",
+                        "day": "MON",
+                        "time": "1330-1620",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk12,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F32",
+                        "day": "MON",
+                        "time": "1330-1520",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32553",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F33",
+                        "day": "TUE",
+                        "time": "0930-1120",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F33",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32554",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F34",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A-06",
+                        "remark": "Teaching Wk12,13"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F34",
+                        "day": "FRI",
+                        "time": "0930-1120",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    }
+                ]
+            },
+            {
+                "index_number": "32555",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F35",
+                        "day": "WED",
+                        "time": "0930-1120",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F35",
+                        "day": "WED",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32556",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F36",
+                        "day": "WED",
+                        "time": "1330-1520",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F36",
+                        "day": "WED",
+                        "time": "1330-1620",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32557",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F37",
+                        "day": "THU",
+                        "time": "0930-1120",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F37",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk12,13"
+                    }
+                ]
+            },
+            {
+                "index_number": "32559",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F38",
+                        "day": "THU",
+                        "time": "1330-1520",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk1-11"
+                    },
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "F38",
+                        "day": "THU",
+                        "time": "1330-1620",
+                        "venue": "S2-B3A_06",
+                        "remark": "Teaching Wk12,13"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "IE4758",
+        "title": "INFORMATION SECURITY*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 4",
+        "exam": {
+            "date": "26 November 2026",
+            "day": "Thursday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "32558",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "EELE",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "LT23",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "RE1401",
+        "title": "FINANCIAL MANAGEMENT",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "80411",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "S",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "RPR SR1",
+                        "remark": "Teaching Wk1,13"
+                    },
+                    {
+                        "type": "SEM",
+                        "group": "S",
+                        "day": "MON",
+                        "time": "1430-1720",
+                        "venue": "RPR SR1",
+                        "remark": "Teaching Wk2-12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "SC4002",
+        "title": "NATURAL LANGUAGE PROCESSING~",
+        "academic_units": "3.0 AU",
+        "school_category": "Renaissance Engineering (EEE) Year 4",
+        "exam": {
+            "date": "24 November 2026",
+            "day": "Tuesday",
+            "time": "5.00 pm",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "10521",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "SCL4",
+                        "day": "WED",
+                        "time": "0830-1020",
+                        "venue": "LT2A",
+                        "remark": ""
+                    },
+                    {
+                        "type": "TUT",
+                        "group": "SCEL",
+                        "day": "WED",
+                        "time": "1030-1120",
+                        "venue": "LT2A",
+                        "remark": "Teaching Wk2-13"
+                    }
+                ]
+            }
+        ]
+    }
+]

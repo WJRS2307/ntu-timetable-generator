@@ -1,0 +1,144 @@
+[
+    {
+        "course_code": "BF2209",
+        "title": "DERIVATIVE SECURITIES*",
+        "academic_units": "4.0 AU",
+        "school_category": "Accountancy And Business (AWM) Year 4",
+        "exam": {
+            "date": "28 November 2026",
+            "day": "Saturday",
+            "time": "1.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "00187",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "FRI",
+                        "time": "1330-1620",
+                        "venue": "S3-SR10",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BF2213",
+        "title": "INTRODUCTION TO COMPLIANCE*",
+        "academic_units": "4.0 AU",
+        "school_category": "Accountancy And Business (AWM) Year 4",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00199",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "FRI",
+                        "time": "0930-1220",
+                        "venue": "ABS-SR12",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00200",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "SAT",
+                        "time": "0930-1220",
+                        "venue": "ABS-SR12",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BF3201",
+        "title": "CORPORATE FINANCE & STRATEGY*",
+        "academic_units": "4.0 AU",
+        "school_category": "Accountancy And Business (AWM) Year 4",
+        "exam": {
+            "date": "2 December 2026",
+            "day": "Wednesday",
+            "time": "9.00 am",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "00238",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "0830-1120",
+                        "venue": "S3-SR4",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00239",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "TUE",
+                        "time": "1330-1620",
+                        "venue": "S3-SR4",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BF3204",
+        "title": "FINANCIAL MODELLING*",
+        "academic_units": "4.0 AU",
+        "school_category": "Accountancy And Business (AWM) Year 4",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "9.00 am",
+            "duration": "2 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "00274",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "ITL-SA1",
+                        "remark": ""
+                    }
+                ]
+            },
+            {
+                "index_number": "00275",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "2",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "ITL-SA1",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

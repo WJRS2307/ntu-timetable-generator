@@ -1,0 +1,78 @@
+[
+    {
+        "course_code": "BR2207",
+        "title": "QUANTITATIVE ANALYSIS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Risk Analytics",
+        "exam": {
+            "date": "1 December 2026",
+            "day": "Tuesday",
+            "time": "1.00 pm",
+            "duration": "3 hr"
+        },
+        "indexes": [
+            {
+                "index_number": "00314",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "1730-2020",
+                        "venue": "FTR3",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BR2208",
+        "title": "FOUNDATION OF RISK MANAGEMENT*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Risk Analytics",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "00319",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "THU",
+                        "time": "1430-1720",
+                        "venue": "ABS-SR12",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "BR3213",
+        "title": "VALUATION & RISK MODELS*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Risk Analytics",
+        "exam": {
+            "date": "23 November 2026",
+            "day": "Monday",
+            "time": "5.00 pm",
+            "duration": "2 hr 30 min"
+        },
+        "indexes": [
+            {
+                "index_number": "00334",
+                "lessons": [
+                    {
+                        "type": "SEM",
+                        "group": "1",
+                        "day": "TUE",
+                        "time": "1430-1720",
+                        "venue": "ABS-SR6",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "course_code": "AGE18N",
+        "title": "INTEGRATED STEM CURRICULUM*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Stem Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39414",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "TUE",
+                        "time": "0930-1220",
+                        "venue": "NIE7-02-01",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AGE18Q",
+        "title": "GENDER ISSUES IN SCIENCE, TECHNOLOGY, ENGINEERING & MATH*~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Stem Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39416",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "MON",
+                        "time": "0930-1220",
+                        "venue": "NIE TR710",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_code": "AGE18T",
+        "title": "RESEARCH PERSPECTIVES IN STEM EDUCATION~",
+        "academic_units": "3.0 AU",
+        "school_category": "Minor in Stem Education",
+        "exam": null,
+        "indexes": [
+            {
+                "index_number": "39415",
+                "lessons": [
+                    {
+                        "type": "LEC/STUDIO",
+                        "group": "LE",
+                        "day": "THU",
+                        "time": "0930-1220",
+                        "venue": "NIE TR715",
+                        "remark": ""
+                    }
+                ]
+            }
+        ]
+    }
+]
