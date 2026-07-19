@@ -13,8 +13,29 @@ function TimetableGrid({ populatedTimetable, courseData, selectedIndexes, handle
   if (hasSat) activeDays.push('Sat');
   const days = activeDays;
 
+  let maxHour = 20;
+  
+  const checkLessonTime = (lesson) => {
+    if (lesson.time && lesson.time.includes('-')) {
+      const endStr = lesson.time.split('-')[1];
+      const endH = Math.ceil(parseInt(endStr) / 100);
+      if (endH > maxHour) maxHour = endH;
+    }
+  };
+
+  populatedTimetable?.forEach(course => {
+    course.selectedIndexData.lessons.forEach(checkLessonTime);
+  });
+
+  if (previewCourseCode && courseData) {
+    const pCourse = courseData.find(c => c.course_code === previewCourseCode);
+    if (pCourse) {
+      pCourse.indexes.forEach(idx => idx.lessons.forEach(checkLessonTime));
+    }
+  }
+
   const hours = [];
-  for (let h = 8; h <= 23; h++) {
+  for (let h = 8; h <= maxHour; h++) {
     hours.push(`${h.toString().padStart(2, '0')}:00`);
   }
 
