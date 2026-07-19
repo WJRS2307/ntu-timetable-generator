@@ -116,11 +116,27 @@ body {
   box-sizing: border-box;
   margin: 0 auto;
   display: grid;
-  grid-template-columns: 1fr 650px;
+  grid-template-columns: 1fr 400px;
   gap: 2rem;
   align-items: stretch;
   height: 100vh;
   overflow: hidden;
+}
+
+@media (max-width: 1024px) {
+  .planner-layout {
+    grid-template-columns: 1fr;
+    height: auto;
+    overflow: visible;
+  }
+  .planner-left-col {
+    min-height: 800px;
+  }
+  .planner-right-col {
+    height: auto;
+    overflow: visible;
+    padding-right: 0;
+  }
 }
 
 .planner-left-col {
@@ -147,7 +163,8 @@ body {
   background: var(--calendar-bg);
   border: 1px solid var(--header-border);
   border-radius: 8px;
-  overflow: hidden;
+  overflow-x: auto;
+  overflow-y: hidden;
   display: flex;
   flex-direction: column;
   flex: 1;
