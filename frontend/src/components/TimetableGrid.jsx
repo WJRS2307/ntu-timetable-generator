@@ -13,7 +13,7 @@ function TimetableGrid({ populatedTimetable, courseData, selectedIndexes, handle
   if (hasSat) activeDays.push('Sat');
   const days = activeDays;
 
-  let maxHour = 20;
+  let maxHour = 22;
   
   const checkLessonTime = (lesson) => {
     if (lesson.time && lesson.time.includes('-')) {
@@ -220,7 +220,7 @@ function TimetableGrid({ populatedTimetable, courseData, selectedIndexes, handle
       <div className="calendar-body" style={gridStyle}>
 
         <div className="calendar-time-col">
-          {hours.slice(0, -1).map((hour) => (
+          {hours.map((hour) => (
             <div key={hour} style={{ height: '60px', position: 'relative' }}>
               <span className="time-label">{hour}</span>
             </div>
@@ -231,7 +231,7 @@ function TimetableGrid({ populatedTimetable, courseData, selectedIndexes, handle
           return (
             <div key={day} className="calendar-day-col">
 
-              {hours.slice(0, -1).map((hour, i) => (
+              {hours.map((hour, i) => (
                 <React.Fragment key={`lines-${i}`}>
                   <div className="grid-line-hour" style={{ top: `${i * 60}px` }} />
                   <div className="grid-line-half" style={{ top: `${(i * 60) + 30}px` }} />

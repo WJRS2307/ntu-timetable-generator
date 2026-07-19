@@ -40,7 +40,7 @@ body {
   -webkit-font-smoothing: antialiased;
   min-height: 100vh;
   position: relative;
-  overflow-x: hidden;
+  overflow: auto;
   transition: background-color 0.2s, color 0.2s;
 }
 
@@ -116,18 +116,19 @@ body {
   box-sizing: border-box;
   margin: 0 auto;
   display: grid;
-  grid-template-columns: 1fr 400px;
+  grid-template-columns: 1fr 480px;
   gap: 2rem;
   align-items: stretch;
   height: 100vh;
-  overflow: hidden;
+  min-height: 850px;
+  min-width: 1200px;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1200px) {
   .planner-layout {
     grid-template-columns: 1fr;
     height: auto;
-    overflow: visible;
+    min-width: 0;
   }
   .planner-left-col {
     min-height: 800px;
@@ -164,10 +165,11 @@ body {
   border: 1px solid var(--header-border);
   border-radius: 8px;
   overflow-x: auto;
-  overflow-y: hidden;
+  overflow-y: auto;
   display: flex;
   flex-direction: column;
-  flex: 1;
+  flex: 0 1 auto;
+  min-height: 0;
 }
 
 .calendar-header-row {
@@ -194,7 +196,6 @@ body {
   grid-template-columns: 60px repeat(7, 1fr);
   position: relative;
   background: var(--calendar-body-bg);
-  flex: 1;
 }
 
 .calendar-time-col {
